@@ -1,4 +1,4 @@
-# English Translation Trainer
+# English Studio
 
 A simple personal web app for practicing English-to-Chinese (and back) translation using your own stories/text. Everything is stored locally in your browser via `localStorage` — there is no backend, no login, and no database.
 
