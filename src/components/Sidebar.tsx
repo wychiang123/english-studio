@@ -7,7 +7,7 @@ interface SidebarProps {
   onSelectLibrary: (id: string) => void;
   onSelectStory: (id: string) => void;
   onAddLibraryClick: () => void;
-  onImportStoryClick: () => void;
+  onImportLessonClick: () => void;
   onDeleteStory: (storyId: string) => void;
 }
 
@@ -18,7 +18,7 @@ export function Sidebar({
   onSelectLibrary,
   onSelectStory,
   onAddLibraryClick,
-  onImportStoryClick,
+  onImportLessonClick,
   onDeleteStory,
 }: SidebarProps) {
   const selectedLibrary =
@@ -62,12 +62,8 @@ export function Sidebar({
       <div className="sidebar-section">
         <div className="sidebar-section-header">
           <h2 className="sidebar-heading">Stories</h2>
-          <button
-            className="add-btn"
-            onClick={onImportStoryClick}
-            disabled={!selectedLibrary}
-          >
-            + Import Story
+          <button className="add-btn" onClick={onImportLessonClick}>
+            + Import Lesson
           </button>
         </div>
 

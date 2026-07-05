@@ -26,7 +26,7 @@ export function SentenceCard({ sentence, index, onUpdate }: SentenceCardProps) {
         <span className="sentence-number">#{index + 1}</span>
       </div>
 
-      <div className="field-row">
+      <div className="field-row field-tint-english">
         <div className="field-label-row">
           <span className="field-label">English Original</span>
           <div className="field-label-actions">
@@ -46,7 +46,7 @@ export function SentenceCard({ sentence, index, onUpdate }: SentenceCardProps) {
         )}
       </div>
 
-      <div className="field-row">
+      <div className="field-row field-tint-input">
         <label className="field-label">My Chinese Translation</label>
         <textarea
           value={sentence.userChineseInput}
@@ -58,7 +58,7 @@ export function SentenceCard({ sentence, index, onUpdate }: SentenceCardProps) {
         />
       </div>
 
-      <div className="field-row">
+      <div className="field-row field-tint-ai">
         <div className="field-label-row">
           <span className="field-label">AI Chinese Translation</span>
           <button
@@ -77,7 +77,7 @@ export function SentenceCard({ sentence, index, onUpdate }: SentenceCardProps) {
         )}
       </div>
 
-      <div className="field-row">
+      <div className="field-row field-tint-input">
         <label className="field-label">My English Reconstruction</label>
         <textarea
           value={sentence.userEnglishInput}
@@ -115,7 +115,7 @@ export function SentenceCard({ sentence, index, onUpdate }: SentenceCardProps) {
         )}
       </div>
 
-      <div className="field-row">
+      <div className="field-row field-tint-input">
         <label className="field-label">My Notes</label>
         <textarea
           value={sentence.userNote}

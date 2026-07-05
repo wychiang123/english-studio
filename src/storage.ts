@@ -1,75 +1,17 @@
 import { createId } from "./id";
-import type { Library, LearningNote, Sentence, Story } from "./types";
+import { asString, isObject, normalizeSentence } from "./normalize";
+import type { Library, Story } from "./types";
 
 const STORAGE_KEY = "ett_libraries";
 const OLD_STORAGE_KEY = "ett_stories";
 const DEFAULT_LIBRARY_NAME = "My Library";
-
-type Unknown = Record<string, unknown>;
-
-function isObject(value: unknown): value is Unknown {
-  return typeof value === "object" && value !== null;
-}
-
-function asString(value: unknown, fallback = ""): string {
-  return typeof value === "string" ? value : fallback;
-}
-
-function asBoolean(value: unknown, fallback = false): boolean {
-  return typeof value === "boolean" ? value : fallback;
-}
-
-function normalizeLearningNote(raw: unknown): LearningNote | null {
-  if (!isObject(raw)) return null;
-  const examples = Array.isArray(raw.examples)
-    ? raw.examples.filter((e): e is string => typeof e === "string")
-    : [];
-  return {
-    id: asString(raw.id) || createId(),
-    title: asString(raw.title),
-    explanation: asString(raw.explanation),
-    examples,
-  };
-}
-
-function normalizeLearningNotes(raw: unknown): LearningNote[] {
-  if (!Array.isArray(raw)) return [];
-  return raw
-    .map(normalizeLearningNote)
-    .filter((n): n is LearningNote => n !== null);
-}
-
-function normalizeSentence(raw: unknown): Sentence | null {
-  if (!isObject(raw)) return null;
-  const aiEnglishSuggestion =
-    typeof raw.aiEnglishSuggestion === "string"
-      ? raw.aiEnglishSuggestion
-      : undefined;
-  return {
-    id: asString(raw.id) || createId(),
-    englishOriginal: asString(raw.englishOriginal),
-    chineseTranslation: asString(raw.chineseTranslation),
-    userChineseInput: asString(raw.userChineseInput),
-    userEnglishInput: asString(raw.userEnglishInput),
-    aiEnglishSuggestion,
-    userNote: asString(raw.userNote),
-    vocabularyNotes: normalizeLearningNotes(raw.vocabularyNotes),
-    phraseNotes: normalizeLearningNotes(raw.phraseNotes),
-    grammarNotes: normalizeLearningNotes(raw.grammarNotes),
-    nativeExpressionNotes: normalizeLearningNotes(raw.nativeExpressionNotes),
-    showEnglish: asBoolean(raw.showEnglish),
-    showChineseTranslation: asBoolean(raw.showChineseTranslation),
-    showAiEnglishSuggestion: asBoolean(raw.showAiEnglishSuggestion),
-    completed: asBoolean(raw.completed),
-  };
-}
 
 function normalizeStory(raw: unknown): Story | null {
   if (!isObject(raw)) return null;
   const sentences = Array.isArray(raw.sentences)
     ? raw.sentences
         .map(normalizeSentence)
-        .filter((s): s is Sentence => s !== null)
+        .filter((s): s is NonNullable<typeof s> => s !== null)
     : [];
   const source = typeof raw.source === "string" ? raw.source : undefined;
   return {

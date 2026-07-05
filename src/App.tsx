@@ -2,11 +2,10 @@ import { useEffect, useState } from "react";
 import "./App.css";
 import { Sidebar } from "./components/Sidebar";
 import { AddLibraryForm } from "./components/AddLibraryForm";
-import { ImportStoryForm } from "./components/ImportStoryForm";
+import { ImportLessonForm } from "./components/ImportLessonForm";
 import { StoryView } from "./components/StoryView";
 import { loadLibraries, saveLibraries } from "./storage";
 import { createLibrary } from "./factories";
-import { importStory } from "./import/importStory";
 import type { Library, Sentence, Story } from "./types";
 
 function App() {
@@ -18,7 +17,7 @@ function App() {
   );
   const [selectedStoryId, setSelectedStoryId] = useState<string | null>(null);
   const [showAddLibraryForm, setShowAddLibraryForm] = useState(false);
-  const [showImportStoryForm, setShowImportStoryForm] = useState(false);
+  const [showImportLessonForm, setShowImportLessonForm] = useState(false);
 
   useEffect(() => {
     saveLibraries(libraries);
@@ -37,18 +36,30 @@ function App() {
     setSelectedStoryId(null);
   }
 
-  async function handleImportStory(transcript: string) {
-    if (!selectedLibraryId) return;
-    const story = await importStory(transcript);
-    setLibraries((prev) =>
-      prev.map((library) =>
-        library.id === selectedLibraryId
-          ? { ...library, stories: [...library.stories, story] }
-          : library,
-      ),
-    );
+  function handleImportLesson(story: Story) {
+    const libraryName = story.source?.trim() || "Imported";
+    const existingLibrary = libraries.find((lib) => lib.name === libraryName);
+
+    if (existingLibrary) {
+      setLibraries((prev) =>
+        prev.map((library) =>
+          library.id === existingLibrary.id
+            ? { ...library, stories: [...library.stories, story] }
+            : library,
+        ),
+      );
+      setSelectedLibraryId(existingLibrary.id);
+    } else {
+      const newLibrary: Library = {
+        ...createLibrary(libraryName),
+        stories: [story],
+      };
+      setLibraries((prev) => [...prev, newLibrary]);
+      setSelectedLibraryId(newLibrary.id);
+    }
+
     setSelectedStoryId(story.id);
-    setShowImportStoryForm(false);
+    setShowImportLessonForm(false);
   }
 
   function handleDeleteStory(storyId: string) {
@@ -128,7 +139,7 @@ function App() {
         onSelectLibrary={handleSelectLibrary}
         onSelectStory={setSelectedStoryId}
         onAddLibraryClick={() => setShowAddLibraryForm(true)}
-        onImportStoryClick={() => setShowImportStoryForm(true)}
+        onImportLessonClick={() => setShowImportLessonForm(true)}
         onDeleteStory={handleDeleteStory}
       />
 
@@ -158,10 +169,10 @@ function App() {
         />
       )}
 
-      {showImportStoryForm && (
-        <ImportStoryForm
-          onSubmit={handleImportStory}
-          onCancel={() => setShowImportStoryForm(false)}
+      {showImportLessonForm && (
+        <ImportLessonForm
+          onImport={handleImportLesson}
+          onCancel={() => setShowImportLessonForm(false)}
         />
       )}
     </div>
