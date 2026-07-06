@@ -47,7 +47,18 @@ export function SentenceCard({ sentence, index, onUpdate }: SentenceCardProps) {
       </div>
 
       <div className="field-row field-tint-input">
-        <label className="field-label">My Chinese Translation</label>
+        <div className="field-label-row">
+          <label className="field-label">My Chinese Translation</label>
+          {sentence.userChineseInput && (
+            <button
+              type="button"
+              className="clear-btn"
+              onClick={() => onUpdate(sentence.id, { userChineseInput: "" })}
+            >
+              🗑 Clear
+            </button>
+          )}
+        </div>
         <textarea
           value={sentence.userChineseInput}
           onChange={(e) =>
@@ -78,7 +89,18 @@ export function SentenceCard({ sentence, index, onUpdate }: SentenceCardProps) {
       </div>
 
       <div className="field-row field-tint-input">
-        <label className="field-label">My English Reconstruction</label>
+        <div className="field-label-row">
+          <label className="field-label">My English Reconstruction</label>
+          {sentence.userEnglishInput && (
+            <button
+              type="button"
+              className="clear-btn"
+              onClick={() => onUpdate(sentence.id, { userEnglishInput: "" })}
+            >
+              🗑 Clear
+            </button>
+          )}
+        </div>
         <textarea
           value={sentence.userEnglishInput}
           onChange={(e) =>

@@ -125,6 +125,8 @@ The Lesson JSON format intentionally does **not** include any of English Studio'
 
 These fields belong to English Studio's internal `Sentence` type only. English Studio adds them automatically during import, with default values (empty strings for text inputs, `false` for booleans/flags). This keeps the Lesson JSON format focused purely on lesson *content*, while all user *practice state* lives only inside English Studio's local data.
 
+Internally, English Studio models this same split as `SentenceContent` (lesson) and `SentenceProgress` (practice state), merged at runtime — see [`docs/progress-sync-v1.md`](./progress-sync-v1.md) for the architecture and how it prepares for a future progress-sync feature.
+
 ## 7. Import behavior
 
 When English Studio imports a Lesson JSON file, it should:

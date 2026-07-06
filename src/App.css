@@ -293,6 +293,22 @@
   border-color: var(--accent);
 }
 
+.clear-btn {
+  font-size: 12px;
+  padding: 3px 10px;
+  border: 1px solid var(--border);
+  background: var(--bg-alt);
+  border-radius: 12px;
+  color: var(--text);
+  opacity: 0.75;
+}
+
+.clear-btn:hover {
+  border-color: var(--danger);
+  color: var(--danger);
+  opacity: 1;
+}
+
 .speak-btn {
   flex-shrink: 0;
   font-size: 13px;
