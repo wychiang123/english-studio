@@ -31,6 +31,13 @@
   gap: 8px;
 }
 
+.sidebar-header-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 6px;
+}
+
 .sidebar-heading {
   margin: 0;
   font-size: 13px;
@@ -514,6 +521,60 @@ textarea:focus {
 .add-story-form textarea:focus {
   outline: none;
   border-color: var(--accent);
+}
+
+.browse-lessons-form {
+  gap: 20px;
+}
+
+.browse-lessons-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.browse-lessons-group-title {
+  margin: 0;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  opacity: 0.6;
+}
+
+.browse-lessons-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.browse-lessons-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 10px;
+  background: var(--bg-alt);
+  border-radius: 6px;
+}
+
+.browse-lessons-title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.browse-lessons-status {
+  flex-shrink: 0;
+  font-size: 12px;
+  opacity: 0.7;
+}
+
+.browse-lessons-error {
+  color: var(--danger);
+  opacity: 1;
 }
 
 .import-error {

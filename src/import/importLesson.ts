@@ -7,13 +7,26 @@ export type ImportLessonResult =
   | { ok: true; story: Story }
   | { ok: false; error: string };
 
+export interface ImportLessonOptions {
+  /**
+   * Root-relative path of the `lessons/` file this document came from, if
+   * any (e.g. `/lessons/BBC/Some Title.eslesson.json`). Stamped onto the
+   * resulting Story so repeated imports of the same repo lesson can be
+   * detected; left undefined for manual file-picker imports.
+   */
+  sourcePath?: string;
+}
+
 /**
  * Validates a parsed Lesson JSON document and converts it into an internal
  * Story, per docs/lesson-format-v1.md Section 7 (Import behavior). Sentences
  * are ordered by their `order` field; user-practice fields are initialized
  * to their defaults since the Lesson JSON never carries them.
  */
-export function importLessonJson(raw: unknown): ImportLessonResult {
+export function importLessonJson(
+  raw: unknown,
+  options?: ImportLessonOptions,
+): ImportLessonResult {
   const error = validateLessonJson(raw);
   if (error) return { ok: false, error };
 
@@ -37,6 +50,7 @@ export function importLessonJson(raw: unknown): ImportLessonResult {
       id: createId(),
       title: (lesson.title as string).trim(),
       source: lesson.source as string,
+      sourcePath: options?.sourcePath,
       sentences,
     },
   };

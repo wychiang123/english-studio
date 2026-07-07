@@ -6,6 +6,7 @@ A simple personal web app for practicing English-to-Chinese (and back) translati
 
 - Organize stories into libraries. Add a library, then import a lesson into it.
 - Import a lesson by choosing an **ES Lesson JSON** file — a pre-generated file produced by ChatGPT following [`docs/lesson-format-v1.md`](./docs/lesson-format-v1.md). English Studio does not call any AI API and does not process raw transcripts itself; it only reads, validates, and displays a finished Lesson JSON file.
+- **Browse Lessons** lists every `.eslesson.json` file already committed under [`lessons/`](./lessons), grouped by source folder, so you can import one with a single click instead of using the file picker. Lessons already imported into a library show as "Imported" instead of an Import button, and "Import All New" imports everything not yet in your libraries in one go. See [Lesson File Naming Convention](./docs/lesson-generation-specification-v1.md#lesson-file-naming-convention) for where lesson files belong (`lessons/<Source>/<Title>.eslesson.json`) and the rule that committed lesson files are immutable.
 - Each sentence card lets you:
   - Show/hide the English original, with a speak button (browser TTS)
   - Write your own Chinese translation attempt
@@ -67,6 +68,6 @@ npm run preview
 
 ## Usage notes
 
-- Data is stored per-browser using `localStorage`, split across two keys: `ett_libraries` (lesson content — imported stories, notes) and `ett_progress` (your practice progress — translations, notes, completion state). Clearing your browser's site data (or using a different browser/device) will not carry over your libraries/progress.
+- Data is stored per-browser using `localStorage`, split across two keys: `ett_libraries` (lesson content — imported stories, notes) and `ett_progress` (your practice progress — translations, notes, completion state). Clearing your browser's site data (or using a different browser/device) will not carry over your libraries/progress. This is the *only* place user progress is ever written — it is never written back into a lesson file, whether under `lessons/` or anywhere else.
 - Lesson JSON files are generated externally (e.g. in a ChatGPT session) and then imported as-is; English Studio never edits or regenerates lesson content itself, only the user-practice fields layered on top of it.
 - Lesson content and user progress are kept as independent, mergeable data internally, in preparation for a future feature to sync progress across devices (e.g. via GitHub). See [`docs/progress-sync-v1.md`](./docs/progress-sync-v1.md) for the architecture and what such a sync feature would need — no sync, GitHub API, or authentication exists yet.

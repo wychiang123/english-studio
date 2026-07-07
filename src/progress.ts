@@ -73,6 +73,7 @@ export function mergeStory(
     id: content.id,
     title: content.title,
     source: content.source,
+    sourcePath: content.sourcePath,
     sentences: content.sentences.map((sentence) =>
       mergeSentence(sentence, progress?.sentences[sentence.id]),
     ),
@@ -96,6 +97,7 @@ export function splitStory(story: Story): {
       id: story.id,
       title: story.title,
       source: story.source,
+      sourcePath: story.sourcePath,
       sentences: sentenceContents,
     },
     progress: { sentences: sentenceProgress },

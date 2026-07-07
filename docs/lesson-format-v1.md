@@ -16,6 +16,7 @@ English Studio's content pipeline is split into two separate roles:
 - English Studio imports **only** a structured Lesson JSON file — it does not do transcript cleaning, sentence splitting, or translation itself in v1.
 - English Studio should never require the user to manually copy/paste a translation sentence-by-sentence. If the Lesson JSON is well-formed, import is a single paste-and-go action.
 - English Studio must preserve user-created fields (practice inputs, notes, completion state) across the lifetime of a story. Re-importing or updating a lesson must never silently destroy a user's own work (see [Section 7](#7-import-behavior)).
+- Lesson JSON files committed to this repository live under `lessons/<Source>/<Title>.eslesson.json` (e.g. `lessons/Storyline Online/Being Frank.eslesson.json`). The exact filename and folder rules, and the rule that a committed lesson file is immutable once added, are documented in [Lesson File Naming Convention](./lesson-generation-specification-v1.md#lesson-file-naming-convention) and [Immutable Lesson Rule](./lesson-generation-specification-v1.md#immutable-lesson-rule) in the generation specification.
 
 ## 3. Top-level JSON schema
 
@@ -124,6 +125,8 @@ The Lesson JSON format intentionally does **not** include any of English Studio'
 - `completed`
 
 These fields belong to English Studio's internal `Sentence` type only. English Studio adds them automatically during import, with default values (empty strings for text inputs, `false` for booleans/flags). This keeps the Lesson JSON format focused purely on lesson *content*, while all user *practice state* lives only inside English Studio's local data.
+
+**Lesson files on disk — including every file under `lessons/`, per the naming convention above — must never contain any of these fields.** User progress is written only to the browser's `localStorage` (the `ett_progress` key) and must never be written back into a lesson file, whether that file was imported via the file picker or discovered from the repository.
 
 Internally, English Studio models this same split as `SentenceContent` (lesson) and `SentenceProgress` (practice state), merged at runtime — see [`docs/progress-sync-v1.md`](./progress-sync-v1.md) for the architecture and how it prepares for a future progress-sync feature.
 

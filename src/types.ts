@@ -43,6 +43,13 @@ export interface StoryContent {
   id: string;
   title: string;
   source?: string;
+  /**
+   * Root-relative path of the `lessons/` file this story was imported from
+   * (e.g. `/lessons/BBC/Some Title.eslesson.json`), if it came from the
+   * repository's lesson catalog rather than the manual file picker. Used to
+   * detect that a repo lesson has already been imported.
+   */
+  sourcePath?: string;
   sentences: SentenceContent[];
 }
 
@@ -56,6 +63,7 @@ export interface Story {
   id: string;
   title: string;
   source?: string;
+  sourcePath?: string;
   sentences: Sentence[];
 }
 

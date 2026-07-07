@@ -305,3 +305,50 @@ The following capabilities are **not** part of this generation specification's v
 - **Learning Statistics** — generating baseline metrics or tags that support future learning-analytics features.
 
 Any of these would extend both this generation specification and [Lesson Format v1](./lesson-format-v1.md), and would require a coordinated `schemaVersion` bump across both documents.
+
+## Lesson File Naming Convention
+
+All lesson files must follow the naming convention below.
+
+### File Extension
+
+.eslesson.json
+
+### File Name
+
+Use the original English lesson title.
+
+Examples:
+
+Being Frank.eslesson.json
+Catching the Moon.eslesson.json
+Brave Irene.eslesson.json
+
+### Rules
+
+- Preserve spaces in filenames.
+- Do not replace spaces with `%20`.
+- Do not replace spaces with hyphens (`-`) unless the original title contains a hyphen.
+- Do not use underscores.
+- Use UTF-8 encoding.
+- One lesson per JSON file.
+
+### Folder Organization
+
+lessons/
+    Storyline Online/
+    VOA/
+    BBC/
+    YouTube/
+    Personal/
+
+Each lesson should be stored in the folder that matches its source.
+
+## Immutable Lesson Rule
+
+Once a lesson has been committed to the repository:
+
+- The filename should remain stable.
+- Do not rename files unless correcting an obvious mistake.
+- User progress must never be stored inside lesson files.
+- Lesson files represent immutable course content.

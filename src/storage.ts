@@ -120,10 +120,13 @@ function normalizeStoryContent(raw: unknown): StoryContent | null {
         .filter((s): s is SentenceContent => s !== null)
     : [];
   const source = typeof raw.source === "string" ? raw.source : undefined;
+  const sourcePath =
+    typeof raw.sourcePath === "string" ? raw.sourcePath : undefined;
   return {
     id: asString(raw.id) || createId(),
     title: asString(raw.title, "Untitled Story"),
     source,
+    sourcePath,
     sentences,
   };
 }

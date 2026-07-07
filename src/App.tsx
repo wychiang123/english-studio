@@ -3,6 +3,7 @@ import "./App.css";
 import { Sidebar } from "./components/Sidebar";
 import { AddLibraryForm } from "./components/AddLibraryForm";
 import { ImportLessonForm } from "./components/ImportLessonForm";
+import { BrowseLessonsForm } from "./components/BrowseLessonsForm";
 import { StoryView } from "./components/StoryView";
 import { loadLibraries, saveLibraries } from "./storage";
 import { createLibrary } from "./factories";
@@ -18,6 +19,7 @@ function App() {
   const [selectedStoryId, setSelectedStoryId] = useState<string | null>(null);
   const [showAddLibraryForm, setShowAddLibraryForm] = useState(false);
   const [showImportLessonForm, setShowImportLessonForm] = useState(false);
+  const [showBrowseLessonsForm, setShowBrowseLessonsForm] = useState(false);
 
   useEffect(() => {
     saveLibraries(libraries);
@@ -60,6 +62,27 @@ function App() {
 
     setSelectedStoryId(story.id);
     setShowImportLessonForm(false);
+  }
+
+  function handleImportManyLessons(stories: Story[]) {
+    setLibraries((prev) => {
+      let next = prev;
+      for (const story of stories) {
+        const libraryName = story.source?.trim() || "Imported";
+        const existingLibrary = next.find((lib) => lib.name === libraryName);
+        if (existingLibrary) {
+          next = next.map((library) =>
+            library.id === existingLibrary.id
+              ? { ...library, stories: [...library.stories, story] }
+              : library,
+          );
+        } else {
+          next = [...next, { ...createLibrary(libraryName), stories: [story] }];
+        }
+      }
+      return next;
+    });
+    setShowBrowseLessonsForm(false);
   }
 
   function handleDeleteStory(storyId: string) {
@@ -140,6 +163,7 @@ function App() {
         onSelectStory={setSelectedStoryId}
         onAddLibraryClick={() => setShowAddLibraryForm(true)}
         onImportLessonClick={() => setShowImportLessonForm(true)}
+        onBrowseLessonsClick={() => setShowBrowseLessonsForm(true)}
         onDeleteStory={handleDeleteStory}
       />
 
@@ -173,6 +197,15 @@ function App() {
         <ImportLessonForm
           onImport={handleImportLesson}
           onCancel={() => setShowImportLessonForm(false)}
+        />
+      )}
+
+      {showBrowseLessonsForm && (
+        <BrowseLessonsForm
+          libraries={libraries}
+          onImport={handleImportLesson}
+          onImportMany={handleImportManyLessons}
+          onClose={() => setShowBrowseLessonsForm(false)}
         />
       )}
     </div>
