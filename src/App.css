@@ -552,7 +552,7 @@ textarea:focus {
 
 .browse-lessons-item {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-between;
   gap: 12px;
   padding: 8px 10px;
@@ -560,10 +560,33 @@ textarea:focus {
   border-radius: 6px;
 }
 
+.browse-lessons-title-group {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
 .browse-lessons-title {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+.browse-lessons-progress {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  font-size: 13px;
+}
+
+.browse-lessons-progress-status {
+  opacity: 0.85;
+}
+
+.browse-lessons-progress-count {
+  opacity: 0.7;
+  font-weight: 600;
 }
 
 .browse-lessons-status {

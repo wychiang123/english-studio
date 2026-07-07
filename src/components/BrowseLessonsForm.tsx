@@ -1,6 +1,7 @@
 import { importLessonJson } from "../import/importLesson";
 import { lessonCatalog } from "../lessons/catalog";
 import type { LessonCatalogEntry } from "../lessons/catalog";
+import { isObject } from "../normalize";
 import type { Library, Story } from "../types";
 
 interface BrowseLessonsFormProps {
@@ -25,6 +26,45 @@ function groupBySource(
   return groups;
 }
 
+/**
+ * Sentence counts for a lesson's progress summary. If the lesson has already
+ * been imported, reads completion straight off its persisted sentences
+ * (same `sentence.completed` field the sidebar/story view already use). If
+ * it hasn't been imported yet, there is no practice data, so it's always
+ * 0 completed out of the sentence count read from the raw catalog JSON.
+ */
+function getSentenceCounts(
+  entry: LessonCatalogEntry,
+  importedStory: Story | undefined,
+): { completed: number; total: number } {
+  if (importedStory) {
+    return {
+      completed: importedStory.sentences.filter((s) => s.completed).length,
+      total: importedStory.sentences.length,
+    };
+  }
+  const total =
+    isObject(entry.raw) && Array.isArray(entry.raw.sentences)
+      ? entry.raw.sentences.length
+      : 0;
+  return { completed: 0, total };
+}
+
+function progressStatus(completed: number, total: number): {
+  icon: string;
+  label: string;
+} {
+  const icon = completed <= 0 ? "⚪" : completed < total ? "🟡" : "🟢";
+  const label =
+    completed <= 0 ? "Not Started" : completed < total ? "In Progress" : "Completed";
+  return { icon, label };
+}
+
+function progressCountLine(completed: number, total: number): string {
+  const percent = total > 0 ? Math.round((completed / total) * 100) : 0;
+  return `${completed} / ${total} (${percent}%)`;
+}
+
 export function BrowseLessonsForm({
   libraries,
   onImport,
@@ -38,6 +78,13 @@ export function BrowseLessonsForm({
         .filter((path): path is string => Boolean(path)),
     ),
   );
+
+  const importedStoryByPath = new Map<string, Story>();
+  for (const library of libraries) {
+    for (const story of library.stories) {
+      if (story.sourcePath) importedStoryByPath.set(story.sourcePath, story);
+    }
+  }
 
   const groups = groupBySource(lessonCatalog);
   const newEntries = lessonCatalog.filter(
@@ -75,9 +122,26 @@ export function BrowseLessonsForm({
             <ul className="browse-lessons-list">
               {entries.map((entry) => {
                 const imported = importedPaths.has(entry.path);
+                const { completed, total } = getSentenceCounts(
+                  entry,
+                  importedStoryByPath.get(entry.path),
+                );
+                const { icon, label } = progressStatus(completed, total);
                 return (
                   <li key={entry.path} className="browse-lessons-item">
-                    <span className="browse-lessons-title">{entry.title}</span>
+                    <div className="browse-lessons-title-group">
+                      <span className="browse-lessons-title">{entry.title}</span>
+                      {!entry.error && (
+                        <div className="browse-lessons-progress">
+                          <div className="browse-lessons-progress-status">
+                            {icon} {label}
+                          </div>
+                          <div className="browse-lessons-progress-count">
+                            {progressCountLine(completed, total)}
+                          </div>
+                        </div>
+                      )}
+                    </div>
                     {entry.error ? (
                       <span
                         className="browse-lessons-status browse-lessons-error"
