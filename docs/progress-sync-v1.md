@@ -1,12 +1,99 @@
 # Lesson/Progress Architecture & Future Sync (v1)
 
+## Lesson Storage Model
+
+English Studio separates **lesson content**, which is version-controlled in
+this Git repository, from **personal practice data**, which lives only in
+the browser. Any AI or developer reading this project's documentation should
+treat these as two entirely separate storage layers — nothing in this repo
+should be read as "all lesson data lives only in `localStorage`."
+
+### Repository lesson content
+
+- Canonical lesson files are stored under `lessons/<Source>/<Title>.eslesson.json`
+  (e.g. `lessons/Storyline Online/Being Frank.eslesson.json`), per the
+  [Lesson File Naming Convention](./lesson-generation-specification-v1.md#lesson-file-naming-convention).
+- These lesson files are committed to the Git repository, exactly like source code.
+- After `git commit` and `git push`, they are available on any other machine
+  as soon as it runs `git pull` — no export/import step, no server, no account.
+- **Browse Lessons** (`src/lessons/catalog.ts`) automatically discovers every
+  `.eslesson.json` file under `lessons/` at build/dev time via Vite's
+  `import.meta.glob`, and lists them in the app for one-click import.
+- Per the [Immutable Lesson Rule](./lesson-generation-specification-v1.md#immutable-lesson-rule),
+  a lesson file is treated as fixed course content once committed — it is not edited in place.
+
+### Local browser data
+
+**Only** the following are ever written to the browser's `localStorage`, and
+only on the machine/browser where the user is practicing:
+
+- The imported lesson library (the runtime copy created the moment a lesson
+  is imported, via Browse Lessons or the manual file picker)
+- Practice progress (per-sentence completion state)
+- User Chinese translations
+- User English reconstructions
+- User notes
+- Review/display state (show/hide toggles for English, Chinese, AI suggestions)
+
+None of this is committed to Git, none of it is discoverable from another
+machine, and none of it should be assumed to exist when an AI is reasoning
+about or generating lesson content.
+
+Note that "the imported lesson library" is itself a **copy** of lesson
+content, snapshotted into `localStorage` at import time — importing never
+modifies the canonical file under `lessons/`, and each machine's copy (and
+its progress) stays independent unless a lesson is explicitly re-imported.
+(Vocabulary/phrase/grammar/native-expression notes are a partial exception —
+see [Section 6](#6-known-limitation) below.)
+
+### Comparison
+
+| Data | Git Repository | localStorage |
+|------|----------------|--------------|
+| Lesson JSON | ✓ | |
+| Browse Lessons catalog | ✓ | |
+| Imported Library | | ✓ |
+| Practice Progress | | ✓ |
+| User Translation | | ✓ |
+| User Notes | | ✓ |
+
+### Workflow example
+
+```
+Transcript
+    ↓
+AI generates .eslesson.json
+    ↓
+Save into lessons/<Source>/
+    ↓
+git commit
+    ↓
+git push
+    ↓
+Another computer
+    ↓
+git pull
+    ↓
+Browse Lessons
+    ↓
+Import
+    ↓
+Lesson becomes part of local library
+```
+
+"Lesson becomes part of local library" means a *copy* of the lesson content
+is written into that machine's `localStorage` (`ett_libraries`); the
+canonical file under `lessons/` is never modified, and that machine's
+practice progress (`ett_progress`) is never synced anywhere.
+
 ## 1. Why this split exists
 
-English Studio currently stores everything in `localStorage`. The long-term
-goal is to sync a user's **study progress** across devices/browsers (e.g. via
-a private GitHub repo or gist), while **lesson content** stays something you
-import once (from a Lesson JSON file, per
-[`lesson-format-v1.md`](./lesson-format-v1.md)) and treat as read-only.
+The rest of this document describes a second, independent split that exists
+entirely *within* the browser-local layer above: separating a story's
+**lesson content** (title, sentences, notes) from a user's **study
+progress** (translations, notes, completion state), so a future feature can
+sync progress across devices/browsers (e.g. via a private GitHub repo or
+gist) without touching lesson content.
 
 To make that possible later without a rewrite, the internal data model
 already separates the two concerns today, even though both still live in

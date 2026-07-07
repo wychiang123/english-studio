@@ -1,6 +1,8 @@
 # English Studio
 
-A simple personal web app for practicing English-to-Chinese (and back) translation using your own stories/text. Everything is stored locally in your browser via `localStorage` — there is no backend, no login, and no database.
+A simple personal web app for practicing English-to-Chinese (and back) translation using your own stories/text.
+
+English Studio separates two kinds of data: **lesson content**, which is version-controlled in this Git repository under [`lessons/`](./lessons), and **personal practice data** (your translations, notes, and progress), which lives only in your browser's `localStorage`. There is no backend, no login, and no database — see [Lesson Storage Model](./docs/progress-sync-v1.md#lesson-storage-model) for the full breakdown of what is stored where.
 
 ## Features
 
@@ -70,4 +72,4 @@ npm run preview
 
 - Data is stored per-browser using `localStorage`, split across two keys: `ett_libraries` (lesson content — imported stories, notes) and `ett_progress` (your practice progress — translations, notes, completion state). Clearing your browser's site data (or using a different browser/device) will not carry over your libraries/progress. This is the *only* place user progress is ever written — it is never written back into a lesson file, whether under `lessons/` or anywhere else.
 - Lesson JSON files are generated externally (e.g. in a ChatGPT session) and then imported as-is; English Studio never edits or regenerates lesson content itself, only the user-practice fields layered on top of it.
-- Lesson content and user progress are kept as independent, mergeable data internally, in preparation for a future feature to sync progress across devices (e.g. via GitHub). See [`docs/progress-sync-v1.md`](./docs/progress-sync-v1.md) for the architecture and what such a sync feature would need — no sync, GitHub API, or authentication exists yet.
+- Lesson content and user progress are kept as independent, mergeable data internally, in preparation for a future feature to sync progress across devices (e.g. via GitHub). See [Lesson Storage Model](./docs/progress-sync-v1.md#lesson-storage-model) for what's stored in Git vs. `localStorage`, and the rest of [`docs/progress-sync-v1.md`](./docs/progress-sync-v1.md) for the content/progress architecture and what a future sync feature would need — no sync, GitHub API, or authentication exists yet.

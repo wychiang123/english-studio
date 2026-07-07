@@ -344,6 +344,8 @@ lessons/
 
 Each lesson should be stored in the folder that matches its source.
 
+These files are part of the Git repository, not browser storage — see [Lesson Storage Model](./progress-sync-v1.md#lesson-storage-model) for exactly what is version-controlled (lesson files) versus what lives only in the browser's `localStorage` (imported libraries, practice progress, user translations/notes).
+
 ## Immutable Lesson Rule
 
 Once a lesson has been committed to the repository:

@@ -17,6 +17,7 @@ English Studio's content pipeline is split into two separate roles:
 - English Studio should never require the user to manually copy/paste a translation sentence-by-sentence. If the Lesson JSON is well-formed, import is a single paste-and-go action.
 - English Studio must preserve user-created fields (practice inputs, notes, completion state) across the lifetime of a story. Re-importing or updating a lesson must never silently destroy a user's own work (see [Section 7](#7-import-behavior)).
 - Lesson JSON files committed to this repository live under `lessons/<Source>/<Title>.eslesson.json` (e.g. `lessons/Storyline Online/Being Frank.eslesson.json`). The exact filename and folder rules, and the rule that a committed lesson file is immutable once added, are documented in [Lesson File Naming Convention](./lesson-generation-specification-v1.md#lesson-file-naming-convention) and [Immutable Lesson Rule](./lesson-generation-specification-v1.md#immutable-lesson-rule) in the generation specification.
+- **This document only covers the Lesson JSON format itself.** For where lesson files physically live (Git repository) versus where imported libraries and practice data live (browser `localStorage`), see [Lesson Storage Model](./progress-sync-v1.md#lesson-storage-model).
 
 ## 3. Top-level JSON schema
 
