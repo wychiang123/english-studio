@@ -43,6 +43,19 @@ function App() {
     const existingLibrary = libraries.find((lib) => lib.name === libraryName);
 
     if (existingLibrary) {
+      // Re-importing a lesson already in this library (e.g. picking the same
+      // file again via "+ Import Lesson") must resume the existing story
+      // instead of creating a blank duplicate that orphans saved progress.
+      const existingStory = existingLibrary.stories.find(
+        (s) => s.title === story.title,
+      );
+      if (existingStory) {
+        setSelectedLibraryId(existingLibrary.id);
+        setSelectedStoryId(existingStory.id);
+        setShowImportLessonForm(false);
+        return;
+      }
+
       setLibraries((prev) =>
         prev.map((library) =>
           library.id === existingLibrary.id
