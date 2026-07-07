@@ -391,3 +391,9 @@ Once a lesson has been committed to the repository:
 - Do not rename files unless correcting an obvious mistake.
 - User progress must never be stored inside lesson files.
 - Lesson files represent immutable course content.
+
+Final Output Requirement
+
+The AI must internally validate that the generated file is valid JSON and conforms to the English Studio lesson schema before presenting it.
+
+The output must be directly usable without manual editing.
