@@ -286,6 +286,8 @@ A generated lesson must satisfy all of the following before it may be exported:
 - **Every `LearningNote` must contain meaningful content.** `title` and `explanation` are both non-empty and substantive — not placeholder text, not a restatement of the sentence itself, and not generated merely to fill a section.
 - **Reject incomplete lessons.** A lesson missing required top-level fields (per [Lesson Format v1, Section 3](./lesson-format-v1.md#3-top-level-json-schema)), missing a `sentences` array, or whose sentences don't collectively account for the full source transcript, must not be exported.
 - **Reject malformed Lesson JSON.** A lesson that fails to parse as valid JSON, or that does not conform to the Lesson Format v1 schema (wrong types, wrong `schemaVersion`, disallowed fields, etc.), must not be exported.
+- **Validate JSON syntax before saving into `lessons/`.** See [Required JSON Validation Step](#required-json-validation-step) — this is a separate, mandatory check from schema validation above.
+- **Validate again before `git commit`/`push`.** A file that was valid when first saved can still be hand-edited afterward; re-check syntax immediately before committing.
 
 Failing any of these checks means the lesson generation process stops at [Stage 4.10, Lesson Validation](#410-lesson-validation) — it does not proceed to [Lesson Export](#411-lesson-export).
 
@@ -305,6 +307,41 @@ The following capabilities are **not** part of this generation specification's v
 - **Learning Statistics** — generating baseline metrics or tags that support future learning-analytics features.
 
 Any of these would extend both this generation specification and [Lesson Format v1](./lesson-format-v1.md), and would require a coordinated `schemaVersion` bump across both documents.
+
+## Required JSON Validation Step
+
+**AI output is not trusted until it has been validated.** [Stage 4.10, Lesson Validation](#410-lesson-validation) and [Section 6, Validation Rules](#6-validation-rules) check that the lesson's *content* is complete and conforms to the schema — but that is not the same thing as checking that the file is syntactically valid JSON, and both checks are required.
+
+- Even when the content looks correct — the sentences read fine, the translations look right, the notes look reasonable — the file may still contain invalid JSON syntax, such as a missing comma between two fields. A human or AI reviewing the *rendered* content will not catch this; only a JSON parser will.
+- Before placing a lesson file under `lessons/`, run a JSON validation step (e.g. `python -m json.tool some-file.eslesson.json`, `jq . some-file.eslesson.json`, or your editor's built-in JSON validation) and confirm it reports no errors.
+- If validation fails, fix the JSON syntax first. Do not copy the file into `lessons/` or commit it while it fails to parse.
+- If an invalid `.eslesson.json` file is committed under `lessons/` anyway, the app may fail to start, or Vite may throw a JSON parsing error — because [Browse Lessons](./progress-sync-v1.md#lesson-storage-model) loads every file under `lessons/` via `import.meta.glob` at build/dev time, a single malformed file can break the whole app, not just that one lesson.
+
+### Example from today
+
+A missing comma between `chineseTranslation` and `aiEnglishSuggestion` caused:
+
+```
+expected `,` or `}`
+```
+
+Incorrect (missing comma after `chineseTranslation`):
+
+```json
+{
+  "chineseTranslation": "才發現他一直都在扮演一個更帥氣的角色。"
+  "aiEnglishSuggestion": "only to realize he'd been playing a cooler character the whole time."
+}
+```
+
+Corrected:
+
+```json
+{
+  "chineseTranslation": "才發現他一直都在扮演一個更帥氣的角色。",
+  "aiEnglishSuggestion": "only to realize he'd been playing a cooler character the whole time."
+}
+```
 
 ## Lesson File Naming Convention
 
