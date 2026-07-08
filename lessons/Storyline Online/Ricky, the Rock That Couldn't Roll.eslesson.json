@@ -1,0 +1,876 @@
+{
+  "schemaVersion": "1.0",
+  "lessonType": "english-story",
+  "title": "Ricky, the Rock That Couldn't Roll",
+  "source": "Storyline Online",
+  "sourceUrl": "https://storylineonline.net/",
+  "author": "Mr. Jay",
+  "narrator": "Marissa Bode",
+  "language": "en",
+  "createdAt": "2026-07-08T00:52:00Z",
+  "tags": [
+    "kids",
+    "friendship",
+    "inclusion",
+    "determination"
+  ],
+  "description": "A heartwarming story about a group of rocks determined to help their flat-sided friend Ricky join in on the rolling fun.",
+  "sentences": [
+    {
+      "id": "s1",
+      "order": 1,
+      "englishOriginal": "Over the lake and out past the bay was a green, grassy hill where the rocks came to play.",
+      "chineseTranslation": "在湖泊的那一頭，越過海灣之處，有一座綠意盎然的草丘，那是石頭們聚集玩耍的地方。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s1-p1",
+          "title": "past the bay",
+          "explanation": "「past」在此作介係詞，表示「越過、穿過（某個地點）」。「past the bay」就是指越過海灣之後的區域。",
+          "examples": [
+            "Walk past the bank and you will see the post office on your left."
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "s1-g1",
+          "title": "Inversion (地方副詞放句首的倒裝句)",
+          "explanation": "「Over the lake and out past the bay was a green, grassy hill」是一個典型的地方副詞片語放句首的倒裝句。正常語序為「A green, grassy hill was over the lake...」。這種結構常用於故事開頭，用來營造畫面感與文學氣氛。",
+          "examples": [
+            "Under the tree sat an old man."
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s2",
+      "order": 2,
+      "englishOriginal": "They would race to the top to take in the view, then roll their way down, the way rocks love to do.",
+      "chineseTranslation": "他們總會一路賽跑衝上山頂去飽覽美景，然後再順著山坡滾下來，就像石頭最愛做的那樣。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s2-p1",
+          "title": "take in the view",
+          "explanation": "「take in」在此表示「欣賞、飽覽（美景、景觀）」，比單純用 look at 更有沉浸其中、好好享受的意思。",
+          "examples": [
+            "We sat on the balcony for an hour, taking in the beautiful sunset."
+          ]
+        },
+        {
+          "id": "s2-p2",
+          "title": "roll one's way down",
+          "explanation": "「verb + one's way」是一個非常到地的英文動詞結構，用來強調「一路做某個動作前進」。這裡的 「roll their way down」指的就是「一路滾下山」的動態過程。",
+          "examples": [
+            "She pushed her way through the crowded subway car."
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "s2-g1",
+          "title": "would (past habitual actions)",
+          "explanation": "此處的「would」表示「過去常常、過去慣常發生的動作」，帶有一種溫馨回憶或描述故事背景的語感[cite: 2]。",
+          "examples": [
+            "Every summer, we would go camping by the river[cite: 2]."
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s3",
+      "order": 3,
+      "englishOriginal": "There were Kip, Pip, and Chester, and Marvin the Boulder. Ignatious played too, though he was much older.",
+      "chineseTranslation": "這裡有吉普、皮普、切斯特，還有大巨石馬文。伊格內修斯也一起玩，雖然他的年紀大得多了。",
+      "vocabularyNotes": [
+        {
+          "id": "s3-v1",
+          "title": "boulder",
+          "explanation": "「boulder」指的是體積巨大、通常因長期風化而顯得圓滑的「巨石」或「大卵石」，比普通的 rock 大上許多。",
+          "examples": [
+            "The hikers had to climb over several large boulders on the trail."
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s4",
+      "order": 4,
+      "englishOriginal": "And a group called \"The Pebbles\" never, ever sat still, zig-zagging their way up and over the hill.",
+      "chineseTranslation": "還有一個叫作「小礫石」的團體更是片刻都坐不住，一路上上下下、歪歪扭扭地繞著山丘跑。",
+      "vocabularyNotes": [
+        {
+          "id": "s4-v1",
+          "title": "zig-zag",
+          "explanation": "「zig-zag」在這裡作動詞（寫成分詞 zig-zagging），意思是「做之字形、鋸齒狀或歪歪扭扭的前進」。",
+          "examples": [
+            "The pathway zig-zagged up the steep mountain slope."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s4-p1",
+          "title": "never, ever",
+          "explanation": "透過把 never 和 ever 連在一起用，來強力加強否定的語氣，相當於中文的「絕對不、壓根不」。",
+          "examples": [
+            "I will never, ever talk to him again."
+          ]
+        },
+        {
+          "id": "s4-p2",
+          "title": "sit still",
+          "explanation": "意思是「靜靜地坐著」或「安分地待著」，常用來形容小孩子或好動的小動物。",
+          "examples": [
+            "It is hard for young children to sit still during a long flight."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s5",
+      "order": 5,
+      "englishOriginal": "Kai was a meteorite and not from this planet, and Maya was lava but taken for granite.",
+      "chineseTranslation": "阿凱是一顆不屬於這個星球的隕石，而小美雖然是熔岩，卻總被大家誤當成花崗岩。",
+      "vocabularyNotes": [
+        {
+          "id": "s5-v1",
+          "title": "meteorite",
+          "explanation": "「meteorite」指掉落到地球表面、未完全燒毀的「隕石」。",
+          "examples": [
+            "Scientists analyzed the meteorite to study the early solar system."
+          ]
+        },
+        {
+          "id": "s5-v2",
+          "title": "granite",
+          "explanation": "「granite」是地質學名詞「花崗岩」，是一種質地非常堅硬的火成岩。",
+          "examples": [
+            "The kitchen countertops are made of polished granite."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s5-p1",
+          "title": "taken for",
+          "explanation": "「be taken for」意思是「被誤認為……」或「被當作……」。這裡故事還藏了一個非常高級的英文雙關語（Pun）：把地質學的「granite（花崗岩）」拿來和英文片語「taken for granted（視為理所當然）」做諧音梗，暗示 Maya 被大家誤認且忽視了。",
+          "examples": [
+            "With his new haircut, he was often taken for a movie star."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s6",
+      "order": 6,
+      "englishOriginal": "But the one trait that seemed to be shared by them all was that every rock there was shaped like a ball.",
+      "chineseTranslation": "不過，他們所有人身上似乎都有一個共同的特徵，那就是那裡的每一顆石頭，形狀都長得像顆球。",
+      "vocabularyNotes": [
+        {
+          "id": "s6-v1",
+          "title": "trait",
+          "explanation": "「trait」指的是人或事物的「特徵」、「特點」或「特性」。",
+          "examples": [
+            "Patience is one of his most admirable traits."
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "s6-g1",
+          "title": "Passive Voice & Noun Clause (被動態與名詞子句)",
+          "explanation": "「shared by them all」使用了被動態，表示「被他們所有人共享」。後面由 was that 引導的名詞子句則作為整句話的主詞補語，用來詳細說明這個 trait 是什麼。",
+          "examples": [
+            "The main reason for his success was that he never gave up."
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s7",
+      "order": 7,
+      "englishOriginal": "And because they were round, they could easily roll, through the grass, past the lake, up and over the knoll.",
+      "chineseTranslation": "正因為他們圓滾滾的，所以他們能輕而易舉地滾動，穿過草叢、越過湖泊、一路滾上並翻過小土丘。",
+      "vocabularyNotes": [
+        {
+          "id": "s7-v1",
+          "title": "knoll",
+          "explanation": "「knoll」指的是體積不大、頂部圓滑的「小山丘」或「草坡土丘」。",
+          "examples": [
+            "We sat on a grassy knoll to watch the football match below."
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s8",
+      "order": 8,
+      "englishOriginal": "Except for poor Ricky, who quietly sat. You see, Rick couldn't roll because one side was flat.",
+      "chineseTranslation": "只有可憐的瑞奇例外，他總是安安靜靜地坐在一旁。你看，瑞奇沒辦法滾動，因為他有一面是扁平的。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s8-p1",
+          "title": "except for",
+          "explanation": "意思是「除了……之外」，用來指出整體中唯一的例外情況。",
+          "examples": [
+            "The room was completely empty except for a single wooden chair."
+          ]
+        },
+        {
+          "id": "s8-p2",
+          "title": "You see",
+          "explanation": "這是老外聊天、講故事時極常用的口頭禪，意思是「你知道的」、「你看嘛」或「主要是因為」，用來引出解釋。",
+          "examples": [
+            "I can't come tonight. You see, I have to study for an exam."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s9",
+      "order": 9,
+      "englishOriginal": "His friends didn’t get it. \"Come roll!\" they would chant. So Ricky tried, but replied, \"I’m sorry, I can’t.\"",
+      "chineseTranslation": "他的朋友們一開始完全不理解。「快來滾啊！」他們大聲歡呼打氣。瑞奇雖然試過了，卻只能無奈地回答：「對不起，我真的辦不到。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s9-p1",
+          "title": "not get it",
+          "explanation": "「get it」在口語中意思是「聽懂、理解、明白」。「didn't get it」就是「搞不懂狀況」或「不明白原因」的極道地說法[cite: 4]。",
+          "examples": [
+            "Everyone laughed at the joke, but I didn't get it."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s10",
+      "order": 10,
+      "englishOriginal": "But the rocks were determined, they were sure they could solve Ricky's flat-sided problem, and help him revolve.",
+      "chineseTranslation": "但石頭們非常有決心，他們深信自己一定能解決瑞奇這面扁平的問題，好幫助他轉動起來。",
+      "vocabularyNotes": [
+        {
+          "id": "s10-v1",
+          "title": "revolve",
+          "explanation": "「revolve」意思是「旋轉」或「環繞滾動」，在故事中用來替換 roll 以避免用詞重複，增加韻律感。",
+          "examples": [
+            "The earth revolves around the sun once a year."
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "s10-g1",
+          "title": "be determined (形容詞用法)",
+          "explanation": "「determined」在此作形容詞，表示「下定決心的、意志堅定的」，後面常接不定詞 to V 表明決心要做的事。",
+          "examples": [
+            "She was determined to finish the marathon despite the rain."
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s11",
+      "order": 11,
+      "englishOriginal": "So Marvin the boulder, with his impressive physique, carried Rick all the way to the hill's grassy peak.",
+      "chineseTranslation": "於是，擁有驚人健壯體格的大巨石馬文，一路背著瑞奇，大步走向草丘的最高峰。",
+      "vocabularyNotes": [
+        {
+          "id": "s11-v1",
+          "title": "physique",
+          "explanation": "「physique」指的是人的「體格」或「身型」，通常用來形容強壯、有肌肉的結實身材。",
+          "examples": [
+            "The bodybuilder spent years developing his impressive physique."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s11-p1",
+          "title": "all the way",
+          "explanation": "意思是「一路上、大老遠地」，用來強調這段路程毫無間斷或距離很長。",
+          "examples": [
+            "He walked all the way home from school in the heavy snow."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s12",
+      "order": 12,
+      "englishOriginal": "Then he pushed him downhill, yelling, \"Keep rolling, kid!\" but Rick didn't roll - he just kind of slid.",
+      "chineseTranslation": "接著他把瑞奇往山下一推，大喊著：「小傢伙，繼續滾啊！」但瑞奇根本滾不起來——他只是在地上滑行了過去。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s12-p1",
+          "title": "kind of",
+          "explanation": "口語中極其高頻的副詞片語，意思是「稍微、有點」或「差不多是那樣的狀態」，用來稍微緩和語氣。",
+          "examples": [
+            "I'm kind of tired, so I think I'll go to bed early tonight."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s13",
+      "order": 13,
+      "englishOriginal": "Well, the rocks weren't done - not by a mile. Surely, this next try would get Rick to smile!",
+      "chineseTranslation": "好吧，石頭們可還沒放棄——壓根還早呢！這下一次的嘗試，肯定能讓瑞奇露出笑容！",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s13-p1",
+          "title": "not by a mile",
+          "explanation": "這是一個極道地的英文成語（同英式口語的 not by a long chalk），字面意思是「連一英里都差得遠」，用來強烈表達「完全沒有、差得遠了、絕不」的意思。",
+          "examples": [
+            "The project is not finished yet, not by a mile."
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "s13-g1",
+          "title": "get someone to do something (使役動詞用法)",
+          "explanation": "「get」在此作為使役動詞，意思是「說服、使得或設法讓某人做某事」，後面必須接帶 to 的「不定詞（to V）」，這點與 make/have 後面接原形動詞不同[cite: 2, 4]。",
+          "examples": [
+            "I finally got my brother to clean his messy room."
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s14",
+      "order": 14,
+      "englishOriginal": "They stuck rubber balls all over Rick, using big gobs of glue to get them to stick.",
+      "chineseTranslation": "他們在瑞奇全身黏滿了橡膠球，還用了大坨大坨的膠水好讓它們牢牢黏住。",
+      "vocabularyNotes": [
+        {
+          "id": "s14-v1",
+          "title": "gob",
+          "explanation": "「gob」在口語中指的是一小團、一坨或一塊柔軟、黏稠的物質（如膠水、泥巴）。",
+          "examples": [
+            "There was a big gob of gum stuck to the bottom of my shoe."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s14-p1",
+          "title": "all over",
+          "explanation": "意思是「到處、遍及（整個表面）」。",
+          "examples": [
+            "He spilled hot coffee all over his desk."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s15",
+      "order": 15,
+      "englishOriginal": "But Ricky still couldn't roll - now he just sort of bounced.",
+      "chineseTranslation": "但瑞奇依然滾不起來——現在的他只是在地上彈來彈去而已。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s15-p1",
+          "title": "sort of",
+          "explanation": "與 kind of 意思完全相同，是口語中用來表示「有點、某種程度上」的修飾語。",
+          "examples": [
+            "I sort of like the new design, but the old one was better."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s16",
+      "order": 16,
+      "englishOriginal": "Well, they pushed and they pulled, trying every which way, to get Rick to roll, but by the end of the day, nothing had worked, just like Rick expected, and he ended up feeling depressed and dejected.",
+      "chineseTranslation": "哎，他們又是推又是拉，試遍了所有能想到的法子，想盡辦法要讓瑞奇滾動。但到了傍晚，不出瑞奇所料，任何方法都沒效，結果他整個人變得無精打采、垂頭喪氣。",
+      "vocabularyNotes": [
+        {
+          "id": "s16-v1",
+          "title": "dejected",
+          "explanation": "「dejected」是一個很好的形容詞，意思是「沮喪的、失意的、垂頭喪氣的」，程度比普通的 sad 更有深受打擊的畫面感。",
+          "examples": [
+            "He looked dejected after failing his driving test for the third time."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s16-p1",
+          "title": "every which way",
+          "explanation": "這是極其道地的美式口語，意思是「四面八方地」或「用盡各種五花八門的方法、雜亂無章地」。",
+          "examples": [
+            "The children ran every which way when the bell rang."
+          ]
+        },
+        {
+          "id": "s16-p2",
+          "title": "by the end of the day",
+          "explanation": "字面意思是「在一天結束時」，但在日常生活中，常引申為「到頭來、最後」或「事情折騰到最後的結果」。",
+          "examples": [
+            "By the end of the day, we were all too exhausted to cook."
+          ]
+        },
+        {
+          "id": "s16-p3",
+          "title": "end up",
+          "explanation": "這個片語意思是「最終落得某種下場」或「最後落入某種狀態/地方」，後面通常接 V-ing 或形容詞。",
+          "examples": [
+            "If you don't save money, you'll end up broke."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s17",
+      "order": 17,
+      "englishOriginal": "\"It’s no use,\" Ricky sighed, \"There just isn’t a way. So I’ll sit off to the side, and watch you all play.\"",
+      "chineseTranslation": "「沒用的，」瑞奇嘆了口氣說：「就是行不通。所以我還是坐在旁邊，看你們大家玩就好了。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s17-p1",
+          "title": "It's no use",
+          "explanation": "一個極常用的口語固定結構，意思是「沒用的、白費力氣的」，通常後面會接 V-ing 動詞（如 It's no use crying）。但在這裡單獨使用，表示對現狀認輸。",
+          "examples": [
+            "It's no use trying to change his mind; he is very stubborn."
+          ]
+        },
+        {
+          "id": "s17-p2",
+          "title": "off to the side",
+          "explanation": "意思是「在一旁、靠邊、稍微遠離中心位置的地方」。",
+          "examples": [
+            "She stood off to the side so she wouldn't block the hallway."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s18",
+      "order": 18,
+      "englishOriginal": "But his friends wouldn’t quit. \"We're here for you, brother, and we’ll get you to roll, one way or another.\"",
+      "chineseTranslation": "但他的朋友們絕不輕言放棄。「兄弟，有我們在罩你呢！我們不論如何、不管用什麼方法，都一定會讓你滾起來的。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s18-p1",
+          "title": "be here for someone",
+          "explanation": "這是一句非常溫暖、充滿義氣的英文道地表達，意思是「在你身邊支持你、當你的後盾、隨時提供協助」[cite: 4]。",
+          "examples": [
+            "Don't worry about the trouble; I will always be here for you."
+          ]
+        },
+        {
+          "id": "s18-p2",
+          "title": "one way or another",
+          "explanation": "意思是「無論如何」或「不管用什麼法子」，用來宣示達成目標的堅定決心。",
+          "examples": [
+            "We will find a solution to this financial problem, one way or another."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s19",
+      "order": 19,
+      "englishOriginal": "So they pondered and thought, each straining his brain, 'til they looked up and saw it was starting to rain.",
+      "chineseTranslation": "於是他們苦苦思索、集思廣益，每個人都快把腦汁給榨乾了，直到他們猛一抬頭，才發現天空已經開始下起雨來。",
+      "vocabularyNotes": [
+        {
+          "id": "s19-v1",
+          "title": "ponder",
+          "explanation": "「ponder」是一個比 think 更深刻的動詞，意思是「沉思、仔細掂量、苦苦思索」。",
+          "examples": [
+            "He pondered the job offer for several days before accepting it."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s19-p1",
+          "title": "strain one's brain",
+          "explanation": "字面意思是「讓大腦過度緊繃」，比喻「竭盡全力思索、絞盡腦汁」[cite: 4]。",
+          "examples": [
+            "I've been straining my brain all morning trying to remember where I left my keys."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s20",
+      "order": 20,
+      "englishOriginal": "And that's when it hit that smart stone named Stu. \"Eureka!\" he shouted, \"I know just what to do!\"",
+      "chineseTranslation": "就在那個當口，名叫小斯的聰明石頭腦袋裡突然靈光一閃。「我找到了！」他興奮地大喊：「我知道該怎麼做了！」",
+      "vocabularyNotes": [
+        {
+          "id": "s20-v1",
+          "title": "Eureka",
+          "explanation": "「Eureka」是一個感嘆詞，源自希臘語，相傳是阿基米德在洗澡發現浮力原理時大喊的詞。現在被普遍用來形容「突然靈機一動、找到了解決世紀難題的方法時」所發出的驚呼。",
+          "examples": [
+            "\"Eureka!\" cried the scientist when the experiment finally succeeded."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s20-p1",
+          "title": "it hit someone",
+          "explanation": "當說「it hit me」或「it hit Stu」時，意思是「某人突然醒悟、突然想到、猛然意識到某件事」[cite: 4]。",
+          "examples": [
+            "It suddenly hit me that I had left the oven on at home."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s21",
+      "order": 21,
+      "englishOriginal": "He explained to them how they would get Rick to tumble. \"My plan is pure genius!\" (Stu wasn’t too humble.)",
+      "chineseTranslation": "他向大家詳細解釋要如何讓瑞奇成功翻滾。「我的計畫簡直是天才之作！」（看來小斯可一點也不打算謙虛。）",
+      "vocabularyNotes": [
+        {
+          "id": "s21-v1",
+          "title": "tumble",
+          "explanation": "「tumble」意思是「翻滾」、「跌跌撞撞地滾動」，這裡用來生動代替 roll 描述石頭轉動的樣子。",
+          "examples": [
+            "The bouncy ball tumbled down the stairs."
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "s21-n1",
+          "title": "pure genius",
+          "explanation": "口語中極高頻的讚美詞，意思是「純粹的天才」、「簡直太聰明了」，經常用來誇獎某人的絕妙點子或作品。",
+          "examples": [
+            "Your idea of using social media for marketing was pure genius."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s22",
+      "order": 22,
+      "englishOriginal": "So they carried our hero down the road 'bout a mile, to the lake where they gathered up mud they could pile, on the flat side of Rick, creating a mound, that they shaped, smoothed, and sculpted, until it was round.",
+      "chineseTranslation": "於是，他們抬著我們的小英雄沿著馬路走了大約一英里，來到湖邊，在那裡收集了可以堆疊的泥巴，糊在瑞奇扁平的那一面上，堆出一個小土包，接著他們動手塑形、抹平、細細雕琢，直到它變得圓滾滾為止。",
+      "vocabularyNotes": [
+        {
+          "id": "s22-v1",
+          "title": "mound",
+          "explanation": "「mound」指「一堆（土、沙、石塊等）」或「土墩、小丘」。",
+          "examples": [
+            "The ants built a large mound of dirt in the garden."
+          ]
+        },
+        {
+          "id": "s22-v2",
+          "title": "sculpt",
+          "explanation": "「sculpt」是「雕刻、雕塑」的意思，在這裡指石頭們像藝術家一樣細心捏製泥巴的動作。",
+          "examples": [
+            "She sculpted a beautiful figure out of clay."
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "s22-g1",
+          "title": "Omission of relative pronoun (關係代名詞的省略)",
+          "explanation": "句中「mud (that) they could pile」與「a mound (that) they shaped...」都省略了受格的關係代名詞 that。這種簡化在英文詩歌、繪本韻文中非常多見。",
+          "examples": [
+            "The book I bought yesterday is very interesting."
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s23",
+      "order": 23,
+      "englishOriginal": "Then after the rain, with the sun in the sky, they left him to bake 'til the mud was all dry.",
+      "chineseTranslation": "雨過天晴、太陽高掛在天空後，他們把瑞奇留在原處接受日曬，直到泥巴完全乾透為止。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "s23-n1",
+          "title": "leave someone to bake",
+          "explanation": "這裡的「bake」本意是烘烤，故事中用來幽默且極其形象地描述「把黏著濕泥巴的瑞奇放在大太陽下曝曬烘乾」的畫面。",
+          "examples": [
+            "We were left to bake on the beach under the afternoon sun."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s24",
+      "order": 24,
+      "englishOriginal": "They gathered up vines and one colorful feather that they wrapped all 'round Rick, to keep it together.",
+      "chineseTranslation": "他們撿了一些藤蔓和一根色彩斑斕的羽毛，將它們團團纏繞在瑞奇身上，好把泥巴緊緊固定住。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s24-p1",
+          "title": "keep it together",
+          "explanation": "在日常生活中，「keep it together」常指人在心理上「保持冷靜、挺住不崩潰」。但在故事中取其最字面的物理意思，表示「把東西聚在一起、固定住不散開」。",
+          "examples": [
+            "I used a rubber band to keep all the loose papers together."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s25",
+      "order": 25,
+      "englishOriginal": "When the last knot was tied, and the work was all done, the only step left was for Rick to have fun.",
+      "chineseTranslation": "當最後一個結被打了起來，大功告成之際，剩下的唯一一個步驟，就是讓瑞奇去盡情享樂了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s25-p1",
+          "title": "the work was all done",
+          "explanation": "意思就是「大功告成」或「所有工作都完成了」。",
+          "examples": [
+            "Once the work was all done, we ordered a large pizza to celebrate."
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "s25-g1",
+          "title": "Infinitive phrase with for-subject (不定詞的主詞結構)",
+          "explanation": "「was for Rick to have fun」結構中，for Rick 是後面不定詞 to have fun 的邏輯主詞，整個結構充當主要句子的補語，說明「剩下的唯一步驟是什麼」。",
+          "examples": [
+            "The best thing is for you to rest now."
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s26",
+      "order": 26,
+      "englishOriginal": "They stood back and watched, feeling nervous and tense, as Rick breathed in deep, with increasing suspense.",
+      "chineseTranslation": "他們往後退開、目不轉睛地看著，心情既緊張又焦慮；這時瑞奇深深吸了一口氣，現場的懸念與緊張感也攀升到了頂點。",
+      "vocabularyNotes": [
+        {
+          "id": "s26-v1",
+          "title": "suspense",
+          "explanation": "「suspense」指的是「懸念」、「緊張感」或「忐忑不安的期待感」，常形容看懸疑電影或等待關鍵時刻的心情。",
+          "examples": [
+            "The movie keeps you in suspense until the very last minute."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s26-p1",
+          "title": "stand back",
+          "explanation": "意思是「往後站、退後一步」，通常是為了安全或是為了觀察局勢。",
+          "examples": [
+            "The police told the crowd to stand back from the accident scene."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s27",
+      "order": 27,
+      "englishOriginal": "He moved slowly at first, testing out his new mold, and then, for the first time... Ricky the rock... ROLLED!",
+      "chineseTranslation": "起初他動得有些緩慢，試探著他的新形狀，接著，破天荒第一遭……石頭瑞奇……滾動了！",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s27-p1",
+          "title": "test out",
+          "explanation": "意思是「測試、試驗（某種新事物或新功能）」，看它是否運作正常或是否合適。",
+          "examples": [
+            "We need to test out the new software before launching it."
+          ]
+        },
+        {
+          "id": "s27-p2",
+          "title": "for the first time",
+          "explanation": "極常用的固定短語，意思是「有生以來第一次」或「破天荒第一遭」。",
+          "examples": [
+            "He traveled abroad for the first time when he was twenty."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s28",
+      "order": 28,
+      "englishOriginal": "So Bria, the ladybug, who’d been there from the start, felt a surge of pure joy swell up in her heart.",
+      "chineseTranslation": "於是，從頭到尾都在一旁見證的瓢蟲布里亞，感到一股純粹的喜悅從心底油然而生。",
+      "vocabularyNotes": [
+        {
+          "id": "s28-v1",
+          "title": "ladybug",
+          "explanation": "昆蟲名，指的是「瓢蟲」（英式英文通常稱為 ladybird）。",
+          "examples": [
+            "A tiny red ladybug landed gently on her finger."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s28-p1",
+          "title": "from the start",
+          "explanation": "意思是「從一開始、自始至終」。",
+          "examples": [
+            "I knew from the start that this project would be a huge success."
+          ]
+        },
+        {
+          "id": "s28-p2",
+          "title": "swell up",
+          "explanation": "字面本意是腫脹，這裡指的是抽象的情感「（喜悅等情緒）在心中膨脹、油然而生」[cite: 4]。",
+          "examples": [
+            "Pride swelled up in his chest as his daughter received the award."
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "s28-g1",
+          "title": "Past Perfect with Relative Clause (關係子句中的過去完成式)",
+          "explanation": "「who'd been there (who had been there)」使用了過去完成式，用來強調在瓢蟲「感到喜悅（過去式 felt）」之前，她就已經「從頭到尾都待在那裡了」。",
+          "examples": [
+            "The teacher praised the student who had worked hard all term."
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s29",
+      "order": 29,
+      "englishOriginal": "She thought, as she watched her friends play on the hill, that there's always a way if there's also a will.",
+      "chineseTranslation": "當她看著朋友們在山丘上盡情玩耍，她心想：只要有決心，天下永遠沒有過不去的坎。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "s29-n1",
+          "title": "Where there's a will, there's a way. (諺語變體)",
+          "explanation": "這句話是由著名的英文諺語「Where there's a will, there's a way（有志者事竟成 / 有心就有辦法）」變化而來。這裡的 will 是名詞「意志力、決心」的意思[cite: 4]。",
+          "examples": [
+            "It seems impossible, but remember: if there's a will, there's always a way."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s30",
+      "order": 30,
+      "englishOriginal": "And she said to herself, as Ricky rolled down the slope, \"When you’re surrounded by love, you always have hope!\"",
+      "chineseTranslation": "當看著瑞奇順著斜坡一路滾下時，她默默對著自己說：「只要被愛包圍，你就永遠擁有希望！」",
+      "vocabularyNotes": [
+        {
+          "id": "s30-v1",
+          "title": "slope",
+          "explanation": "「slope」指的是「斜坡」、「山坡」或「坡道」。",
+          "examples": [
+            "The children slithered and slid down the muddy slope."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s30-p1",
+          "title": "say to oneself",
+          "explanation": "意思是「心裡默默地想」或「自言自語地對自己說」。",
+          "examples": [
+            "\"I can do this,\" she said to herself before entering the exam room."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s31",
+      "order": 31,
+      "englishOriginal": "I think it's important to include your friends wherever you can so that nobody feels left behind or left out.",
+      "chineseTranslation": "我認為只要能力所及，盡可能讓你的朋友參與其中是非常重要的，這樣才不會有人覺得自己被冷落或被排擠了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s31-p1",
+          "title": "left behind",
+          "explanation": "意思是「被拋在後面」或「落後」，這裡指在群體活動中沒被跟上。",
+          "examples": [
+            "In modern society, we shouldn't let elderly people be left behind by technology."
+          ]
+        },
+        {
+          "id": "s31-p2",
+          "title": "left out",
+          "explanation": "非常常用的社交片語，意思是「被排擠」、「被冷落」或「被排除在外」[cite: 4]。",
+          "examples": [
+            "He felt left out when all his co-workers went out for lunch without him."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    }
+  ]
+}

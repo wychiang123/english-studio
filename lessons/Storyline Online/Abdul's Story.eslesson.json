@@ -1,0 +1,1119 @@
+{
+  "schemaVersion": "1.0",
+  "lessonType": "english-story",
+  "title": "Abdul's Story",
+  "source": "Storyline Online",
+  "sourceUrl": "https://storylineonline.net/",
+  "author": "Jamilah Thompkins-Bigelow",
+  "narrator": "Tramell Tillman",
+  "language": "en",
+  "createdAt": "2026-07-08T08:48:00Z",
+  "tags": [
+    "kids",
+    "writing",
+    "confidence",
+    "creativity",
+    "representation"
+  ],
+  "description": "A touching story about a young boy named Abdul who loves to tell stories but struggles with writing and spelling, until an inspiring author shows him that making a mess is part of the journey.",
+  "sentences": [
+    {
+      "id": "s1",
+      "order": 1,
+      "englishOriginal": "Abdul loved to tell stories.",
+      "chineseTranslation": "阿布鐸很喜歡講故事。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s2",
+      "order": 2,
+      "englishOriginal": "He told one about the high-stepping kids who collected donations in boots.",
+      "chineseTranslation": "他講過一個故事，是關於一群踏著高亢步伐、用長靴募集捐款的孩子們。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s2-p1",
+          "title": "high-stepping",
+          "explanation": "形容走路時「大步高抬腿」的樣子，通常展現出非常有精神、神氣或具有儀式感的步伐（常見於遊行或鼓號樂隊）。",
+          "examples": [
+            "The high-stepping marching band excited the crowd during the parade."
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "s2-g1",
+          "title": "Pronoun 'one' (代名詞用法)",
+          "explanation": "句中的「one」是不定代名詞，用來替代前面提到過的單數可數名詞「story」，避免字詞重複。",
+          "examples": [
+            "If you need a pen, I can lend you one."
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s3",
+      "order": 3,
+      "englishOriginal": "Another about the teenagers who danced in subway cars.",
+      "chineseTranslation": "另一個故事则是關於在地鐵車廂裡跳舞的青少年們。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s3-p1",
+          "title": "subway car",
+          "explanation": "指地鐵的「一節車廂」。",
+          "examples": [
+            "The subway car was crowded with commuters during rush hour."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s4",
+      "order": 4,
+      "englishOriginal": "He had one about the bow-tie-wearing man hawking bean pies on Broad Street and even one about the woman who sold water ice from her basement on hot summer days.",
+      "chineseTranslation": "他還有一個故事，是關於在寬街上沿街叫賣豆派、繫著領結的男子；甚至還有一個故事，是關於在炎熱夏日裡，從自家地下室出售水果冰沙的女人。",
+      "vocabularyNotes": [
+        {
+          "id": "s4-v1",
+          "title": "hawk",
+          "explanation": "動詞，指在沿街「叫賣」或「兜售」商品。",
+          "examples": [
+            "Street vendors were hawking souvenirs to the tourists."
+          ]
+        },
+        {
+          "id": "s4-v2",
+          "title": "water ice",
+          "explanation": "一種美式傳統冰品，特別盛行於費城等美國東岸地區。它介於刨冰與雪酪（sherbet）之間，由水、糖和新鮮水果調味製成。",
+          "examples": [
+            "Nothing beats a cup of lemon water ice on a hot July afternoon."
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s5",
+      "order": 5,
+      "englishOriginal": "Writing these stories was hard, though.",
+      "chineseTranslation": "然而，要把這些故事寫下來卻很困難。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "s5-g1",
+          "title": "Gerund as Subject (動名詞作主詞)",
+          "explanation": "句首的「Writing these stories」是動名詞片語，在句中充當主詞，其後的謂語動詞要用單數型（was）。結尾的 though 作副詞，意思是「然而、但是」，常放在句尾調節語氣。",
+          "examples": [
+            "Learning a new language is fun, though."
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s6",
+      "order": 6,
+      "englishOriginal": "Making lowercase b face the right way was tricky. P and s, too.",
+      "chineseTranslation": "要讓小寫字母 b 朝向正確的方向就很不容易。字母 p 和 s 也是如此。",
+      "vocabularyNotes": [
+        {
+          "id": "s6-v1",
+          "title": "lowercase",
+          "explanation": "印刷或書寫上的「小寫字母」（相對於大寫的 uppercase 或 capital letter）。",
+          "examples": [
+            "Please make sure your password contains both uppercase and lowercase letters."
+          ]
+        },
+        {
+          "id": "s6-v2",
+          "title": "tricky",
+          "explanation": "形容事情「棘手的、難應付的」或「容易讓人犯錯的」。",
+          "examples": [
+            "The exam had a few tricky questions that caught many students off guard."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s6-p1",
+          "title": "face the right way",
+          "explanation": "意思是「朝向正確的方向」。",
+          "examples": [
+            "Turn the map around so it's facing the right way."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s7",
+      "order": 7,
+      "englishOriginal": "Silent letters were downright sneaky.",
+      "chineseTranslation": "不發音的字母更是徹頭徹尾的狡猾。",
+      "vocabularyNotes": [
+        {
+          "id": "s7-v1",
+          "title": "sneaky",
+          "explanation": "形容詞，指「偷偷摸摸的、狡猾的」，這裡生動地把不發音的字母比喻成愛惡作劇的小偷。",
+          "examples": [
+            "I don't like his sneaky way of getting information."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s7-p1",
+          "title": "downright",
+          "explanation": "副詞，常用來加強語氣，意思是「徹頭徹尾地、完全地、簡直是」。",
+          "examples": [
+            "It's downright offensive to talk to people like that."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s8",
+      "order": 8,
+      "englishOriginal": "How could Abdul know there was an e if it never made a sound?",
+      "chineseTranslation": "如果字母 e 從不發出聲音，阿布鐸怎麼可能知道那裡有個 e 呢？",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s8-p1",
+          "title": "make a sound",
+          "explanation": "意思是「發出聲音」。",
+          "examples": [
+            "Be quiet and don't make a sound; the baby is finally asleep."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s9",
+      "order": 9,
+      "englishOriginal": "Abdul loved straight lines like the ones his barber shaved.",
+      "chineseTranslation": "阿布鐸喜歡筆直的線條，就像理髮師幫他剃出的髮線那樣。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "s9-g1",
+          "title": "The ones (代名詞與修飾)",
+          "explanation": "「the ones」是複數代名詞，替代前面出現的「straight lines」，後面跟著省略了關係代名詞的定語子句「his barber shaved」進行修飾。",
+          "examples": [
+            "I prefer blue shirts to the ones on display."
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s10",
+      "order": 10,
+      "englishOriginal": "But Abdul’s scribbly, scratchy, scrawly letters never stayed on any line.",
+      "chineseTranslation": "但是阿布鐸寫出來的那些歪歪扭扭、潦草雜亂的字母，從來沒辦法安分地待在任何一條橫線上。",
+      "vocabularyNotes": [
+        {
+          "id": "s10-v1",
+          "title": "scribbly",
+          "explanation": "形容詞，指字跡「亂塗亂畫的、歪歪扭扭的」。",
+          "examples": [
+            "The child left some scribbly notes on the notebook."
+          ]
+        },
+        {
+          "id": "s10-v2",
+          "title": "scratchy",
+          "explanation": "這裡用來形容字跡像用尖銳物體抓抓塗塗一般，顯得極其潦草、不流暢。",
+          "examples": [
+            "His handwriting was so scratchy that I couldn't read a single word."
+          ]
+        },
+        {
+          "id": "s10-v3",
+          "title": "scrawly",
+          "explanation": "形容詞，意同 scrawled，指書寫字體「亂寫的、字跡難看的」。作者在此使用了三個 sc- 開頭的押韻詞，來生動加強混亂的畫面感。",
+          "examples": [
+            "The package arrived with a scrawly signature on the receipt."
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s11",
+      "order": 11,
+      "englishOriginal": "During writing period each day, he wrote, then erased his mistakes... wrote then erased... wrote then erased.",
+      "chineseTranslation": "在每天的寫作課上，他寫了又擦掉錯誤……寫了又擦……寫了又擦。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s11-p1",
+          "title": "writing period",
+          "explanation": "在美式校園中，「period」常指一堂課的時間。「writing period」即代表「寫作課/寫作時間」。",
+          "examples": [
+            "The teacher asked us to remain quiet during the reading period."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s12",
+      "order": 12,
+      "englishOriginal": "His classmates had neat sentences. Abdul had smudges.",
+      "chineseTranslation": "他的同學們寫出了工整的句子。阿布鐸留下的卻只有一團團的橡皮擦髒污。",
+      "vocabularyNotes": [
+        {
+          "id": "s12-v1",
+          "title": "smudge",
+          "explanation": "名詞，指紙張上（因反覆塗改或墨水未乾而弄髒的）「污點、污跡、髒塊」。",
+          "examples": [
+            "There was a smudge of flour on her cheek while she was baking."
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s13",
+      "order": 13,
+      "englishOriginal": "Why write his stories anyway? The people and places in his schoolbooks never looked or sounded like the people or places he knew.",
+      "chineseTranslation": "反正，為什麼要寫自己的故事呢？教科書裡出現的人和地方，看起來或聽起來從來都不像他所熟知的那些人和那些地方。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s13-p1",
+          "title": "anyway",
+          "explanation": "副詞，放在疑問句尾時，常用來表達消極或質疑的語氣，相當於中文的「反正、究竟、到底何必」。",
+          "examples": [
+            "What does it matter anyway? Nobody cares."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s14",
+      "order": 14,
+      "englishOriginal": "Some stories are for books, Abdul decided, but not his.",
+      "chineseTranslation": "阿布鐸認定，有些故事天生就是寫進書裡的，但他的故事可不是。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "s14-g1",
+          "title": "Ellipsis (省略結構)",
+          "explanation": "句尾的「but not his」是一個省略句，完整的意思是「but his stories are not for books」。這在日常對話和故事描述中，能帶來俐落的語氣。",
+          "examples": [
+            "Most people like sweet tea, but not my father."
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s15",
+      "order": 15,
+      "englishOriginal": "One day, Abdul’s class had a visitor. Mr. Muhammad had lines straighter than straight around his beard and hairline.",
+      "chineseTranslation": "有一天，阿布鐸的班上來了一位訪客。穆罕默德先生鬍鬚與髮際線的線條，修整得簡直比筆直還要筆直。",
+      "vocabularyNotes": [
+        {
+          "id": "s15-v1",
+          "title": "hairline",
+          "explanation": "名詞，「髮際線」。",
+          "examples": [
+            "He has a high hairline, just like his grandfather."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s15-p1",
+          "title": "straighter than straight",
+          "explanation": "這是一種誇張的修辭道地手法，字面是「比筆直還要筆直」，用來強調極致完美、沒有任何一絲歪斜的狀態。",
+          "examples": [
+            "The military officer stood with a posture that was straighter than straight."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s16",
+      "order": 16,
+      "englishOriginal": "His sneakers, like Abdul’s, had not a single crease or scuff.",
+      "chineseTranslation": "他的運動鞋就像阿布鐸的一樣，上面連一條摺痕或磨損的痕跡都沒有。",
+      "vocabularyNotes": [
+        {
+          "id": "s16-v1",
+          "title": "crease",
+          "explanation": "名詞，指鞋面（尤其是皮革鞋頭因走路彎曲產生的）「摺痕、皺褶」。",
+          "examples": [
+            "He used shoe trees to prevent creases from forming in his leather boots."
+          ]
+        },
+        {
+          "id": "s16-v2",
+          "title": "scuff",
+          "explanation": "名詞，指鞋子因摩擦、碰撞留下的「磨損痕跡、刮痕」。",
+          "examples": [
+            "I managed to get a nasty scuff on my new shoes on the first day."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s16-p1",
+          "title": "not a single",
+          "explanation": "用來強力加強全盤否定的語氣，相當於「連一個……都沒有」。",
+          "examples": [
+            "There was not a single cloud in the sky this morning."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s17",
+      "order": 17,
+      "englishOriginal": "Mr. Muhammad was a writer. He read a story about a watchful boy with hair shaved low and skin the color of night.",
+      "chineseTranslation": "穆罕默德先生是一位作家。他朗讀了一個故事，內容是關於一個觀察敏銳的男孩，他留著短短的平頭，皮膚黑得像夜晚的顏色。",
+      "vocabularyNotes": [
+        {
+          "id": "s17-v1",
+          "title": "watchful",
+          "explanation": "形容詞，意思是「警惕的、密切留意的、觀察敏銳的」。",
+          "examples": [
+            "The dog kept a watchful eye on the stranger approaching the house."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s17-p1",
+          "title": "hair shaved low",
+          "explanation": "指的是頭髮修剪、剃得很短（類似平頭或寸頭）。",
+          "examples": [
+            "He prefers to keep his hair shaved low during the hot summer months."
+          ]
+        },
+        {
+          "id": "s17-p2",
+          "title": "the color of night",
+          "explanation": "一種極具詩意且優美的文學修辭手法，形容膚色深黑得非常高雅美麗。",
+          "examples": [
+            "The cat's sleek fur was the color of night."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s18",
+      "order": 18,
+      "englishOriginal": "Women braided hair on front steps in this story, girls with clacking beads jumped rope, and men in white thobes prayed on the sidewalk outside a full storefront mosque.",
+      "chineseTranslation": "在這個故事裡，女人們在門前台階上幫人編著頭髮，頭髮上掛著清脆碰撞珠子的女孩們在跳繩，身穿白色長袍的男人們則在一間擠滿人的臨街清真寺外的行人道上祈禱。",
+      "vocabularyNotes": [
+        {
+          "id": "s18-v1",
+          "title": "thobe",
+          "explanation": "名詞（也可拼作 thawb），指中東、阿拉伯或伊斯蘭傳統文化中男性穿著的「寬鬆腳踝長袍」。",
+          "examples": [
+            "Many men wore traditional white thobes to Friday prayers."
+          ]
+        },
+        {
+          "id": "s18-v2",
+          "title": "mosque",
+          "explanation": "伊斯蘭教的宗教場所，即「清真寺」。",
+          "examples": [
+            "The architectural design of the old mosque attracted many photographers."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s18-p1",
+          "title": "front steps",
+          "explanation": "指的是美國市區傳統住宅、公寓大門外的「正門台階」，常是社區街坊鄰居聚會、聊天的社交場所。",
+          "examples": [
+            "Neighbors often gathered on their front steps to chat on cool evenings."
+          ]
+        },
+        {
+          "id": "s18-p2",
+          "title": "storefront",
+          "explanation": "作定語用，指「店面式的、臨街鋪面的」，多形容改建自普通店面的社區場所。",
+          "examples": [
+            "They set up a small storefront clinic to serve the local community."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s19",
+      "order": 19,
+      "englishOriginal": "“Write new stories with new superheroes,” Mr. Muhammad said. Abdul pressed his paper down firmly. He could be an author like Mr. Muhammad.",
+      "chineseTranslation": "「寫出帶有全新超級英雄的新故事吧，」穆罕默德先生說道。阿布鐸重重地把紙張往下壓平。他也能成為像穆罕默德先生那樣的作家的。",
+      "vocabularyNotes": [
+        {
+          "id": "s19-v1",
+          "title": "author",
+          "explanation": "名詞，指「作者、作家」。",
+          "examples": [
+            "She is the author of three best-selling novels."
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s20",
+      "order": 20,
+      "englishOriginal": "But b played tricks again. Mr. Muhammad walked around, reading each child’s work. He was getting close. Does silent e go here? Silent u? Erase, erase, erase.",
+      "chineseTranslation": "但是字母 b 又開始惡作劇了。穆罕默德先生繞著教室走動，讀著每個孩子的作品。他越走越近了。不發音的 e 是加在這裡嗎？不發音的 u 呢？擦掉、擦掉、再擦掉。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s20-p1",
+          "title": "play tricks",
+          "explanation": "意思是「惡作劇、搞鬼、捉弄人」。這裡擬人化地指字母的方向或拼法再次讓阿布鐸感到混淆。",
+          "examples": [
+            "My eyes must be playing tricks on me; I thought I saw a shadow."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s21",
+      "order": 21,
+      "englishOriginal": "Abdul tried writing neatly. Write, erase, write, erase, erase, rip! He slammed down his pencil.",
+      "chineseTranslation": "阿布鐸試著寫得工整。寫、擦掉、寫、擦掉、擦掉，撕拉！紙破了！他狠狠地摔下鉛筆。",
+      "vocabularyNotes": [
+        {
+          "id": "s21-v1",
+          "title": "rip",
+          "explanation": "動詞或擬聲詞，指紙張或布料「撕裂、破開」。",
+          "examples": [
+            "He accidentally ripped the page while turning it too quickly."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s21-p1",
+          "title": "slam down",
+          "explanation": "意思是用力「砰地一聲放下、猛摔」。",
+          "examples": [
+            "He slammed down the phone in anger after the argument."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s22",
+      "order": 22,
+      "englishOriginal": "Jayda and Kwame had pages of words. Abdul had a hole.",
+      "chineseTranslation": "潔達和夸梅寫滿了整頁整頁的文字。阿布鐸的紙上卻只有一個破洞。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s22-p1",
+          "title": "pages of",
+          "explanation": "意思是「好幾頁的、大量的頁數」，用來與阿布鐸的「一個大洞」形成強烈且令人心疼的對比。",
+          "examples": [
+            "She wrote pages of notes during the intensive training session."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s23",
+      "order": 23,
+      "englishOriginal": "Abdul slid down... down... down under the table. He imagined an eraser big enough to erase himself.",
+      "chineseTranslation": "阿布鐸整個人往下滑……滑到了課桌底下。他幻想著能有一個大到足以把自己也一併擦掉的橡皮擦。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s23-p1",
+          "title": "slide down",
+          "explanation": "指人因羞愧、沮喪而在椅子上「癱軟、往下滑落」的身體形態。",
+          "examples": [
+            "The bored student slid down in his seat during the lecture."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s24",
+      "order": 24,
+      "englishOriginal": "“Nice sneaks! Can I see your story?” Mr. Muhammad asked. “I don’t got a story,” Abdul whispered.",
+      "chineseTranslation": "「球鞋很帥喔！我能看看你的故事嗎？」穆罕默德先生問道。「我沒有故事，」阿布鐸低聲耳語。",
+      "vocabularyNotes": [
+        {
+          "id": "s24-v1",
+          "title": "sneaks",
+          "explanation": "美式英語口語中「sneakers」的簡稱，指「運動鞋、球鞋」。",
+          "examples": [
+            "He wore a new pair of white sneaks to school today."
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "s24-g1",
+          "title": "Non-standard Grammar (非標準口語語法)",
+          "explanation": "「I don’t got a story」是美國非裔英語（AAVE）或美式道地街頭口語中極常見的非標準語法，標準語法應為「I don't have a story」或「I haven't got a story」。作者特意保留這點，展現主角最真實的本土語音背景。",
+          "examples": [
+            "I don't got any cash on me right now."
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s25",
+      "order": 25,
+      "englishOriginal": "“Everyone has stories.” “But I can’t write like them.” Abdul pointed. “Me neither,” Mr. Muhammad said. “Come with me. I want to show you my notebook.”",
+      "chineseTranslation": "「每個人都有故事的。」「但我沒辦法寫得像他們一樣好。」阿布鐸指了指。「我也沒辦法啊，」穆罕默德先生說：「跟我來，我想給你看我的筆記本。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s25-p1",
+          "title": "Me neither",
+          "explanation": "在口語中用來附和對方的否定句，表示「我也沒有、我也不行」（等同於 Neither can I）。[cite: 4]",
+          "examples": [
+            "\"I don't like spicy food.\" \"Me neither.\""
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s26",
+      "order": 26,
+      "englishOriginal": "“That’s a mess!” “I get messy words out, so good words can come too. I fix the mess later.”",
+      "chineseTranslation": "「那裡面好亂喔！」「我只是先把混亂的字清出來，這樣美好的字句才能跟著出來。那些混亂我之後再去修改就好。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s26-p1",
+          "title": "get something out",
+          "explanation": "這裡的意思是「宣洩出來、釋放出來、清空出來」，指寫作時不需要拘泥形式，直接把腦子裡想的東西先傾倒出來。",
+          "examples": [
+            "You just need to get your angry thoughts out on paper."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s27",
+      "order": 27,
+      "englishOriginal": "Before walking away, he said, “Keep trying.” That gave Abdul an idea. “Bismillah,” he said. SNAP!",
+      "chineseTranslation": "在走開之前，他說了句：「繼續努力。」這給了阿布鐸一個靈感。「奉真主之名，」他說道。啪嗒！他折斷了鉛筆的某一端（或打響指、下定決心）。",
+      "vocabularyNotes": [
+        {
+          "id": "s27-v1",
+          "title": "Bismillah",
+          "explanation": "感嘆詞，源自阿拉伯語，字面意思是「奉真主（安拉）之名」。這是穆斯林在開始做任何重要事情（如吃飯、寫作、出門、開啟新挑戰）之前的傳統宣告，用來祈求順利與庇佑。",
+          "examples": [
+            "Bismillah, let's start this long journey."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s27-p1",
+          "title": "give someone an idea",
+          "explanation": "意思是「讓某人產生想法、給某人帶來靈感」。",
+          "examples": [
+            "Seeing the kids play gave the engineer an idea for a new toy."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s28",
+      "order": 28,
+      "englishOriginal": "Abdul scribbled words and made mistakes without erasing. He wrote around the hole, filling the page.",
+      "chineseTranslation": "阿布鐸開始胡亂塗寫字詞，即便犯了錯也完全不去擦拭。他繞著紙上的那個破洞寫，直到填滿了整張紙。",
+      "vocabularyNotes": [
+        {
+          "id": "s28-v1",
+          "title": "scribble",
+          "explanation": "動詞，指「信手塗鴉、胡亂書寫、潦草地寫」。",
+          "examples": [
+            "He scribbled a phone number on the back of the receipt."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s28-p1",
+          "title": "write around",
+          "explanation": "字面意思是「繞著……寫」，這裡指阿布鐸避開那個破損的洞，在洞的周圍繼續瘋狂創作。",
+          "examples": [
+            "The coffee stain was large, so I had to write around it."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s29",
+      "order": 29,
+      "englishOriginal": "“I wrote a mess like yours!” Abdul told Mr. Muhammad. Mr. Muhammad smiled. “Find a great story in there.”",
+      "chineseTranslation": "「我寫出了一團跟你一樣亂糟糟的東西了！」阿布鐸對穆罕默德先生說。穆罕默德先生笑了笑說：「在裡面找出一篇偉大的故事吧。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s30",
+      "order": 30,
+      "englishOriginal": "Abdul squinted. He saw words, misspelled, but wondrous and sloppy-looking sentences he loved.",
+      "chineseTranslation": "阿布鐸瞇起眼睛仔細看。他看到了雖然拼錯了字、外觀卻極其精彩且雜亂，但自己深深喜愛的句子。",
+      "vocabularyNotes": [
+        {
+          "id": "s30-v1",
+          "title": "squint",
+          "explanation": "動詞，指「瞇著眼睛看」，多因光線太強或試圖看清微小難辨的事物。",
+          "examples": [
+            "She squinted to read the tiny print on the medication bottle."
+          ]
+        },
+        {
+          "id": "s30-v2",
+          "title": "wondrous",
+          "explanation": "形容詞，屬於比較文學、精緻的詞彙，意思是「奇妙的、極好的、令人驚嘆的」。",
+          "examples": [
+            "The children looked up at the wondrous display of fireworks."
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s30-p1",
+          "title": "sloppy-looking",
+          "explanation": "複合形容詞，指外觀看起來「邋遢的、不整潔的、馬虎草率的」。",
+          "examples": [
+            "He presented a sloppy-looking report to the manager."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s31",
+      "order": 31,
+      "englishOriginal": "Over the next few days, Abdul rewrote a less messy mess, then an even less messy mess.",
+      "chineseTranslation": "在接下來的幾天裡，阿布鐸重新寫了一份沒那麼亂的草稿，接著又寫了一份更加井然有序的草稿。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s31-p1",
+          "title": "less messy mess",
+          "explanation": "作者故意重複使用形容詞與名詞的同根詞「messy mess」，創造出極具幽默與畫面感的文字，來修飾「逐漸好轉、逐漸清晰的草稿狀態」。",
+          "examples": [
+            "After cleaning for an hour, the room became a slightly less messy mess."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s32",
+      "order": 32,
+      "englishOriginal": "He smiled when he read his story to himself. But when it was time to hand it in, he didn’t feel like smiling.",
+      "chineseTranslation": "當他默默讀著自己的故事時，他露出了微笑。但當到了要交作業的時候，他卻一點也笑不出來了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s32-p1",
+          "title": "read something to oneself",
+          "explanation": "意思是「在心裡默讀」或是「小聲嘟囔著讀給自己聽」。",
+          "examples": [
+            "She read the letter to herself, gasping at the news."
+          ]
+        },
+        {
+          "id": "s32-p2",
+          "title": "hand it in",
+          "explanation": "校園與職場高頻片語，指「提交、上交（作業、報告等）」。",
+          "examples": [
+            "Remember to hand your test papers in before the bell rings."
+          ]
+        },
+        {
+          "id": "s32-p3",
+          "title": "feel like doing something",
+          "explanation": "意思是「想要、有做某件事的意願」[cite: 4]，後面一定要接 V-ing 動詞形式。",
+          "examples": [
+            "I don't feel like cooking tonight; let's order takeout."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s33",
+      "order": 33,
+      "englishOriginal": "“That’s sloppy!” Jayda said. “You spelled a word wrong,” Kwame added. Abdul slipped his paper underneath the others.",
+      "chineseTranslation": "「那太潦草了吧！」潔達說。「你把字拼錯了，」夸梅補充道。阿布鐸默默把自己的那張紙塞到了其他同學的作業底下。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s33-p1",
+          "title": "spell a word wrong",
+          "explanation": "意思是「拼錯單字」（wrong 在此作副詞，也可以用 incorrectly 替代）。",
+          "examples": [
+            "I always spell the word 'necessary' wrong on the first try."
+          ]
+        },
+        {
+          "id": "s33-p2",
+          "title": "slip underneath",
+          "explanation": "意思是「悄悄塞進……下方」，非常細膩地刻畫出主角感到羞愧、想藏起作品的自卑心理。",
+          "examples": [
+            "The thief slipped the stolen key underneath the doormat."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s34",
+      "order": 44,
+      "englishOriginal": "Some kids are writers, Abdul thought, but not me.",
+      "chineseTranslation": "有些小孩子天生就是作家的料，阿布鐸心想，但絕對不是我。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s35",
+      "order": 35,
+      "englishOriginal": "Days later, Mr. Muhammad returned. “I loved your stories!” he exclaimed. “I had to read one again and again. It was so good!”",
+      "chineseTranslation": "幾天後，穆罕默德先生回來了。「我太喜歡你們寫的故事了！」他驚呼道：「其中有一篇，讓我忍不住一讀再讀。簡直太棒了！」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s35-p1",
+          "title": "again and again",
+          "explanation": "意思是「一再地、反覆地」。",
+          "examples": [
+            "I played my favorite song again and again all night."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s36",
+      "order": 36,
+      "englishOriginal": "Everyone sat up. Everyone except Abdul. Kwame whispered, “I bet it was mine. I spelled every word right.”",
+      "chineseTranslation": "每個人都挺直了腰桿。除了阿布鐸以外。夸梅低聲說：「我敢打賭一定是我的。我每個字都拼對了。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s36-p1",
+          "title": "sat up",
+          "explanation": "字面是「坐正、坐直」，引申為因為興奮、期待而「打起精神、全神貫注」[cite: 4]。",
+          "examples": [
+            "The audience sat up when the celebrity entered the studio."
+          ]
+        },
+        {
+          "id": "s36-p2",
+          "title": "I bet",
+          "explanation": "老外口語中超常用的口頭禪，意思是「我敢說、我敢打賭、肯定……」。",
+          "examples": [
+            "I bet it's going to rain later; look at those dark clouds."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s37",
+      "order": 37,
+      "englishOriginal": "Jayda whispered back, “He probably liked mine. I have the best handwriting in the class!”",
+      "chineseTranslation": "潔達也低聲回敬道：「他很可能是喜歡我的。我可是全班字寫得最好看的人！」",
+      "vocabularyNotes": [
+        {
+          "id": "s37-v1",
+          "title": "handwriting",
+          "explanation": "名詞，人的「字跡、書寫風格」。",
+          "examples": [
+            "Her handwriting is very neat and easy to read."
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s38",
+      "order": 38,
+      "englishOriginal": "Mr. Muhammad started reading the story in a loud, clear voice. It was about a boy with tall hair, shaped with sharp lines, and skin the orange-brown of sunrise.",
+      "chineseTranslation": "穆罕默德先生開始用洪亮且清晰的聲音朗讀起那篇故事。故事是關於一個留著高聳髮型、髮線修剪得有棱有角，皮膚帶著如日出般橘褐色澤的男孩。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s38-p1",
+          "title": "in a loud, clear voice",
+          "explanation": "固定片語結構，意思是「用洪亮且清晰的嗓音」。",
+          "examples": [
+            "The student answered the question in a loud, clear voice."
+          ]
+        },
+        {
+          "id": "s38-p2",
+          "title": "the orange-brown of sunrise",
+          "explanation": "優美的文學修辭，將日出的橘褐色光芒用來形容溫暖、美麗的非裔膚色。",
+          "examples": [
+            "The desert sands glowed with the orange-brown of sunrise."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s39",
+      "order": 39,
+      "englishOriginal": "He watched over the kids stomp-stomp-stepping down the block and the ones breaking to the beat of a city train. He even protected the grown-ups who sold things and were like family.",
+      "chineseTranslation": "他守護著那些在街區裡大步踏跳的孩子們，以及那些配合著城市列車節奏大跳霹靂舞的人。他甚至保護著那些沿街叫賣、關係親如家人的大人們。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s39-p1",
+          "title": "watch over",
+          "explanation": "意思是「看守、守護、照料（確保其安全）」。",
+          "examples": [
+            "The mother bird watched over her chicks until they could fly."
+          ]
+        },
+        {
+          "id": "s39-p2",
+          "title": "down the block",
+          "explanation": "美式口語，指「沿著這條街、在這個街區範圍內」。",
+          "examples": [
+            "There is a great bakery just down the block."
+          ]
+        },
+        {
+          "id": "s39-p3",
+          "title": "breaking to the beat",
+          "explanation": "「breaking」在此指的是嘻哈文化中的「霹靂舞（Breakdancing）」。整句指人們伴隨著城市地鐵行進時發出的鏗鏘節奏直接在街頭街車上尬舞。",
+          "examples": [
+            "The street dancers were breaking to the beat of the loud boombox."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s40",
+      "order": 40,
+      "englishOriginal": "Abdul sat up. It was his story. And then Mr. Muhammad paused. He frowned at the page. Abdul’s cheeks burned.",
+      "chineseTranslation": "阿布鐸猛地坐直了。那是他的故事！然而就在那時，穆罕默德先生停頓了一下。他對著紙張皺了皺眉。阿布鐸的雙頰頓時感到一陣火辣辣的燙意。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s40-p1",
+          "title": "cheeks burn",
+          "explanation": "臉頰發燙、發燒，極其形象地用來形容人因為尷尬、羞愧、緊張或羞辱而「臉紅、感到無地自容」的心理反應。[cite: 4]",
+          "examples": [
+            "Her cheeks burned when she realized she had walked into the wrong restroom."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s41",
+      "order": 41,
+      "englishOriginal": "Everyone listened, wide-eyed and silent. Mr. Muhammad read on, stopping a few more times at mistakes, until he reached the end of the story.",
+      "chineseTranslation": "每個人都睜大了雙眼，全神貫注、悄無聲息地聽著。穆罕默德先生繼續往下讀，中途又因為字句錯誤而停頓了幾次，直到他讀完了整個故事的結尾。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s41-p1",
+          "title": "wide-eyed",
+          "explanation": "形容詞，指「睜大眼睛的」，通常形容因為驚奇、驚訝、期待或高度專注的神情。",
+          "examples": [
+            "The children stared wide-eyed at the magician's incredible trick."
+          ]
+        },
+        {
+          "id": "s41-p2",
+          "title": "read on",
+          "explanation": "意思是「繼續讀下去」（on 在此作副詞，表示動作延續）。",
+          "examples": [
+            "Please read on from where you left off yesterday."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s42",
+      "order": 42,
+      "englishOriginal": "“That was by Abdul,” Mr. Muhammad said. Abdul slowly looked up. Everyone stared. Were they smiling? Yes! And clapping, too!",
+      "chineseTranslation": "「那是阿布鐸的作品，」穆罕默德先生說道。阿布鐸緩緩抬起頭。每個人都盯著他看。大家在笑嗎？是的！而且他們還在鼓掌呢！",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s43",
+      "order": 43,
+      "englishOriginal": "“Great story!” Kwame told Abdul. “I loved it!” said Jayda. When they returned to their writing, Abdul whispered to Mr. Muhammad, “What about my mistakes?”",
+      "chineseTranslation": "「故事太棒了！」夸梅對阿布鐸說。「我好喜歡！」潔達也說道。當大家重新回到寫作練習時，阿布鐸低聲問穆罕默德先生：「那我的那些錯誤呢？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s43-p1",
+          "title": "return to",
+          "explanation": "意思是「重新回到（原來的狀態或活動中）」。",
+          "examples": [
+            "After a brief coffee break, the team returned to work."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s44",
+      "order": 44,
+      "englishOriginal": "“Writers make mistakes. We’ll work on them.” As they worked, Abdul thought: Some people are writers, and I am one of them.",
+      "chineseTranslation": "「作家本來就會犯錯啊。我們會一起來修正它們的。」當他們一起修改時，阿布鐸心想：有些人天生就是作家，而我，正是他們之中的一員。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s44-p1",
+          "title": "work on something",
+          "explanation": "意思是「致力於、花心思研究或改進某事」。這裡指的是穆罕默德先生會逐步指導阿布鐸修正拼寫和文法缺陷。[cite: 4]",
+          "examples": [
+            "He needs to work on his presentation skills before the big conference."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s45",
+      "order": 45,
+      "englishOriginal": "He was able to find his voice and realize that his voice matters.",
+      "chineseTranslation": "他成功找到了屬於自己的聲音，並且意識到自己的心聲是非常重要的。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s45-p1",
+          "title": "find one's voice",
+          "explanation": "這是一個極高雅的抽象片語，意思是「找到自己的聲音、發掘自己的表達能力/創作風格」，指人能夠自信地表達內心的真正信念。",
+          "examples": [
+            "It took her years of writing to finally find her unique voice as a poet."
+          ]
+        },
+        {
+          "id": "s45-p2",
+          "title": "something matters",
+          "explanation": "動詞用法，表示「事關重大、有深遠影響、至關重要」。",
+          "examples": [
+            "Your opinion matters to us, so please fill out the feedback form."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s46",
+      "order": 46,
+      "englishOriginal": "So no matter your story, no matter how you tell stories, no matter your journey, make sure you tell it loud and proud because the world is ready to hear it.",
+      "chineseTranslation": "所以，不論你的故事是什麼，不論你用什麼方式講故事，也不論你正經歷著怎樣的旅程，請務必大聲且自豪地把它講出來，因為這個世界已經準備好要聆聽了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s46-p1",
+          "title": "no matter",
+          "explanation": "常與 what, how, who 等連用，但在這裡口語中省略了後續詞彙，直接接名詞，表示「不論……、不管……」。",
+          "examples": [
+            "No matter the cost, we will complete the rescue mission."
+          ]
+        },
+        {
+          "id": "s46-p2",
+          "title": "loud and proud",
+          "explanation": "非常有渲染力的英文固定口語組合，意思是「大聲且自豪地、挺起胸膛自信地（表達出來）」。",
+          "examples": [
+            "She stood on the stage and delivered her speech loud and proud."
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    }
+  ]
+}
