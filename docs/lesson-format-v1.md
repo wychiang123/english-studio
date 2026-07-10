@@ -91,11 +91,16 @@ interface LessonSentence {
 ## 5. LearningNote schema
 
 ```ts
+interface LearningExample {
+  english: string;
+  chinese: string;
+}
+
 interface LearningNote {
   id: string;
   title: string;
   explanation: string;
-  examples: string[];
+  examples: LearningExample[];
 }
 ```
 
@@ -104,13 +109,20 @@ interface LearningNote {
 | `id` | yes | Unique identifier for the note within its sentence/section. |
 | `title` | yes | Short heading for the note — should be **English** when possible (e.g. a vocabulary word, a phrase, a grammar pattern name). |
 | `explanation` | yes | The explanation of the note — should be written in **Traditional Chinese**. |
-| `examples` | yes | Example sentences illustrating the note. Should **preferably be English** examples. May be an empty array if no good example exists. |
+| `examples` | yes | Example sentence pairs illustrating the note. Each item is a `LearningExample` with an `english` sentence and its matching `chinese` translation. May be an empty array if no good example exists. |
+
+`LearningExample` field notes:
+
+| Field | Required | Description |
+|---|---|---|
+| `english` | yes | An English example sentence demonstrating the note's title/point, ideally in a different context than the source sentence. |
+| `chinese` | yes | The natural Traditional Chinese translation of that exact `english` sentence. |
 
 **Rules for note quality:**
 
 - `title` should be in English whenever the concept being explained is an English word, phrase, or grammar term.
 - `explanation` should be in Traditional Chinese, since it exists to explain the English content to a Chinese-speaking learner.
-- `examples` should preferably be English sentences that demonstrate the note's title/point in context.
+- `examples` should be English sentences that demonstrate the note's title/point in context, each paired one-to-one with a natural Traditional Chinese translation via `LearningExample.chinese` — never bare strings.
 - **Do not include empty or low-value notes just to fill out a section.** An empty `vocabularyNotes: []` array is correct and expected for a simple sentence with nothing worth annotating. Never pad sections with filler notes to make them look "complete."
 
 ## 6. English Studio internal fields
@@ -172,8 +184,8 @@ Because English Studio never overwrites a `Sentence`'s user-practice fields from
           "title": "edge",
           "explanation": "「edge」指某個區域的邊緣或外圍部分,這裡指森林的邊界地帶。",
           "examples": [
-            "She stood at the edge of the cliff.",
-            "The house is on the edge of town."
+            { "english": "She stood at the edge of the cliff.", "chinese": "她站在懸崖的邊緣。" },
+            { "english": "The house is on the edge of town.", "chinese": "那棟房子座落在鎮的邊緣。" }
           ]
         }
       ],
@@ -183,7 +195,7 @@ Because English Studio never overwrites a `Sentence`'s user-practice fields from
           "title": "once upon a time",
           "explanation": "這是英文故事開頭常見的固定用語,相當於中文的「從前」,用來開啟一個童話或故事。",
           "examples": [
-            "Once upon a time, there was a princess who loved to read."
+            { "english": "Once upon a time, there was a princess who loved to read.", "chinese": "從前,有一位喜愛閱讀的公主。" }
           ]
         }
       ],
@@ -203,8 +215,8 @@ Because English Studio never overwrites a `Sentence`'s user-practice fields from
           "title": "would + verb (habitual past)",
           "explanation": "「would」加原形動詞用來描述過去經常發生的習慣性動作,語感類似中文的「總是會」。",
           "examples": [
-            "Every summer, we would visit our grandparents.",
-            "He would always bring a book to read."
+            { "english": "Every summer, we would visit our grandparents.", "chinese": "每年夏天,我們總是會去拜訪祖父母。" },
+            { "english": "He would always bring a book to read.", "chinese": "他總是會帶一本書來看。" }
           ]
         }
       ],
@@ -214,7 +226,7 @@ Because English Studio never overwrites a `Sentence`'s user-practice fields from
           "title": "wake up early",
           "explanation": "「wake up early」是道地的英文說法,表示早起,比逐字翻譯「起床得早」更自然、更常被母語者使用。",
           "examples": [
-            "I need to wake up early tomorrow for the meeting."
+            { "english": "I need to wake up early tomorrow for the meeting.", "chinese": "我明天需要早起去開會。" }
           ]
         }
       ]

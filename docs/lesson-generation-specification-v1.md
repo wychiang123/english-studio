@@ -152,11 +152,13 @@ Each stage consumes the output of the previous stage (plus, where noted, earlier
 - Only genuinely useful vocabulary is noted — common, basic words a learner already knows do not generate a note.
 - `title` is the English word (or its base form).
 - `explanation` is written in Traditional Chinese.
-- `examples` are preferably English sentences demonstrating the word in a different context than the source sentence.
+- `examples` are English sentences demonstrating the word in a different context than the source sentence, and each English example must have a corresponding Traditional Chinese translation in the same `LearningExample`, forming a one-to-one English/Chinese pairing.
+- Each example's Chinese translation must be natural Traditional Chinese, not a literal, mechanical rendering of the English.
 - A sentence with no noteworthy vocabulary produces an empty `vocabularyNotes` array — this is expected and correct (see [Section 5, Avoid filler content](#avoid-filler-content)).
 
 **Validation:**
 - Every note has a non-empty `title` and `explanation`.
+- Every example has both a non-empty `english` sentence and a non-empty, natural Traditional Chinese `chinese` translation.
 - No note exists solely to fill the array.
 
 ### 4.7 Phrase Analysis
@@ -171,11 +173,13 @@ Each stage consumes the output of the previous stage (plus, where noted, earlier
 - A phrase note covers a group of words that function or are learned together (e.g. "once upon a time", "in front of", "make sure").
 - `title` is the phrase itself, in English.
 - `explanation` is in Traditional Chinese, describing meaning and usage.
-- `examples` are preferably English, showing the phrase reused in a different sentence.
+- `examples` are English sentences showing the phrase reused in a different sentence, and each English example must have a corresponding Traditional Chinese translation in the same `LearningExample`, forming a one-to-one English/Chinese pairing.
+- Each example's Chinese translation must be natural Traditional Chinese, not a literal, mechanical rendering of the English.
 - A phrase note must not duplicate a point already fully covered by a vocabulary note for the same sentence.
 
 **Validation:**
 - Every note has a non-empty `title` and `explanation`.
+- Every example has both a non-empty `english` sentence and a non-empty, natural Traditional Chinese `chinese` translation.
 - `title` genuinely consists of more than one word.
 
 ### 4.8 Grammar Analysis
@@ -190,11 +194,13 @@ Each stage consumes the output of the previous stage (plus, where noted, earlier
 - A grammar note explains a structural pattern (e.g. verb tense, conditional form, relative clause) — not a vocabulary or phrase meaning.
 - `title` names the pattern in English (e.g. "would + verb (habitual past)").
 - `explanation` is in Traditional Chinese, describing how and why the pattern is used.
-- `examples` are preferably English sentences using the same pattern in a different context.
+- `examples` are English sentences using the same pattern in a different context, and each English example must have a corresponding Traditional Chinese translation in the same `LearningExample`, forming a one-to-one English/Chinese pairing.
+- Each example's Chinese translation must be natural Traditional Chinese, not a literal, mechanical rendering of the English.
 - Only sentences with a grammar point genuinely worth teaching receive a note; simple sentences with no notable structure produce an empty array.
 
 **Validation:**
 - Every note has a non-empty `title` and `explanation`.
+- Every example has both a non-empty `english` sentence and a non-empty, natural Traditional Chinese `chinese` translation.
 - `explanation` describes a structural/grammatical pattern, not a single word's meaning.
 
 ### 4.9 Native Expression Analysis
@@ -209,11 +215,13 @@ Each stage consumes the output of the previous stage (plus, where noted, earlier
 - A native expression note highlights phrasing where a direct, literal translation would sound unnatural, and explains the idiomatic native alternative.
 - `title` is the natural English expression.
 - `explanation` is in Traditional Chinese, contrasting the natural phrasing with a more literal/awkward alternative when helpful.
-- `examples` are preferably English.
+- `examples` are English sentences, and each English example must have a corresponding Traditional Chinese translation in the same `LearningExample`, forming a one-to-one English/Chinese pairing.
+- Each example's Chinese translation must be natural Traditional Chinese, not a literal, mechanical rendering of the English.
 - This category is used sparingly — reserved for expressions that meaningfully teach natural usage, not applied to every sentence.
 
 **Validation:**
 - Every note has a non-empty `title` and `explanation`.
+- Every example has both a non-empty `english` sentence and a non-empty, natural Traditional Chinese `chinese` translation.
 - Notes in this category are not duplicates of notes already captured under `phraseNotes` or `grammarNotes` for the same sentence.
 
 ### 4.10 Lesson Validation
@@ -246,10 +254,12 @@ Each stage consumes the output of the previous stage (plus, where noted, earlier
 - Output contains only fields defined in Lesson Format v1; no extra, undocumented fields are added.
 - `schemaVersion` is set to `"1.0"`.
 - `createdAt` reflects the actual generation time as an ISO 8601 datetime string.
+- Every `LearningNote.examples` entry is emitted as a `{ "english": ..., "chinese": ... }` object, per [Lesson Format v1, Section 5](./lesson-format-v1.md#5-learningnote-schema) — never as a bare string.
 
 **Validation:**
 - Output parses as valid JSON with no errors.
 - Output matches the Lesson Format v1 schema exactly: no missing required fields, no disallowed fields.
+- Every example object in every note has both `english` and `chinese` fields.
 
 ## 5. Quality Principles
 
@@ -284,6 +294,7 @@ A generated lesson must satisfy all of the following before it may be exported:
 - **Every sentence must have English.** Each `LessonSentence.englishOriginal` is present and non-empty.
 - **Every sentence must have Chinese.** Each `LessonSentence.chineseTranslation` is present and non-empty.
 - **Every `LearningNote` must contain meaningful content.** `title` and `explanation` are both non-empty and substantive — not placeholder text, not a restatement of the sentence itself, and not generated merely to fill a section.
+- **Every example must be a bilingual pair.** Each item in a note's `examples` array is a `LearningExample` object with both a non-empty `english` sentence and its corresponding non-empty, natural Traditional Chinese `chinese` translation — never a bare string.
 - **Reject incomplete lessons.** A lesson missing required top-level fields (per [Lesson Format v1, Section 3](./lesson-format-v1.md#3-top-level-json-schema)), missing a `sentences` array, or whose sentences don't collectively account for the full source transcript, must not be exported.
 - **Reject malformed Lesson JSON.** A lesson that fails to parse as valid JSON, or that does not conform to the Lesson Format v1 schema (wrong types, wrong `schemaVersion`, disallowed fields, etc.), must not be exported.
 - **Validate JSON syntax before saving into `lessons/`.** See [Required JSON Validation Step](#required-json-validation-step) — this is a separate, mandatory check from schema validation above.

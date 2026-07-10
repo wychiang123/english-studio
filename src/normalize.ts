@@ -1,6 +1,7 @@
 import { createId } from "./id";
 import { mergeSentence } from "./progress";
 import type {
+  LearningExample,
   LearningNote,
   Sentence,
   SentenceContent,
@@ -21,16 +22,28 @@ export function asBoolean(value: unknown, fallback = false): boolean {
   return typeof value === "boolean" ? value : fallback;
 }
 
+export function normalizeLearningExample(raw: unknown): LearningExample | null {
+  if (!isObject(raw)) return null;
+  return {
+    english: asString(raw.english),
+    chinese: asString(raw.chinese),
+  };
+}
+
+export function normalizeLearningExamples(raw: unknown): LearningExample[] {
+  if (!Array.isArray(raw)) return [];
+  return raw
+    .map(normalizeLearningExample)
+    .filter((e): e is LearningExample => e !== null);
+}
+
 export function normalizeLearningNote(raw: unknown): LearningNote | null {
   if (!isObject(raw)) return null;
-  const examples = Array.isArray(raw.examples)
-    ? raw.examples.filter((e): e is string => typeof e === "string")
-    : [];
   return {
     id: asString(raw.id) || createId(),
     title: asString(raw.title),
     explanation: asString(raw.explanation),
-    examples,
+    examples: normalizeLearningExamples(raw.examples),
   };
 }
 

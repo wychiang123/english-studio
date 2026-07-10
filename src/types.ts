@@ -1,8 +1,13 @@
+export interface LearningExample {
+  english: string;
+  chinese: string;
+}
+
 export interface LearningNote {
   id: string;
   title: string;
   explanation: string;
-  examples: string[];
+  examples: LearningExample[];
 }
 
 /**

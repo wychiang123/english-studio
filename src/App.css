@@ -445,7 +445,13 @@ textarea:focus {
 .example-list {
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: 10px;
+}
+
+.example-item {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
 }
 
 .example-row {
@@ -466,6 +472,21 @@ textarea:focus {
 .example-row input:focus {
   outline: none;
   border-color: var(--accent);
+}
+
+.example-chinese {
+  padding: 6px 8px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg);
+  color: var(--text);
+  opacity: 0.75;
+}
+
+.example-chinese:focus {
+  outline: none;
+  border-color: var(--accent);
+  opacity: 1;
 }
 
 /* Add story form */

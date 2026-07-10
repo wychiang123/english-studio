@@ -54,7 +54,24 @@ BAD
 
 → 我不能同意更多。
 
-## 4. Vocabulary Standard
+## 4. Example Sentence Standard
+
+Every example inside a learning note is a bilingual pair, not a bare English string.
+
+Each example must contain:
+
+- One natural English example sentence.
+- One accurate, natural Traditional Chinese translation of that exact sentence.
+
+**Goals for the Chinese translation:**
+
+- Preserve the English example's meaning and context exactly.
+- Read as natural, fluent Traditional Chinese — not a mechanical, word-for-word rendering.
+- Introduce no additional teaching information beyond what the English example says.
+
+This standard applies uniformly to Vocabulary, Phrase, Grammar, and Native Expression examples below.
+
+## 5. Vocabulary Standard
 
 Vocabulary should only include words that are worth learning.
 
@@ -80,9 +97,9 @@ Each vocabulary note should contain:
 - English word
 - Part of speech
 - Traditional Chinese explanation
-- One natural English example
+- One example, per the [Example Sentence Standard](#4-example-sentence-standard)
 
-## 5. Phrase Standard
+## 6. Phrase Standard
 
 Only include genuine phrases.
 
@@ -98,7 +115,7 @@ Do not include ordinary word combinations.
 
 **Recommended amount:** 0–2 phrases per sentence.
 
-## 6. Grammar Standard
+## 7. Grammar Standard
 
 Grammar explanations should help comprehension.
 
@@ -117,7 +134,7 @@ Explain only when educational value exists. Do not explain every tense.
 
 **Recommended amount:** 0–1 grammar point per sentence.
 
-## 7. Native Expression Standard
+## 8. Native Expression Standard
 
 Capture expressions that native speakers naturally use.
 
@@ -137,7 +154,7 @@ Capture expressions that native speakers naturally use.
 
 Do not duplicate Vocabulary or Phrase notes.
 
-## 8. Learning Density
+## 9. Learning Density
 
 Avoid overwhelming learners.
 
@@ -150,13 +167,13 @@ Avoid overwhelming learners.
 | Grammar | 1 |
 | Native Expression | 2 |
 
-## 9. Educational Value Rules
+## 10. Educational Value Rules
 
 **Prefer:** Frequently reusable knowledge.
 
 **Avoid:** Knowledge useful only in this single story.
 
-## 10. Consistency Rules
+## 11. Consistency Rules
 
 All lessons should:
 
@@ -166,7 +183,7 @@ All lessons should:
 - Use consistent explanation style.
 - Maintain the same teaching philosophy.
 
-## 11. Lesson Review Checklist
+## 12. Lesson Review Checklist
 
 Before exporting Lesson JSON verify:
 
@@ -176,11 +193,12 @@ Before exporting Lesson JSON verify:
 - ✓ Phrase meaningful
 - ✓ Grammar necessary
 - ✓ Native Expression valuable
+- ✓ Every example is a natural English/Traditional Chinese pair
 - ✓ No duplicated notes
 - ✓ No filler content
 - ✓ Educational value maintained
 
-## 12. Future Quality Metrics
+## 13. Future Quality Metrics
 
 Future versions may evaluate:
 

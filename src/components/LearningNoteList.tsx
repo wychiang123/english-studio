@@ -1,6 +1,6 @@
 import { createId } from "../id";
 import { isEnglishText } from "../textLanguage";
-import type { LearningNote } from "../types";
+import type { LearningExample, LearningNote } from "../types";
 import { SpeakButton } from "./SpeakButton";
 
 interface LearningNoteListProps {
@@ -35,13 +35,19 @@ export function LearningNoteList({
   }
 
   function addExample(note: LearningNote) {
-    updateNote(note.id, { examples: [...note.examples, ""] });
+    updateNote(note.id, {
+      examples: [...note.examples, { english: "", chinese: "" }],
+    });
   }
 
-  function updateExample(note: LearningNote, index: number, value: string) {
+  function updateExample(
+    note: LearningNote,
+    index: number,
+    updates: Partial<LearningExample>,
+  ) {
     updateNote(note.id, {
       examples: note.examples.map((example, i) =>
-        i === index ? value : example,
+        i === index ? { ...example, ...updates } : example,
       ),
     });
   }
@@ -96,24 +102,37 @@ export function LearningNoteList({
 
           <div className="example-list">
             {note.examples.map((example, index) => (
-              <div key={index} className="example-row">
+              <div key={index} className="example-item">
+                <div className="example-row">
+                  <input
+                    type="text"
+                    value={example.english}
+                    onChange={(e) =>
+                      updateExample(note, index, { english: e.target.value })
+                    }
+                    placeholder="Example (English)"
+                  />
+                  {isEnglishText(example.english) && (
+                    <SpeakButton text={example.english} />
+                  )}
+                  <button
+                    type="button"
+                    className="delete-note-btn"
+                    title="Delete example"
+                    onClick={() => removeExample(note, index)}
+                  >
+                    ×
+                  </button>
+                </div>
                 <input
                   type="text"
-                  value={example}
+                  className="example-chinese"
+                  value={example.chinese}
                   onChange={(e) =>
-                    updateExample(note, index, e.target.value)
+                    updateExample(note, index, { chinese: e.target.value })
                   }
-                  placeholder="Example"
+                  placeholder="Example (Traditional Chinese)"
                 />
-                {isEnglishText(example) && <SpeakButton text={example} />}
-                <button
-                  type="button"
-                  className="delete-note-btn"
-                  title="Delete example"
-                  onClick={() => removeExample(note, index)}
-                >
-                  ×
-                </button>
               </div>
             ))}
             <button

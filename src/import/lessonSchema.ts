@@ -73,6 +73,43 @@ export function validateLessonJson(raw: unknown): string | null {
     if (!Array.isArray(sentence.nativeExpressionNotes)) {
       return `Sentence ${i + 1} is missing nativeExpressionNotes.`;
     }
+
+    const noteFields = [
+      "vocabularyNotes",
+      "phraseNotes",
+      "grammarNotes",
+      "nativeExpressionNotes",
+    ] as const;
+    for (const field of noteFields) {
+      const notes = sentence[field] as unknown[];
+      for (let j = 0; j < notes.length; j++) {
+        const note = notes[j];
+        if (!isObject(note)) {
+          return `Sentence ${i + 1}, ${field} item ${j + 1} is not a valid object.`;
+        }
+        if (!Array.isArray(note.examples)) {
+          return `Sentence ${i + 1}, ${field} item ${j + 1} is missing an examples array.`;
+        }
+        for (let k = 0; k < note.examples.length; k++) {
+          const example = note.examples[k];
+          if (!isObject(example)) {
+            return `Sentence ${i + 1}, ${field} item ${j + 1}, example ${k + 1} must be an object with "english" and "chinese" fields.`;
+          }
+          if (
+            typeof example.english !== "string" ||
+            example.english.trim().length === 0
+          ) {
+            return `Sentence ${i + 1}, ${field} item ${j + 1}, example ${k + 1} is missing its English text.`;
+          }
+          if (
+            typeof example.chinese !== "string" ||
+            example.chinese.trim().length === 0
+          ) {
+            return `Sentence ${i + 1}, ${field} item ${j + 1}, example ${k + 1} is missing its Chinese translation.`;
+          }
+        }
+      }
+    }
   }
 
   return null;
