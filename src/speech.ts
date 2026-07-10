@@ -134,10 +134,31 @@ export function speakEnglish(text: string): void {
       console.log(`Speak voice: ${selectedVoice ? selectedVoice.name : "(browser default)"}`);
     }
 
-    const utterance = new SpeechSynthesisUtterance(trimmed);
-    utterance.lang = "en-US";
-    if (selectedVoice) utterance.voice = selectedVoice;
-    synth.speak(utterance);
+    let realSpeechStarted = false;
+
+    const speakRealSentence = () => {
+      if (realSpeechStarted) return;
+      realSpeechStarted = true;
+
+      const utterance = new SpeechSynthesisUtterance(trimmed);
+      utterance.lang = "en-US";
+      if (selectedVoice) utterance.voice = selectedVoice;
+      synth.speak(utterance);
+    };
+
+    const warmupUtterance = new SpeechSynthesisUtterance(".");
+    warmupUtterance.voice = selectedVoice;
+    warmupUtterance.lang = selectedVoice?.lang || "en-US";
+    warmupUtterance.rate = 1;
+    warmupUtterance.pitch = 1;
+    warmupUtterance.volume = 0.01;
+    warmupUtterance.onend = () => {
+      speakRealSentence();
+    };
+    warmupUtterance.onerror = () => {
+      speakRealSentence();
+    };
+    synth.speak(warmupUtterance);
   };
 
   if (englishVoices.length === 0) {
