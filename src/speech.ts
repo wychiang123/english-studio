@@ -1,63 +1,58 @@
 let englishVoices: SpeechSynthesisVoice[] = [];
 let selectedVoice: SpeechSynthesisVoice | null = null;
 let selectedVoiceKey: string | null = null;
-let voicesLoggedOnce = false;
 let speakToken = 0;
 
 function voiceKey(voice: SpeechSynthesisVoice): string {
   return voice.voiceURI || `${voice.name}|${voice.lang}`;
 }
 
-// Priority order, confirmed by manual testing: Google voices consistently
-// speak the first word correctly, while Microsoft voices tend to clip it.
-// Each entry is matched against `voice.name` (case-insensitive substring).
-const VOICE_PRIORITY = [
-  "google us english",
-  "google uk english female",
-  "google uk english male",
-];
+// Deprioritized, confirmed by cross-browser manual testing: these voices
+// tend to clip the first word, so they are only used when no better
+// English voice exists. Matched against `voice.name` (case-insensitive
+// substring).
+const DEPRIORITIZED_VOICE_NAMES = ["microsoft mark", "microsoft david"];
+
+function isDeprioritizedVoice(voice: SpeechSynthesisVoice): boolean {
+  const name = voice.name.toLowerCase();
+  return DEPRIORITIZED_VOICE_NAMES.some((deprioritized) => name.includes(deprioritized));
+}
 
 function pickPreferredVoice(
   voices: SpeechSynthesisVoice[],
 ): SpeechSynthesisVoice | null {
   if (voices.length === 0) return null;
 
-  for (const preferredName of VOICE_PRIORITY) {
-    const match = voices.find((voice) => voice.name.toLowerCase().includes(preferredName));
-    if (match) return match;
-  }
+  // 1. Exact name: "Google US English".
+  const googleUS = voices.find((voice) => voice.name === "Google US English");
+  if (googleUS) return googleUS;
 
-  // Any other Google English voice.
-  const otherGoogle = voices.find((voice) => voice.name.toLowerCase().includes("google"));
-  if (otherGoogle) return otherGoogle;
+  // 2. A voice whose name contains both "Microsoft Aria Online" and
+  // "English (United States)".
+  const ariaOnline = voices.find(
+    (voice) =>
+      voice.name.includes("Microsoft Aria Online") &&
+      voice.name.includes("English (United States)"),
+  );
+  if (ariaOnline) return ariaOnline;
 
-  // Any other English voice.
+  // 3. Exact name: "Microsoft Zira - English (United States)".
+  const zira = voices.find((voice) => voice.name === "Microsoft Zira - English (United States)");
+  if (zira) return zira;
+
+  // 4. Any other en-US voice, excluding deprioritized voices.
+  const otherEnUS = voices.find(
+    (voice) => voice.lang.toLowerCase() === "en-us" && !isDeprioritizedVoice(voice),
+  );
+  if (otherEnUS) return otherEnUS;
+
+  // 5. Any other English voice, excluding deprioritized voices.
+  const otherEnglish = voices.find((voice) => !isDeprioritizedVoice(voice));
+  if (otherEnglish) return otherEnglish;
+
+  // Nothing better exists; fall back to a deprioritized voice, or whatever
+  // is first in the list.
   return voices[0] ?? null;
-}
-
-function logAvailableVoices(voices: SpeechSynthesisVoice[]): void {
-  if (!import.meta.env.DEV) return;
-  const lines = voices.map(
-    (voice, index) => `[${index}] ${voice.name} | ${voice.lang} | local=${voice.localService}`,
-  );
-  // eslint-disable-next-line no-console
-  console.log(
-    [
-      "--------------------------------------------------",
-      "Available English voices:",
-      ...lines,
-    ].join("\n"),
-  );
-}
-
-function logSelectedVoice(voice: SpeechSynthesisVoice, reason: string): void {
-  if (!import.meta.env.DEV) return;
-  // eslint-disable-next-line no-console
-  console.log(
-    ["Selected voice" + reason + ":", voice.name, "--------------------------------------------------"].join(
-      "\n",
-    ),
-  );
 }
 
 // Selects and caches one English voice for the whole session. Once chosen,
@@ -76,23 +71,12 @@ function ensureSelectedVoice(): void {
     const replacement = pickPreferredVoice(englishVoices);
     selectedVoice = replacement;
     selectedVoiceKey = replacement ? voiceKey(replacement) : null;
-    if (replacement) {
-      logSelectedVoice(replacement, " (previous voice unavailable, re-selected)");
-    }
     return;
-  }
-
-  if (!voicesLoggedOnce) {
-    voicesLoggedOnce = true;
-    logAvailableVoices(englishVoices);
   }
 
   const picked = pickPreferredVoice(englishVoices);
   selectedVoice = picked;
   selectedVoiceKey = picked ? voiceKey(picked) : null;
-  if (picked) {
-    logSelectedVoice(picked, "");
-  }
 }
 
 function refreshEnglishVoices(): void {
@@ -128,11 +112,6 @@ export function speakEnglish(text: string): void {
     if (token !== speakToken) return;
 
     synth.cancel();
-
-    if (import.meta.env.DEV) {
-      // eslint-disable-next-line no-console
-      console.log(`Speak voice: ${selectedVoice ? selectedVoice.name : "(browser default)"}`);
-    }
 
     let realSpeechStarted = false;
 
