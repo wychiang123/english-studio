@@ -1,5 +1,6 @@
 import type { LearningNote, Sentence } from "../types";
 import { LearningNoteList } from "./LearningNoteList";
+import { PronunciationRecorder } from "./PronunciationRecorder";
 import { SpeakButton } from "./SpeakButton";
 
 interface SentenceCardProps {
@@ -44,6 +45,7 @@ export function SentenceCard({ sentence, index, onUpdate }: SentenceCardProps) {
         {sentence.showEnglish && (
           <p className="readonly-text">{sentence.englishOriginal}</p>
         )}
+        <PronunciationRecorder sentenceId={sentence.id} />
       </div>
 
       <div className="field-row field-tint-input">

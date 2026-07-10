@@ -340,6 +340,61 @@
   font-size: 17px;
 }
 
+/* Pronunciation practice (record / stop / play my voice) */
+
+.pronunciation-recorder {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-top: 6px;
+}
+
+.pronunciation-recorder-controls {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.record-btn,
+.stop-btn,
+.play-voice-btn {
+  font-size: 12px;
+  padding: 3px 10px;
+  border: 1px solid var(--border);
+  background: var(--bg-alt);
+  border-radius: 12px;
+  color: var(--text);
+}
+
+.record-btn:hover:not(:disabled),
+.stop-btn:hover,
+.play-voice-btn:hover {
+  border-color: var(--accent);
+}
+
+.record-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.stop-btn {
+  border-color: var(--danger);
+  color: var(--danger);
+  font-weight: 600;
+}
+
+.recording-status {
+  margin: 0;
+  font-size: 12px;
+  opacity: 0.75;
+}
+
+.recording-error {
+  margin: 0;
+  font-size: 12px;
+  color: var(--danger);
+}
+
 /* Subtle background tints for the different learning sections */
 
 .field-tint-english {
