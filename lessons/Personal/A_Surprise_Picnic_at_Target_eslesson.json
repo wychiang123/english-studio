@@ -1,0 +1,1990 @@
+{
+  "schemaVersion": "1.0",
+  "lessonType": "english-story",
+  "title": "A Surprise Picnic at Target",
+  "source": "YouTube",
+  "sourceUrl": "https://storylineonline.net/example",
+  "language": "en",
+  "createdAt": "2026-07-10T07:56:00Z",
+  "tags": [
+    "shopping",
+    "conversation",
+    "daily-english"
+  ],
+  "description": "Sam and Aaron arrive at Target and split up to find food, drinks, and a very important yellow blanket for Mina's surprise birthday picnic. Sam finds the blanket in the seasonal section, they reunite, discover they forgot birthday candles, find them right by the register, and check out just in time to set up the surprise before Mina arrives.",
+  "sentences": [
+    {
+      "id": "s1",
+      "order": 1,
+      "englishOriginal": "Welcome to English Listening Channel.",
+      "chineseTranslation": "歡迎來到英文聽力頻道。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s2",
+      "order": 2,
+      "englishOriginal": "Today, we're going to look at a conversation at a Target store.",
+      "chineseTranslation": "今天，我們要來看看一段在 Target 大賣場裡的對話。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p1",
+          "title": "look at",
+          "explanation": "在這裡指「看」或「探討」某個特定主題或內容。",
+          "examples": [
+            {
+              "english": "Let's look at the next example in the book.",
+              "chinese": "我們來看看書中的下一個例子。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s3",
+      "order": 3,
+      "englishOriginal": "In this video, you will follow a simple and practical story between two friends, Sam and Aaron, and some store staff.",
+      "chineseTranslation": "在這段影片中，你將聽一段兩位朋友（山姆與亞倫）以及幾位店員之間，簡單又實用的對話故事。",
+      "vocabularyNotes": [
+        {
+          "id": "v1",
+          "title": "practical",
+          "explanation": "形容詞，指「實用的」或「切合實際的」。",
+          "examples": [
+            {
+              "english": "This course provides practical advice for job seekers.",
+              "chinese": "這門課程為求職者提供了實用的建議。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s4",
+      "order": 4,
+      "englishOriginal": "Don't worry, I will speak slowly and clearly.",
+      "chineseTranslation": "別擔心，我會說得很慢而且很清晰。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s5",
+      "order": 5,
+      "englishOriginal": "So, please relax and enjoy the story.",
+      "chineseTranslation": "所以，請放鬆心情，好好享受這個故事吧。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s6",
+      "order": 6,
+      "englishOriginal": "Before we start, I have a small question for you.",
+      "chineseTranslation": "在我們開始之前，我有一個小問題要問你。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s7",
+      "order": 7,
+      "englishOriginal": "Please listen carefully to find the answer.",
+      "chineseTranslation": "請仔細聆聽以尋找答案。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g1",
+          "title": "Infinitive of Purpose (to + verb)",
+          "explanation": "使用動詞不定詞「to + 動詞原形」來表示做某件事的「目的」，相當於中文的「為了……」。",
+          "examples": [
+            {
+              "english": "He woke up early to catch the first train.",
+              "chinese": "他早起是為了趕上第一班火車。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s8",
+      "order": 8,
+      "englishOriginal": "This will help you understand English more deeply.",
+      "chineseTranslation": "這能幫助你更深層地理解英文。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s9",
+      "order": 9,
+      "englishOriginal": "So, here is today's question: What are Sam and Aaron shopping for?",
+      "chineseTranslation": "那麼，今天的問題是：山姆和亞倫要採買什麼東西？",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p2",
+          "title": "shop for",
+          "explanation": "指「採購……」或「為了……而購物」，後面通常接採購的目標物品或對象。",
+          "examples": [
+            {
+              "english": "She is shopping for a new dress tonight.",
+              "chinese": "她今晚去市區採買一件新洋裝。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s10",
+      "order": 10,
+      "englishOriginal": "The answer is mentioned in the conversation.",
+      "chineseTranslation": "答案就在接下來的對話中。",
+      "vocabularyNotes": [
+        {
+          "id": "v2",
+          "title": "mention",
+          "explanation": "動詞，意思是「提及」或「談到」。這裡使用的是被動態 (is mentioned)。",
+          "examples": [
+            {
+              "english": "He didn't mention the problem during the meeting.",
+              "chinese": "他在會議期間並沒有提及那個問題。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s11",
+      "order": 11,
+      "englishOriginal": "If you find the answer, please write it in the comments section.",
+      "chineseTranslation": "如果你找到答案，請把它寫在留言區。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s12",
+      "order": 12,
+      "englishOriginal": "By writing your answer in English, you can improve your English skills even more effectively.",
+      "chineseTranslation": "透過用英文寫下你的答案，你能更有效地提升你的英文能力。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g2",
+          "title": "By + Gerund (V-ing)",
+          "explanation": "用「by + 動詞 -ing」結構來表示「透過某種手段或方法」達成某個結果。",
+          "examples": [
+            {
+              "english": "You can turn on the TV by pressing this red button.",
+              "chinese": "你可以透過按下這個紅色的按鈕來打開電視。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s13",
+      "order": 13,
+      "englishOriginal": "All right, let's start the video. Are you ready? Okay, let's begin.",
+      "chineseTranslation": "好的，那我們開始看影片吧。準備好了嗎？好，我們開始吧。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s14",
+      "order": 14,
+      "englishOriginal": "Here we are. Look at that big red Target on the wall.",
+      "chineseTranslation": "我們到了。看牆上那個好大的紅色 Target 招牌。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p3",
+          "title": "Here we are",
+          "explanation": "日常口語中當到達目的地時，習慣脫口而出的道地句型，表示「我們到了」。",
+          "examples": [
+            {
+              "english": "Here we are. This is the restaurant I told you about.",
+              "chinese": "我們到了。這就是我跟你提過的那家餐廳。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s15",
+      "order": 15,
+      "englishOriginal": "I know. It is so easy to see from the road.",
+      "chineseTranslation": "我知道。從路上看過去真的很顯眼、很容易看到。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n1",
+          "title": "easy to see from the road",
+          "explanation": "用來形容建築物或大型招牌極為醒目，開車或路過時一眼就能望見，比逐字翻譯更生動自然。",
+          "examples": [
+            {
+              "english": "The gas station is easy to see from the road.",
+              "chinese": "那間加油站從路上看過去非常顯眼。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "order": 16,
+      "englishOriginal": "Their mascot is a dog, right? Yes, it is a white dog named Bullseye.",
+      "chineseTranslation": "他們的吉祥物是一隻狗，對吧？沒錯，那是一隻名叫「靶心（Bullseye）」的白狗。",
+      "vocabularyNotes": [
+        {
+          "id": "v3",
+          "title": "mascot",
+          "explanation": "名詞，指團體、學校或品牌的「吉祥物」。",
+          "examples": [
+            {
+              "english": "The team's mascot is a friendly tiger.",
+              "chinese": "這支球隊的吉祥物是一隻友善的老虎。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s17",
+      "order": 17,
+      "englishOriginal": "It has a red mark on one eye.",
+      "chineseTranslation": "牠的一隻眼睛周圍有一個紅色的標記。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s18",
+      "order": 18,
+      "englishOriginal": "That is a cute name. Okay, let me grab a cart.",
+      "chineseTranslation": "那名字真可愛。好，那我去拉一台推車。",
+      "vocabularyNotes": [
+        {
+          "id": "v4",
+          "title": "grab",
+          "explanation": "動詞，字面意思是「抓取」，口語中常用來指「順手取得」物品，或指快速吃點東西、喝杯飲料。",
+          "examples": [
+            {
+              "english": "Let's grab a cup of coffee before the meeting.",
+              "chinese": "我們在開會前去買杯咖啡吧。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s19",
+      "order": 19,
+      "englishOriginal": "Get a red one. They are right by the door.",
+      "chineseTranslation": "推一台紅色的。推車就在門旁邊而已。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p4",
+          "title": "right by",
+          "explanation": "其中的 right 為副詞用來加強語氣，表示「就在……正旁邊」，強調距離非常近。",
+          "examples": [
+            {
+              "english": "The coffee shop is right by the train station.",
+              "chinese": "那家咖啡廳就在火車站正旁邊。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s20",
+      "order": 20,
+      "englishOriginal": "Got it. Now, what are we shopping for today?",
+      "chineseTranslation": "收到。話說回來，我們今天到底要買什麼？",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n2",
+          "title": "Got it.",
+          "explanation": "日常口語中極高頻的道地表達，用來回覆對方「我知道了」、「明白了」或「收到」。",
+          "examples": [
+            {
+              "english": "A: Remember to buy milk. B: Got it.",
+              "chinese": "A：記得買牛奶。B：收到。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s21",
+      "order": 21,
+      "englishOriginal": "We are shopping for Mina's birthday, remember? It is a surprise.",
+      "chineseTranslation": "我們要幫米娜買慶生用的東西，記得嗎？這是一個驚喜喔。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s22",
+      "order": 22,
+      "englishOriginal": "Oh, right. The birthday picnic. We need everything for it.",
+      "chineseTranslation": "噢，對喔！生日野餐。所有相關的東西我們都要買齊。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s23",
+      "order": 23,
+      "englishOriginal": "Yes, a picnic in the park just for her. Here is my list on my phone.",
+      "chineseTranslation": "對，在公園為她舉辦的專屬野餐。這是我手機裡的採購清單。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s24",
+      "order": 24,
+      "englishOriginal": "Let me see. Food, drinks, paper plates, cups, and a blanket.",
+      "chineseTranslation": "讓我看看。食物、飲料、紙盤、杯子，還有野餐墊。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n3",
+          "title": "Let me see.",
+          "explanation": "口語中在思考、查閱資料或需要時間確認時的常用道地開頭，表示「讓我想想」或「讓我看一下」。",
+          "examples": [
+            {
+              "english": "Let me see if I am free this weekend.",
+              "chinese": "讓我看一下我這週末有沒有空。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s25",
+      "order": 25,
+      "englishOriginal": "The blanket is the big one. We need a nice yellow picnic blanket.",
+      "chineseTranslation": "野餐墊是大件的大魔王。我們需要一條漂亮的黃色野餐墊。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s26",
+      "order": 26,
+      "englishOriginal": "Yellow? Why yellow? Because yellow is Mina's favorite color.",
+      "chineseTranslation": "黃色？為什麼是黃色？因為黃色是米娜最喜歡的顏色啊。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s27",
+      "order": 27,
+      "englishOriginal": "This is the one thing we must find.",
+      "chineseTranslation": "這是我們絕對非找到不可的一樣東西。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s28",
+      "order": 28,
+      "englishOriginal": "Okay, the yellow blanket is very important. I will remember.",
+      "chineseTranslation": "行，黃色野餐墊非常重要，我會記住的。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s29",
+      "order": 29,
+      "englishOriginal": "Good. The store is really big. Let's not stay here all day.",
+      "chineseTranslation": "很好。這家店真的非常大，我們可別在這裡耗上一整天。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p5",
+          "title": "all day",
+          "explanation": "片語，指「整天」或「一整天」。",
+          "examples": [
+            {
+              "english": "It has been raining all day.",
+              "chinese": "今天一整天都在下雨。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s30",
+      "order": 30,
+      "englishOriginal": "I agree. Should we split up and go two ways?",
+      "chineseTranslation": "我同意。我們要不要分頭行動，各逛各的？",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p6",
+          "title": "split up",
+          "explanation": "在購物或團體行動時指「分頭行動」以提升效率。這裡指分開採買以節省時間。",
+          "examples": [
+            {
+              "english": "Let's split up so we can finish shopping faster.",
+              "chinese": "我們分頭行動吧，這樣可以逛得快一點。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s31",
+      "order": 31,
+      "englishOriginal": "Yes, that is smart. You take the food and the drinks.",
+      "chineseTranslation": "好，這樣聰明。你負責拿食物跟飲料。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s32",
+      "order": 32,
+      "englishOriginal": "And you take the blanket and the paper plates? Perfect. I will text you when I am done.",
+      "chineseTranslation": "那你去拿野餐墊和紙盤？太完美了。我買好之後會傳簡訊給你。",
+      "vocabularyNotes": [
+        {
+          "id": "v5",
+          "title": "text",
+          "explanation": "在這裡作動詞使用，意思是「傳手機簡訊」或「用通訊軟體傳訊息」。",
+          "examples": [
+            {
+              "english": "Text me when you get home safely.",
+              "chinese": "你平安到家後傳個訊息給我。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s33",
+      "order": 33,
+      "englishOriginal": "Sounds good. Let's meet in the middle later.",
+      "chineseTranslation": "聽起來不錯。等一下我們在商場中間碰頭。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p7",
+          "title": "meet in the middle",
+          "explanation": "在空間語境上指「在中間地點碰面/會合」；在談判或爭執語境中則可以指「各退一步、達成妥協」。",
+          "examples": [
+            {
+              "english": "You walk from your store, I walk from mine, and we'll meet in the middle.",
+              "chinese": "你從你的店走過來，我從我的店過去，我們在中間會合。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s34",
+      "order": 34,
+      "englishOriginal": "Great plan. Oh, and please get some fruit, too. Fruit for the picnic. I can do that.",
+      "chineseTranslation": "好計畫。噢，還有，記得也順便買點水果。野餐要用的水果，這沒問題，交給我吧。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s35",
+      "order": 35,
+      "englishOriginal": "Thank you. This is going to be so much fun for Mina.",
+      "chineseTranslation": "謝謝你。米娜到時候一定會玩得超級開心。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s36",
+      "order": 36,
+      "englishOriginal": "She will love it. She has been so busy at work lately.",
+      "chineseTranslation": "她一定會喜歡的。她最近工作一直都很忙碌。",
+      "vocabularyNotes": [
+        {
+          "id": "v6",
+          "title": "lately",
+          "explanation": "副詞，意思是「最近」或「近來」，常用於現在完成式的句子中。",
+          "examples": [
+            {
+              "english": "I haven't seen much of him lately.",
+              "chinese": "我最近很少看到他。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g3",
+          "title": "Present Perfect Tense (has been)",
+          "explanation": "現在完成式「have/has + 過去分詞」，用來表示從過去某個時間點持續到現在的狀態。",
+          "examples": [
+            {
+              "english": "The weather has been very hot this week.",
+              "chinese": "這禮拜天氣一直都很熱。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s37",
+      "order": 37,
+      "englishOriginal": "I know. She really needs a happy, relaxing day.",
+      "chineseTranslation": "我知道。她真的很需要過上快樂、放鬆的一天。",
+      "vocabularyNotes": [
+        {
+          "id": "v7",
+          "title": "relaxing",
+          "explanation": "形容詞，意思是「令人輕鬆的」或「使人放鬆的」。",
+          "examples": [
+            {
+              "english": "A warm bath is so relaxing after work.",
+              "chinese": "下班後泡個熱水澡真的很令人放鬆。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s38",
+      "order": 38,
+      "englishOriginal": "A picnic in the park is perfect for that.",
+      "chineseTranslation": "在公園野餐正是放鬆的最佳選擇。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s39",
+      "order": 39,
+      "englishOriginal": "Yes, warm sun, good food, and all her friends. And a big yellow blanket to sit on.",
+      "chineseTranslation": "沒錯，溫暖的陽光、美味的食物，還有她所有的朋友。再加上一張可以坐在上面的大黃色野餐墊。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s40",
+      "order": 40,
+      "englishOriginal": "You will not forget the blanket now. No way. Yellow blanket, the first thing on my list.",
+      "chineseTranslation": "你現在絕對不會忘記那張毯子了。絕不可能忘！黃色野餐墊，現在是我清單上的第一要務。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n4",
+          "title": "No way.",
+          "explanation": "極為地道的日常口語拒絕或否定語，在這裡表示「絕不可能」、「哪可能忘」。",
+          "examples": [
+            {
+              "english": "A: Can I borrow your car? B: No way!",
+              "chinese": "A：我可以借你的車嗎？B：絕不可能！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s41",
+      "order": 41,
+      "englishOriginal": "Good. Okay, see you soon.",
+      "chineseTranslation": "很好。那待會見囉。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s42",
+      "order": 42,
+      "englishOriginal": "Excuse me, can you help me? I am a little lost.",
+      "chineseTranslation": "不好意思，你可以幫我一下嗎？我有點迷路了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p8",
+          "title": "a little",
+          "explanation": "用來修飾形容詞，表示「有一點」或「稍微」。",
+          "examples": [
+            {
+              "english": "I am a little tired today.",
+              "chinese": "我今天有一點累。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n5",
+          "title": "I am a little lost.",
+          "explanation": "在商場、車站或陌生地方迷失方向時，向他人尋求協助的最自然精準句型。",
+          "examples": [
+            {
+              "english": "Excuse me, I am a little lost. Where is the exit?",
+              "chinese": "不好意思，我有點迷路了。請問出口在哪裡？"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s43",
+      "order": 43,
+      "englishOriginal": "Of course. That is my job. What are you looking for?",
+      "chineseTranslation": "沒問題。這是我的工作。你正在找什麼呢？",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p9",
+          "title": "look for",
+          "explanation": "意思是「尋找」某人或某物。",
+          "examples": [
+            {
+              "english": "What are you looking for under the desk?",
+              "chinese": "你在書桌下找什麼東西？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s44",
+      "order": 44,
+      "englishOriginal": "I knew you worked here. I saw the red shirt.",
+      "chineseTranslation": "我就知道你在這裡工作。我一看到這件紅襯衫就認出來了。",
+      "aiEnglishSuggestion": "I could tell you worked here because of the red shirt.",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n6",
+          "title": "I knew you worked here",
+          "explanation": "口語中用來向店員打招呼的道地說法，表示自己透過明顯制服特徵確認了對方的身份。",
+          "examples": [
+            {
+              "english": "I knew you worked here when I saw your name tag.",
+              "chinese": "我一看到你的名牌，就知道你在這裡工作了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s45",
+      "order": 45,
+      "englishOriginal": "Yes, all the team wear a red shirt. That is how you find us.",
+      "chineseTranslation": "沒錯，我們所有的團隊員工都穿紅襯衫。這就是你們找到我們的方式。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s46",
+      "order": 46,
+      "englishOriginal": "That is helpful. The red shirt is easy to see in a big store.",
+      "chineseTranslation": "那挺有幫助的。在大賣場裡，紅襯衫確實非常顯眼好找。",
+      "vocabularyNotes": [
+        {
+          "id": "v8",
+          "title": "helpful",
+          "explanation": "形容詞，意思是「有幫助的」或「有益的」。",
+          "examples": [
+            {
+              "english": "The map was very helpful during our trip.",
+              "chinese": "這張地圖在我們旅行期間很有幫助。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s47",
+      "order": 47,
+      "englishOriginal": "Right. So, what do you need today? I need drinks. Where are the drinks, please?",
+      "chineseTranslation": "沒錯。那麼你今天需要買什麼？我需要買飲料。請問飲料區在哪裡？",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s48",
+      "order": 48,
+      "englishOriginal": "The drinks are in aisle six on the left side.",
+      "chineseTranslation": "飲料在左手邊的第六號走道。",
+      "vocabularyNotes": [
+        {
+          "id": "v9",
+          "title": "aisle",
+          "explanation": "名詞，指超市、賣場走廊座位間的「走道」或「通道」（注意中間字母 s 不發音，讀作 /aɪl/）。",
+          "examples": [
+            {
+              "english": "You can find the cereal in aisle three.",
+              "chinese": "你可以在三號走道找到麥片。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s49",
+      "order": 49,
+      "englishOriginal": "Aisle six. Thank you. I need water and juice.",
+      "chineseTranslation": "六號走道，謝謝你。我需要水和果汁。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s50",
+      "order": 50,
+      "englishOriginal": "We have both. There is a big shelf of them.",
+      "chineseTranslation": "這兩樣我們都有。那裡有一整層大貨架放滿了這些飲料。",
+      "vocabularyNotes": [
+        {
+          "id": "v10",
+          "title": "shelf",
+          "explanation": "名詞，指書架、貨架或置物架的「單層架子」（複數形為 shelves）。",
+          "examples": [
+            {
+              "english": "Please put the book back on the top shelf.",
+              "chinese": "請把書放回最上面的那一層架子。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s51",
+      "order": 51,
+      "englishOriginal": "Great. I'm shopping for a birthday picnic.",
+      "chineseTranslation": "太好了。我正在採買生日野餐要用的東西。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s52",
+      "order": 52,
+      "englishOriginal": "How nice. A picnic is always fun in summer.",
+      "chineseTranslation": "真好。夏天去野餐總是特別有趣。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s53",
+      "order": 53,
+      "englishOriginal": "It is for my friend Mina. It is a surprise for her.",
+      "chineseTranslation": "這是要幫我的朋友米娜辦的，要給她一個驚喜。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s54",
+      "order": 54,
+      "englishOriginal": "That is so sweet. Do you need anything else?",
+      "chineseTranslation": "那真貼心。你還需要其他任何東西嗎？",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p10",
+          "title": "anything else",
+          "explanation": "常用於疑問句或否定句中，表示「其他任何事物」。在服務業（如店員結帳詢問）中極為常見。",
+          "examples": [
+            {
+              "english": "Would you like anything else to drink?",
+              "chinese": "你還想喝點其他別的飲料嗎？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s55",
+      "order": 55,
+      "englishOriginal": "Yes, I need some fresh fruit. Where can I find it?",
+      "chineseTranslation": "是的，我還需要一些新鮮水果。我可以在哪裡找到呢？",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s56",
+      "order": 56,
+      "englishOriginal": "The fresh fruit is over there in produce.",
+      "chineseTranslation": "新鮮水果在走過去那邊的生鮮蔬果區。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p11",
+          "title": "over there",
+          "explanation": "指「在那邊」或「在那裡」，常用於指出某個看得見的具體方向或位置。",
+          "examples": [
+            {
+              "english": "Your coat is hanging over there by the window.",
+              "chinese": "你的大衣就掛在窗戶那邊。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s57",
+      "order": 57,
+      "englishOriginal": "Produce? What is produce? Produce is the fresh fruit and vegetables.",
+      "chineseTranslation": "Produce？什麼是 produce？「Produce」專指新鮮的水果和蔬菜。",
+      "vocabularyNotes": [
+        {
+          "id": "v11",
+          "title": "produce",
+          "explanation": "名詞（重音在第一個音節），專指農產品，特別是超市裡販售的「新鮮蔬果」。作動詞時重音在第二音節，意思是「生產」。",
+          "examples": [
+            {
+              "english": "We buy all our fresh produce at the local market.",
+              "chinese": "我們所有的鮮脆蔬果都是在當地市場買的。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s58",
+      "order": 58,
+      "englishOriginal": "It is all in one place. Oh, I see. So, apples and oranges are in produce.",
+      "chineseTranslation": "它們全部都集中擺在同一個地方。噢，我明白了。所以蘋果和柳橙都是在 produce 這一區囉。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p12",
+          "title": "I see.",
+          "explanation": "地道的口語日常回應，表示自己「明白了」、「懂了」某個概念或資訊。",
+          "examples": [
+            {
+              "english": "A: The office is on the third floor. B: Oh, I see.",
+              "chinese": "A：辦公室在三樓。B：噢，我明白了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s59",
+      "order": 59,
+      "englishOriginal": "Exactly. We have strawberries, too. They are very good this week.",
+      "chineseTranslation": "完全正確。我們這裡也有草莓喔。這禮拜的草莓品質非常好、很棒。",
+      "vocabularyNotes": [
+        {
+          "id": "v12",
+          "title": "exactly",
+          "explanation": "副詞，用來表示完全贊同對方的說法，意思是「沒錯、正是如此、完全正確」。",
+          "examples": [
+            {
+              "english": "A: So we need to turn left here? B: Exactly.",
+              "chinese": "A：所以我們要在這裡左轉？B：完全正確。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s60",
+      "order": 60,
+      "englishOriginal": "Strawberries are perfect for a picnic. I will get some.",
+      "chineseTranslation": "草莓太適合帶去野餐了。我來拿一些。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s61",
+      "order": 61,
+      "englishOriginal": "Good choice. The produce section is next to the drinks.",
+      "chineseTranslation": "好選擇。生鮮蔬果區就緊鄰在飲料區隔壁。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p13",
+          "title": "next to",
+          "explanation": "意思是「在……旁邊」或「緊鄰著」，用來描述空間上的相鄰關係。",
+          "examples": [
+            {
+              "english": "The bank is right next to the post office.",
+              "chinese": "銀行就在郵局正隔壁。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s62",
+      "order": 62,
+      "englishOriginal": "So, I can get everything in one walk. That is easy.",
+      "chineseTranslation": "所以，我走一趟就能把東西全部拿齊了。這真方便省事。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n7",
+          "title": "get everything in one walk",
+          "explanation": "道地的口語說法，用來形容商品動線安排得宜，不需要在諾大的賣場裡來回折返，走一趟就能順利拿齊所有東西。",
+          "examples": [
+            {
+              "english": "The layout is great, so you can get everything in one walk.",
+              "chinese": "動線規劃得很棒，所以你走一趟就能買齊所有東西。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s63",
+      "order": 63,
+      "englishOriginal": "Yes, take your time and look around. I will.",
+      "chineseTranslation": "沒錯，慢慢逛、四處看看吧。我會的。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p14",
+          "title": "take your time",
+          "explanation": "極為常用且友善的客套語，意思是「慢慢來」、「不用急」。",
+          "examples": [
+            {
+              "english": "Take your time reading the report; there is no rush.",
+              "chinese": "慢慢看這份報告，不用著急。"
+            }
+          ]
+        },
+        {
+          "id": "p15",
+          "title": "look around",
+          "explanation": "指「環顧四周」或在商店中「隨意逛逛、四處瀏覽」。",
+          "examples": [
+            {
+              "english": "I'm just looking around; I don't need help right now.",
+              "chinese": "我只是隨便逛逛，現在還不需要幫忙。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s64",
+      "order": 64,
+      "englishOriginal": "One more question, if that is okay. Of course, ask me anything.",
+      "chineseTranslation": "如果方便的話，我還可以再問一個問題嗎？當然可以，你想問什麼都可以。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p16",
+          "title": "one more",
+          "explanation": "指「再一個」或「額外的一個」。",
+          "examples": [
+            {
+              "english": "Can I have one more cup of tea, please?",
+              "chinese": "可以麻煩再給我一杯茶嗎？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s65",
+      "order": 65,
+      "englishOriginal": "Do you have small bags of chips for a picnic snack?",
+      "chineseTranslation": "你們有沒有那種適合帶去野餐當零嘴的小包裝洋芋片？",
+      "vocabularyNotes": [
+        {
+          "id": "v13",
+          "title": "chips",
+          "explanation": "名詞，在美式英文中指「洋芋片/薯片」；英式英文中則指「薯條」（英式洋芋片為 crisps）。",
+          "examples": [
+            {
+              "english": "He bought a large bag of potato chips for the party.",
+              "chinese": "他為派對買了一大包洋芋片。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s66",
+      "order": 66,
+      "englishOriginal": "Yes, we do. They are in aisle four, near the front.",
+      "chineseTranslation": "有的，我們有賣。它們在靠近前方的四號走道。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s67",
+      "order": 67,
+      "englishOriginal": "Perfect. A picnic needs some chips and snacks. I agree.",
+      "chineseTranslation": "太完美了。野餐不可缺少洋芋片和零食。我同意。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s68",
+      "order": 68,
+      "englishOriginal": "Get the big bag with many small bags inside.",
+      "chineseTranslation": "你可以拿那種裡面裝有很多小包裝的綜合分享大包裝。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s69",
+      "order": 69,
+      "englishOriginal": "Oh, that is smart. Then everyone gets their own.",
+      "chineseTranslation": "噢，那樣好聰明！這樣每個人都可以拿到自己獨立的一小包。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n8",
+          "title": "everyone gets their own",
+          "explanation": "道地的英文說法，常用於聚會分配食物或物品時，指「每個人都能分到屬於自己的那一份」，強調乾淨便利、不用跟別人分食。",
+          "examples": [
+            {
+              "english": "We ordered individual cupcakes so everyone gets their own.",
+              "chinese": "我們點了獨立裝的杯子蛋糕，這樣每個人都有自己的一份。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s70",
+      "order": 70,
+      "englishOriginal": "Exactly. It's easy and there is no mess.",
+      "chineseTranslation": "完全正確。這樣既省事，現場又不會搞得髒亂不堪。",
+      "vocabularyNotes": [
+        {
+          "id": "v14",
+          "title": "mess",
+          "explanation": "名詞，指「髒亂」、「凌亂」或「混亂的局面」。",
+          "examples": [
+            {
+              "english": "Please clean up your room; it's a total mess.",
+              "chinese": "請把你的房間清理乾淨，裡面簡直一團亂。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p17",
+          "title": "there is no mess",
+          "explanation": "用來形容某種作法能保持乾淨整潔，不會造成事後難以收拾的髒亂情況。",
+          "examples": [
+            {
+              "english": "Using paper cups means there is no mess to clean up later.",
+              "chinese": "使用紙杯意味著晚點不需要清理一堆髒亂。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s71",
+      "order": 71,
+      "englishOriginal": "Great tip. Thank you so much for your help.",
+      "chineseTranslation": "好實用的建議。非常感謝你的幫忙。",
+      "vocabularyNotes": [
+        {
+          "id": "v15",
+          "title": "tip",
+          "explanation": "名詞，在日常生活中常指「實用的小撇步」、「實用建議」或「提示」；在餐廳等場合則指「小費」。",
+          "examples": [
+            {
+              "english": "She gave me a useful tip for baking the perfect cake.",
+              "chinese": "她給了我一個烤出完美蛋糕的實用小撇步。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s72",
+      "order": 72,
+      "englishOriginal": "You're welcome. I hope Mina has a wonderful day.",
+      "chineseTranslation": "不客氣。希望米娜能度過美好的一天。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s73",
+      "order": 73,
+      "englishOriginal": "I am sure she will. Thanks again. Have a great day. Enjoy the picnic.",
+      "chineseTranslation": "我相信她會的。再次感謝。祝你有美好的一天。好好享受野餐吧！",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s74",
+      "order": 74,
+      "englishOriginal": "Now, let's see how Sam is doing with the blanket and the plates.",
+      "chineseTranslation": "現在，我們來看看山姆那邊找毯子和紙盤進展得如何了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p18",
+          "title": "how someone is doing with",
+          "explanation": "口語中用來詢問或關注某人處理某件事的進度或近況，意思是「某人做某事進展得如何」。",
+          "examples": [
+            {
+              "english": "How are you doing with your project?",
+              "chinese": "你的專案進展得怎麼樣了？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s75",
+      "order": 75,
+      "englishOriginal": "Excuse me, I'm looking for the yellow blankets. Are they in the home section?",
+      "chineseTranslation": "不好意思，我正在找黃色的毯子。它們是在居家用品區嗎？",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s76",
+      "order": 76,
+      "englishOriginal": "The blankets are not with the other bedding; they're in the seasonal section.",
+      "chineseTranslation": "毯子沒有跟其他的床上用品放在一起，它們現在在季節商品區喔。",
+      "vocabularyNotes": [
+        {
+          "id": "v16",
+          "title": "bedding",
+          "explanation": "名詞，統指被子、床單、枕頭套等「床上用品」。",
+          "examples": [
+            {
+              "english": "This store sells high-quality bedding and towels.",
+              "chinese": "這家店販售高品質的床上用品和毛巾。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p19",
+          "title": "seasonal section",
+          "explanation": "大賣場中專門根據特定節日或季節（如夏天海灘用品、冬天保暖衣物等）調整陳列的「季節性商品專區」。",
+          "examples": [
+            {
+              "english": "The Christmas lights are displayed in the seasonal section.",
+              "chinese": "聖誕燈飾陳列在季節商品區。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s77",
+      "order": 77,
+      "englishOriginal": "Oh, the seasonal section. Where is that, please?",
+      "chineseTranslation": "噢，季節商品區啊。請問那是在哪裡呢？",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s78",
+      "order": 78,
+      "englishOriginal": "Walk straight to the back of the store, past the electronics.",
+      "chineseTranslation": "往賣場後方直直走，走過電子產品區就到了。",
+      "vocabularyNotes": [
+        {
+          "id": "v17",
+          "title": "electronics",
+          "explanation": "名詞（常用複數形），指電視、電腦、耳機等「電子產品」或賣場的「電子商品區」。",
+          "examples": [
+            {
+              "english": "The electronics section is on the second floor.",
+              "chinese": "電子產品區在二樓。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p20",
+          "title": "past",
+          "explanation": "介系詞，在這裡表示「經過」或「路過」某個地點。",
+          "examples": [
+            {
+              "english": "Walk past the bank and you will see the restaurant.",
+              "chinese": "走過銀行你就會看到那家餐廳。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s79",
+      "order": 79,
+      "englishOriginal": "You will see a sign that says Summer Fun. It is right there.",
+      "chineseTranslation": "你會看到一個寫著「夏日趣」的招牌。就在那個地方。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n9",
+          "title": "a sign that says...",
+          "explanation": "形容告示牌或招牌內容時的地道英文表達方式。中文習慣說「寫著……的牌子」，英文則用動詞 say（說）。",
+          "examples": [
+            {
+              "english": "There is a sign that says 'No Parking' outside.",
+              "chinese": "外面有一個寫著「禁止停車」的告示牌。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s80",
+      "order": 80,
+      "englishOriginal": "Perfect. Thank you. I see the plates and cups are there too.",
+      "chineseTranslation": "太棒了。謝謝你。我看見紙盤和杯子好像也在那一區。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s81",
+      "order": 81,
+      "englishOriginal": "Yes, everything for outdoors is in that corner right now.",
+      "chineseTranslation": "沒錯，目前所有戶外活動用的東西都集中在那個角落。",
+      "vocabularyNotes": [
+        {
+          "id": "v18",
+          "title": "outdoors",
+          "explanation": "副詞或名詞，指「戶外」或「露天」。",
+          "examples": [
+            {
+              "english": "The kids love to play outdoors when it is sunny.",
+              "chinese": "天氣晴朗時，孩子們喜歡在戶外玩耍。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s82",
+      "order": 82,
+      "englishOriginal": "Great. Found it. Here are the yellow blankets. Mina will love this.",
+      "chineseTranslation": "太好了。找到了！黃色毯子就在這裡。米娜一定會很喜歡這個。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s83",
+      "order": 83,
+      "englishOriginal": "Let me text Aaron. I am done.",
+      "chineseTranslation": "我來傳個訊息給亞倫。我買好了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s84",
+      "order": 84,
+      "englishOriginal": "Oh, my phone runs out of battery fast. I hope he sees it.",
+      "chineseTranslation": "糟糕，我的手機電量消耗得很快。希望他有看到訊息。",
+      "aiEnglishSuggestion": "Oh, my phone battery dies really quickly. I hope he gets it.",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p21",
+          "title": "run out of",
+          "explanation": "指「用完」或「耗盡」某種資源、時間或電力。",
+          "examples": [
+            {
+              "english": "We are running out of time, so let's make a decision.",
+              "chinese": "我們的時間快用完了，所以快點做決定吧。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s85",
+      "order": 85,
+      "englishOriginal": "Let's grab a charger, just in case.",
+      "chineseTranslation": "我們還是拿個充電器吧，以防萬一。",
+      "vocabularyNotes": [
+        {
+          "id": "v19",
+          "title": "charger",
+          "explanation": "名詞，指手機或電子設備的「充電器」。",
+          "examples": [
+            {
+              "english": "Can I borrow your phone charger for a minute?",
+              "chinese": "我可以借用一下你的手機充電器嗎？"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p22",
+          "title": "just in case",
+          "explanation": "日常口語中非常實用的片語，常置於句尾，意思是「以防萬一」或「當作備用」。",
+          "examples": [
+            {
+              "english": "Take an umbrella with you, just in case.",
+              "chinese": "帶把傘吧，以防萬一。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s86",
+      "order": 86,
+      "englishOriginal": "They should be near the front registers.",
+      "chineseTranslation": "充電器應該就在前方收銀台附近。",
+      "vocabularyNotes": [
+        {
+          "id": "v20",
+          "title": "register",
+          "explanation": "名詞，在大賣場或零售店語境中專指「收銀機」或「收銀台」（完整說法是 cash register）。",
+          "examples": [
+            {
+              "english": "Please pay for your items at the front register.",
+              "chinese": "請在前方的收銀台結帳。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s87",
+      "order": 87,
+      "englishOriginal": "Hey, Aaron. Over here. I got the blanket and the paper plates.",
+      "chineseTranslation": "嘿，亞倫！在這邊。我拿到毯子和紙盤了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n10",
+          "title": "Over here.",
+          "explanation": "在公共場合中招呼同伴、引導對方注意到自己所在位置時最道地自然的口語表達，意思是「在這邊/看這裡」。",
+          "examples": [
+            {
+              "english": "Hey Tom, we found a table! Over here!",
+              "chinese": "嘿湯姆，我們找到位子了！在這邊！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s88",
+      "order": 88,
+      "englishOriginal": "Awesome. Look at my cart. I got water, juice, apples, oranges, and strawberries.",
+      "chineseTranslation": "太棒了。你看我的購物車。我拿了水、果汁、蘋果、柳橙，還有草莓。",
+      "vocabularyNotes": [
+        {
+          "id": "v21",
+          "title": "awesome",
+          "explanation": "形容詞，口語中常用來讚美他人或某件事「很棒」、「太讚了」。",
+          "examples": [
+            {
+              "english": "The movie was absolutely awesome.",
+              "chinese": "那部電影真是太讚了。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s89",
+      "order": 89,
+      "englishOriginal": "Wow, you did a great job. That is a lot of good stuff.",
+      "chineseTranslation": "哇，你幹得真漂亮。買到了好多好東西呢。",
+      "vocabularyNotes": [
+        {
+          "id": "v22",
+          "title": "stuff",
+          "explanation": "名詞，不可數。口語中用來統稱「東西」或「物品」，非常隨性實用。",
+          "examples": [
+            {
+              "english": "Whose stuff is this on the dining table?",
+              "chinese": "飯桌上的這些東西是誰的？"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n11",
+          "title": "You did a great job.",
+          "explanation": "道地且高頻的讚美句型，用來肯定對方的付出或表現，意思是「你做得很好/幹得漂亮」。",
+          "examples": [
+            {
+              "english": "Thanks for cleaning the kitchen. You did a great job.",
+              "chinese": "謝謝你清理廚房，你幹得真漂亮。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s90",
+      "order": 90,
+      "englishOriginal": "The store worker helped me. She was super nice.",
+      "chineseTranslation": "是店員幫我的。她人真的超級好。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p23",
+          "title": "super nice",
+          "explanation": "口語中用 super 代替 very，用來加強語氣，形容人「超級好、極度友善」。",
+          "examples": [
+            {
+              "english": "Our new neighbor is super nice and friendly.",
+              "chinese": "我們的新鄰居人超級好而且很友善。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s91",
+      "order": 91,
+      "englishOriginal": "That's wonderful. Wait, did we forget the birthday candles?",
+      "chineseTranslation": "那太好了。等等，我們是不是漏掉了生日蠟燭？",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s92",
+      "order": 92,
+      "englishOriginal": "Oh no, you're right. We need candles for the cake.",
+      "chineseTranslation": "糟了，你說得對。蛋糕需要插蠟燭才行。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s93",
+      "order": 93,
+      "englishOriginal": "Where are they? I didn't see them in the food section.",
+      "chineseTranslation": "它們在哪裡啊？我在食品區好像沒看到。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s94",
+      "order": 94,
+      "englishOriginal": "Look, they are right by the register the whole time.",
+      "chineseTranslation": "你看！原來蠟燭一直都在收銀台旁邊嘛！",
+      "aiEnglishSuggestion": "Look, they had been right by the cash register all along.",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p24",
+          "title": "the whole time",
+          "explanation": "表示「自始至終」、「一直以來」都是某個狀態，口語中常用在真相大白或驚訝發現時。",
+          "examples": [
+            {
+              "english": "I was looking for my keys, and they were in my pocket the whole time.",
+              "chinese": "我一直在找我的鑰匙，結果它們一直都在我的口袋裡。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s95",
+      "order": 95,
+      "englishOriginal": "Oh, wow. They put them there so you buy them without a plan.",
+      "chineseTranslation": "噢，天啊。他們把東西放那裡，就是為了讓人在沒計劃的情況下順手買下。",
+      "aiEnglishSuggestion": "Oh, wow. They place them there to encourage impulse buying.",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n12",
+          "title": "buy something without a plan",
+          "explanation": "口語中形容「非計畫性消費」或「衝動購物」的直白說法，特別常用於描述在收銀台前被零星小商品吸引而順手結帳的消費心理。",
+          "examples": [
+            {
+              "english": "Supermarkets put snacks near the checkout so you buy them without a plan.",
+              "chinese": "超市把零食放在結帳區附近，好讓你不知不覺就買了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s96",
+      "order": 96,
+      "englishOriginal": "Well, it worked. We need them anyway. Let's grab a pack.",
+      "chineseTranslation": "嗯，這一招確實奏效了。反正我們本來就用得到。拿一包吧。",
+      "vocabularyNotes": [
+        {
+          "id": "v23",
+          "title": "pack",
+          "explanation": "名詞，指「一包」、「一捆」或「一副」（如一副牌、一包蠟燭）。",
+          "examples": [
+            {
+              "english": "Could you buy a pack of gum for me?",
+              "chinese": "你能幫我買一包口香糖嗎？"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p25",
+          "title": "anyway",
+          "explanation": "副詞，意思是「不論如何」或「反正」，口語中常用來做語氣的轉折或重申決定。",
+          "examples": [
+            {
+              "english": "It's raining, but I have to go out anyway.",
+              "chinese": "雖然在下雨，但反正我無論如何都得出去一趟。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s97",
+      "order": 97,
+      "englishOriginal": "Okay, we have everything now. Let's go to this register. The line is short.",
+      "chineseTranslation": "好啦，這下東西都齊了。我們去這台收銀台吧，這邊排隊人比較少。",
+      "vocabularyNotes": [
+        {
+          "id": "v24",
+          "title": "line",
+          "explanation": "名詞，在美式英文中常指排隊的「隊伍」（英式英文則多用 queue）。",
+          "examples": [
+            {
+              "english": "There is a long line outside the movie theater.",
+              "chinese": "電影院外面排了很長的隊伍。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s98",
+      "order": 98,
+      "englishOriginal": "Hello. Did you find everything okay today?",
+      "chineseTranslation": "哈囉。今天有順利找齊所有需要的商品嗎？",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n13",
+          "title": "Did you find everything okay?",
+          "explanation": "歐美大賣場、超市或商店結帳時，收銀員雷打不動、百分之百會問的標準道地客套問候語，意思是「今天購物還順利嗎？東西都找到了嗎？」。",
+          "examples": [
+            {
+              "english": "Cashier: Did you find everything okay? Customer: Yes, thank you.",
+              "chinese": "收銀員：今天找東西都還順利嗎？顧客：有的，謝謝。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s99",
+      "order": 99,
+      "englishOriginal": "Yes, we did. Your store is very well-organized. Thank you.",
+      "chineseTranslation": "有的，都找到了。你們店裡的商品規劃得非常整齊、很有條理。謝謝你。",
+      "vocabularyNotes": [
+        {
+          "id": "v25",
+          "title": "well-organized",
+          "explanation": "複合形容詞，指「很有條理的」、「組織完善的」或「規劃得當的」。",
+          "examples": [
+            {
+              "english": "Her desk is always neat and well-organized.",
+              "chinese": "她的書桌總是乾淨且井井有條。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s100",
+      "order": 100,
+      "englishOriginal": "That is good to hear. I will scan your items now.",
+      "chineseTranslation": "很高興聽到你這麼說。我現在來幫你們的商品刷條碼結帳。",
+      "vocabularyNotes": [
+        {
+          "id": "v26",
+          "title": "scan",
+          "explanation": "動詞，在零售結帳情境下指「掃描商品條碼」。",
+          "examples": [
+            {
+              "english": "The cashier will scan each item quickly.",
+              "chinese": "收銀員會快速掃描每件商品的條碼。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p26",
+          "title": "good to hear",
+          "explanation": "口語中回應對方稱讚或好消息時的常用道地說法，意思是「很高興聽到你這麼說/聽到這消息真好」。",
+          "examples": [
+            {
+              "english": "A: I passed my driving test! B: That's good to hear!",
+              "chinese": "A：我通過路考了！B：那真替你高興！"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s101",
+      "order": 101,
+      "englishOriginal": "That will be forty-five dollars and fifty cents.",
+      "chineseTranslation": "總共是四十五元又五十美分。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n14",
+          "title": "That will be...",
+          "explanation": "結帳時店員告知消費者最終消費總金額時的標準道地句型，後面直接加金額數字。",
+          "examples": [
+            {
+              "english": "That will be twenty dollars, please.",
+              "chinese": "總共是二十元，謝謝。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s102",
+      "order": 102,
+      "englishOriginal": "How would you like to pay? Card, please. Tap the card here.",
+      "chineseTranslation": "請問您今天想如何付款？刷卡，謝謝。卡片在這裡感應一下就行了。",
+      "vocabularyNotes": [
+        {
+          "id": "v27",
+          "title": "tap",
+          "explanation": "動詞，字面意思是「輕觸」。在現代零售支付語境下，專指使用信用卡、手機等智慧裝置進行「感應式付款」。",
+          "examples": [
+            {
+              "english": "You can just tap your card on the reader to pay.",
+              "chinese": "你只要把卡片在讀卡機上感應一下就可以付款了。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p27",
+          "title": "How would you like to pay?",
+          "explanation": "店家結帳詢問付款方式（如現金、刷卡等）時最經典客氣的道地服務語句。",
+          "examples": [
+            {
+              "english": "How would you like to pay, cash or credit?",
+              "chinese": "您想如何付款，付現還是刷卡？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s103",
+      "order": 103,
+      "englishOriginal": "All set. Here is your receipt. Have a great day.",
+      "chineseTranslation": "這樣就全部搞定囉。這是您的發票/收據。祝您有美好的一天。",
+      "vocabularyNotes": [
+        {
+          "id": "v28",
+          "title": "receipt",
+          "explanation": "名詞，指購物後的「收據」或「發票」（注意中間的字母 p 不發音，讀作 /rɪˈsiːt/）。",
+          "examples": [
+            {
+              "english": "Keep your receipt in case you want to return the dress.",
+              "chinese": "保留你的收據，以防你想退掉這件洋裝。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p28",
+          "title": "All set.",
+          "explanation": "非常道地的口語表達，表示「一切就緒」、「都辦妥了」或「搞定了」。店員處理完結帳手續時非常喜歡用這句話做結尾。",
+          "examples": [
+            {
+              "english": "Your paperwork is finished, so you are all set.",
+              "chinese": "你的文件已經處理完畢，所以一切都搞定了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s104",
+      "order": 104,
+      "englishOriginal": "Thank you. You too. Okay, let's go.",
+      "chineseTranslation": "謝謝你，你也是。好啦，我們走吧。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s105",
+      "order": 105,
+      "englishOriginal": "We have the food, the drinks, the blanket, and the candles.",
+      "chineseTranslation": "我們現在有食物、飲料、毯子，還有蠟燭了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s106",
+      "order": 106,
+      "englishOriginal": "Then let's go to the park and set up the picnic before Mina arrives.",
+      "chineseTranslation": "那我們趕快去公園，在米娜抵達之前把野餐場地佈置好。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p29",
+          "title": "set up",
+          "explanation": "指「準備」、「佈置」、「安裝」或「設定」某種場地、設備或計畫。",
+          "examples": [
+            {
+              "english": "It took us an hour to set up the party decorations.",
+              "chinese": "我們花了一個小時才把派對的裝飾佈置好。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s107",
+      "order": 107,
+      "englishOriginal": "Yes, let's make it the best surprise ever.",
+      "chineseTranslation": "好，讓我們給她一個有史以來最棒的驚喜！",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p30",
+          "title": "the best... ever",
+          "explanation": "用來形容「有史以來最棒的……」或「前所未有最精彩的……」，語氣非常強烈。 ",
+          "examples": [
+            {
+              "english": "This is the best chocolate cake ever!",
+              "chinese": "這真是有史以來最棒的巧克力蛋糕了！"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    }
+  ]
+}
