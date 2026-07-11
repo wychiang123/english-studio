@@ -258,6 +258,21 @@
   background: color-mix(in srgb, var(--accent) 6%, var(--bg));
 }
 
+.sentence-card.resume-highlight {
+  animation: resume-highlight-fade 1.5s ease-out;
+}
+
+@keyframes resume-highlight-fade {
+  0% {
+    background: color-mix(in srgb, var(--accent) 18%, var(--bg));
+    box-shadow: 0 0 0 2px var(--accent);
+  }
+  100% {
+    background: var(--bg);
+    box-shadow: 0 0 0 0 transparent;
+  }
+}
+
 .sentence-card-header {
   font-size: 12px;
   opacity: 0.6;
