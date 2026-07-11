@@ -4,10 +4,12 @@
 
 English Studio's content pipeline is split into two separate roles:
 
-- **ChatGPT is the lesson factory.** A user gives ChatGPT a raw English transcript. ChatGPT cleans it, segments it into sentences, translates it, and generates learning notes (vocabulary, phrases, grammar, native expressions). ChatGPT outputs a single **Lesson JSON** file that conforms to this specification.
+- **ChatGPT is the lesson factory.** A user gives ChatGPT a raw English transcript. ChatGPT cleans it, segments it into sentences, translates it, and generates learning notes (vocabulary, phrases, grammar, native expressions). ChatGPT outputs a single **Lesson JSON** file that conforms to this specification. For very large transcripts, ChatGPT may generate the lesson internally in chunks to work within model limits, but it must always merge that work into one complete Lesson JSON before presenting it — see [Lesson Generation Specification v1, Section 4](./lesson-generation-specification-v1.md#4-large-transcript-generation-strategy).
 - **English Studio is the lesson reader/practice app.** English Studio imports a Lesson JSON file and turns it into a `Library` → `Story` → `Sentence` structure. From there it handles reading, practice (user translations, reconstructions, notes), progress tracking, and local persistence (`localStorage`).
 
 **Important product decision:** English Studio v1 does **not** call the OpenAI API directly and does not require any API key or network access to function. All AI generation happens externally, in a ChatGPT session, before the file ever reaches English Studio. This keeps English Studio a simple, local-only, no-backend app while still letting users benefit from AI-generated lesson content.
+
+This format follows the project-wide Specification Priority defined in [`docs/specification-priority.md`](./specification-priority.md), which ranks JSON Validity above Educational Quality and below Correctness/Completeness when those requirements compete during generation.
 
 ## 2. Design principles
 
@@ -246,7 +248,7 @@ Because English Studio never overwrites a `Sentence`'s user-practice fields from
 - Generating phrase notes.
 - Generating grammar notes.
 - Generating native expression notes.
-- Producing a single, valid Lesson JSON file conforming to this specification.
+- Producing a single, valid Lesson JSON file conforming to this specification — regardless of the internal generation strategy used to produce it (see [Lesson Generation Specification v1, Section 4](./lesson-generation-specification-v1.md#4-large-transcript-generation-strategy)).
 
 **English Studio is responsible for:**
 

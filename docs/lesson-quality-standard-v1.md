@@ -10,6 +10,8 @@ It does not define the generation pipeline — see [Lesson Generation Specificat
 
 It defines what "good" means for the content those documents structure and produce.
 
+This standard follows the project-wide Specification Priority defined in [`docs/specification-priority.md`](./specification-priority.md), which ranks Educational Quality below Correctness, Completeness, and JSON Validity when those requirements compete during generation.
+
 ## 2. Core Principles
 
 Every generated lesson should be:
