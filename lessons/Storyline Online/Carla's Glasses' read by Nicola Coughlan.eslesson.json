@@ -1,0 +1,2360 @@
+{
+  "schemaVersion": "1.0",
+  "lessonType": "english-story",
+  "title": "Carla's Glasses",
+  "source": "Storyline Online",
+  "language": "en",
+  "createdAt": "2026-07-12T06:47:00Z",
+  "description": "A heartwarming story about a girl named Carla who loves to be different and goes above and beyond to help her best friend blend in when he gets real glasses.",
+  "sentences": [
+    {
+      "id": "s1",
+      "order": 1,
+      "englishOriginal": "Welcome to Storyline Online.",
+      "chineseTranslation": "歡迎來到線上故事屋。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s2",
+      "order": 2,
+      "englishOriginal": "Brought to you by the SAG-AFTRA Foundation.",
+      "chineseTranslation": "本節目由 SAG-AFTRA 基金會為您呈現。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p1",
+          "title": "brought to you by",
+          "explanation": "「brought to you by...」是廣播、電視節目或活動中極為常見的固定片語，用來介紹贊助商或主辦單位，相當於中文的「由……為您呈現」或「由……榮譽贊助」。",
+          "examples": [
+            {
+              "english": "Tonight's program is brought to you by our local library.",
+              "chinese": "今晚的節目是由我們當地的圖書館為您呈現。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s3",
+      "order": 3,
+      "englishOriginal": "I’m Nicola Coughlan, and today I’m going to read \"Carla’s Glasses,\" written by Debbie Herman and illustrated by Sheila Bailey.",
+      "chineseTranslation": "我是妮歌娜·歌蓮，今天我要讀的故事是《卡拉的眼鏡》，作者是黛比·赫曼，插畫則是雪拉·貝利。",
+      "vocabularyNotes": [
+        {
+          "id": "v1",
+          "title": "illustrate",
+          "explanation": "動詞，在這裡特指為書本、故事繪製插畫。其過去分詞形式「illustrated」經常用於版權頁或封面，用來標示插畫創作者。",
+          "examples": [
+            {
+              "english": "The children's book was beautifully illustrated.",
+              "chinese": "這本童書的插畫繪製得非常精美。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s4",
+      "order": 4,
+      "englishOriginal": "On Monday, Ms. Pimento made an announcement.",
+      "chineseTranslation": "星期一，皮門托老師宣布了一件事。",
+      "vocabularyNotes": [
+        {
+          "id": "v2",
+          "title": "announcement",
+          "explanation": "名詞，指公開的宣佈、公告或通告。",
+          "examples": [
+            {
+              "english": "The principal made an important announcement this morning.",
+              "chinese": "校長今天早上宣布了一項重要消息。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p2",
+          "title": "make an announcement",
+          "explanation": "這是個常見的動詞搭配（Collocation），比起單純使用動詞「announce」，口語和正式書面語中更常使用「make an announcement」來表示「做出宣布」。",
+          "examples": [
+            {
+              "english": "The company will make an announcement tomorrow.",
+              "chinese": "公司明天將會發表一項聲明。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s5",
+      "order": 5,
+      "englishOriginal": "“A week from today is Vision Screening Day.\"",
+      "chineseTranslation": "「下週的今天就是視力檢查日。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p3",
+          "title": "a week from today",
+          "explanation": "時間片語，意思就是「從今天算起的一週後」，比逐字翻譯「下星期」更具體，常用於約定時間。",
+          "examples": [
+            {
+              "english": "Our exam will take place a week from today.",
+              "chinese": "我們的考試將在下週的今天舉行。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s6",
+      "order": 6,
+      "englishOriginal": "“The nurse will be checking everyone’s eyesight.”",
+      "chineseTranslation": "「護理師會來檢查每個人的視力。」",
+      "vocabularyNotes": [
+        {
+          "id": "v3",
+          "title": "eyesight",
+          "explanation": "名詞，指一個人的視力或目力。",
+          "examples": [
+            {
+              "english": "Reading in low light can damage your eyesight.",
+              "chinese": "在微弱的光線下閱讀會損害你的視力。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g1",
+          "title": "will be + verb-ing (Future Continuous)",
+          "explanation": "未來進行式。在這裡用來表示在未來某個時間點「預期一定會發生」的常態活動或計畫好的行程，語氣聽起來親切且自然。",
+          "examples": [
+            {
+              "english": "I will be flying to Tokyo this time tomorrow.",
+              "chinese": "明天這個時候我正搭機前往東京。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s7",
+      "order": 7,
+      "englishOriginal": "“I can’t wait till next Monday!” said Carla to Buster as they walked home.",
+      "chineseTranslation": "「我真等不及下星期一了！」卡拉在和巴斯特一起走路回家的路上說道。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p4",
+          "title": "can't wait till / for",
+          "explanation": "常用片語，形容心情非常迫切、興奮，到了「無法再等待」的程度，相當於中文的「迫不及待」。",
+          "examples": [
+            {
+              "english": "The kids can't wait for summer vacation.",
+              "chinese": "孩子們迫不及待想過暑假了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s8",
+      "order": 8,
+      "englishOriginal": "“Why?” he asked.",
+      "chineseTranslation": "「為什麼？」他問。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s9",
+      "order": 9,
+      "englishOriginal": "“Maybe I’ll need glasses! Then I’ll be the only kid in class to have them!”",
+      "chineseTranslation": "「說不定我會需要配眼鏡！這樣我就是班上唯一戴眼鏡的小孩了！」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n1",
+          "title": "the only... to have",
+          "explanation": "這是一種道地的英文限定表達方式。中文通常會先說「唯一擁有……的人」，而英文習慣用「the only + 名詞 + 不定詞（to + 動詞）」的結構將修飾語往後放。",
+          "examples": [
+            {
+              "english": "He was the only person to solve the puzzle.",
+              "chinese": "他是唯一解開這個謎題的人。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "order": 10,
+      "englishOriginal": "“That’s so YOU,” said Buster. “You like to be different.”",
+      "chineseTranslation": "「這真的很符合你的風格，」巴斯特說：「你就是喜歡跟別人不一樣。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n2",
+          "title": "That's so YOU",
+          "explanation": "母語者非常高頻使用的口語句型。「That's so + 人」意思是「這完全就是某人的作風/性格」，用來形容某個行為或想法極具該名特定人物的個人特色。",
+          "examples": [
+            {
+              "english": "Buying flowers for no reason? That's so Kevin.",
+              "chinese": "毫無理由地買花？這完全就是凱文的作風。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "order": 11,
+      "englishOriginal": "On Tuesday, Carla was wearing something unusual on her face.",
+      "chineseTranslation": "星期二，卡拉的臉上戴著一個很不尋常的東西。",
+      "vocabularyNotes": [
+        {
+          "id": "v4",
+          "title": "unusual",
+          "explanation": "形容詞，指不尋常的、獨特的或罕見的。",
+          "examples": [
+            {
+              "english": "It is unusual for him to be late for school.",
+              "chinese": "他上學遲到是很不尋常的事。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g2",
+          "title": "something + adjective",
+          "explanation": "在英文中，當形容詞要修飾 something, anything, nothing, someone 等複合代名詞時，形容詞必須強制放在這些代名詞的「後面」（後位修飾），不能放在前面。",
+          "examples": [
+            {
+              "english": "I want to try something different today.",
+              "chinese": "我今天想嘗試一些不一樣的東西。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s12",
+      "order": 12,
+      "englishOriginal": "It was purple and fuzzy.",
+      "chineseTranslation": "那東西紫紫的，還毛茸茸的。",
+      "vocabularyNotes": [
+        {
+          "id": "v5",
+          "title": "fuzzy",
+          "explanation": "形容詞，表面有細毛、絨毛的，觸感毛茸茸的。也可以用來形容影像模糊不清。",
+          "examples": [
+            {
+              "english": "The peach has a fuzzy skin.",
+              "chinese": "這顆桃子表面有毛茸茸的皮。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s13",
+      "order": 13,
+      "englishOriginal": "“What’s with the pipe cleaners?” asked Buster.",
+      "chineseTranslation": "「你臉上那些毛根是怎麼回事？」巴斯特問。",
+      "vocabularyNotes": [
+        {
+          "id": "v6",
+          "title": "pipe cleaner",
+          "explanation": "名詞，原本是用來清理煙斗的工具，但在學校的美勞創作或工藝課中，常被廣泛當作手工DIY的「毛根」（內含鐵絲、外覆絨毛，可自由彎曲）。",
+          "examples": [
+            {
+              "english": "We used colorful pipe cleaners to make artificial flowers.",
+              "chinese": "我們用五顏六色的毛根來製作手工花。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n3",
+          "title": "What's with...?",
+          "explanation": "非常道地的口語實用句型，意思是「……是怎麼回事？」或「為什麼會有……？」，通常帶有一種好奇、不解甚至覺得奇怪的語氣。",
+          "examples": [
+            {
+              "english": "What's with the long face? Is everything okay?",
+              "chinese": "你拉長個臉是怎麼回事？還好嗎？"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "order": 14,
+      "englishOriginal": "“They’re eyeglass frames,” said Carla. “I made them myself.”",
+      "chineseTranslation": "「那是眼鏡框啦，」卡拉說：「我自己做的。」",
+      "vocabularyNotes": [
+        {
+          "id": "v7",
+          "title": "frame",
+          "explanation": "名詞，在這裡特指眼鏡的「鏡框」。一般也可以指相框、畫框或建築的框架結構。",
+          "examples": [
+            {
+              "english": "I need to buy new frames for my glasses.",
+              "chinese": "我需要給我的眼鏡買副新鏡框。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g3",
+          "title": "myself (Reflexive Pronoun for emphasis)",
+          "explanation": "反身代名詞的強調用法。當放在句尾或主詞後面時，用來強調這個動作是主詞「親自、單獨」完成的，而不是假手他人。",
+          "examples": [
+            {
+              "english": "She baked this delicious cake herself.",
+              "chinese": "她親手烤了這個美味的蛋糕。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s15",
+      "order": 15,
+      "englishOriginal": "“I’m trying to see what colors and styles look good on me for when I get real glasses. What do you think of them?”",
+      "chineseTranslation": "「我想先看看什麼顏色和款式戴在我臉上比較好看，這樣等我配真眼鏡時就知道怎麼選了。你覺得怎麼樣？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p5",
+          "title": "look good on sb",
+          "explanation": "固定片語，意思是「（衣服、顏色或配件等）穿戴在某人身上很好看、很適合某人」。",
+          "examples": [
+            {
+              "english": "That blue jacket looks really good on you.",
+              "chinese": "那件藍色夾克你穿起來真的很好看。"
+            }
+          ]
+        },
+        {
+          "id": "p6",
+          "title": "think of...",
+          "explanation": "常用於詢問意見的片語。句型「What do you think of sb/sth?」意為「你對……有什麼看法？/你覺得……怎麼樣？」。",
+          "examples": [
+            {
+              "english": "What did you think of the new movie?",
+              "chinese": "你覺得那部新電影怎麼樣？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s16",
+      "order": 16,
+      "englishOriginal": "“I think they look like pipe cleaners,” said Buster.",
+      "chineseTranslation": "「我覺得它們看起來就像毛根。」巴斯特說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p7",
+          "title": "look like",
+          "explanation": "常用片語，意思是「看起來像……」，後面直接加上名詞或名詞片語。",
+          "examples": [
+            {
+              "english": "Those dark clouds look like rain.",
+              "chinese": "那些烏雲看起來快要下雨了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s17",
+      "order": 17,
+      "englishOriginal": "On Wednesday, Carla’s glasses were square and made of craft sticks.",
+      "chineseTranslation": "星期三，卡拉的眼鏡變成了方形的，是用美勞手工木棒做的。",
+      "vocabularyNotes": [
+        {
+          "id": "v8",
+          "title": "craft stick",
+          "explanation": "名詞，做美勞手工常用的木棒，外觀很像冰棒棍（popsicle stick）。",
+          "examples": [
+            {
+              "english": "We built a small house using glue and craft sticks.",
+              "chinese": "我們用膠水和工藝木棒蓋了一座小房子。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p8",
+          "title": "be made of",
+          "explanation": "由……製成。通常用於可以看出原始材料物理性質、未發生化學變化的情況。",
+          "examples": [
+            {
+              "english": "This table is made of solid wood.",
+              "chinese": "這張桌子是由實木製成的。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s18",
+      "order": 18,
+      "englishOriginal": "“Do these frames flatter my features?” she asked Lottie and Leslie.",
+      "chineseTranslation": "「這副鏡框有襯托出我的五官特色嗎？」她問洛蒂和萊斯莉。",
+      "vocabularyNotes": [
+        {
+          "id": "v9",
+          "title": "flatter",
+          "explanation": "動詞，在這裡不是指「奉承/阿諛」，而是指服飾或配件「使人顯得更漂亮、更襯托、更好看」。",
+          "examples": [
+            {
+              "english": "This haircut really flatters your face shape.",
+              "chinese": "這個髮型真的很襯你的臉型。"
+            }
+          ]
+        },
+        {
+          "id": "v10",
+          "title": "feature",
+          "explanation": "名詞，複數型 features 在指人體時，常用來特指「面部特徵」或「五官」。",
+          "examples": [
+            {
+              "english": "Her dark eyes are her most striking feature.",
+              "chinese": "她那雙黑色的眼睛是她最迷人的面部特徵。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s19",
+      "order": 19,
+      "englishOriginal": "On Thursday, Carla’s glasses were star-shaped and made of construction paper.",
+      "chineseTranslation": "星期四，卡拉的眼鏡是星星形狀的，是用圖畫紙做的。",
+      "vocabularyNotes": [
+        {
+          "id": "v11",
+          "title": "construction paper",
+          "explanation": "名詞，學校美勞課常用的厚圖畫紙、有色卡紙（粉彩紙）。",
+          "examples": [
+            {
+              "english": "The teacher handed out sheets of colored construction paper.",
+              "chinese": "老師分發了幾張彩色的手工卡紙。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s20",
+      "order": 20,
+      "englishOriginal": "“This pair really accentuates my eyes,” she said to Darcy and Marcus.",
+      "chineseTranslation": "「這一副真的很有放大我靈魂之窗的效果，」她對達西和馬庫斯說。",
+      "vocabularyNotes": [
+        {
+          "id": "v12",
+          "title": "accentuate",
+          "explanation": "動詞，指著重、強調，或是使某個事物顯得更為突出、明顯。",
+          "examples": [
+            {
+              "english": "The eyeliner helps to accentuate her beautiful eyes.",
+              "chinese": "眼線有助於突出她美麗的雙眼。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s21",
+      "order": 21,
+      "englishOriginal": "On Friday, Carla’s glasses were shaped like cats’ eyes and covered with glitter.",
+      "chineseTranslation": "星期五，卡拉的眼鏡造型變成了貓眼形狀，上面還貼滿了亮粉。",
+      "vocabularyNotes": [
+        {
+          "id": "v13",
+          "title": "glitter",
+          "explanation": "名詞，指美勞創作中常用的裝飾亮粉、閃光碎片。",
+          "examples": [
+            {
+              "english": "The greeting card was covered in gold glitter.",
+              "chinese": "那張賀卡上沾滿了金色的亮粉。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p9",
+          "title": "be covered with / in",
+          "explanation": "被……覆蓋、佈滿了……。",
+          "examples": [
+            {
+              "english": "The ground was covered with fallen leaves.",
+              "chinese": "地面上鋪滿了落葉。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s22",
+      "order": 22,
+      "englishOriginal": "“I call these my Sparkle Cats,” she informed Natie. “Don’t they have pizzazz?”",
+      "chineseTranslation": "「我叫它們『閃亮貓咪』，」她告訴內特：「它們是不是超有型、超吸睛的？」",
+      "vocabularyNotes": [
+        {
+          "id": "v14",
+          "title": "pizzazz",
+          "explanation": "名詞（口語），指一種耀眼奔放的活力、派頭、時髦感或吸引人的華麗風格（有時也寫作 pazzazz）。",
+          "examples": [
+            {
+              "english": "We need to add a little more pizzazz to our dance routine.",
+              "chinese": "我們需要為我們的舞蹈動作多增添一點亮點與活力。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s23",
+      "order": 23,
+      "englishOriginal": "On Vision Screening Day, everyone waited their turn in the auditorium.",
+      "chineseTranslation": "視力檢查當天，大家都在大禮堂裡依序排隊等待。",
+      "vocabularyNotes": [
+        {
+          "id": "v15",
+          "title": "auditorium",
+          "explanation": "名詞，指學校、公共建築的大禮堂、演藝廳或看台觀眾席。",
+          "examples": [
+            {
+              "english": "The whole school gathered in the auditorium for the assembly.",
+              "chinese": "全校師生齊聚在大禮堂舉行集會。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p10",
+          "title": "wait one's turn",
+          "explanation": "固定片語，意思是「耐心等待輪到自己」，即按順序排隊等候。",
+          "examples": [
+            {
+              "english": "Please sit down and wait your turn to see the doctor.",
+              "chinese": "請坐下並等待輪到您看醫生。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s24",
+      "order": 24,
+      "englishOriginal": "Harris had his eyes checked first, then Gordon, then Fabio, then Doris.",
+      "chineseTranslation": "哈里斯第一個接受視力檢查，接著是高登，然後是法比奧，再來是多麗絲。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g4",
+          "title": "have + sth + past participle (Causative Verb)",
+          "explanation": "使役動詞的被動用法。「have + 東西 + 過去分詞」表示「安排、請某人（通常是專業人士）來幫自己處理某事」，此處的 checked 表示眼睛「被」醫生或護理師檢查。",
+          "examples": [
+            {
+              "english": "I need to have my car repaired as soon as possible.",
+              "chinese": "我需要儘快送我的車去維修。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s25",
+      "order": 25,
+      "englishOriginal": "When Carla’s name was called, she leaped out of her chair.",
+      "chineseTranslation": "當叫到卡拉的名字時，她興奮地直接從椅子上跳了起來。",
+      "vocabularyNotes": [
+        {
+          "id": "v16",
+          "title": "leap",
+          "explanation": "動詞，跳躍、猛衝（過去式為 leaped 或 leapt）。",
+          "examples": [
+            {
+              "english": "The deer leaped over the low wooden fence.",
+              "chinese": "那隻鹿跳過了低矮的木柵欄。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s26",
+      "order": 26,
+      "englishOriginal": "“Hi, Carla!” said the nurse. “Please face the chart and cover your right eye. Now read this row of letters.”",
+      "chineseTranslation": "「嗨，卡拉！」護理師說：「請面向視力表，並遮住你的右眼。現在請讀出這一排字母。」",
+      "vocabularyNotes": [
+        {
+          "id": "v17",
+          "title": "chart",
+          "explanation": "名詞，圖表。在這裡指學校檢查視力所用的「視力表」（Vision Chart / Eye Chart）。",
+          "examples": [
+            {
+              "english": "The nurse pointed to the top line of the eye chart.",
+              "chinese": "護理師指向視力表的最上面那一排。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s27",
+      "order": 27,
+      "englishOriginal": "“EDFCZP,” read Carla. “That was easy.”",
+      "chineseTranslation": "「ＥＤＦＣＺＰ，」卡拉唸道：「太簡單了。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s28",
+      "order": 28,
+      "englishOriginal": "“Terrific,” said the nurse. “Please continue.”",
+      "chineseTranslation": "「太棒了，」護理師說：「請繼續。」",
+      "vocabularyNotes": [
+        {
+          "id": "v18",
+          "title": "terrific",
+          "explanation": "形容詞，極好的、非常棒的。在口語中常用來讚賞、讚美別人的表現。",
+          "examples": [
+            {
+              "english": "You did a terrific job on the presentation today.",
+              "chinese": "你今天的簡報做得好極了。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s29",
+      "order": 29,
+      "englishOriginal": "Carla read the next row and the next. “Hmm...it’s getting tricky. Is that a C or a G? I’ll go with C.”",
+      "chineseTranslation": "卡拉讀了下一排，接著又讀了再下一排。「嗯……開始變得有點困難、看不清了。那是Ｃ還是Ｇ啊？我猜是Ｃ好了。」",
+      "vocabularyNotes": [
+        {
+          "id": "v19",
+          "title": "tricky",
+          "explanation": "形容詞，棘手的、複雜難辨的或需要技巧的。",
+          "examples": [
+            {
+              "english": "This is a tricky question that requires careful thought.",
+              "chinese": "這是一個需要仔細思考的棘手問題。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p11",
+          "title": "go with",
+          "explanation": "口語常見片語。在這裡表示「選擇、決定採用（某個選項或答案）」。",
+          "examples": [
+            {
+              "english": "I think I will go with the chocolate ice cream.",
+              "chinese": "我想我決定選巧克力冰淇淋。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s30",
+      "order": 30,
+      "englishOriginal": "“Great,” said the nurse. “Now cover your left eye and we’ll start again.”",
+      "chineseTranslation": "「很好，」護理師說：「現在換遮住你的左眼，我們重新開始。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s31",
+      "order": 31,
+      "englishOriginal": "After a few more tests, the nurse handed Carla an eyeball sticker. “Nice job,” she said.",
+      "chineseTranslation": "又做了幾項測試後，護理師遞給卡拉一張眼球圖案的貼紙。「表現得很棒喔，」她說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s32",
+      "order": 32,
+      "englishOriginal": "“Thanks!” said Carla, and she skipped back to her seat.",
+      "chineseTranslation": "「謝謝！」卡拉說，然後一蹦一跳地回到了座位上。",
+      "vocabularyNotes": [
+        {
+          "id": "v20",
+          "title": "skip",
+          "explanation": "動詞，在這裡是指腳步輕快地「蹦蹦跳跳地走」，常形容小孩子心情很好時的步伐。",
+          "examples": [
+            {
+              "english": "The little girl skipped down the sidewalk.",
+              "chinese": "小女孩沿著人行道一蹦一跳地走著。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s33",
+      "order": 33,
+      "englishOriginal": "“What was it like?” asked Leslie. “Were you nervous?”",
+      "chineseTranslation": "「過程是什麼感覺？」萊斯莉問：「你會緊張嗎？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p12",
+          "title": "What is sth like?",
+          "explanation": "固定句型，用來詢問「某個事物或體驗是什麼樣子/感覺如何？」中的 like 是介系詞，而非動詞「喜歡」。",
+          "examples": [
+            {
+              "english": "What is it like to live in a big city?",
+              "chinese": "住在一個大城市裡是什麼感覺？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s34",
+      "order": 34,
+      "englishOriginal": "“No,” said Carla, sticking the eyeball on her forehead. “It was fun.”",
+      "chineseTranslation": "「不會啊，」卡拉邊說邊把眼球貼紙貼在自己的額頭上：「好玩死了。」",
+      "vocabularyNotes": [
+        {
+          "id": "v21",
+          "title": "forehead",
+          "explanation": "名詞，人的額頭。",
+          "examples": [
+            {
+              "english": "He wiped the sweat from his forehead.",
+              "chinese": "他擦了擦額頭上的汗水。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g5",
+          "title": "Present Participle for simultaneous action (-ing)",
+          "explanation": "現在分詞引導的副詞片語，用來表示這個動作與主句的動作（said Carla）是「同時發生」的。卡拉是一邊說話、一邊把貼紙貼上去的。",
+          "examples": [
+            {
+              "english": "She walked out of the room, singing her favorite song.",
+              "chinese": "她哼唱著她最喜歡的歌，走出了房間。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s35",
+      "order": 35,
+      "englishOriginal": "“How do you think you did?” asked Buster.",
+      "chineseTranslation": "「你覺得你檢查得怎麼樣？」巴斯特問。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g6",
+          "title": "Interrogative + do you think + statement",
+          "explanation": "含有插入語的間接問句結構。當問句中插入「do you think」時，後面的子句必須回復為一般陳述句的語序（you did），不可寫成疑問句語序（did you do）。",
+          "examples": [
+            {
+              "english": "Where do you think we should go for dinner?",
+              "chinese": "你覺得我們晚餐應該去哪裡吃？"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s36",
+      "order": 36,
+      "englishOriginal": "“Well, I wasn’t sure about one of the letters. I hope that means I need glasses!”",
+      "chineseTranslation": "「這個嘛，其中有一個字母我不太確定是什麼。希望這代表我得配眼鏡！」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p13",
+          "title": "be sure about / of",
+          "explanation": "對……有把握、確定。",
+          "examples": [
+            {
+              "english": "Are you absolutely sure about your answer?",
+              "chinese": "你對你的答案有絕對的把握嗎？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s37",
+      "order": 37,
+      "englishOriginal": "The next day, Carla and Buster were in bad moods.",
+      "chineseTranslation": "隔天，卡拉和巴斯特的心情都很不好。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p14",
+          "title": "in a bad mood",
+          "explanation": "心情不好。相反詞是「in a good mood（心情好）」。",
+          "examples": [
+            {
+              "english": "Stay away from the boss today; he's in a bad mood.",
+              "chinese": "今天離老闆遠一點，他心情不太好。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s38",
+      "order": 38,
+      "englishOriginal": "“Why are you both so glum?” asked Leslie.",
+      "chineseTranslation": "「你們兩個怎麼都愁眉苦臉的？」萊斯莉問。",
+      "vocabularyNotes": [
+        {
+          "id": "v22",
+          "title": "glum",
+          "explanation": "形容詞，悶悶不樂的、憂鬱沮喪的、一臉愁容的。",
+          "examples": [
+            {
+              "english": "You look glum. Did something go wrong?",
+              "chinese": "你看起來悶悶不樂的。出什麼事了嗎？"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s39",
+      "order": 39,
+      "englishOriginal": "“I got the results of the screening,” Carla explained. “I don’t need glasses after all.”",
+      "chineseTranslation": "「我拿到視力檢查的結果了，」卡拉解釋道：「結果我根本就不需要配眼鏡。」",
+      "vocabularyNotes": [
+        {
+          "id": "v23",
+          "title": "result",
+          "explanation": "名詞，檢查、考試、比賽等的結果或成績。",
+          "examples": [
+            {
+              "english": "We are still waiting for the laboratory test results.",
+              "chinese": "我們依然在等待實驗室的檢驗結果。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p15",
+          "title": "after all",
+          "explanation": "副詞片語，放在句尾時常用來表示「到頭來才發現、終究、結果（與先前預期相反）」。",
+          "examples": [
+            {
+              "english": "So you came to the party after all!",
+              "chinese": "所以你到頭來還是來參加派對了呀！"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s40",
+      "order": 40,
+      "englishOriginal": "“And it looks like I do need glasses,” grumbled Buster.",
+      "chineseTranslation": "「而看樣子我偏偏真的需要配眼鏡，」巴斯特抱怨著說。",
+      "vocabularyNotes": [
+        {
+          "id": "v24",
+          "title": "grumble",
+          "explanation": "動詞，嘟囔、發牢騷、滿腹怨言地抱怨。",
+          "examples": [
+            {
+              "english": "He grumbled about the long working hours.",
+              "chinese": "他嘟囔著抱怨工作時間太長。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g7",
+          "title": "Emphatic \"do\"",
+          "explanation": "助動詞的強調用法。在肯定句中，直接在原形動詞（need）前面加上 do/does/did，用來加強語氣，相當於中文的「真的、確實」。在這裡跟不需要眼鏡的卡拉形成了強烈對比。",
+          "examples": [
+            {
+              "english": "I don't cook often, but I do make a great steak.",
+              "chinese": "我不常下廚，但我真的會煎很棒的牛排。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s41",
+      "order": 41,
+      "englishOriginal": "“You do?” asked Carla. “You do?” asked Natie and Leslie.",
+      "chineseTranslation": "「你真的需要？」卡拉問。「你真的需要？」內特和萊斯莉也跟著問。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s42",
+      "order": 42,
+      "englishOriginal": "“Probably. I’ll know for sure when I get a full eye exam.”",
+      "chineseTranslation": "「大概吧。等我去接受完整的視力檢查之後才會確定。」",
+      "vocabularyNotes": [
+        {
+          "id": "v25",
+          "title": "exam",
+          "explanation": "名詞，檢查或測驗。這裡的「eye exam」指專業的眼科檢查、驗光。",
+          "examples": [
+            {
+              "english": "You should get an eye exam once a year.",
+              "chinese": "你應該每年接受一次視力檢查。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p16",
+          "title": "know for sure",
+          "explanation": "固定口語片語，意思是「確切知道、百分之百確定」。",
+          "examples": [
+            {
+              "english": "I don't know for sure if the store is open today.",
+              "chinese": "我不確定那家店今天有沒有開。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s43",
+      "order": 43,
+      "englishOriginal": "After school, Buster waited for his father to pick him up.",
+      "chineseTranslation": "放學後，巴斯特等他爸爸來接他。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p17",
+          "title": "pick sb up",
+          "explanation": "開車接送、順道載某人。",
+          "examples": [
+            {
+              "english": "My dad will pick me up after the movie.",
+              "chinese": "我爸爸會在電影結束後開車來接我。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s44",
+      "order": 44,
+      "englishOriginal": "“I’m going to the optometrist now to get my eyes checked.”",
+      "chineseTranslation": "「我現在要去驗光配鏡中心檢查眼睛了。」",
+      "vocabularyNotes": [
+        {
+          "id": "v26",
+          "title": "optometrist",
+          "explanation": "名詞，專業的驗光師、配鏡師，或是專門驗光配鏡的地方。",
+          "examples": [
+            {
+              "english": "The optometrist measured my prescription for new lenses.",
+              "chinese": "驗光師幫我測量了新鏡片的度數。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s45",
+      "order": 45,
+      "englishOriginal": "“Cool!” said Carla. “If my mother says it’s okay, can I come with you? It sounds like fun!”",
+      "chineseTranslation": "「好酷喔！」卡拉說：「如果我媽媽說可以，我能跟你們一起去嗎？聽起來好好玩！」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p18",
+          "title": "come with sb",
+          "explanation": "跟著某人一起去、同行。",
+          "examples": [
+            {
+              "english": "Do you want to come with us to the park?",
+              "chinese": "你想跟我們一起去公園嗎？"
+            }
+          ]
+        },
+        {
+          "id": "p19",
+          "title": "sound like",
+          "explanation": "聽起來像是……，後面通常接名詞或形容詞片語來表達對某事的初步印象。",
+          "examples": [
+            {
+              "english": "That sounds like a great plan to me.",
+              "chinese": "對我來說那聽起來是個很棒的計畫。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s46",
+      "order": 46,
+      "englishOriginal": "“It doesn’t sound like fun to me,” said Buster. “But sure.”",
+      "chineseTranslation": "「我倒是一點都不覺得這哪裡好玩，」巴斯特說：「但好吧，可以啊。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s47",
+      "order": 47,
+      "englishOriginal": "So Buster’s dad drove Buster and Carla to Dr. Ollie’s Eyewear.",
+      "chineseTranslation": "於是巴斯特的爸爸便載著巴斯特和卡拉，來到了「歐利醫生的眼鏡行」。",
+      "vocabularyNotes": [
+        {
+          "id": "v27",
+          "title": "eyewear",
+          "explanation": "名詞，眼鏡類產品、鏡類配件的總稱。",
+          "examples": [
+            {
+              "english": "The store sells a wide range of fashionable eyewear.",
+              "chinese": "那家店販售琳瑯滿目的時尚眼鏡商品。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s48",
+      "order": 48,
+      "englishOriginal": "“If you need glasses, I’ll help you pick out your frames!” said Carla, racing into the store.",
+      "chineseTranslation": "「如果你需要戴眼鏡，我來幫你挑鏡框！」卡拉興奮地說著，一邊衝進了店裡。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p20",
+          "title": "pick out",
+          "explanation": "固定動詞片語，意思是「挑選、選出（某樣物品）」。",
+          "examples": [
+            {
+              "english": "She helped him pick out a tie for the wedding.",
+              "chinese": "她幫他挑選了一條參加婚禮要用的領帶。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s49",
+      "order": 49,
+      "englishOriginal": "“Whoa!” Carla exclaimed, scanning the shelves. “There are so many colors and styles!”",
+      "chineseTranslation": "「哇！」卡拉掃視著架子驚呼：「這裡有好多顏色跟款式喔！」",
+      "vocabularyNotes": [
+        {
+          "id": "v28",
+          "title": "scan",
+          "explanation": "動詞，在這裡是指視線快速「粗略掃視、瀏覽」。",
+          "examples": [
+            {
+              "english": "She scanned the crowd looking for her sister.",
+              "chinese": "她掃視人群，尋找著她的姐姐。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s50",
+      "order": 50,
+      "englishOriginal": "She put on a pair of vintage wire frames. “Call me Professor Carla.”",
+      "chineseTranslation": "她戴上一副復古的金屬細框眼鏡。「請叫我卡拉教授。」",
+      "vocabularyNotes": [
+        {
+          "id": "v29",
+          "title": "vintage",
+          "explanation": "形容詞，復古的、老式的、經典經典古風的。",
+          "examples": [
+            {
+              "english": "She loves collecting vintage clothing from the 1980s.",
+              "chinese": "她喜歡收集1980年代的復古服飾。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p21",
+          "title": "put on",
+          "explanation": "戴上、穿上（衣物、配件或眼鏡等）。",
+          "examples": [
+            {
+              "english": "He put on his coat and went outside.",
+              "chinese": "他穿上外套，走到了外面。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s51",
+      "order": 51,
+      "englishOriginal": "She tried on narrow, neon green frames. “I’m a space alien!”",
+      "chineseTranslation": "她又試戴了一副細窄的螢光綠鏡框。「我是外星人！」",
+      "vocabularyNotes": [
+        {
+          "id": "v30",
+          "title": "neon",
+          "explanation": "名詞/形容詞，霓虹的，在時尚色彩中特指極度鮮豔明亮的「螢光色」。",
+          "examples": [
+            {
+              "english": "The runner wore a neon pink jacket for safety at night.",
+              "chinese": "跑者穿了一件螢光粉紅色的外套以確保夜間安全。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p22",
+          "title": "try on",
+          "explanation": "試穿、試戴（衣物、鞋子或飾品以確認尺寸或外觀是否合適）。",
+          "examples": [
+            {
+              "english": "You should try on the shoes before buying them.",
+              "chinese": "你買鞋子之前應該先試穿看看。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s52",
+      "order": 52,
+      "englishOriginal": "Then she donned a pair with glimmering rhinestones. “Look, Buster! I’m a rock star!”",
+      "chineseTranslation": "接著她戴上了一副鑲著閃亮水鑽的眼鏡。「你看，巴斯特！我是搖滾巨星！」",
+      "vocabularyNotes": [
+        {
+          "id": "v31",
+          "title": "don",
+          "explanation": "動詞（較為文學或生動的用字），意思等同於披上、穿上或「戴上」衣帽配件。",
+          "examples": [
+            {
+              "english": "He donned his best suit for the interview.",
+              "chinese": "他穿上他最好的西裝去參加面試。"
+            }
+          ]
+        },
+        {
+          "id": "v32",
+          "title": "rhinestone",
+          "explanation": "名詞，服飾配件上常用來仿鑽石的閃亮「人造鑽石、水鑽」。",
+          "examples": [
+            {
+              "english": "Her dress was decorated with tiny silver rhinestones.",
+              "chinese": "她的連身裙上裝飾著亮晶晶的小水鑽。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s53",
+      "order": 53,
+      "englishOriginal": "Buster didn’t even crack a smile.",
+      "chineseTranslation": "然而巴斯特卻連一絲笑容也沒有展現出來。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p23",
+          "title": "crack a smile",
+          "explanation": "道地的英文慣用語，意思是「露出一絲微笑、破顏微笑」，通常用於原本表情嚴肅或心情沉重的人身上。",
+          "examples": [
+            {
+              "english": "Despite the funny joke, he didn't even crack a smile.",
+              "chinese": "儘管這個笑話很有趣，他卻連笑都沒笑一下。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s54",
+      "order": 54,
+      "englishOriginal": "He went into Dr. Ollie’s office to get his eyes examined. When he came back out, he was frowning.",
+      "chineseTranslation": "他走進歐利醫生的診間接受眼睛檢查。當他再出來時，眉頭深鎖地皺著眉。",
+      "vocabularyNotes": [
+        {
+          "id": "v33",
+          "title": "frown",
+          "explanation": "動詞，皺眉，常用來表現不悅、憂慮、疑惑或沉思的表情。",
+          "examples": [
+            {
+              "english": "She frowned when she read the bad news.",
+              "chinese": "她讀到壞消息時皺起了眉頭。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s55",
+      "order": 55,
+      "englishOriginal": "“It’s official. I need glasses.”",
+      "chineseTranslation": "「這下確定了，這是官方認證的。我真的需要配眼鏡。」",
+      "vocabularyNotes": [
+        {
+          "id": "v34",
+          "title": "official",
+          "explanation": "形容詞，官方的、正式核准的。在日常口語中常被延伸用來指某件事情已經「確定成真、正式定案」。",
+          "examples": [
+            {
+              "english": "It's official: our team made it to the finals!",
+              "chinese": "這下確定了：我們隊伍打進決賽了！"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s56",
+      "order": 56,
+      "englishOriginal": "Dr. Ollie gave Buster some frames to try on. So did Buster’s dad. Then Carla handed Buster a pair.",
+      "chineseTranslation": "歐利醫生拿了幾款鏡框給巴斯特試戴。巴斯特的爸爸也幫忙拿了幾副。接著卡拉遞給巴斯特一雙眼鏡。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g8",
+          "title": "So + auxiliary verb + subject",
+          "explanation": "倒裝句型，用來表示「某人也是如此」。這裡的 did 代替了前面的 gave Buster some frames to try on，表示巴斯特的爸爸也做了一模一樣的動作。",
+          "examples": [
+            {
+              "english": "Tina loves chocolate, and so do I.",
+              "chinese": "蒂娜喜歡巧克力，我也是。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s57",
+      "order": 57,
+      "englishOriginal": "“Those look great on you!” she said. “You look like a secret agent.”",
+      "chineseTranslation": "「這副戴在你身上好看極了！」她說：「你看起來就像一個秘密特務。」",
+      "vocabularyNotes": [
+        {
+          "id": "v35",
+          "title": "agent",
+          "explanation": "名詞，代理人。而「secret agent」指的就是專門執行機密任務的「特務、間諜」。",
+          "examples": [
+            {
+              "english": "The movie is about a secret agent who saves the world.",
+              "chinese": "這部電影是關於一個拯救世界的特務的故事。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s58",
+      "order": 58,
+      "englishOriginal": "“I agree!” said Dr. Ollie. “Me too!” said Buster’s dad. “What do you think, Buster?” asked Carla.",
+      "chineseTranslation": "「我同意！」歐利醫生說。「我也是！」巴斯特的爸爸說。「你覺得呢，巴斯特？」卡拉問道。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s59",
+      "order": 59,
+      "englishOriginal": "Buster looked in the mirror and sighed. “I guess they’re okay.”",
+      "chineseTranslation": "巴斯特看著鏡子，嘆了一口氣說：「我想……這副還行吧。」",
+      "vocabularyNotes": [
+        {
+          "id": "v36",
+          "title": "sigh",
+          "explanation": "動詞/名詞，嘆氣。",
+          "examples": [
+            {
+              "english": "He sighed with relief when the test was over.",
+              "chinese": "考試結束時，他如釋重負地嘆了一口氣。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s60",
+      "order": 60,
+      "englishOriginal": "So Buster’s father ordered the glasses.",
+      "chineseTranslation": "於是，巴斯特的父親便下了訂單購買這副眼鏡。",
+      "vocabularyNotes": [
+        {
+          "id": "v37",
+          "title": "order",
+          "explanation": "動詞，在這裡是指下單訂購、預購。日常生活中也可以用於餐廳點餐。",
+          "examples": [
+            {
+              "english": "I ordered a new laptop online last night.",
+              "chinese": "我昨晚在網路上訂購了一台新筆電。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s61",
+      "order": 61,
+      "englishOriginal": "“They’ll be ready in the morning,” Dr. Ollie told them.",
+      "chineseTranslation": "「眼鏡明天早上就會做好了。」歐利醫生告訴他們。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s62",
+      "order": 62,
+      "englishOriginal": "“We’ll pick them up first thing tomorrow,” said Buster’s father.",
+      "chineseTranslation": "「我們明天一大早頭一件事就是過來拿。」巴斯特的爸爸說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p24",
+          "title": "first thing tomorrow",
+          "explanation": "固定英文片語，意思是「明天一早、明天要做的一號大事」。同樣也可以說 first thing in the morning。",
+          "examples": [
+            {
+              "english": "I will send you the email first thing tomorrow.",
+              "chinese": "我明天一大早第一件事就是把電子郵件寄給你。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s63",
+      "order": 63,
+      "englishOriginal": "“You’ll be a little late for school, but you’ll make a grand entrance with your spectacular specs!”",
+      "chineseTranslation": "「你上學會稍微遲到一下，但當你戴著這副酷炫吸睛的眼鏡走進去時，一定會引起全場轟動、來個華麗登場！」",
+      "vocabularyNotes": [
+        {
+          "id": "v38",
+          "title": "spectacular",
+          "explanation": "形容詞，壯觀的、引人注目的、驚人的。",
+          "examples": [
+            {
+              "english": "The fireworks display was absolutely spectacular.",
+              "chinese": "煙火表演絕對是非常壯觀的。"
+            }
+          ]
+        },
+        {
+          "id": "v39",
+          "title": "specs",
+          "explanation": "名詞（口語、幽默），是 spectacles 的簡寫，意思就是「眼鏡（glasses）」。",
+          "examples": [
+            {
+              "english": "Where did I leave my specs?",
+              "chinese": "我把我的眼鏡落在哪裡了？"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p25",
+          "title": "make a grand entrance",
+          "explanation": "固定片語，意思是「隆重登場、華麗現身」，形容一個人來到某個場合時非常引人注目或刻意製造亮點。",
+          "examples": [
+            {
+              "english": "The actress made a grand entrance in a red gown.",
+              "chinese": "那位女演員身穿紅色禮服華麗現身。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s64",
+      "order": 64,
+      "englishOriginal": "Buster scowled.",
+      "chineseTranslation": "巴斯特沉下面孔拉長了臉。",
+      "vocabularyNotes": [
+        {
+          "id": "v40",
+          "title": "scowl",
+          "explanation": "動詞，皺眉表示憤怒、不滿或不高興（臉色陰沉）。",
+          "examples": [
+            {
+              "english": "The angry customer scowled at the waiter.",
+              "chinese": "那位憤怒的顧客對著服務生沉下了臉。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s65",
+      "order": 65,
+      "englishOriginal": "“What’s wrong?” asked Carla. “Are you unsure about the color or style?”",
+      "chineseTranslation": "「怎麼啦？」卡拉問：「是顏色還是款式讓你拿不定主意嗎？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s66",
+      "order": 66,
+      "englishOriginal": "“No,” said Buster.",
+      "chineseTranslation": "「不是。」巴斯特說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s67",
+      "order": 67,
+      "englishOriginal": "“Are you afraid someone will make fun of you?”",
+      "chineseTranslation": "「那你是害怕會有人取笑你嗎？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p26",
+          "title": "make fun of sb",
+          "explanation": "固定動詞片語，意思是「嘲笑、取笑、拿某人開玩笑」。",
+          "examples": [
+            {
+              "english": "It's not nice to make fun of other people.",
+              "chinese": "嘲笑別人是不友善的行為。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s68",
+      "order": 68,
+      "englishOriginal": "“No,” said Buster.",
+      "chineseTranslation": "「也不是。」巴斯特回答。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s69",
+      "order": 69,
+      "englishOriginal": "“Then what’s the matter?”",
+      "chineseTranslation": "「那不然到底是怎麼了嘛？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p27",
+          "title": "What's the matter?",
+          "explanation": "口語中極高頻出現的問句，用來關心對方，意思是「出什麼事了？/你怎麼了？/有什麼不對勁嗎？」",
+          "examples": [
+            {
+              "english": "You look like you're going to cry. What's the matter?",
+              "chinese": "你看起來快哭了。怎麼了？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s70",
+      "order": 70,
+      "englishOriginal": "“Well,” said Buster, “you know how you like to be different?” Carla nodded. “I’m the opposite. I like to blend in.”",
+      "chineseTranslation": "「這個嘛，」巴斯特說：「你不是常說你喜歡跟別人不一樣嗎？」卡拉點了點頭。「我剛好相反，我喜歡低調地融入大家，不要顯眼。」",
+      "vocabularyNotes": [
+        {
+          "id": "v41",
+          "title": "opposite",
+          "explanation": "名詞，相反的人或事物。在這裡指自己的個性和卡拉截然相反。",
+          "examples": [
+            {
+              "english": "Hot is the opposite of cold.",
+              "chinese": "熱是冷的相反詞。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p28",
+          "title": "blend in",
+          "explanation": "常用片語，意思是「融入環境、低調而不顯眼、與周圍融為一體」。",
+          "examples": [
+            {
+              "english": "He dynamic chameleon changed its color to blend in with the leaves.",
+              "chinese": "那隻變色龍改變了顏色以融入葉子中。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s71",
+      "order": 71,
+      "englishOriginal": "“But tomorrow, when I walk into class, I’m going to stand out. Everyone will be looking at me.”",
+      "chineseTranslation": "「但是明天當我走進教室的時候，我一定會變得很突兀。每個人到時都會盯著我看。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p29",
+          "title": "stand out",
+          "explanation": "固定片語，意思是「顯眼、突出、引人注目」，與前面的 blend in（融入環境）恰好是一對反義詞。",
+          "examples": [
+            {
+              "english": "With her bright red hair, she really stands out in a crowd.",
+              "chinese": "憑著一頭鮮豔的紅髮，她在人群中真的很耀眼。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s72",
+      "order": 72,
+      "englishOriginal": "“I get it,” sighed Carla. “I wish there was something I could do.”",
+      "chineseTranslation": "「我懂了，」卡拉嘆了口氣說：「真希望有什麼是我能幫上忙的。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p30",
+          "title": "I get it",
+          "explanation": "口語極常用說法，等同於「我明白了、我了解了」。",
+          "examples": [
+            {
+              "english": "Oh, I get it now! Thanks for explaining.",
+              "chinese": "喔，我現在懂了！謝謝你的解釋。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "g9",
+          "title": "Subjunctive Mood with \"wish\"",
+          "explanation": "動詞 wish 後面的子句通常使用與「現在事實相反」的虛擬語氣（過去式動詞 was/were），用來表達目前無法實現但內心渴望的心願。",
+          "examples": [
+            {
+              "english": "I wish I were a billionaire.",
+              "chinese": "真希望我是個億萬富翁。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s73",
+      "order": 73,
+      "englishOriginal": "When Carla got home, she raced to her room, put on her Sparkle Cats, and started brainstorming ways to help Buster. “That’s it!” she cried.",
+      "chineseTranslation": "當卡拉一回到家，她飛快地跑進自己的房間，戴上她的「閃亮貓咪」眼鏡，並開始絞盡腦汁動腦筋思考幫助巴斯特的方法。「有了！就是這個！」她大喊。",
+      "vocabularyNotes": [
+        {
+          "id": "v42",
+          "title": "brainstorm",
+          "explanation": "動詞，集思廣益、集體腦力激盪，在個人使用時常用來形容「動腦筋、苦思冥想點子」。",
+          "examples": [
+            {
+              "english": "We need to brainstorm some marketing ideas for the new product.",
+              "chinese": "我們需要為新產品動腦想一些行銷點子。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n4",
+          "title": "That's it!",
+          "explanation": "在口語中，當一個人突然靈光一閃「想到了解決辦法、找到了答案」時，常會脫口而出這句話，相當於「對了！就是這樣！/有了！」",
+          "examples": [
+            {
+              "english": "That's it! We can solve the problem this way.",
+              "chinese": "有了！我們可以用這個方法解決問題。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s74",
+      "order": 74,
+      "englishOriginal": "Carla dumped everything out of her crafts drawer.",
+      "chineseTranslation": "卡拉把美勞抽屜裡的所有東西一口氣通通倒了出來。",
+      "vocabularyNotes": [
+        {
+          "id": "v43",
+          "title": "dump",
+          "explanation": "動詞，傾倒、粗率地丟下或倒出。",
+          "examples": [
+            {
+              "english": "Don't dump your clothes on the floor.",
+              "chinese": "不要把你的衣服胡亂倒在地上。"
+            }
+          ]
+        },
+        {
+          "id": "v44",
+          "title": "crafts",
+          "explanation": "名詞，手工藝、美勞創作。這裡指存放做手工藝材料的抽屜。",
+          "examples": [
+            {
+              "english": "She enjoys arts and crafts classes at school.",
+              "chinese": "她很喜歡學校的藝術與美勞課。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p31",
+          "title": "dump sth out of",
+          "explanation": "將某物從……之中倒出來。",
+          "examples": [
+            {
+              "english": "He dumped the coins out of his piggy bank.",
+              "chinese": "他把硬幣從撲滿裡倒了出來。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s75",
+      "order": 75,
+      "englishOriginal": "She cut. She glued. She bent. She shaped. She painted. Then she packed everything up in a box.",
+      "chineseTranslation": "她又是剪，又是黏，又是彎折鐵絲，又是塑形，接著又上色。然後，她把所有做好的東西通通裝進一個箱子裡。",
+      "vocabularyNotes": [
+        {
+          "id": "v45",
+          "title": "bend",
+          "explanation": "動詞，折彎、使彎曲（過去式為 bent）。",
+          "examples": [
+            {
+              "english": "You can bend the wire easily with pliers.",
+              "chinese": "你可以用老虎鉗輕鬆地把鐵絲折彎。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p32",
+          "title": "pack sth up",
+          "explanation": "收拾、打包裝箱妥當。",
+          "examples": [
+            {
+              "english": "It's time to pack up our things and go home.",
+              "chinese": "是時候收拾好我們的東西回家了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s76",
+      "order": 76,
+      "englishOriginal": "The next morning, Carla handed the box to Ms. Pimento and whispered something in her ear.",
+      "chineseTranslation": "隔天早上，卡拉把那大箱子交給了皮門托老師，並在她耳邊悄悄說了些話。",
+      "vocabularyNotes": [
+        {
+          "id": "v46",
+          "title": "whisper",
+          "explanation": "動詞/名詞，低聲耳語、說悄悄話。",
+          "examples": [
+            {
+              "english": "They whispered to each other during the movie.",
+              "chinese": "他們在看電影時互相低聲交談。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p33",
+          "title": "whisper in sb's ear",
+          "explanation": "在某人的耳邊說悄悄話。",
+          "examples": [
+            {
+              "english": "The little boy whispered something in his mother's ear.",
+              "chinese": "小男孩在媽媽的耳邊悄悄說了些話。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s77",
+      "order": 77,
+      "englishOriginal": "Ms. Pimento peeked inside, smiled and nodded.",
+      "chineseTranslation": "皮門托老師往箱子裡偷看了一眼，露出了微笑並點了點頭。",
+      "vocabularyNotes": [
+        {
+          "id": "v47",
+          "title": "peek",
+          "explanation": "動詞，窺視、偷看（通常指快速或悄悄地看一眼）。",
+          "examples": [
+            {
+              "english": "She peeked into the oven to see if the cake was done.",
+              "chinese": "她往烤箱裡偷看了一眼，確認蛋糕好了沒有。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s78",
+      "order": 78,
+      "englishOriginal": "“Take one and pass it down,” Carla announced to everyone.",
+      "chineseTranslation": "「拿一副然後往後傳喔，」卡拉向全班宣布。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p34",
+          "title": "pass sth down / around",
+          "explanation": "在課堂或會議中極高頻出現的說法，意思是「把東西（如考卷、物資）拿一份後依序往下、往後傳遞」。",
+          "examples": [
+            {
+              "english": "Please take a worksheet and pass the rest down.",
+              "chinese": "請拿一張學習單，然後把剩下的往後傳。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s79",
+      "order": 79,
+      "englishOriginal": "There were oohs and aahs and lots of giggling.",
+      "chineseTranslation": "教室裡頓時傳出一陣陣驚嘆聲和一堆咯咯的笑聲。",
+      "vocabularyNotes": [
+        {
+          "id": "v48",
+          "title": "giggle",
+          "explanation": "動詞/名詞，傻笑、咯咯地笑、忍不住連續笑出聲。",
+          "examples": [
+            {
+              "english": "The students couldn't stop giggling at the funny mistake.",
+              "chinese": "學生們忍不住對著那個滑稽的錯誤咯咯傻笑。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p35",
+          "title": "oohs and aahs",
+          "explanation": "擬聲詞組成的名詞片語，用來形容人群看到令人驚奇或美麗的東西時，發出的「哇——、啊——」的讚嘆驚呼聲。",
+          "examples": [
+            {
+              "english": "The beautiful dress drew oohs and aahs from the audience.",
+              "chinese": "那件美麗的禮服引起了觀眾席上一陣陣的讚嘆聲。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s80",
+      "order": 80,
+      "englishOriginal": "The class had finally settled down when the doorknob turned and the door opened slightly.",
+      "chineseTranslation": "班上好不容易終於安靜、安定了下來，這時門把轉動了，教室的門被輕輕地推開了一條縫。",
+      "vocabularyNotes": [
+        {
+          "id": "v49",
+          "title": "doorknob",
+          "explanation": "名詞，球形門把、門柄。",
+          "examples": [
+            {
+              "english": "She turned the doorknob and pushed the door open.",
+              "chinese": "她轉動門把，把門推開了。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p36",
+          "title": "settle down",
+          "explanation": "固定片語，在學校課堂背景下表示喧鬧後「安靜下來、定下心來」。",
+          "examples": [
+            {
+              "english": "The teacher waited for the students to settle down.",
+              "chinese": "老師等待學生們安靜下來。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "g10",
+          "title": "Past Perfect + when + Past Tense",
+          "explanation": "過去完成式搭配 when 引導的過去式子句。用來強調某個動作已經完成（had finally settled down），就在那一瞬間，另一個突如其來的過去動作（turned and opened）緊接著發生了。",
+          "examples": [
+            {
+              "english": "We had just finished dinner when the phone rang.",
+              "chinese": "我們才剛吃完晚餐，電話就響了。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s81",
+      "order": 81,
+      "englishOriginal": "Buster inched his way into the classroom, eyes on the floor.",
+      "chineseTranslation": "巴斯特低頭看著地板，做賊心虛般一步一步極其緩慢地挪進了教室。",
+      "vocabularyNotes": [
+        {
+          "id": "v50",
+          "title": "inch",
+          "explanation": "動詞，在這裡不是英寸，而是指「一吋一吋極其緩慢、謹慎地移動」。",
+          "examples": [
+            {
+              "english": "The traffic was bad, and cars inched forward slowly.",
+              "chinese": "交通很塞，車輛只能一步一吋緩慢地向前挪動。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p37",
+          "title": "inch one's way",
+          "explanation": "形容像蟲一樣「極緩慢地前進、小心翼翼地挪動步伐」。",
+          "examples": [
+            {
+              "english": "He inched his way across the narrow ledger.",
+              "chinese": "他小心翼翼地在狹窄的邊緣上挪動前進。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "g11",
+          "title": "With-construction alternative (eyes on the floor)",
+          "explanation": "獨立分詞結構的省略形式，省去了介系詞 with。這種結構作伴隨狀語，用來補充說明主詞當時的姿態或身體狀態：當時他的眼睛是死死盯著地板的。",
+          "examples": [
+            {
+              "english": "He stood there in silence, head down.",
+              "chinese": "他低著頭，默默地站在那裡。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s82",
+      "order": 82,
+      "englishOriginal": "“Hey, Buster!” called Carla. Buster lifted his head.",
+      "chineseTranslation": "「嘿，巴斯特！」卡拉大喊。巴斯特這才抬起了頭。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s83",
+      "order": 83,
+      "englishOriginal": "Looking back at him were rows of smiling faces. And on each face was a pair of glasses – Carla’s glasses!",
+      "chineseTranslation": "迎面看著他的，是一排排滿溢著微笑的臉龐。而更驚人的是，每個人的臉上居然都戴著一副眼鏡——全都是卡拉親手做的手作眼鏡！",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g12",
+          "title": "Full Inversion (Complete Inversion)",
+          "explanation": "完全倒裝句型。當表示地點或動作特徵的副詞/分詞（Looking back... / On each face...）移到句首時，為了平衡句子結構或製造戲劇化效果，會把主詞和動詞完全顛倒（were rows... / was a pair...）。",
+          "examples": [
+            {
+              "english": "At the top of the hill stood an old castle.",
+              "chinese": "在山頂上坐落著一座古老的城堡。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s84",
+      "order": 84,
+      "englishOriginal": "Buster smiled. Then he burst out laughing.",
+      "chineseTranslation": "巴斯特先是笑了一下，接著忍不住當場哈哈大笑了起來。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p38",
+          "title": "burst out laughing / crying",
+          "explanation": "固定片語，意思是「突然大笑起來/突然放聲大哭起來」，後面強制接動名詞（-ing）。",
+          "examples": [
+            {
+              "english": "The audience burst out laughing at the comedian's joke.",
+              "chinese": "全場觀眾被喜劇演員的笑話逗得突然哄堂大笑。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s85",
+      "order": 85,
+      "englishOriginal": "“Your glasses are cool, Buster!” said Natie, peering through egg carton frames. “But mine are egg-cellent!”",
+      "chineseTranslation": "「巴斯特，你的眼鏡超酷的！」內特一邊透過雞蛋盒做成的鏡框看著一邊說：「不過我這副可是『蛋』願無違的讚啦！」",
+      "vocabularyNotes": [
+        {
+          "id": "v51",
+          "title": "peer",
+          "explanation": "動詞，指因為看不清或好奇而「費力瞇著眼看、端詳、凝視」。",
+          "examples": [
+            {
+              "english": "She peered through the window in the dark.",
+              "chinese": "她在黑暗中瞇著眼往窗戶外面看。"
+            }
+          ]
+        },
+        {
+          "id": "v52",
+          "title": "egg carton",
+          "explanation": "名詞，超市用來裝雞蛋的紙質或塑膠格子「雞蛋盒」。",
+          "examples": [
+            {
+              "english": "Don't throw away the egg cartons; we can use them for crafts.",
+              "chinese": "不要把雞蛋盒丟掉；我們可以用它們做美勞。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n5",
+          "title": "egg-cellent (Pun)",
+          "explanation": "這是英文故事裡非常經典的雙關語（Pun）。內特將 excellent（太棒了）的字頭改成了 egg（雞蛋），藉此幽默地炫耀自己那副用「雞蛋盒」做成的搞笑眼鏡。",
+          "examples": [
+            {
+              "english": "That pun was egg-cellent, I must admit.",
+              "chinese": "我必須承認，那個雞蛋雙關語玩得真是妙（蛋）啊。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s86",
+      "order": 86,
+      "englishOriginal": "“And look at mine!” shouted Darcy. “They’re so blingy!”",
+      "chineseTranslation": "「還有看看我這副！」達西大喊：「亮瞎我的眼，超閃的啦！」",
+      "vocabularyNotes": [
+        {
+          "id": "v53",
+          "title": "blingy",
+          "explanation": "形容詞（流行口語），源於 bling-bling，形容珠光寶氣、閃亮華麗、閃閃發光的浮誇風格。",
+          "examples": [
+            {
+              "english": "She loves wearing blingy jewelry to parties.",
+              "chinese": "她喜歡戴著閃閃發光的浮誇首飾去參加派對。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s87",
+      "order": 87,
+      "englishOriginal": "“My glasses make me look like an insect!” said Marcus.",
+      "chineseTranslation": "「我的眼鏡讓我看起來好像一隻昆蟲喔！」馬庫斯說。",
+      "vocabularyNotes": [
+        {
+          "id": "v54",
+          "title": "insect",
+          "explanation": "名詞，昆蟲。",
+          "examples": [
+            {
+              "english": "Ants and bees are examples of insects.",
+              "chinese": "螞蟻和蜜蜂都是昆蟲的例子。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g13",
+          "title": "make + object + bare infinitive",
+          "explanation": "使役動詞 make 的基本結構。後面接受詞（me）後，必須搭配「原形動詞」（look），表示強迫或導致某人呈現某種狀態或做出某個動作。",
+          "examples": [
+            {
+              "english": "The sad sad ending of the story made me cry.",
+              "chinese": "故事悲傷的結局讓我哭了。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s88",
+      "order": 88,
+      "englishOriginal": "“I’m bursting with butterflies!” called Lottie. “And I’m a flower garden,” said Ms. Pimento.",
+      "chineseTranslation": "「我全身上下都開滿蝴蝶了！」洛蒂喊道。「而我則是一座秘密花園呢，」皮門托老師說道。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p39",
+          "title": "be bursting with sth",
+          "explanation": "固定片語，形容某種情感、色彩或特徵極為充盈，多到「快要滿了出來、要爆炸了」的生動狀態。",
+          "examples": [
+            {
+              "english": "The proud parents were bursting with pride.",
+              "chinese": "那對驕傲的父母內心充滿了無比的自豪。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s89",
+      "order": 89,
+      "englishOriginal": "As everyone compared glasses, Carla turned to Buster. “See? You don’t stand out after all.”",
+      "chineseTranslation": "當大家在互相觀摩比較彼此的眼鏡時，卡拉轉頭對巴斯特說：「你看吧？到頭來，你其實一點都不顯眼嘛。」",
+      "vocabularyNotes": [
+        {
+          "id": "v55",
+          "title": "compare",
+          "explanation": "動詞，比較、對照、對比。",
+          "examples": [
+            {
+              "english": "It is not helpful to compare your progress with others.",
+              "chinese": "把自己的進度跟別人作比較是沒有幫助的。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s90",
+      "order": 90,
+      "englishOriginal": "“That’s for sure!” said Buster. “Thanks to you, I blend right in!”",
+      "chineseTranslation": "「那是絕對的！」巴斯特說：「多虧了你，我現在完美融入，完全隱形了！」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p40",
+          "title": "That's for sure!",
+          "explanation": "口語高頻慣用語，用來強烈贊同對方剛才說的話，意思是「那是一定的！/那是毫無疑問的！」",
+          "examples": [
+            {
+              "english": "It's going to be a tough match. That's for sure.",
+              "chinese": "這將會是一場硬仗。那是毫無疑問的。"
+            }
+          ]
+        },
+        {
+          "id": "p41",
+          "title": "thanks to sb/sth",
+          "explanation": "多虧了……、幸好有……。通常用來表達感謝或指出事情的原因。",
+          "examples": [
+            {
+              "english": "Thanks to your timely advice, we avoided a big mistake.",
+              "chinese": "多虧了你及時的建議，我們才免於犯下大錯。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s91",
+      "order": 91,
+      "englishOriginal": "So, what I like about this book is it shows how important it is for everyone to celebrate who they are and how everyone is different and how that's a wonderful, wonderful thing.",
+      "chineseTranslation": "所以，我之所以喜歡這本書，是因為它展現了每個人去接納並慶祝原本的自己有多麼重要，而且每個人本來就各有不同，而那是一件非常非常美妙的事。",
+      "vocabularyNotes": [
+        {
+          "id": "v56",
+          "title": "celebrate",
+          "explanation": "動詞，除了慶祝節日之外，在這裡是引申為欣然接受、讚美、肯定並「引以為傲」的意思。",
+          "examples": [
+            {
+              "english": "We should celebrate cultural diversity in our schools.",
+              "chinese": "我們應該肯定並支持學校裡展現的文化多元性。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g14",
+          "title": "Pseudo-cleft sentence (What clause as subject)",
+          "explanation": "擬似分裂句結構。「what I like about... is...」用來特別強調主詞部分的觀點，能有效將讀者或聽眾的注意力引導到後面的真正主旨在於：這本書要帶給讀者的核心啟示。",
+          "examples": [
+            {
+              "english": "What I love about summer is going to the beach.",
+              "chinese": "我之所以熱愛夏天，就是因為可以去海邊玩。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s92",
+      "order": 92,
+      "englishOriginal": "I think this story is very, very special too because it shows how important it is to have kind friends and to always be there to support your friends because they'll be so important to you in your life, and it shows how Carla is a really good friend.",
+      "chineseTranslation": "我覺得這個故事也非常非常特別，因為它讓我們看到，擁有善良貼心的朋友、並時刻待在身邊支持他們是多麼重要，因為朋友在你的生命中將扮演無可取代的角色，而這個故事更充分證明了卡拉真是一位不可多得的摯友。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p42",
+          "title": "be there for sb",
+          "explanation": "英文中極具溫度且道地的表達，意思是「（在某人遭遇困難或需要時）守候在身邊、隨時給予支持與陪伴」。",
+          "examples": [
+            {
+              "english": "True friends will always be there for you when times get tough.",
+              "chinese": "當局勢變得艱難時，真正的朋友永遠會留在身邊支持你。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s93",
+      "order": 93,
+      "englishOriginal": "Thank you for watching Storyline Online. Make sure to check out all of our stories. Keep watching and keep reading.",
+      "chineseTranslation": "感謝收看線上故事屋。請務必去探索收看我們所有的精彩故事。請保持觀看，也要熱愛閱讀喔！",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p43",
+          "title": "make sure to",
+          "explanation": "務必、確保要去做某事。",
+          "examples": [
+            {
+              "english": "Make sure to lock the back door before you leave.",
+              "chinese": "你離開前務必鎖好後門。"
+            }
+          ]
+        },
+        {
+          "id": "p44",
+          "title": "check out",
+          "explanation": "在這裡不是指飯店退房，而是日常口語指「去瞧瞧、去看看、去探索體驗（某個好東西）」。",
+          "examples": [
+            {
+              "english": "You should check out that new bookstore downtown.",
+              "chinese": "你應該去市中心那家新開的書店瞧瞧。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    }
+  ]
+}

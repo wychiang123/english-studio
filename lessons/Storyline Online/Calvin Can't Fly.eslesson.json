@@ -1,0 +1,1554 @@
+{
+  "schemaVersion": "1.0",
+  "lessonType": "english-story",
+  "title": "Calvin Can’t Fly",
+  "source": "Storyline Online",
+  "sourceUrl": "https://storylineonline.net/",
+  "author": "Jennifer Berne",
+  "narrator": "Jonathan Pryce",
+  "language": "en",
+  "createdAt": "2026-07-11T03:35:00Z",
+  "tags": ["kids", "animals", "birds", "reading", "books"],
+  "description": "A heartwarming story about a starling named Calvin who loves to read books instead of learning how to fly, only to find that his knowledge saves his entire family from a dangerous storm.",
+  "sentences": [
+    {
+      "id": "s1",
+      "order": 1,
+      "englishOriginal": "Welcome to Storyline Online.",
+      "chineseTranslation": "歡迎來到 Storyline Online。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s2",
+      "order": 2,
+      "englishOriginal": "Brought to you by the SAG-AFTRA Foundation.",
+      "chineseTranslation": "本節目由 SAG-AFTRA 基金會為您呈現。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p1",
+          "title": "brought to you by",
+          "explanation": "「brought to you by」是節目、廣播或活動中常見的固定片語，意思是「由……贊助/提供/呈現」。",
+          "examples": [
+            { "english": "This podcast is brought to you by our generous listeners.", "chinese": "本播客節目是由我們慷慨的聽眾贊助播出的。" }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "g1",
+          "title": "Past Participle Clause (減縮子句)",
+          "explanation": "這裡的「Brought to you by...」是「This show is brought to you by...」的省略用法，利用過去分詞（PP）引導的片語來作補充說明。",
+          "examples": [
+            { "english": "Made in Taiwan, this bicycle is of excellent quality.", "chinese": "這輛腳踏車是台灣製造的，品質非常優良。" }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s3",
+      "order": 3,
+      "englishOriginal": "I’m Jonathan Pryce, and today I’m going to read Calvin Can’t Fly, written by Jennifer Berne and illustrated by Keith Bendis.",
+      "chineseTranslation": "我是強納森·普萊斯，今天我要讀《凱文不會飛》給大家聽，這本書由珍妮佛·伯恩所著，基斯·班迪斯繪製插圖。",
+      "vocabularyNotes": [
+        {
+          "id": "v1",
+          "title": "illustrate",
+          "explanation": "動詞，指為書本、雜誌等「繪製插圖」或「加插圖於」。",
+          "examples": [
+            { "english": "She was hired to illustrate a new children's book.", "chinese": "她被雇用為一本新的童書繪製插圖。" }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s4",
+      "order": 4,
+      "englishOriginal": "Calvin is a starling.",
+      "chineseTranslation": "凱文是一隻歐洲椋鳥。",
+      "vocabularyNotes": [
+        {
+          "id": "v2",
+          "title": "starling",
+          "explanation": "名詞，指「椋鳥」，一種常見的小型鳥類，常群體行動。",
+          "examples": [
+            { "english": "A large flock of starlings flew across the evening sky.", "chinese": "一大群椋鳥飛過了傍晚的天空。" }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s5",
+      "order": 5,
+      "englishOriginal": "He was born under the eaves of an old barn with his three brothers, four sisters, and sixty-seven thousand four hundred and thirty-two cousins.",
+      "chineseTranslation": "他出生在一座舊穀倉的屋簷下，有三個哥哥弟弟、四個姐姐妹妹，還有六萬七千四百三十二個堂表兄弟姊妹。",
+      "vocabularyNotes": [
+        {
+          "id": "v3",
+          "title": "eaves",
+          "explanation": "名詞（常用複數），指房屋的「屋簷」。",
+          "examples": [
+            { "english": "Swallows built a nest under the eaves of the house.", "chinese": "燕子在房子的屋簷下築了一個巢。" }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s6",
+      "order": 6,
+      "englishOriginal": "Starlings have BIG families.",
+      "chineseTranslation": "椋鳥的家族可是非常龐大的。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s7",
+      "order": 7,
+      "englishOriginal": "Right from the beginning Calvin was different . . . right from the day all the little starlings tumbled out of their nests to discover the world.",
+      "chineseTranslation": "從一開始，凱文就與眾不同……就從所有小椋鳥從鳥巢裡跌跌撞撞地爬出來去探索世界的那一天起。",
+      "vocabularyNotes": [
+        {
+          "id": "v4",
+          "title": "tumble",
+          "explanation": "動詞，指「跌倒」、「滾落」或「跌跌撞撞地走」。這裡用來形容小鳥從巢中爬出時笨拙可愛的模樣。",
+          "examples": [
+            { "english": "The puppies tumbled over each other in the grass.", "chinese": "小狗們在草地上互相滾來滾去地玩耍。" }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p2",
+          "title": "right from the beginning",
+          "explanation": "固定片語，強調「一開始就……」或「打從一開始」。",
+          "examples": [
+            { "english": "I knew right from the beginning that this project would be a success.", "chinese": "我打從一開始就知道這個專案會成功。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s8",
+      "order": 8,
+      "englishOriginal": "Charlie discovered worms.",
+      "chineseTranslation": "查理發現了蠕蟲。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s9",
+      "order": 9,
+      "englishOriginal": "Adeline discovered grass.",
+      "chineseTranslation": "阿德琳發現了草地。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s10",
+      "order": 10,
+      "englishOriginal": "Clement discovered dirt.",
+      "chineseTranslation": "克萊門特發現了泥土。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s11",
+      "order": 11,
+      "englishOriginal": "Aubrey discovered water.",
+      "chineseTranslation": "奧布里發現了水。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s12",
+      "order": 12,
+      "englishOriginal": "And Calvin . . . well, Calvin discovered a BOOK.",
+      "chineseTranslation": "而凱文呢……嗯，凱文發現了一本書。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n1",
+          "title": "Well, ...",
+          "explanation": "在口語或故事敘述中，用「Well」放在句首，用來做語氣的轉折或停頓，類似中文的「嗯……」、「這個嘛……」，能帶出令人意想不到的結果。",
+          "examples": [
+            { "english": "I thought he would be angry. Well, he actually laughed.", "chinese": "我以為他會生氣。嗯，結果他居然笑了。" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "order": 13,
+      "englishOriginal": "While all of Calvin’s cousins chased beetles, bugs, and ants, Calvin was learning to read letters, words, and sentences.",
+      "chineseTranslation": "當凱文的所有堂表兄弟姊妹都在追逐甲蟲、小蟲和螞蟻時，凱文卻在學習認字母、單字和句子。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g2",
+          "title": "Past Continuous Tense (過去進行式)",
+          "explanation": "「was learning」使用過去進行式，用來描繪過去某一段時間內正在持續發生的動作，在此處與 cousins 的習慣形成強烈對比。",
+          "examples": [
+            { "english": "While they were playing video games, she was studying for the exam.", "chinese": "當他們在玩電玩時，她正在為考試讀書。" }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s14",
+      "order": 14,
+      "englishOriginal": "At night, his cousins dreamed of insect eating and garbage picking.",
+      "chineseTranslation": "到了晚上，他的親戚們夢想著吃昆蟲和撿垃圾。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p3",
+          "title": "dream of",
+          "explanation": "片語，意思是「夢見」或「夢想著某事」。後面常接名詞或動名詞（V-ing）。",
+          "examples": [
+            { "english": "She always dreams of traveling around the world.", "chinese": "她總是夢想著能環遊世界。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s15",
+      "order": 15,
+      "englishOriginal": "Calvin dreamed of adventure stories, legends, and poetry.",
+      "chineseTranslation": "凱文則是夢見了冒險故事、傳奇傳說和詩歌。",
+      "vocabularyNotes": [
+        {
+          "id": "v5",
+          "title": "legend",
+          "explanation": "名詞，指「傳說」或「傳奇故事」。",
+          "examples": [
+            { "english": "The book is full of ancient legends about dragons.", "chinese": "這本書充滿了關於龍的古代傳說。" }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s16",
+      "order": 16,
+      "englishOriginal": "He even dreamed that someday he’d become a great writer himself.",
+      "chineseTranslation": "他甚至夢想著有一天自己能成為一名偉大的作家。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s17",
+      "order": 17,
+      "englishOriginal": "On June first, when all the little starlings lined up for flying lessons with their teacher, Mr. Wingstead, Calvin was nowhere to be seen.",
+      "chineseTranslation": "六月一日這天，當所有小椋鳥都排好隊，準備跟著他們的老師溫斯泰德先生上飛行課時，凱文卻不見蹤影。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p4",
+          "title": "line up",
+          "explanation": "動詞片語，意思是「排隊」或「排列成行」。",
+          "examples": [
+            { "english": "The students lined up in alphabetical order.", "chinese": "學生們按照字母順序排好隊。" }
+          ]
+        },
+        {
+          "id": "p5",
+          "title": "nowhere to be seen",
+          "explanation": "固定片語，字面意思是「哪裡都看不到」，用來生動地形容某人或某物「完全找不到」、「不見蹤影」。",
+          "examples": [
+            { "english": "When the bill arrived, he was nowhere to be seen.", "chinese": "買單的時候，他的人影完全不見了。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s18",
+      "order": 18,
+      "englishOriginal": "“Where is that bird?”",
+      "chineseTranslation": "「那隻鳥到底在哪裡？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s19",
+      "order": 19,
+      "englishOriginal": "Actually, Calvin was in the library.",
+      "chineseTranslation": "事實上，凱文人在圖書館裡。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s20",
+      "order": 20,
+      "englishOriginal": "As the other little starlings were learning to SWOOP and HOVER and FLY figure eights, Calvin buried his beak in books.",
+      "chineseTranslation": "當其他小椋鳥正在學習「俯衝」、「盤旋」和「飛八字形」時，凱文卻把他的鳥嘴埋進了書堆裡。",
+      "vocabularyNotes": [
+        {
+          "id": "v6",
+          "title": "swoop",
+          "explanation": "動詞，指鳥類或飛機「猛撲」或「向下俯衝」。",
+          "examples": [
+            { "english": "The eagle swooped down to catch the fish.", "chinese": "老鷹向下俯衝去抓那條魚。" }
+          ]
+        },
+        {
+          "id": "v7",
+          "title": "hover",
+          "explanation": "動詞，指鳥類或直升機在空中「盤旋」或「翱翔停滯」。",
+          "examples": [
+            { "english": "A hummingbird can hover in mid-air.", "chinese": "蜂鳥能夠在半空中盤旋。" }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p6",
+          "title": "bury one's beak/head in books",
+          "explanation": "延伸自「bury one's head in books」的生動說法。字面意思是把頭（鳥嘴）埋在書裡，用來形容一個人「埋頭苦讀」或「沉浸在書本中」。",
+          "examples": [
+            { "english": "Instead of going to the party, he spent the weekend burying his head in books.", "chinese": "他沒有去參加派對，而是整個週末都在埋頭苦讀。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s21",
+      "order": 21,
+      "englishOriginal": "And there his mind soared.",
+      "chineseTranslation": "在那裡，他的思想盡情翱翔。",
+      "vocabularyNotes": [
+        {
+          "id": "v8",
+          "title": "soar",
+          "explanation": "動詞，指鳥類「高飛」、「翱翔」，這裡抽象地指凱文的心靈或思想「飛躍」、「自由馳騁」。",
+          "examples": [
+            { "english": "Reading allowed her imagination to soar.", "chinese": "閱讀讓她的想像力自由翱翔。" }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s22",
+      "order": 22,
+      "englishOriginal": "Calvin read about pirates and cavemen . . . Volcanoes and rainbows . . . Whales and dinosaurs . . . Calvin especially loved dinosaurs!",
+      "chineseTranslation": "凱文讀到了海盜和原始人……火山和彩虹……鯨魚和恐龍……凱文特別喜歡恐龍！",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s23",
+      "order": 23,
+      "englishOriginal": "He learned how the planets circle the sun, what makes the wind blow, and amazing facts, like how caterpillars grow up to become butterflies.",
+      "chineseTranslation": "他了解了行星是如何圍繞太陽運行、風是怎麼吹起來的，以及一些神奇的事實，比如毛毛蟲長大後是如何變成蝴蝶的。",
+      "vocabularyNotes": [
+        {
+          "id": "v9",
+          "title": "caterpillar",
+          "explanation": "名詞，指「毛毛蟲」。",
+          "examples": [
+            { "english": "The caterpillar crawled slowly along the green leaf.", "chinese": "毛毛蟲在綠葉上緩慢地爬行。" }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s24",
+      "order": 24,
+      "englishOriginal": "His books took him to places wings never could.",
+      "chineseTranslation": "他的書帶他去了翅膀永遠無法到達的地方。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n2",
+          "title": "take someone to places",
+          "explanation": "這是一個非常優美的英文表達，字面意思是「帶某人去某些地方」，常用來比喻某種嗜好、知識或才華開闊了某人的視野，帶給他們無限的體驗。",
+          "examples": [
+            { "english": "Her talent for music took her to places she had never dreamed of.", "chinese": "她的音樂才華帶她去了許多她做夢也沒想過的地方。" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s25",
+      "order": 25,
+      "englishOriginal": "And his heart fluttered with excitement.",
+      "chineseTranslation": "他的心因為興奮而怦怦直跳。",
+      "vocabularyNotes": [
+        {
+          "id": "v10",
+          "title": "flutter",
+          "explanation": "動詞，指鳥類翅膀「振翅」或「拍動」，用在心臟時形容「（因興奮或緊張而）怦怦跳、心頭小鹿亂撞」。",
+          "examples": [
+            { "english": "My heart fluttered when he looked at me.", "chinese": "當他看著我時，我的心漏跳了一拍。" }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s26",
+      "order": 26,
+      "englishOriginal": "Calvin’s cousins called him “nerdy birdie,” “geeky beaky,” and “bookworm.”",
+      "chineseTranslation": "凱文的堂表兄弟姊妹叫他「書呆子鳥」、「怪咖大嘴巴」和「書蟲」。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n3",
+          "title": "nerdy birdie / geeky beaky",
+          "explanation": "這是英文童書中常見的押韻取綽號方式（Rhyming slang）。nerdy（書呆子）搭配 birdie（小鳥）；geeky（古怪的）搭配 beaky（大嘴巴鳥），讀起來很有節奏感，帶有嘲弄的意味。",
+          "examples": [
+            { "english": "The kids called him a nerdy birdie because he read during recess.", "chinese": "孩子們叫他書呆子鳥，因為他下課時間都在讀書。" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s27",
+      "order": 27,
+      "englishOriginal": "And when you’re a bird, being called a “worm” is a very bad thing.",
+      "chineseTranslation": "而當你是一隻鳥的時候，被叫做一條「蟲」可是一件非常糟糕的事。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g3",
+          "title": "Gerund as Subject (動名詞作主詞)",
+          "explanation": "「being called a 'worm'」是動名詞被動式片語，在句子中當作主詞，意思是「被稱為蟲這件事」。",
+          "examples": [
+            { "english": "Being praised by the boss made her very happy.", "chinese": "受到老闆的誇獎讓她非常高興。" }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s28",
+      "order": 28,
+      "englishOriginal": "Calvin ruffled his feathers and mumbled, “Oh, how the wounding words of scorn do sting!”",
+      "chineseTranslation": "凱文抖了抖羽毛，咕噥著說：「噢，這些傷人且輕蔑的話語多麼刺痛人心啊！」",
+      "vocabularyNotes": [
+        {
+          "id": "v11",
+          "title": "mumble",
+          "explanation": "動詞，指「含糊地說」或「咕噥、嘀咕」。",
+          "examples": [
+            { "english": "He mumbled an apology and left the room.", "chinese": "他含糊地道了個歉便離開了房間。" }
+          ]
+        },
+        {
+          "id": "v12",
+          "title": "scorn",
+          "explanation": "名詞，指「輕蔑」、「鄙視」。",
+          "examples": [
+            { "english": "She looked at his messy room with scorn.", "chinese": "她輕蔑地看著他凌亂的房間。" }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g4",
+          "title": "Emphatic 'Do' (助動詞作強調用法)",
+          "explanation": "在「words of scorn do sting」中，一般動詞前加上「do」，是用來加強語氣，強調「確實、真的」非常刺痛。",
+          "examples": [
+            { "english": "I don't usually like fruit, but I do love mangoes.", "chinese": "我平常不怎麼喜歡水果，但我「真的」很愛芒果。" }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s29",
+      "order": 29,
+      "englishOriginal": "Then he sadly waddled back to the library—the only place where he was happy.",
+      "chineseTranslation": "然後他傷心地搖搖晃晃走回圖書館——那是唯一能讓他感到快樂的地方。",
+      "vocabularyNotes": [
+        {
+          "id": "v13",
+          "title": "waddle",
+          "explanation": "動詞，形容像鴨子或企鵝那樣「搖搖擺擺地走路」。",
+          "examples": [
+            { "english": "The fat duck waddled across the yard.", "chinese": "那隻肥鴨子搖搖擺擺地走過院子。" }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s30",
+      "order": 30,
+      "englishOriginal": "And so he spent all summer reading, learning, and absorbing everything his little starling mind could . . . until the first leaf turned orange and fell to the ground.",
+      "chineseTranslation": "於是，他整個夏天都花在閱讀、學習和吸收他那小小的椋鳥腦袋所能容納的一切……直到第一片葉子變橙色並落到地上。",
+      "vocabularyNotes": [
+        {
+          "id": "v14",
+          "title": "absorb",
+          "explanation": "動詞，字面是「吸收」，這裡引申為「吸收、理解（知識、資訊等）」。",
+          "examples": [
+            { "english": "Children absorb information much faster than adults.", "chinese": "兒童吸收資訊的速度比成人快得多。" }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p7",
+          "title": "spend time doing something",
+          "explanation": "句型，表示「花費時間做某事」，後面接動名詞（V-ing）。",
+          "examples": [
+            { "english": "She spent the afternoon fixing her bicycle.", "chinese": "她花了下午的時間修理腳踏車。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s31",
+      "order": 31,
+      "englishOriginal": "The fall winds sent a chill through the old barn.",
+      "chineseTranslation": "秋風給這座舊穀倉帶來了一陣寒意。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p8",
+          "title": "send a chill through",
+          "explanation": "片語，字面意思是「把寒意送透過……」，可以形容天氣轉涼帶來寒意，也常用來比喻「使人毛骨悚然、感到恐懼」。",
+          "examples": [
+            { "english": "The cold wind sent a chill through my bones.", "chinese": "寒風讓我的骨子裡都感到一陣冷意。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s32",
+      "order": 32,
+      "englishOriginal": "Summer’s nests blew to the floorboards; it was time to head south.",
+      "chineseTranslation": "夏天的鳥巢被吹落到地板上；該是往南飛的時候了。",
+      "vocabularyNotes": [
+        {
+          "id": "v15",
+          "title": "floorboard",
+          "explanation": "名詞，指室內的「地板」或「木地板」。",
+          "examples": [
+            { "english": "The old wooden floorboards creaked as I walked.", "chinese": "我走路時，老舊的木地板發出嘎吱嘎吱的響聲。" }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p9",
+          "title": "head south",
+          "explanation": "動詞片語，指「朝南方前進」。",
+          "examples": [
+            { "english": "Birds usually head south when winter comes.", "chinese": "冬天來臨時，鳥類通常會往南遷徙。" }
+          ]
+        },
+        {
+          "id": "p10",
+          "title": "it is time to",
+          "explanation": "句型，意思是「是時候做某事了」。",
+          "examples": [
+            { "english": "It is time to make a final decision.", "chinese": "是時候做出最終決定了。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s33",
+      "order": 33,
+      "englishOriginal": "His cousins warned, “Calvin, you better learn to fly. In a couple of days we’ve got to be out of here!”",
+      "chineseTranslation": "他的親戚們警告說：「凱文，你最好快點學會飛。再過幾天我們就必須離開這裡了！」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p11",
+          "title": "had better / you better",
+          "explanation": "口語中常省略 had，變成「you better + 原形動詞」，意思是「你最好……」，帶有強烈建議或警告的語氣。",
+          "examples": [
+            { "english": "You better hurry up or you'll miss the train.", "chinese": "你最好快一點，否則就要錯過火車了。" }
+          ]
+        },
+        {
+          "id": "p12",
+          "title": "have got to",
+          "explanation": "口語片語，相當於「have to」或「must」，表示「必須」。",
+          "examples": [
+            { "english": "I've got to finish this report by tonight.", "chinese": "我今晚之前必須完成這份報告。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s34",
+      "order": 34,
+      "englishOriginal": "Calvin said, “Ah yes, migration. I’ve read about that.”",
+      "chineseTranslation": "凱文說：「啊，對，遷徙。我在書上讀過相關的內容。」",
+      "vocabularyNotes": [
+        {
+          "id": "v16",
+          "title": "migration",
+          "explanation": "名詞，指動物或鳥類的「遷徙」或大批人口的「移民」。",
+          "examples": [
+            { "english": "The annual migration of monarch butterflies is a spectacular sight.", "chinese": "黑脈金斑蝶的年度遷徙是一道壯觀的景象。" }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s35",
+      "order": 35,
+      "englishOriginal": "His sister asked, “Calvin, can you fly?” Calvin had to admit, he couldn’t.",
+      "chineseTranslation": "他的姐姐妹妹問道：「凱文，你會飛嗎？」凱文不得不承認，他不會。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p13",
+          "title": "had to admit",
+          "explanation": "常見片語，意思是「不得不承認」或「必須坦承」。",
+          "examples": [
+            { "english": "I had to admit that his idea was much better than mine.", "chinese": "我不得不承認他的點子比我的好得多。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s36",
+      "order": 36,
+      "englishOriginal": "All the other starlings took off in a giant formation. But Calvin could only stand and watch.",
+      "chineseTranslation": "所有其他椋鳥都排成巨大的隊形展翅起飛。但凱文只能站在那裡看著。",
+      "vocabularyNotes": [
+        {
+          "id": "v17",
+          "title": "formation",
+          "explanation": "名詞，指「結構」、「編隊」或「隊形」。在這裡指鳥群飛行時排出的陣型。",
+          "examples": [
+            { "english": "The military jets flew over the stadium in a tight formation.", "chinese": "軍用噴射機以緊密的隊形飛過體育場上空。" }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p14",
+          "title": "take off",
+          "explanation": "動詞片語，指飛機或鳥類「起飛」。",
+          "examples": [
+            { "english": "The plane took off smoothly despite the rain.", "chinese": "儘管下著雨，飛機還是順利起飛了。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s37",
+      "order": 37,
+      "englishOriginal": "A big, lonely tear rolled down his cheek.",
+      "chineseTranslation": "一滴大大的、孤單的眼淚從他的臉頰滑落。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p15",
+          "title": "roll down",
+          "explanation": "片語，指淚水或汗水等液體「流下」或物體「滾下」。",
+          "examples": [
+            { "english": "Tears rolled down her face when she heard the news.", "chinese": "她聽到消息時，眼淚奪眶而出。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s38",
+      "order": 38,
+      "englishOriginal": "Calvin turned and trudged back toward the old barn.",
+      "chineseTranslation": "凱文轉過身，步履沉重地朝舊穀倉走回去。",
+      "vocabularyNotes": [
+        {
+          "id": "v18",
+          "title": "trudge",
+          "explanation": "動詞，形容因為疲憊或心情沉重而「步履艱難地走」或「蹣跚而行」。",
+          "examples": [
+            { "english": "We had to trudge through the deep snow to get home.", "chinese": "我們不得不步履艱難地走過深雪回家。" }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s39",
+      "order": 39,
+      "englishOriginal": "He was so upset he didn’t even notice his brothers and sisters and cousins coming back to get him!",
+      "chineseTranslation": "他太難過了，甚至沒有注意到他的兄弟姐妹和堂表親們正飛回來接他！",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p16",
+          "title": "so ... that ...",
+          "explanation": "句型，意思是「太……以至於……」。這裡口語上省略了連接詞 that。",
+          "examples": [
+            { "english": "I was so tired [that] I fell asleep on the sofa.", "chinese": "我太累了，以至於在沙發上就睡著了。" }
+          ]
+        },
+        {
+          "id": "p17",
+          "title": "come back to get someone",
+          "explanation": "片語，意思是「回來接/帶走某人」。",
+          "examples": [
+            { "english": "Don't worry, I will come back to get you after school.", "chinese": "別擔心，放學後我會回來接你。" }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "g5",
+          "title": "Sensory Verb Object Complement (感官動詞的受詞補語)",
+          "explanation": "動詞「notice」後面接了受詞「his brothers...」，再接現在分詞「coming back」，用來表示注意到某人「正在」做某個動作。",
+          "examples": [
+            { "english": "I noticed a strange man walking around the house.", "chinese": "我注意到一個陌生男子正在房子周圍徘徊。" }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s40",
+      "order": 40,
+      "englishOriginal": "All of a sudden, they were tying up Calvin’s middle with string and scraps of cloth they had found in the garbage.",
+      "chineseTranslation": "突然之間，他們用在垃圾堆裡找到的繩子和碎布條，把凱文的肚子綁了起來。",
+      "vocabularyNotes": [
+        {
+          "id": "v19",
+          "title": "scrap",
+          "explanation": "名詞，指「碎片」、「碎屑」或「殘餘物」，這裡指碎布條。",
+          "examples": [
+            { "english": "He wrote his phone number on a scrap of paper.", "chinese": "他把電話號碼寫在一張紙屑上。" }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p18",
+          "title": "all of a sudden",
+          "explanation": "固定片語，意思是「突然之間」，等同於 suddenly。",
+          "examples": [
+            { "english": "All of a sudden, the lights went out.", "chinese": "突然之間，燈全部熄滅了。" }
+          ]
+        },
+        {
+          "id": "p19",
+          "title": "tie up",
+          "explanation": "動詞片語，指「捆綁」或「綁緊」。",
+          "examples": [
+            { "english": "Please tie up the trash bag before taking it out.", "chinese": "拿出去之前請先把垃圾袋綁好。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s41",
+      "order": 41,
+      "englishOriginal": "They grasped the other ends with their beaks, and off they flew . . . with Calvin, somewhat embarrassed, safely in tow.",
+      "chineseTranslation": "他們用鳥嘴叼著繩子的另一端，然後展翅高飛……而凱文雖然有點尷尬，但還是安全地被拉著起飛了。",
+      "vocabularyNotes": [
+        {
+          "id": "v20",
+          "title": "grasp",
+          "explanation": "動詞，指「緊抓」或「緊握」。",
+          "examples": [
+            { "english": "The child grasped his mother's hand in the crowd.", "chinese": "在人群中，孩子緊緊抓著媽媽的手。" }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p20",
+          "title": "in tow",
+          "explanation": "片語，字面意思是「被拖著/拉著」，常用來形容「隨行」、「陪伴在後」或「跟著」。",
+          "examples": [
+            { "english": "The mother duck walked down to the pond with her ducklings in tow.", "chinese": "母鴨帶著跟在後面的小鴨們走向池塘。" }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "g6",
+          "title": "Inversion for Vividness (地方副詞放句首的倒裝句)",
+          "explanation": "「off they flew」是一種倒裝表達法（通常為 off flew the birds，若主詞是代名詞則不倒裝），把副詞 off 移到句首，使語氣顯得更加生動活潑。",
+          "examples": [
+            { "english": "The door opened, and in he walked.", "chinese": "門開了，他走了進來。" }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s42",
+      "order": 42,
+      "englishOriginal": "For days and days they flew.",
+      "chineseTranslation": "他們飛啊飛，飛了好多天。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p21",
+          "title": "for days and days",
+          "explanation": "口語強調片語，意思是「連續好幾天」，比單純的 for days 更有時間漫長的語感。",
+          "examples": [
+            { "english": "It rained for days and days without stopping.", "chinese": "雨連續下了好幾天，完全沒停過。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s43",
+      "order": 43,
+      "englishOriginal": "Calvin recognized the rivers, mountains, and towns he had read about all summer.",
+      "chineseTranslation": "凱文認出了他整個夏天在書裡讀到過的河流、高山和城鎮。",
+      "vocabularyNotes": [
+        {
+          "id": "v21",
+          "title": "recognize",
+          "explanation": "動詞，指「認出」或「辨別出」。",
+          "examples": [
+            { "english": "I could barely recognize him with his new haircut.", "chinese": "他剪了新髮型，我幾乎認不出他來了。" }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g7",
+          "title": "Past Perfect Tense (過去完成式)",
+          "explanation": "「had read about」使用過去完成式（had + PP），因為「在書中讀到」這個動作發生在他們「認出（recognized）」這些地方之前。",
+          "examples": [
+            { "english": "The movie was based on a book I had read years ago.", "chinese": "這部電影是根據我多年前讀過的一本書改編的。" }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s44",
+      "order": 44,
+      "englishOriginal": "Excitedly, he pointed them out to his brothers, sisters, and cousins. But the other little starlings just flapped their wings and headed south.",
+      "chineseTranslation": "他興奮地把它們一一指給他的兄弟姐妹和堂表親們看。但其他小椋鳥只是拍拍翅膀，繼續全力往南飛。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p22",
+          "title": "point out",
+          "explanation": "動詞片語，意思是「指出」或「指明」。",
+          "examples": [
+            { "english": "He pointed out the best restaurants on the map.", "chinese": "他在地圖上指出了幾家最好的餐廳。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s45",
+      "order": 45,
+      "englishOriginal": "Soon there came a day when the winds blew especially hard.",
+      "chineseTranslation": "很快地，那一天來臨了，風刮得特別猛烈。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s46",
+      "order": 46,
+      "englishOriginal": "Trees bent sideways. Leaves scattered wildly. Flying became harder and harder.",
+      "chineseTranslation": "樹木被吹得東倒西歪。落葉在空中狂亂地四處飛散。飛行變得越來越困難了。",
+      "vocabularyNotes": [
+        {
+          "id": "v22",
+          "title": "scatter",
+          "explanation": "動詞，指「散開」、「四散」或「散落」。",
+          "examples": [
+            { "english": "The wind scattered the papers all over the floor.", "chinese": "風把文件吹得散落一地。" }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p23",
+          "title": "harder and harder",
+          "explanation": "比較級連用「比較級 + and + 比較級」，表示「越來越……」。",
+          "examples": [
+            { "english": "As night fell, it became harder and harder to see the path.", "chinese": "隨著夜幕降臨，看清小路變得越來越困難。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s47",
+      "order": 47,
+      "englishOriginal": "The air had an odd smell to it . . . the smell of DANGER!",
+      "chineseTranslation": "空氣中瀰漫著一種古怪的氣味……那是「危險」的氣味！",
+      "vocabularyNotes": [
+        {
+          "id": "v23",
+          "title": "odd",
+          "explanation": "形容詞，意思是「奇怪的」、「古怪的」。",
+          "examples": [
+            { "english": "There was an odd noise coming from the engine.", "chinese": "引擎那裡傳來一陣奇怪的噪音。" }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n4",
+          "title": "have an ... smell to it",
+          "explanation": "母語者常用的說法，用來形容某樣東西或某個環境本身自帶某種氣味。比單純說 The air smelled odd 更生動。",
+          "examples": [
+            { "english": "This soup has a distinct smoky smell to it.", "chinese": "這碗湯帶有一股明顯的煙燻味。" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s48",
+      "order": 48,
+      "englishOriginal": "Calvin, remembering back to his favorite weather book, warned the rest of his family . . . “A HURRICANE! A hurricane is coming!”",
+      "chineseTranslation": "凱文回想起他最喜歡的那本氣象書，連忙警告他的家人……「颶風！颶風要來了！」",
+      "vocabularyNotes": [
+        {
+          "id": "v24",
+          "title": "hurricane",
+          "explanation": "名詞，指「颶風」（發生在大西洋或西印度群島的強烈熱帶氣旋）。",
+          "examples": [
+            { "english": "The island was hit hard by a category 4 hurricane.", "chinese": "這座島嶼遭到了四級颶風的嚴重襲擊。" }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p24",
+          "title": "the rest of",
+          "explanation": "片語，意思是「剩餘的……」或「其餘的……」。",
+          "examples": [
+            { "english": "I will finish the rest of the work tomorrow.", "chinese": "我明天會把剩下的工作做完。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s49",
+      "order": 49,
+      "englishOriginal": "All his brothers and sisters and cousins asked, “What’s a hurricane?”",
+      "chineseTranslation": "他所有的兄弟姐妹和親戚們都問：「什麼是颶風？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s50",
+      "order": 50,
+      "englishOriginal": "Calvin explained—as quickly as his little beak could—“We need to get out of the path of a violent, tropical weather system, which is storming up the coast at a tremendous speed and will not diminish until it encounters large stretches of landmass! Everybody, make haste, into that cave!”",
+      "chineseTranslation": "凱文用他小小的鳥嘴，盡可能快地解釋道：「我們必須避開一個強烈熱帶氣象系統的預測路徑，它目前正以驚人的速度席捲海岸線，而且在遇到大片陸地之前絕不會減弱！大家，趕快，進那個洞穴去！」",
+      "vocabularyNotes": [
+        {
+          "id": "v25",
+          "title": "tremendous",
+          "explanation": "形容詞，指「巨大的」、「驚人的」或「極大的」。",
+          "examples": [
+            { "english": "The company has grown at a tremendous pace this year.", "chinese": "這家公司今年以驚人的速度在增長。" }
+          ]
+        },
+        {
+          "id": "v26",
+          "title": "diminish",
+          "explanation": "動詞，意思是「減少」、「減弱」或「降低」。",
+          "examples": [
+            { "english": "The pain will gradually diminish after you take the medicine.", "chinese": "吃藥之後，疼痛感會逐漸減弱。" }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p25",
+          "title": "as ... as one can",
+          "explanation": "結構，意思是「盡可能地……」。這裡省略了後面的動詞 explain。",
+          "examples": [
+            { "english": "Run as fast as you can!", "chinese": "盡你所能跑得越快越好！" }
+          ]
+        },
+        {
+          "id": "p26",
+          "title": "get out of the path of",
+          "explanation": "片語，意思是「避開……的路線/迎面而來的路徑」。",
+          "examples": [
+            { "english": "Get out of the path of the oncoming car!", "chinese": "快讓開，避開迎面駛來的汽車！" }
+          ]
+        },
+        {
+          "id": "p27",
+          "title": "make haste",
+          "explanation": "書面或帶有文學色彩的片語，意思是「趕快」、「趕緊行動」，在危急時刻用來催促別人。",
+          "examples": [
+            { "english": "We must make haste if we want to catch the ferry.", "chinese": "如果想趕上渡輪，我們必須抓緊時間了。" }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "g8",
+          "title": "Non-restrictive Relative Clause (非限定關係子句)",
+          "explanation": "由逗號隔開的「, which is storming...」是非限定關係子句，用來對前面的「violent, tropical weather system」提供額外的補充說明。",
+          "examples": [
+            { "english": "He decided to buy the house, which was built in 1920.", "chinese": "他決定買下這棟房子，它建於1920年。" }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s51",
+      "order": 51,
+      "englishOriginal": "They had no idea what Calvin was saying. But they had to admit—it did sound real.",
+      "chineseTranslation": "他們完全聽不懂凱文在說什麼。但他們不得不承認——這聽起來「真的」煞有其事。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p28",
+          "title": "have no idea",
+          "explanation": "常用片語，意思是「完全不知道」或「完全不懂」。",
+          "examples": [
+            { "english": "I have no idea how to solve this math problem.", "chinese": "我完全不知道該怎麼解這道數學題。" }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "g9",
+          "title": "Emphatic Verb with 'Did' (過去式動詞強調)",
+          "explanation": "「it did sound real」中的 did 用來強調過去發生的狀態，語意是「確實聽起來、真的聽起來」很真實。",
+          "examples": [
+            { "english": "I didn't expect to like the food, but it did taste good.", "chinese": "我本來沒期待會喜歡這食物，但它吃起來「真的」很棒。" }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s52",
+      "order": 52,
+      "englishOriginal": "So, the flock made a loop-de-loop left, a dipsy-doodle right, and dove into the cave.",
+      "chineseTranslation": "於是，鳥群在空中向左翻了個筋斗，向右晃了個假動作，然後一股腦地衝進了洞穴裡。",
+      "vocabularyNotes": [
+        {
+          "id": "v27",
+          "title": "flock",
+          "explanation": "名詞，指鳥類、羊群等動物的「群體」。",
+          "examples": [
+            { "english": "A flock of sheep was grazing on the hillside.", "chinese": "一群綿羊正在山坡上吃草。" }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n5",
+          "title": "loop-de-loop / dipsy-doodle",
+          "explanation": "這些是非常生動、富有童趣的擬聲或擬態口語詞。loop-de-loop 指在空中做出「垂直迴圈/翻筋斗」的動作；dipsy-doodle 常用於體育賽事中，形容「令人眼花撩亂的搖擺、閃躲或假動作」。",
+          "examples": [
+            { "english": "The stunt plane did a loop-de-loop right above the crowd.", "chinese": "特技飛機就在人群正上方做了一個空中翻筋斗。" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s53",
+      "order": 53,
+      "englishOriginal": "They did everything Calvin told them to. To their amazement, a great storm did blow across the land.",
+      "chineseTranslation": "凱文叫他們怎麼做，他們就怎麼做。令他們驚奇的是，一場大風暴真的席捲了這片土地。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p29",
+          "title": "to one's amazement",
+          "explanation": "固定片語，意思是「令某人感到非常驚奇的是」。",
+          "examples": [
+            { "english": "To our amazement, the magic show was performed flawlessly.", "chinese": "令我們驚奇的是，這場魔術表演進行得無懈可擊。" }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "g10",
+          "title": "Ellipsis after Infinitive (不定詞後的省略)",
+          "explanation": "在「told them to」的句尾省略了重複的動詞 do，是英文中為了避免累贅常見的省略結構。",
+          "examples": [
+            { "english": "You don't have to go if you don't want to.", "chinese": "如果你不想去，你就不需要去。" }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s54",
+      "order": 54,
+      "englishOriginal": "It thundered over the mountains. It roared through the villages. It smashed and crashed. Rumbled and raged. Just as Calvin had predicted.",
+      "chineseTranslation": "風暴在群山之上雷霆萬鈞。它怒吼著穿過村莊。它瘋狂地撞擊與摧毀。轟鳴著、肆虐著。正如凱文所預測的那樣。",
+      "vocabularyNotes": [
+        {
+          "id": "v28",
+          "title": "predict",
+          "explanation": "動詞，指「預測」、「預言」。",
+          "examples": [
+            { "english": "It is difficult to predict the weather accurately.", "chinese": "很難準確地預測天氣。" }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s55",
+      "order": 55,
+      "englishOriginal": "The whole, big starling family gathered together, watching in fear and awe.",
+      "chineseTranslation": "龐大的椋鳥家族全體聚集在一起，帶著恐懼與敬畏的心情看著這一切。",
+      "vocabularyNotes": [
+        {
+          "id": "v29",
+          "title": "awe",
+          "explanation": "名詞，指因面對偉大或崇高的事物而產生的「敬畏」或「驚嘆」。",
+          "examples": [
+            { "english": "We stood in awe as we looked at the Grand Canyon.", "chinese": "當我們看著大峽谷時，不禁肅然起敬/驚嘆不已。" }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p30",
+          "title": "gather together",
+          "explanation": "動詞片語，指「聚集在一起」。",
+          "examples": [
+            { "english": "The family gathered together for Christmas dinner.", "chinese": "全家人聚集在一起吃聖誕晚餐。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s56",
+      "order": 56,
+      "englishOriginal": "The storm finally ended. The sun came out in the sky. And the starlings came out of their cave.",
+      "chineseTranslation": "風暴終於結束了。太陽在天空中露了出來。椋鳥們也走出了他們的洞穴。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p31",
+          "title": "come out",
+          "explanation": "片語，這裡可以形容太陽「露面/出來」，或者指從洞穴等內部空間「出來」。",
+          "examples": [
+            { "english": "The stars came out as soon as it got dark.", "chinese": "天一黑，星星就出來了。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s57",
+      "order": 57,
+      "englishOriginal": "They were safe and sound. All because of Calvin.",
+      "chineseTranslation": "他們平安無事，毫髮未傷。這全都是因為凱文的功勞。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p32",
+          "title": "safe and sound",
+          "explanation": "極為常見的固定成語片語，用來形容「平安無事」、「安然無恙」。",
+          "examples": [
+            { "english": "We arrived home safe and sound after the long journey.", "chinese": "經過漫長的旅途，我們平平安安地回到家了。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s58",
+      "order": 58,
+      "englishOriginal": "They celebrated with a great starling party in honor of Calvin.",
+      "chineseTranslation": "他們舉辦了一場盛大的椋鳥派對來慶祝，藉此向凱文致敬。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p33",
+          "title": "in honor of",
+          "explanation": "固定片語，意思是「向……致敬」、「為了紀念……」或「為了款待/榮耀某人」。",
+          "examples": [
+            { "english": "A banquet was held in honor of the visiting president.", "chinese": "為了款待來訪的總統，特別舉行了一場宴會。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s59",
+      "order": 59,
+      "englishOriginal": "They ate big, juicy worms and yummy, crunchy beetles. They danced and sang songs about how Calvin had saved their lives.",
+      "chineseTranslation": "他們吃著又大又多汁的蟲子，還有美味又香脆的甲蟲。他們又跳舞又唱歌，歌頌著凱文是如何救了大家的命。",
+      "vocabularyNotes": [
+        {
+          "id": "v30",
+          "title": "crunchy",
+          "explanation": "形容詞，形容食物「清脆的」或「嘎吱作響的」。",
+          "examples": [
+            { "english": "I love eating crunchy green apples.", "chinese": "我喜歡吃清脆的青蘋果。" }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s60",
+      "order": 60,
+      "englishOriginal": "They toasted Calvin with acorn caps filled with fresh, clear mountain water.",
+      "chineseTranslation": "他們用盛滿了新鮮清澈山泉水的橡實帽，向凱文舉杯致敬。",
+      "vocabularyNotes": [
+        {
+          "id": "v31",
+          "title": "toast",
+          "explanation": "動詞，指「向……祝酒」或「舉杯祝賀」。",
+          "examples": [
+            { "english": "Let's toast the happy couple and wish them the best.", "chinese": "讓我們向這對幸福的新人舉杯，祝他們一切順利。" }
+          ]
+        },
+        {
+          "id": "v32",
+          "title": "acorn",
+          "explanation": "名詞，指「橡實」或「橡子」（橡樹的果實）。",
+          "examples": [
+            { "english": "Squirrels collect acorns and hide them for the winter.", "chinese": "松鼠收集橡實並把牠們藏起來準備過冬。" }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s61",
+      "order": 61,
+      "englishOriginal": "Calvin was so happy, and felt so good deep down inside, that he jumped and hopped and danced and flapped his wings. . . . And flapped his wings. And flapped his wings.",
+      "chineseTranslation": "凱文太高興了，內心深處感到無比舒暢，以至於他又跳又蹦又舞，並且拍動起他的翅膀……一邊拍動翅膀，一邊拍動翅膀。",
+      "vocabularyNotes": [
+        {
+          "id": "v33",
+          "title": "hop",
+          "explanation": "動詞，指動物（如鳥、青蛙）「單腳跳」或「雙腳齊跳」、「蹦蹦跳」。",
+          "examples": [
+            { "english": "The little bird hopped from branch to branch.", "chinese": "小鳥在樹枝間蹦蹦跳跳。" }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p34",
+          "title": "deep down inside",
+          "explanation": "口語片語，形容一個人的「內心深處」或「骨子裡真實的想法/感受」。",
+          "examples": [
+            { "english": "Deep down inside, he knew he had made a huge mistake.", "chinese": "在他的內心深處，他知道自己犯了一個大錯。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s62",
+      "order": 62,
+      "englishOriginal": "All the other starlings looked at him in amazement. “Calvin, you can fly!” they exclaimed.",
+      "chineseTranslation": "所有其他椋鳥都驚奇地看著他。「凱文，你會飛了！」他們驚呼道。",
+      "vocabularyNotes": [
+        {
+          "id": "v34",
+          "title": "exclaim",
+          "explanation": "動詞，指因激動、震驚或痛苦而「大喊」或「驚呼」。",
+          "examples": [
+            { "english": "“Look at that giant rainbow!” she exclaimed.", "chinese": "「看那道巨大的彩虹！」她大喊道。" }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p35",
+          "title": "in amazement",
+          "explanation": "片語，意思是「驚訝地」或「驚奇地」。",
+          "examples": [
+            { "english": "They stared in amazement as the rocket launched into space.", "chinese": "當火箭發射升空時，他們驚奇地凝視著。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s63",
+      "order": 63,
+      "englishOriginal": "And Calvin, the happiest starling in the whole wide world, chirped, “Why, yes, I do believe I can!”",
+      "chineseTranslation": "而凱文，這隻世界上最快樂的小椋鳥，唧唧喳喳地叫著說：「哎呀，沒錯，我想我真的可以！」",
+      "vocabularyNotes": [
+        {
+          "id": "v35",
+          "title": "chirp",
+          "explanation": "動詞，指鳥類或昆蟲發出「唧唧喳喳的叫聲」。",
+          "examples": [
+            { "english": "Birds were chirping outside my window early this morning.", "chinese": "今天清晨，鳥兒在我窗外唧唧喳喳地叫個不停。" }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n6",
+          "title": "Why, yes ...",
+          "explanation": "這裡的「Why」並不是在詢問原因，而是放在句首當作感嘆詞，用來表示稍微驚訝、思考後的醒悟，或者加強肯定語氣，類似中文的「哎呀」、「可不是嘛」。",
+          "examples": [
+            { "english": "Is it raining outside? Why, yes, it is!", "chinese": "外面在下雨嗎？哎呀，真的在下呢！" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s64",
+      "order": 64,
+      "englishOriginal": "And they all flew south with big, wide smiles on their little starling faces. Especially CALVIN.",
+      "chineseTranslation": "然後他們全部一起往南方飛去，小小的椋鳥臉上都帶著大大、寬寬的笑容。尤其是凱文。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s65",
+      "order": 65,
+      "englishOriginal": "I suppose the main story to come out of Calvin Can't Fly, is that it's okay to be different.",
+      "chineseTranslation": "我想從《凱文不會飛》這故事中能得到的主要啟示，就是「與眾不同也是沒關係的」。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p36",
+          "title": "come out of",
+          "explanation": "片語，這裡指從某個經驗、故事中「得出（啟示或結果）」。",
+          "examples": [
+            { "english": "No good decisions can come out of anger.", "chinese": "憤怒之下無法得出任何好的決定。" }
+          ]
+        },
+        {
+          "id": "p37",
+          "title": "It's okay to be ...",
+          "explanation": "句型，用來給予安慰或肯定，意思是「……也是沒關係的/被允許的」。",
+          "examples": [
+            { "english": "It's okay to make mistakes when you are learning something new.", "chinese": "學習新事物時，犯錯也是沒關係的。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s66",
+      "order": 66,
+      "englishOriginal": "It's okay to be the kid who reads books and doesn't play football and doesn't play basketball.",
+      "chineseTranslation": "當一個只喜歡讀書，而不去踢足球或打籃球的孩子，那也是完全沒關係的。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g11",
+          "title": "Relative Clauses with 'Who' (關係代名詞引導的形容詞子句)",
+          "explanation": "由關係代名詞「who」引導的三個連續動作子句，共同用來修飾先行詞「the kid」，限定說明那是個怎樣的孩子。",
+          "examples": [
+            { "english": "She is the kind of person who always helps others.", "chinese": "她是那種總是樂於助人的人。" }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s67",
+      "order": 67,
+      "englishOriginal": "But by reading, you gain knowledge, you learn about other people, and you learn how to behave in society—how to be a good member of society.",
+      "chineseTranslation": "因為透過閱讀，你可以獲得知識、了解他人，並學習如何在社會中行事——如何成為社會的優良一員。",
+      "vocabularyNotes": [
+        {
+          "id": "v36",
+          "title": "behave",
+          "explanation": "動詞，指「表現」或「舉止、規範自己的行為」。",
+          "examples": [
+            { "english": "Please behave yourself during the formal dinner.", "chinese": "在正式晚宴上請注意你的言行舉止。" }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p38",
+          "title": "gain knowledge",
+          "explanation": "搭配詞片語，意思是「增長見聞」或「獲得知識」。",
+          "examples": [
+            { "english": "Traveling is another great way to gain knowledge.", "chinese": "旅行是另一種增長見聞的絕佳方式。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s68",
+      "order": 68,
+      "englishOriginal": "And I think that's what happens to Calvin: he's accepted because he knows things, and he can warn people about things and lead them out of danger.",
+      "chineseTranslation": "而我想這就是凱文身上所發生的事：他被大家接納了，因為他懂得很多，而且他能向大家預警、帶領人們走出危險。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p39",
+          "title": "warn someone about something",
+          "explanation": "動詞片語，意思是「就某事向某人發出警告/預警」。",
+          "examples": [
+            { "english": "The guard warned us about the slippery rocks ahead.", "chinese": "警衛向我們預警了前方岩石濕滑。" }
+          ]
+        },
+        {
+          "id": "p40",
+          "title": "lead someone out of danger",
+          "explanation": "常見片語，意思是「帶領某人脫離危險」。",
+          "examples": [
+            { "english": "The firefighter bravely led the family out of danger.", "chinese": "消防員勇敢地帶領這家人脫離了危險。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s69",
+      "order": 69,
+      "englishOriginal": "And that's why it's a good thing to read—gain knowledge. Thank you for watching Storyline Online. Make sure to check out all of our stories. Keep watching. And keep reading.",
+      "chineseTranslation": "這就是為什麼讀書、獲取知識是一件好事。感謝收看 Storyline Online。一定要去看看我們所有的故事喔。保持觀看，也要保持閱讀！",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p41",
+          "title": "make sure to",
+          "explanation": "片語，意思是「務必……」或「確保要做某事」。",
+          "examples": [
+            { "english": "Make sure to lock the back door before bed.", "chinese": "睡前務必把後門鎖好。" }
+          ]
+        },
+        {
+          "id": "p42",
+          "title": "check out",
+          "explanation": "口語片語，意思是「去看看、瞧瞧」或「探索/體驗某事物」。",
+          "examples": [
+            { "english": "You should check out the new library downtown.", "chinese": "你應該去瞧瞧市中心那間新開的圖書館。" }
+          ]
+        },
+        {
+          "id": "p43",
+          "title": "keep doing something",
+          "explanation": "句型，表示「持續、保持做某個動作」。",
+          "examples": [
+            { "english": "Keep practices like this and you'll improve quickly.", "chinese": "保持像這樣的練習，你很快就會進步的。" }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    }
+  ]
+}
