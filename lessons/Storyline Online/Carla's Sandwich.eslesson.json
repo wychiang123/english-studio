@@ -1,0 +1,2223 @@
+{
+  "schemaVersion": "1.0",
+  "lessonType": "english-story",
+  "title": "Carla's Sandwich",
+  "source": "Storyline Online",
+  "sourceUrl": "https://storylineonline.net/",
+  "author": "Debbie Herman",
+  "narrator": "Allison Janney",
+  "language": "en",
+  "createdAt": "2026-07-12T13:17:00Z",
+  "tags": ["kids", "uniqueness", "school", "friendship"],
+  "description": "A charming story about a girl named Carla who brings unique sandwiches to school, teaching her classmates to celebrate individuality.",
+  "sentences": [
+    {
+      "id": "s1",
+      "order": 1,
+      "englishOriginal": "Welcome to Storyline Online brought to you by the SAG-AFTRA Foundation.",
+      "chineseTranslation": "歡迎來到由演員工會-美國電視廣播藝人聯合會基金會為您帶來的「線上故事劇场」。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s1_p1",
+          "title": "brought to you by",
+          "explanation": "「由……為您帶來/贊助」，常用於節目、活動或影片開頭，介紹主辦或贊助單位。",
+          "examples": [
+            {
+              "english": "This podcast is brought to you by our generous listeners.",
+              "chinese": "本播客節目是由我們慷慨的聽眾贊助播出的。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s2",
+      "order": 2,
+      "englishOriginal": "I'm Allison Janney and today I will be reading \"Carla's Sandwich\" Written by Debbie Herman and Illustrated by Sheila Bailey.",
+      "chineseTranslation": "我是艾莉森·珍妮，今天我要讀的故事是《卡拉的 三明治》，作者是黛比·赫曼，插圖由席拉·貝利繪製。",
+      "vocabularyNotes": [
+        {
+          "id": "s2_v1",
+          "title": "illustrate",
+          "explanation": "動詞「為（書等）畫插圖」。在書本封面上常用過去分詞形式 illustrated by 表示「由……繪製插圖」。",
+          "examples": [
+            {
+              "english": "She loves to read children's books illustrated by famous artists.",
+              "chinese": "她喜歡閱讀由著名藝術家繪製插圖的童書。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s3",
+      "order": 3,
+      "englishOriginal": "Carla brought weird sandwiches to school.",
+      "chineseTranslation": "卡拉總是帶一些奇特的三明治去學校。",
+      "vocabularyNotes": [
+        {
+          "id": "s3_v1",
+          "title": "weird",
+          "explanation": "形容詞「怪異的、古怪的、奇特的」，口語中非常常用。",
+          "examples": [
+            {
+              "english": "I heard a weird noise coming from the backyard last night.",
+              "chinese": "昨天晚上我聽見後院傳來一陣奇怪的聲音。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s4",
+      "order": 4,
+      "englishOriginal": "Buster noticed it first.",
+      "chineseTranslation": "巴斯特是最先注意到這件事的人。",
+      "vocabularyNotes": [
+        {
+          "id": "s4_v1",
+          "title": "notice",
+          "explanation": "動詞「注意到、察覺到」。",
+          "examples": [
+            {
+              "english": "Did you notice that she changed her hair color?",
+              "chinese": "你有注意到她染了頭髮嗎？"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s5",
+      "order": 5,
+      "englishOriginal": "He was sitting next to Carla at lunch one Monday.",
+      "chineseTranslation": "在某個星期一吃午餐時，他正好坐在卡拉旁邊。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s5_p1",
+          "title": "next to",
+          "explanation": "介系詞片語「在……旁邊、緊鄰」。",
+          "examples": [
+            {
+              "english": "The library is located right next to the bank.",
+              "chinese": "圖書館就位於銀行旁邊。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "s5_g1",
+          "title": "Past Continuous Tense (過去進行式)",
+          "explanation": "使用「was/were + 現在分詞 (V-ing)」結構，用來描寫過去某個特定時間點正在發生的動作或故事背景。",
+          "examples": [
+            {
+              "english": "It was raining heavily when we arrived at the station.",
+              "chinese": "我們到達車站時，外面正下著大雨。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s6",
+      "order": 6,
+      "englishOriginal": "\"EEEW! What are you eating?\" Buster asked.",
+      "chineseTranslation": "「噁！你到底在吃什麼啊？」巴斯特問道。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "s6_n1",
+          "title": "EEEW!",
+          "explanation": "感嘆詞（常拼作 ew 或 eeew），用來表達極度厭惡、噁心或反感的道地口語發聲。",
+          "examples": [
+            {
+              "english": "Ew! There is a dead bug on the table.",
+              "chinese": "噁！桌上有一隻死掉的蟲。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "order": 7,
+      "englishOriginal": "\"It's all green and slimy!\"",
+      "chineseTranslation": "「這東西看起來綠綠的，而且黏糊糊的！」",
+      "vocabularyNotes": [
+        {
+          "id": "s7_v1",
+          "title": "slimy",
+          "explanation": "形容詞「黏糊糊的、黏滑的」，通常帶有令人不舒服的語感。",
+          "examples": [
+            {
+              "english": "The rocks near the river were wet and slimy.",
+              "chinese": "河流附近的岩石又濕又黏滑。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s8",
+      "order": 8,
+      "englishOriginal": "\"It's an olive, pickle and green bean sandwich,\" said Carla.",
+      "chineseTranslation": "「這是橄欖、酸黃瓜加四季豆三明治，」卡拉說。",
+      "vocabularyNotes": [
+        {
+          "id": "s8_v1",
+          "title": "pickle",
+          "explanation": "名詞「醃菜、酸黃瓜」。在美式英語中，如果單獨說 pickle，通常指醃酸黃瓜。",
+          "examples": [
+            {
+              "english": "I always ask for extra pickles in my burger.",
+              "chinese": "我點漢堡時總是要求加額外的酸黃瓜。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s9",
+      "order": 9,
+      "englishOriginal": "\"I made it myself. Would you like some? I brought extra.\"",
+      "chineseTranslation": "「這是我自己做的。你想吃一點嗎？我帶了多餘的。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "s9_g1",
+          "title": "Reflexive Pronoun (反身代名詞 強調用法)",
+          "explanation": "將 myself 放在句子後面，用來強調「主詞親自動手做某事」，在此處表示三明治是卡拉親手做的。",
+          "examples": [
+            {
+              "english": "Did you paint this beautiful picture yourself?",
+              "chinese": "這幅美麗的畫是你自己畫的嗎？"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s10",
+      "order": 10,
+      "englishOriginal": "\"No way!\" said Buster, pinching his nose. \"That's gross!\"",
+      "chineseTranslation": "「怎麼可能！」巴斯特捏著鼻子說：「那太噁心了！」",
+      "vocabularyNotes": [
+        {
+          "id": "s10_v1",
+          "title": "gross",
+          "explanation": "形容詞「噁心的、令人作嘔的」，在美式校園或日常口語中極為常見。",
+          "examples": [
+            {
+              "english": "Don't pick your nose in public; it's gross.",
+              "chinese": "不要在公共場合挖鼻子，那很噁心。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s10_p1",
+          "title": "No way!",
+          "explanation": "道地的口語表達，表示「絕不可能、沒門」，用來強烈拒絕或表達不可置信。",
+          "examples": [
+            {
+              "english": "No way! I am not going into that haunted house.",
+              "chinese": "門都沒有！我才不要進去那間鬼屋。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s11",
+      "order": 11,
+      "englishOriginal": "\"It's not gross,\" said Carla. \"It's different. I like to be different.\"",
+      "chineseTranslation": "「這才不噁心呢，」卡拉說：「這叫與眾不同。我就是喜歡很不一樣。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s12",
+      "order": 12,
+      "englishOriginal": "\"It's not different,\" said Buster. \"It's gross.\" And he went to sit next to Leslie instead.",
+      "chineseTranslation": "「這不叫與眾不同，」巴斯特說：「這叫噁心。」於是，他索性換到蕾絲莉旁邊坐。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "s12_n1",
+          "title": "instead",
+          "explanation": "副詞「反而、作為替代」，常放在句尾，表示放棄了原本的選項而改做另一件事。",
+          "examples": [
+            {
+              "english": "There was no coffee left, so I drank tea instead.",
+              "chinese": "咖啡不剩了，所以我改喝茶。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "order": 13,
+      "englishOriginal": "On Tuesday Carla's sandwich was long with something yellow and white oozing out the sides.",
+      "chineseTranslation": "到了星期二，卡拉帶的三明治變成長條形的，兩側還滲出黃黃白白的東西。",
+      "vocabularyNotes": [
+        {
+          "id": "s13_v1",
+          "title": "ooze",
+          "explanation": "動詞「滲出、冒出、緩慢流出」。",
+          "examples": [
+            {
+              "english": "Delicious melted cheese was oozing out of the warm pizza.",
+              "chinese": "美味的融化起司正從溫熱的披薩中滲出來。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s14",
+      "order": 14,
+      "englishOriginal": "\"What in the world is that?\" asked Leslie.",
+      "chineseTranslation": "「這到底是天底下的什麼怪物啊？」蕾絲莉問道。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s14_p1",
+          "title": "what in the world",
+          "explanation": "常見的強烈語氣片語，相當於「究竟、到底」，常用於疑問句中表示極度驚訝或困惑。",
+          "examples": [
+            {
+              "english": "What in the world happened to your new shoes?",
+              "chinese": "你的新鞋子究竟發生了什麼事？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s15",
+      "order": 15,
+      "englishOriginal": "\"It's my Banana-Cottage-Cheese Delight,\" said Carla, \"on a tasty toasted baguette.\"",
+      "chineseTranslation": "「這是我的『香蕉茅屋起司特調』，」卡拉說：「配上美味的烤法式長棍麵包。」",
+      "vocabularyNotes": [
+        {
+          "id": "s15_v1",
+          "title": "delight",
+          "explanation": "名詞在此作「令人愉悅的食品/佳餚」，常在菜單或自創料理名稱中用作後綴。",
+          "examples": [
+            {
+              "english": "The chef's chocolate dessert is a true delight.",
+              "chinese": "主廚的巧克力甜點真是一道人間美味。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s16",
+      "order": 16,
+      "englishOriginal": "\"Bananas and cottage cheese?\" asked Leslie, sticking out her tongue. \"That's disgusting.\"",
+      "chineseTranslation": "「香蕉加茅屋起司？」蕾絲莉吐了吐舌頭問：「這太噁心了吧。」",
+      "vocabularyNotes": [
+        {
+          "id": "s16_v1",
+          "title": "disgusting",
+          "explanation": "形容詞「令人噁心的、極差勁的」，語氣比 gross 更強烈一些。",
+          "examples": [
+            {
+              "english": "The trash smelled absolutely disgusting after three days.",
+              "chinese": "垃圾放了三天之後，聞起來簡直噁心透頂。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s16_p1",
+          "title": "stick out one's tongue",
+          "explanation": "「吐舌頭」，通常是小孩子做鬼臉或表達厭惡、調皮的動作。",
+          "examples": [
+            {
+              "english": "The little boy stuck out his tongue at his sister.",
+              "chinese": "那個小男孩對他的姐姐吐了吐舌頭。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s17",
+      "order": 17,
+      "englishOriginal": "\"It's not disgusting,\" said Carla. \"It's creative.\"",
+      "chineseTranslation": "「這不叫噁心，」卡拉說：「這叫有創意。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s18",
+      "order": 18,
+      "englishOriginal": "\"It's disgusting,\" said Leslie, and she went to sit next to Natie instead.",
+      "chineseTranslation": "「這就是噁心，」蕾絲莉說，隨後她也換去坐到內提旁邊了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s19",
+      "order": 19,
+      "englishOriginal": "On Wednesday Carla's sandwich was orange and brown and lumpy.",
+      "chineseTranslation": "到了星期三，卡拉的三明治變得又橘又啡，還一塊一塊結成堆。",
+      "vocabularyNotes": [
+        {
+          "id": "s19_v1",
+          "title": "lumpy",
+          "explanation": "形容詞「滿是硬塊的、粗糙不平的」，由 lump（塊狀物）衍生而來。",
+          "examples": [
+            {
+              "english": "The gravy was lumpy and didn't taste very good.",
+              "chinese": "那肉汁結滿了硬塊，味道不怎麼好。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s20",
+      "order": 20,
+      "englishOriginal": "It crunched when she bit into it.",
+      "chineseTranslation": "她一口咬下去的時候，還發出了清脆的咔嚓聲。",
+      "vocabularyNotes": [
+        {
+          "id": "s20_v1",
+          "title": "crunch",
+          "explanation": "動詞「發出碎裂聲地咬、嘎吱作響地咀嚼」。",
+          "examples": [
+            {
+              "english": "She loved to crunch on fresh carrots.",
+              "chinese": "她喜歡嘎吱嘎吱地啃新鮮胡蘿蔔。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s20_p1",
+          "title": "bite into",
+          "explanation": "「大口咬下、狠狠咬進去」某種食物。",
+          "examples": [
+            {
+              "english": "He bit into the juicy apple and smiled.",
+              "chinese": "他一口咬下多汁的蘋果，露出了笑容。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s21",
+      "order": 21,
+      "englishOriginal": "\"Ugh!\" said Natie, who was sitting next to her now. \"What is that?\"",
+      "chineseTranslation": "「呃啊！」此時坐在她旁邊的內提叫道：「那又是什麼鬼東西？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "s21_g1",
+          "title": "Non-restrictive Relative Clause (非限定關係子句)",
+          "explanation": "由逗號隔開的「, who...」，用來對前方的專有名詞 Natie 提供額外的補充說明，而不具限制特定人的功能。",
+          "examples": [
+            {
+              "english": "My uncle, who lives in New York, is a talented cook.",
+              "chinese": "我的伯伯（他住在紐約）是一位非常有才華的廚師。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s22",
+      "order": 22,
+      "englishOriginal": "\"I call it Carla's Crunch,\" said Carla. \"It's peanut butter, crackers and cheddar cheese in a lovely pita bread. I brought extra. Would you like some?\"",
+      "chineseTranslation": "「我叫它『卡拉酥脆號』，」卡拉說：「裡面包了花生醬、餅乾還有切達起司，裹在精緻的口袋餅裡。我有多帶，你想來點嗎？」",
+      "vocabularyNotes": [
+        {
+          "id": "s22_v1",
+          "title": "pita",
+          "explanation": "名詞「皮塔餅、口袋餅」，一種中東傳統的圓形口袋狀麵包。",
+          "examples": [
+            {
+              "english": "We stuffed the pita bread with grilled meat and salad.",
+              "chinese": "我們在口袋餅裡塞滿了烤肉和沙拉。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s23",
+      "order": 23,
+      "englishOriginal": "\"No way!\" said Natie, scrunching his face. \"That's sick!\"",
+      "chineseTranslation": "「才不要！」內提皺起眉頭苦著臉說：「這太變態了！」",
+      "vocabularyNotes": [
+        {
+          "id": "s23_v1",
+          "title": "scrunch",
+          "explanation": "動詞在此指「擠壓、使皺縮」。scrunch one's face 意指因為反感或痛苦而把臉部肌肉擠皺在一起。",
+          "examples": [
+            {
+              "english": "The sour lemon made the little girl scrunch up her face.",
+              "chinese": "酸溜溜的檸檬讓小女孩整張臉都皺了起來。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "s23_n1",
+          "title": "That's sick!",
+          "explanation": "在美式俚語中，sick 除了生病，常在口語中用作表示「令人感到噁心、瘋狂、變態」或反常得難以接受。",
+          "examples": [
+            {
+              "english": "You put mayo on your watermelon? That's sick!",
+              "chinese": "你在西瓜上加美乃滋？那太變態了吧！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s24",
+      "order": 24,
+      "englishOriginal": "\"It's not sick,\" said Carla. \"It's unique.\"",
+      "chineseTranslation": "「這才不變態，」卡拉說：「這叫獨一無二。」",
+      "vocabularyNotes": [
+        {
+          "id": "s24_v1",
+          "title": "unique",
+          "explanation": "形容詞「獨特的、獨一無二的」。",
+          "examples": [
+            {
+              "english": "Everyone's fingerprints are completely unique.",
+              "chinese": "每個人的指紋都是完全獨一無二的。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s25",
+      "order": 25,
+      "englishOriginal": "\"It's sick,\" said Natie. And he went to sit next to Marcus instead.",
+      "chineseTranslation": "「這就是變態，」內提說。於是，他也跑去坐在馬可斯旁邊了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s26",
+      "order": 26,
+      "englishOriginal": "On Thursday Carla brought a chopped liver, potato chip and cucumber sandwich.",
+      "chineseTranslation": "星期四的時候，卡拉帶了剁碎的肝臟、洋芋片配小黃瓜三明治。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s27",
+      "order": 27,
+      "englishOriginal": "On Friday she brought a sardine and mustard sandwich with sunflower seeds.",
+      "chineseTranslation": "星期五的時候，她居然帶了沙丁魚加芥末，外加葵花子組成的三明治。",
+      "vocabularyNotes": [
+        {
+          "id": "s27_v1",
+          "title": "sardine",
+          "explanation": "名詞「沙丁魚」。",
+          "examples": [
+            {
+              "english": "The canned sardines were packed tightly in oil.",
+              "chinese": "罐裝沙丁魚在油中緊密地排列著。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s28",
+      "order": 28,
+      "englishOriginal": "By Monday, no one wanted to sit next to Carla, so she ate by herself.",
+      "chineseTranslation": "到了下個星期一，已經沒有任何同學願意坐在卡拉身邊了，所以她只能孤零零地自己吃午餐。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s28_p1",
+          "title": "by oneself",
+          "explanation": "「獨自一人、靠自己地」，相當於 alone。",
+          "examples": [
+            {
+              "english": "She prefers traveling by herself to see the world.",
+              "chinese": "她更喜歡獨自一人旅行去看看世界。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s29",
+      "order": 29,
+      "englishOriginal": "At the end of the day, Miss Pimento made an announcement. \"Tomorrow we will have a picnic.\"",
+      "chineseTranslation": "放學前，皮門托老師宣布了一件事：「明天我們要去野餐。」",
+      "vocabularyNotes": [
+        {
+          "id": "s29_v1",
+          "title": "announcement",
+          "explanation": "名詞「公告、宣布」。動詞形式為 announce。",
+          "examples": [
+            {
+              "english": "The principal made an important announcement over the loudspeaker.",
+              "chinese": "校長透過廣播做了一個重要宣布。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s29_p1",
+          "title": "at the end of the day",
+          "explanation": "字面上指「在一天即將結束之際/傍晚放學時」。在日常商業口語中亦常被引申作「歸根究底、到頭來」之意。",
+          "examples": [
+            {
+              "english": "At the end of the day, everyone packed their bags and went home.",
+              "chinese": "一天的尾聲，大家都收拾好書包回家了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s30",
+      "order": 30,
+      "englishOriginal": "\"Hurray!\" everyone shouted. \"A picnic! Yippee!\"",
+      "chineseTranslation": "「萬歲！」全班興奮地大喊：「要去野餐了！耶比！」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "s30_n1",
+          "title": "Yippee!",
+          "explanation": "小孩子在極度高興或雀躍時發出的感嘆詞，類似於中文的「哇噢、太棒了」。",
+          "examples": [
+            {
+              "english": "Yippee! School is closed for winter break!",
+              "chinese": "太棒了！學校開始放寒假了！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s31",
+      "order": 31,
+      "englishOriginal": "The next day, when the lunch bell rang, the kids ran to get their picnic lunches.",
+      "chineseTranslation": "隔天，當午餐鐘聲一響，所有小朋友便爭先恐後地跑去拿自己的野餐便當。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s32",
+      "order": 32,
+      "englishOriginal": "\"I have peanut butter and jelly,\" Natie announced to the class. \"I have baloney,\" said Leslie. \"Tuna,\" called Buster.",
+      "chineseTranslation": "「我帶的是花生醬加果醬三明治！」內提向全班宣告。「我的是波洛尼亞大紅腸，」蕾絲莉說。「鮪魚！」巴斯特大喊道。",
+      "vocabularyNotes": [
+        {
+          "id": "s32_v1",
+          "title": "baloney",
+          "explanation": "名詞「波洛尼亞香腸（一種常見的大熏腸）」，口語中也常用來胡謅、瞎說（Nonsense）。",
+          "examples": [
+            {
+              "english": "He packed a simple baloney sandwich for lunch.",
+              "chinese": "他打包了一個簡單的大紅腸三明治當午餐。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s33",
+      "order": 33,
+      "englishOriginal": "\"Hey Carla, what do you have?\" Carla didn't answer.",
+      "chineseTranslation": "「嘿卡拉，妳帶了什麼？」卡拉沒有回答。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s34",
+      "order": 34,
+      "englishOriginal": "\"It's probably a ketchup, spinach and jelly bean sandwich,\" joked Buster. He and Leslie howled. So did Natie.",
+      "chineseTranslation": "「該不會是番茄醬、菠菜配軟軟的果汁軟糖三明治吧，」巴斯特開玩笑說。他和蕾絲莉隨即放聲大笑，內提也跟著哄堂大笑。",
+      "vocabularyNotes": [
+        {
+          "id": "s34_v1",
+          "title": "howl",
+          "explanation": "動詞原意為「野獸嚎叫」，在此借用為「因極度被逗樂而大笑、放聲大笑」。",
+          "examples": [
+            {
+              "english": "The comedians made the entire audience howl with laughter.",
+              "chinese": "喜劇演員們讓全場觀眾放聲大笑。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "s34_g1",
+          "title": "So + Auxiliary/Be Verb + Subject (倒裝句 也是如此)",
+          "explanation": "當要表示「某人也做了同樣的事」時，可以用「So + 助動詞/be動詞 + 主詞」的結構。這裡的 did 代替了前面的動詞 howled。",
+          "examples": [
+            {
+              "english": "She passed the difficult test, and so did her brother.",
+              "chinese": "她通過了那場難考的測試，她的哥哥也是如此。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s35",
+      "order": 35,
+      "englishOriginal": "\"It is not!\" said Carla.",
+      "chineseTranslation": "「才不是呢！」卡拉反駁。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "s35_n1",
+          "title": "It is not!",
+          "explanation": "帶有強烈情緒的道地反駁用語，故意重讀 is，用來加強語氣全盤否定對方的猜測。",
+          "examples": [
+            {
+              "english": "You're afraid of the dark! — I am not!",
+              "chinese": "你怕黑！——我才沒有！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s36",
+      "order": 36,
+      "englishOriginal": "\"Let's have some quiet in here,\" said Miss Pimento, \"or we won't be able to have our picnic.\" The class was suddenly silent.",
+      "chineseTranslation": "「大家都安靜一下，」皮門托老師說：「否則我們就不能去野餐了。」教室裡頓時變得鴉雀無聲。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s36_p1",
+          "title": "be able to",
+          "explanation": "「能夠……、有能力……」，常接在情態助動詞（如 won't）後面作為 can 的替代形式。",
+          "examples": [
+            {
+              "english": "With enough practice, you will be able to speak English fluently.",
+              "chinese": "只要有足夠的練習，你就能夠流利地說英語。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s37",
+      "order": 37,
+      "englishOriginal": "Then the children followed Miss Pimento, two by two, down the hall out the door and down the block to the park.",
+      "chineseTranslation": "接著，孩子們排成兩兩一隊，跟在皮門托老師後面，穿過走廊、走出大門，沿著街區一路走到了公園。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s37_p1",
+          "title": "two by two",
+          "explanation": "「成雙成對地、兩個兩個一排地」，常用來形容學生排隊時兩人一組的狀態。",
+          "examples": [
+            {
+              "english": "The students marched into the museum two by two.",
+              "chinese": "學生們兩個兩個一排地排隊走進博物館。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s38",
+      "order": 38,
+      "englishOriginal": "\"All right, everyone,\" said Miss Pimento. \"Find a place to sit and bon appètit!\"",
+      "chineseTranslation": "「好了，各位，」皮門托老師說：「自己找個位子坐下來，祝大家胃口大開！」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "s38_n1",
+          "title": "bon appètit",
+          "explanation": "源自法文的外來語，在英語世界中被廣泛借用，意思是「祝你胃口好、用餐愉快」，常用在開動前的祝福語。",
+          "examples": [
+            {
+              "english": "Dinner is served. Bon appétit, everyone!",
+              "chinese": "晚餐準備好了。大家用餐愉快！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s39",
+      "order": 39,
+      "englishOriginal": "Carla took a bite of her sandwich.",
+      "chineseTranslation": "卡拉咬了一口她的三明治。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s39_p1",
+          "title": "take a bite of",
+          "explanation": "「咬一口……」。",
+          "examples": [
+            {
+              "english": "He took a small bite of the chocolate cake.",
+              "chinese": "他咬了一小口巧克力蛋糕。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s40",
+      "order": 40,
+      "englishOriginal": "\"Yuck!\" said Buster, pointing at Carla's sandwich. \"What is that -- a worm sandwich?\"",
+      "chineseTranslation": "「呸！」巴斯特指著卡拉的三明治大叫：「那又是什麼——毛毛蟲三明治嗎？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s40_p1",
+          "title": "point at",
+          "explanation": "「用手指著……」，通常帶有直接、甚至有時不夠禮貌的動作語感。",
+          "examples": [
+            {
+              "english": "It is rude to point at other people in public.",
+              "chinese": "在公共場合用手指著別人是不禮貌的。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "s40_n1",
+          "title": "Yuck!",
+          "explanation": "經典的美式感嘆詞，用來表達對食物或事物極其厭惡、覺得噁心，相當於中文的「噁、呸」。",
+          "examples": [
+            {
+              "english": "Yuck! This milk has gone sour.",
+              "chinese": "呸！這牛奶已經酸掉了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s41",
+      "order": 41,
+      "englishOriginal": "\"For your information,\" said Carla, \"It's a lettuce, tomato, raisin, bean sprout, pretzel and mayonnaise sandwich. I call it the Combo Deluxe.\"",
+      "chineseTranslation": "「實話告訴你吧，」卡拉不甘示弱地說：「這可是集結了萵苣、番茄、葡萄乾、豆芽菜、蝴蝶脆餅再搭配美乃滋的三明治。我叫它『豪華全套號』。」",
+      "vocabularyNotes": [
+        {
+          "id": "s41_v1",
+          "title": "pretzel",
+          "explanation": "名詞「椒鹽捲餅、蝴蝶脆餅」，一種常帶有鹽粒、形狀獨特的脆餅。",
+          "examples": [
+            {
+              "english": "He bought a large, warm soft pretzel at the mall.",
+              "chinese": "他在購物中心買了一個大大的、熱騰騰的軟椒鹽捲餅。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s41_p1",
+          "title": "for your information",
+          "explanation": "常用口語縮寫為 FYI。在對話中單獨使用時，常帶有一種「實話告訴你、坦白說（略帶反駁或高傲）」的語氣，用來向對方澄清事實。",
+          "examples": [
+            {
+              "english": "For your information, I finished that project yesterday.",
+              "chinese": "實話告訴你吧，我昨天就已經把那個專案做完了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s42",
+      "order": 42,
+      "englishOriginal": "\"It looks more like a Wormbo Deluxe!\" teased Buster. Leslie and Natie burst out laughing.",
+      "chineseTranslation": "「這看起來更像是『豪華毛蟲號』吧！」巴斯特嘲笑道。蕾絲莉和內提立刻爆發出大笑聲。",
+      "vocabularyNotes": [
+        {
+          "id": "s42_v1",
+          "title": "tease",
+          "explanation": "動詞「取笑、戲弄、開玩笑」。",
+          "examples": [
+            {
+              "english": "The older boys used to tease him about his glasses.",
+              "chinese": "以前那些大男孩常拿他的眼鏡來取笑他。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s42_p1",
+          "title": "burst out laughing",
+          "explanation": "極為道地的固定片語，表示「突然放聲大笑、大笑出聲」。後面一定要接 V-ing 形式。",
+          "examples": [
+            {
+              "english": "When the clown fell down, the children burst out laughing.",
+              "chinese": "當小丑摔倒時，孩子們突然放聲大笑。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s43",
+      "order": 43,
+      "englishOriginal": "Buster rummaged through his knapsack. \"Uh oh,\" he said quietly. He rummaged some more. \"Uh oh,\" he said again.",
+      "chineseTranslation": "巴斯特在背包裡翻來翻去。「呃哦，」他小聲嘟噥。他又翻了一會兒。「完了，」他再次低聲說道。",
+      "vocabularyNotes": [
+        {
+          "id": "s43_v1",
+          "title": "rummage",
+          "explanation": "動詞「翻找、搜尋（通常指翻得亂七八糟的尋找）」。",
+          "examples": [
+            {
+              "english": "She rummaged through her drawer looking for the missing keys.",
+              "chinese": "她翻遍了抽屜，尋找那把弄丟的鑰匙。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "s43_n1",
+          "title": "Uh oh",
+          "explanation": "口語中非常高頻的感嘆詞，用來表示意識到事情搞砸了、出狀況、有麻煩了。",
+          "examples": [
+            {
+              "english": "Uh oh, I think I left the stove running.",
+              "chinese": "糟糕，我好像忘了關瓦斯爐。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s44",
+      "order": 44,
+      "englishOriginal": "He dumped everything out of his bag. \"I can't believe it,\" Buster said sadly. \"I forgot my sandwich.\"",
+      "chineseTranslation": "他把包包裡所有的東西都倒了出來。「我真的不敢相信，」巴斯特沮喪地說：「我竟然忘了帶我的三明治。」",
+      "vocabularyNotes": [
+        {
+          "id": "s44_v1",
+          "title": "dump",
+          "explanation": "動詞「傾倒、一下子倒出來」。",
+          "examples": [
+            {
+              "english": "He dumped his dirty clothes straight into the washing machine.",
+              "chinese": "他把髒衣服直接一股腦倒進了洗衣機。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s44_p1",
+          "title": "I can't believe it",
+          "explanation": "「我真不敢相信」，用來抒發強烈的震驚、無奈或失望之情。",
+          "examples": [
+            {
+              "english": "I can't believe it! We won the first prize!",
+              "chinese": "我真不敢相信！我們竟然得了第一名！"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s45",
+      "order": 45,
+      "englishOriginal": "\"That's awful,\" said Leslie, biting into her baloney sandwich. \"A real bummer,\" said Natie, chomping on his peanut butter and jelly.",
+      "chineseTranslation": "「那太慘了吧，」蕾絲莉一邊大口咬著她的大紅腸三明治一邊說。「真倒楣，」內提也跟著說，嘴裡還一邊大嚼著他的花生醬果醬三明治。",
+      "vocabularyNotes": [
+        {
+          "id": "s45_v1",
+          "title": "chomp",
+          "explanation": "動詞「大聲地咀嚼、大口地咬」，常接介系詞 on。",
+          "examples": [
+            {
+              "english": "The horse was happily chomping on the fresh grass.",
+              "chinese": "馬兒正開心地大口大口嚼著鮮草。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "s45_n1",
+          "title": "A real bummer",
+          "explanation": "美式道地口語俚語，bummer 指「令人失望、無奈或倒楣的事」。A real bummer 就是「真是一件讓人沮喪/倒楣透頂的事」。",
+          "examples": [
+            {
+              "english": "The outdoor concert was canceled due to rain? That's a real bummer.",
+              "chinese": "戶外音樂會因為下雨取消了？那太令人掃興了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s46",
+      "order": 46,
+      "englishOriginal": "Soon everyone was eating -- everyone except Buster.",
+      "chineseTranslation": "不久，每個人都在開心地大快朵頤——除了巴斯特以外。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "s46_g1",
+          "title": "Except as a Preposition (except 的介系詞用法)",
+          "explanation": "except 用作介系詞，表示「除了……之外（不包含在內）」，常置於被排除的名詞前方。",
+          "examples": [
+            {
+              "english": "The store is open every day except Sunday.",
+              "chinese": "這間店除了星期天之外天天都有營業。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s47",
+      "order": 47,
+      "englishOriginal": "Carla looked at Buster. She looked at her sandwich. She looked back at Buster.",
+      "chineseTranslation": "卡拉看了看巴斯特。她低頭看看自己的三明治。接著，又轉回來看著巴斯特。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s48",
+      "order": 48,
+      "englishOriginal": "\"You can have one of mine,\" she offered. \"I brought extra.\"",
+      "chineseTranslation": "「我的可以分一個給你吃喔，」她主動提議：「我有另外多帶。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "s48_g1",
+          "title": "Possessive Pronoun (所有格代名詞)",
+          "explanation": "使用 mine 代替前面提過的「my sandwiches」，避免字詞重複，使句子更精煉。",
+          "examples": [
+            {
+              "english": "Your coat is warm, but mine is waterproof.",
+              "chinese": "你的外套很保暖，但我的這件是防水的。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s49",
+      "order": 49,
+      "englishOriginal": "Some kids snickered. \"No thanks,\" said Buster glumly. \"I'm not that desperate.\"",
+      "chineseTranslation": "一旁有幾個小孩偷偷笑了起來。「免了，謝謝，」巴斯特悶悶不樂地說：「我也沒慘到那種地步。」",
+      "vocabularyNotes": [
+        {
+          "id": "s49_v1",
+          "title": "snicker",
+          "explanation": "動詞「竊笑、暗笑、吃吃地笑」，通常指帶有嘲諷意味的笑。",
+          "examples": [
+            {
+              "english": "They snickered behind his back when he made a mistake.",
+              "chinese": "他犯錯的時候，他們在他背後偷偷竊笑。"
+            }
+          ]
+        },
+        {
+          "id": "s49_v2",
+          "title": "desperate",
+          "explanation": "形容詞「絕望的、極度渴望的、鋌而走險的」。在此口語用法中表示「處境慘到飢不擇食的境地」。",
+          "examples": [
+            {
+              "english": "The lost travelers were desperate for food and water.",
+              "chinese": "迷路的旅人極度渴望能獲得食物和水。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s50",
+      "order": 50,
+      "englishOriginal": "Buster's mouth began to water. Buster looked at Carla's sandwich.",
+      "chineseTranslation": "巴斯特此時開始瘋狂分泌唾液。他死死盯著卡拉的三明治。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s50_p1",
+          "title": "one's mouth begins to water",
+          "explanation": "道地的英文片語，意思是「流口水、垂涎欲滴」，形容看到好吃的東西時肚子很餓的反應。",
+          "examples": [
+            {
+              "english": "The smell of freshly baked bread made his mouth water.",
+              "chinese": "剛出爐的麵包香氣讓他直流口水。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s51",
+      "order": 51,
+      "englishOriginal": "\"Maybe bean sprouts aren't so bad,\" he thought.",
+      "chineseTranslation": "「或許豆芽菜吃起來其實也沒那麼糟吧，」他暗自思忖。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s52",
+      "order": 52,
+      "englishOriginal": "\"It's really quite delicious,\" said Carla, catching Buster's glance. Buster quickly turned away.",
+      "chineseTranslation": "「這吃起來真的蠻好吃的喔，」卡拉捕捉到了巴斯特偷偷瞄過來的眼神，笑著說。巴斯特立刻心虛地把頭轉開。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s52_p1",
+          "title": "turn away",
+          "explanation": "「轉過臉去、避開視線」。",
+          "examples": [
+            {
+              "english": "She turned away to hide her tears.",
+              "chinese": "她把臉轉過去，好掩飾自己的眼淚。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "s52_g1",
+          "title": "Present Participle as an Adverbial Modifier (現在分詞作伴隨狀語)",
+          "explanation": "使用「, catching...」結構，表示這個動詞與主句的動作（said Carla）同時發生，用來豐富情節的畫面感。",
+          "examples": [
+            {
+              "english": "He walked out of the room, shutting the door quietly.",
+              "chinese": "他一邊走出房間，一邊輕輕地把門關上。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s53",
+      "order": 53,
+      "englishOriginal": "Buster was growing hungrier by the minute and his stomach growled loudly.",
+      "chineseTranslation": "隨著時間一分一秒過去，巴斯特覺得肚子越來越餓了，肚子還發出了好大一聲「咕嚕嚕」的慘叫。",
+      "vocabularyNotes": [
+        {
+          "id": "s53_v1",
+          "title": "growl",
+          "explanation": "動詞「（肚子）咕嚕叫、（野獸）低吼」。",
+          "examples": [
+            {
+              "english": "My stomach always growls right before lunchtime.",
+              "chinese": "我的肚子總是在午餐時間前咕嚕咕嚕叫。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s53_p1",
+          "title": "by the minute",
+          "explanation": "「每分鐘地、一分一秒地」，用來形容某種狀態變化得非常迅速且持續不斷。",
+          "examples": [
+            {
+              "english": "The weather was getting colder by the minute.",
+              "chinese": "天氣一分一秒地變得越來越冷。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s54",
+      "order": 54,
+      "englishOriginal": "\"Raisins are kind of fun,\" he thought, \"and who doesn't like pretzels?\"",
+      "chineseTranslation": "「葡萄乾吃起來其實挺有意思的，」他想：「而且，有誰會不喜歡蝴蝶脆餅呢？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s54_p1",
+          "title": "kind of",
+          "explanation": "副詞片語「有一點、算是、稍微」，在口語中極常充當語氣緩和詞。",
+          "examples": [
+            {
+              "english": "I'm kind of tired after the long soccer game.",
+              "chinese": "踢完漫長的足球賽後，我有一點累了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "s54_g1",
+          "title": "Rhetorical Question (反問句)",
+          "explanation": "「who doesn't like...?」形式上是個否定疑問句，實質上是用來強烈肯定「每個人都喜歡蝴蝶脆餅」。",
+          "examples": [
+            {
+              "english": "Who doesn't want to be happy?",
+              "chinese": "有誰會不想快樂呢？（意即每個人都想快樂）"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s55",
+      "order": 55,
+      "englishOriginal": "Buster eyed Carla's sandwich again. \"You don't know what you're missing...\" Carla sang out.",
+      "chineseTranslation": "巴斯特忍不住又嫖了卡拉的三明治一眼。「你根本不知道自己錯過了什麼人間美味喔……」卡拉故意拉長尾音、像唱歌一樣俏皮地調侃道。",
+      "vocabularyNotes": [
+        {
+          "id": "s55_v1",
+          "title": "eye",
+          "explanation": "動詞「打量、注視、盯著看」，含有密切關注或渴望的意味。",
+          "examples": [
+            {
+              "english": "The cat eyed the goldfish swimming in the bowl.",
+              "chinese": "那隻貓死死盯著在碗裡游動的金魚。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s55_p1",
+          "title": "miss out",
+          "explanation": "「錯過（好機會、好東西）」。這裡的 you don't know what you're missing 是一個經典的日常美式口語套話，意思是「你不知道你錯過了什麼好康/美味」。",
+          "examples": [
+            {
+              "english": "You should come to the party, or you'll miss out on the fun.",
+              "chinese": "你應該來參加派對，不然你就會錯過有趣的活動。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s56",
+      "order": 56,
+      "englishOriginal": "Buster couldn't take it anymore. He looked around. Everyone was busy eating. No one was watching him.",
+      "chineseTranslation": "巴斯特終於忍無可忍了。他環顧四周。同學們都正忙著埋頭大吃，根本沒有人在注意他。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s56_p1",
+          "title": "can't take it anymore",
+          "explanation": "高頻日常口語，意思是「再也受不了了、無法再忍受了」。",
+          "examples": [
+            {
+              "english": "The noise was so loud that I couldn't take it anymore.",
+              "chinese": "噪音實在太大了，我再也受不終了。"
+            }
+          ]
+        },
+        {
+          "id": "s56_p2",
+          "title": "be busy doing something",
+          "explanation": "「忙著做某事」，後面接名詞或現在分詞（V-ing），中間省略了介系詞 in。",
+          "examples": [
+            {
+              "english": "The kids were busy preparing for the Halloween party.",
+              "chinese": "孩子們正忙著準備萬聖節派對。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s57",
+      "order": 57,
+      "englishOriginal": "\"Okay,\" he whispered to Carla. \"Okay, what?\" asked Carla.",
+      "chineseTranslation": "「好啦，」他小小聲地對卡拉說。「好啦是什麼意思？」卡拉故意問道。",
+      "vocabularyNotes": [
+        {
+          "id": "s57_v1",
+          "title": "whisper",
+          "explanation": "動詞「低語、耳語、小聲說話」。",
+          "examples": [
+            {
+              "english": "She leaned in to whisper a secret to her best friend.",
+              "chinese": "她湊過去跟她最好的朋友低聲說了一個秘密。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s58",
+      "order": 58,
+      "englishOriginal": "\"Okay, can I have one?\" he whispered again. \"Can you have one what?\" asked Carla.",
+      "chineseTranslation": "「好吧，我可以拿一個嗎？」他再度壓低聲音。「你可以拿一個什麼啊？」卡拉繼續逗他。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s59",
+      "order": 59,
+      "englishOriginal": "Buster blurted impatiently, \"Can I please have one of your sandwiches?\" Everyone looked up.",
+      "chineseTranslation": "巴斯特終於按捺不住，不耐煩地脫口大喊：「請問我可以吃一個妳的三明治嗎？」這一下，全班同學都猛地抬起頭來。",
+      "vocabularyNotes": [
+        {
+          "id": "s59_v1",
+          "title": "blurt",
+          "explanation": "動詞「不經思考地脫口而出、衝口地說」，通常後接說出的內容，或與 out 連用。",
+          "examples": [
+            {
+              "english": "He was so nervous that he blurted out the secret.",
+              "chinese": "他太緊張了，以至於不小心把秘密脫口說了出來。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s59_p1",
+          "title": "look up",
+          "explanation": "「抬頭看、向上看」。",
+          "examples": [
+            {
+              "english": "They looked up at the stars twinkling in the dark sky.",
+              "chinese": "他們抬頭看著黑夜中閃爍的星星。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s60",
+      "order": 60,
+      "englishOriginal": "Carla smiled and handed Buster a Combo Deluxe.",
+      "chineseTranslation": "卡拉微微一笑，大方地遞給巴斯特一個「豪華全套號」。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s60_p1",
+          "title": "hand someone something",
+          "explanation": "「把某物遞給某人」，hand 在此作動詞用。",
+          "examples": [
+            {
+              "english": "Could you please hand me that dictionary on the shelf?",
+              "chinese": "可以請你把書架上的那本字典遞給我嗎？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s61",
+      "order": 61,
+      "englishOriginal": "Buster examined the lettuce, tomato, raisin, bean sprout, pretzel and mayonnaise sandwich carefully.",
+      "chineseTranslation": "巴斯特一臉戒備、小心翼翼地端詳著這個夾著萵苣、番茄、葡萄乾、豆芽菜、蝴蝶脆餅和美乃滋的三明治。",
+      "vocabularyNotes": [
+        {
+          "id": "s61_v1",
+          "title": "examine",
+          "explanation": "動詞「仔細檢查、細心端詳、審視」。",
+          "examples": [
+            {
+              "english": "The doctor examined the patient's throat carefully.",
+              "chinese": "醫生仔細檢查了病人的喉嚨。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s62",
+      "order": 62,
+      "englishOriginal": "He looked at Leslie, then Natie, then Carla. And then he took a very small bite.",
+      "chineseTranslation": "他看了看蕾絲莉，又看看內提，最後看看卡拉。接著，他終於咬了微乎其微的一小口。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s63",
+      "order": 63,
+      "englishOriginal": "All eyes were watching as he chewed and swallowed.",
+      "chineseTranslation": "在全班目不轉睛的注視下，他慢慢地咀嚼，然後吞了下去。",
+      "vocabularyNotes": [
+        {
+          "id": "s63_v1",
+          "title": "swallow",
+          "explanation": "動詞「吞嚥、嚥下」。",
+          "examples": [
+            {
+              "english": "Drink some water to help you swallow the pill.",
+              "chinese": "喝點水好幫你把藥丸吞下去。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s63_p1",
+          "title": "all eyes",
+          "explanation": "道地的借喻修辭，意思是「所有人的目光、全神貫注地注視」。例如 be all eyes 意即目不轉睛。",
+          "examples": [
+            {
+              "english": "When the actress walked onto the stage, all eyes were on her.",
+              "chinese": "當女演員走上舞台時，所有人的目光都集中在她身上。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s64",
+      "order": 64,
+      "englishOriginal": "\"Well?\" asked Leslie impatiently. \"Well?\" asked Natie. Buster didn't say anything.",
+      "chineseTranslation": "「怎麼樣？」蕾絲莉急切地追問。「到底怎樣？」內提也跟著問。巴斯特什麼話也沒有說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s65",
+      "order": 65,
+      "englishOriginal": "He looked at everyone and took another bite. And another. And another.",
+      "chineseTranslation": "他看了看大家，接著又狠狠咬了一大口。然後一小口接一小口，完全停不下來。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s66",
+      "order": 66,
+      "englishOriginal": "\"I can't believe he's eating it!\" said Natie in disgust. \"What does it taste like, Buster?\" asked Leslie. \"Is it gross?\"",
+      "chineseTranslation": "「我真不敢相信他居然真的吃下去了！」內提一臉嫌惡地說。「巴斯特，這到底是什麼味道啊？」蕾絲莉問：「真的很噁心嗎？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s66_p1",
+          "title": "in disgust",
+          "explanation": "「厭惡地、嫌惡地」，表示帶有噁心、反感的情緒狀態。",
+          "examples": [
+            {
+              "english": "She turned her head away in disgust when she saw the trash mountain.",
+              "chinese": "看到那座垃圾山時，她嫌惡地把頭轉了過去。"
+            }
+          ]
+        },
+        {
+          "id": "s66_p2",
+          "title": "what does it taste like",
+          "explanation": "詢問某樣食物「吃起來味道如何、像什麼味道」的標準句型。",
+          "examples": [
+            {
+              "english": "What does dragon fruit taste like? Is it sweet?",
+              "chinese": "火龍果吃起來是什麼味道？很甜嗎？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s67",
+      "order": 67,
+      "englishOriginal": "Buster didn't answer. He was too busy eating.",
+      "chineseTranslation": "巴斯特根本顧不上回答。他正忙著風捲殘雲般大吃特吃呢。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "s67_g1",
+          "title": "too... to... (太……以至於不能…… 結構變體)",
+          "explanation": "此處使用「too + 形容詞 + busy + V-ing」，表示巴斯特「太忙於吃東西了，以至於無法回答問題」。",
+          "examples": [
+            {
+              "english": "She was too tired to finish her homework last night.",
+              "chinese": "她昨天晚上太累了，以至於沒辦法完成功課。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s68",
+      "order": 68,
+      "englishOriginal": "When the last bite was gone, Buster licked his fingers and smacked his lips. \"Yum!\" he said. \"That was the best sandwich I ever ate!\"",
+      "chineseTranslation": "當最後一口三明治被消滅乾淨，巴斯特吮了吮手指，還吧唧吧唧地咂了咂嘴。「太美味了！」他說：「這是我這輩子吃過最棒的三明治！」",
+      "vocabularyNotes": [
+        {
+          "id": "s68_v1",
+          "title": "smack",
+          "explanation": "動詞在此指「（吃得津津有味時）咂嘴、使勁作聲地合攏雙唇」。smack one's lips 通常是覺得食物非常好吃時的本能動作。",
+          "examples": [
+            {
+              "english": "The kids smacked their lips when the chocolate cake arrived.",
+              "chinese": "當巧克力蛋糕送上桌時，孩子們一個個咂了咂嘴。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "s68_g1",
+          "title": "Omission of Relative Pronoun (關係代名詞的省略)",
+          "explanation": "在 the best sandwich 之後省略了關係代名詞 that 或 which。因為這個關係代名詞在定語子句 (I ever ate) 中充當及物動詞 ate 的賓語，所以可以省略。",
+          "examples": [
+            {
+              "english": "This is the most exciting movie I have ever seen.",
+              "chinese": "這是我看過最刺激的電影。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": [
+        {
+          "id": "s68_n1",
+          "title": "Yum!",
+          "explanation": "口語感嘆詞（也可以說 yummy），小孩子常用來表達食物非常好吃、極為美味，相當於繁體中文的「好吃、美味、好讚」。",
+          "examples": [
+            {
+              "english": "Yum! These freshly baked cookies look great.",
+              "chinese": "哇，好讚！這些剛烤好的餅乾看起來太棒了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s69",
+      "order": 69,
+      "englishOriginal": "\"It was?\" asked Natie in horror. \"It was?\" asked Leslie in dismay. \"It was!\" said Buster, smiling at Carla. Carla beamed.",
+      "chineseTranslation": "「真的假的？」內提驚恐萬狀地問。「怎麼可能？」蕾絲莉也大失所望。 「真的！」巴斯特看著卡拉笑道。卡拉一聽，整個人高興得眉開眼笑。",
+      "vocabularyNotes": [
+        {
+          "id": "s69_v1",
+          "title": "beam",
+          "explanation": "動詞在此指「眉開眼笑、高興得發亮、展露燦爛的笑容」。",
+          "examples": [
+            {
+              "english": "The proud mother beamed as her son walked up to receive the award.",
+              "chinese": "當兒子走上前領獎時，那位驕傲的母親笑逐顏開。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s69_p1",
+          "title": "in horror",
+          "explanation": "「恐懼地、驚恐地」。",
+          "examples": [
+            {
+              "english": "She screamed in horror when she saw a large spider in her bed.",
+              "chinese": "當她看到床上有一隻大蜘蛛時，嚇得驚恐地尖叫起來。"
+            }
+          ]
+        },
+        {
+          "id": "s69_p2",
+          "title": "in dismay",
+          "explanation": "「沮喪地、大失所望地、驚慌失措地」。",
+          "examples": [
+            {
+              "english": "They looked at the ruins of their house in dismay.",
+              "chinese": "他們看著自己房子的廢墟，感到大失所望。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s70",
+      "order": 70,
+      "englishOriginal": "\"I bet you'd all enjoy the Combo Deluxe,\" said Carla. \"Who'd like to try some?\"",
+      "chineseTranslation": "「我敢說你們一定也都會喜歡這款『豪華全套號』的，」卡拉說：「有誰想要吃吃看嗎？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s70_p1",
+          "title": "I bet",
+          "explanation": "日常口語套話，意思是「我敢說、我敢打包票、我敢肯定」，用來表達高度把握的推測。",
+          "examples": [
+            {
+              "english": "I bet it will rain tomorrow; look at those dark clouds.",
+              "chinese": "我敢打包票明天一定會下雨，你看那些烏雲。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s71",
+      "order": 71,
+      "englishOriginal": "Slowly, Leslie raised her hand. And then Natie raised his. Then Darcy, Susan, Rufus and Fabio. Soon all the kids had their hands in the air.",
+      "chineseTranslation": "慢吞吞地，蕾絲莉率先舉起了手。緊接著內提也把手舉了起來。隨後是達西、蘇珊、魯夫斯和法比歐。不一會兒，所有小朋友全都把手舉得高高的。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s71_p1",
+          "title": "raise one's hand",
+          "explanation": "「舉手」，常用在課堂發言或表達贊同、自願參加某事時。",
+          "examples": [
+            {
+              "english": "If you know the answer to this question, please raise your hand.",
+              "chinese": "如果你知道這個問題的答案，請舉手。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s72",
+      "order": 72,
+      "englishOriginal": "Carla took her last sandwich, broke it into small pieces and handed them out to everyone.",
+      "chineseTranslation": "卡拉拿出最後一個三明治，把它掰成一小塊一小塊，然後一個個分發給每個人。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s72_p1",
+          "title": "break into",
+          "explanation": "「把（某物）折斷/掰成……」。",
+          "examples": [
+            {
+              "english": "She broke the chocolate bar into small pieces to share with her friends.",
+              "chinese": "她把巧克力棒掰成小塊，和朋友們一起分享。"
+            }
+          ]
+        },
+        {
+          "id": "s72_p2",
+          "title": "hand out",
+          "explanation": "「分發、發放（某物給大眾）」。",
+          "examples": [
+            {
+              "english": "The teacher handed out the test papers to the students.",
+              "chinese": "老師把試卷一一分發給學生們。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s73",
+      "order": 73,
+      "englishOriginal": "\"Wow!\" said Leslie, tasting her piece. \"This is terrific!\" \"Yeah!\" Said Natie. \"It tastes great!\"",
+      "chineseTranslation": "「哇！」蕾絲莉品嚐了一小口大讚：「這簡直太棒了！」「對啊！」內提也隨聲附和：「味道好極了！」",
+      "vocabularyNotes": [
+        {
+          "id": "s73_v1",
+          "title": "terrific",
+          "explanation": "形容詞「極好的、了不起的、棒極了的」，在現代美式英語中是非常正面的稱讚詞。",
+          "examples": [
+            {
+              "english": "You did a terrific job on the stage tonight!",
+              "chinese": "你今晚在舞台上的表現棒極了！"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s74",
+      "order": 74,
+      "englishOriginal": "\"Tomorrow I'm going to bring a creative sandwich too,\" said Leslie. \"Maybe it'll be a mustard sandwich with baked beans and French fries. What do you think of that, Carla?\"",
+      "chineseTranslation": "「明天我也要帶一個超級有創意的三明治，」蕾絲莉興致勃勃地說：「也許是芥末醬配焗豆再加炸薯條的三明治。卡拉，妳覺得這點子怎麼樣？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s74_p1",
+          "title": "what do you think of...?",
+          "explanation": "詢問對方「你覺得……怎麼樣？、你對……有何看法？」的常用口語句型。",
+          "examples": [
+            {
+              "english": "What do you think of my new haircut?",
+              "chinese": "你覺得我的新髮型怎麼樣？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s75",
+      "order": 75,
+      "englishOriginal": "\"Sounds good,\" said Carla. \"And it's definitely creative.\"",
+      "chineseTranslation": "「聽起來很不賴啊，」卡拉回答：「而且這絕對算得上是創意滿分。」",
+      "vocabularyNotes": [
+        {
+          "id": "s75_v1",
+          "title": "definitely",
+          "explanation": "副詞「毫無疑問地、肯定地、絕對地」。",
+          "examples": [
+            {
+              "english": "I will definitely come to your birthday party next week.",
+              "chinese": "我下週絕對會去參加你的生日派對。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s75_p1",
+          "title": "sounds good",
+          "explanation": "口語中回應對方提議時的極常用語，意為「聽起來不錯、好啊」，前面省略了主詞 It。",
+          "examples": [
+            {
+              "english": "Let's go watch a movie tonight. — Sounds good!",
+              "chinese": "我們今晚去看電影吧。——聽起來不錯！"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s76",
+      "order": 76,
+      "englishOriginal": "\"I'll bring a spaghetti and soy sauce sandwich,\" said Buster as he sat down next to Carla.",
+      "chineseTranslation": "「那我明天要帶義大利麵加醬油三明治！」巴斯特一邊說著，一邊大喇喇地挨著卡拉坐了下來。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s76_p1",
+          "title": "sat down",
+          "explanation": "「坐下來」（sit down 的過去式）。",
+          "examples": [
+            {
+              "english": "He sat down on the sofa and opened his book.",
+              "chinese": "他在沙發上坐了下來，翻開了他的書。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s77",
+      "order": 77,
+      "englishOriginal": "\"Yum,\" said Carla and Leslie together. \"I don't know what I'm bringing yet,\" said Natie, \"but it'll be unique.\"",
+      "chineseTranslation": "「聽起來好好吃喔，」卡拉和蕾絲莉異口同聲地說。「我還不知道我明天要帶什麼，」內提抓抓頭說：「不過，保證一定也會是獨一無二的奇特口味。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s77_p1",
+          "title": "together",
+          "explanation": "在此副詞作「共同地、一起、異口同聲地」。",
+          "examples": [
+            {
+              "english": "They sang the song together on the last day of school.",
+              "chinese": "他們在學期的最後一天一起合唱了這首歌。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "s77_g1",
+          "title": "Object Clause (賓語從句/目的從句)",
+          "explanation": "「what I'm bringing」是一個由疑問詞引導的從句，在主句中充當及物動詞短語 don't know 的賓語（受詞）。注意從句中要使用陳述句語序（主詞在動詞前）。",
+          "examples": [
+            {
+              "english": "I don't know where she went yesterday.",
+              "chinese": "我不知道她昨天去哪裡了。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s78",
+      "order": 78,
+      "englishOriginal": "The next day everyone in Miss Pimento's class brought an unusual sandwich to school.",
+      "chineseTranslation": "到了第二天，皮門托老師班上的每一個小朋友，真的都帶了稀奇古怪的三明治來上學。",
+      "vocabularyNotes": [
+        {
+          "id": "s78_v1",
+          "title": "unusual",
+          "explanation": "形容詞「不尋常的、獨特的、稀奇的」，由 usual 加否定前綴 un- 組成。",
+          "examples": [
+            {
+              "english": "It is quite unusual to see snow in this area during October.",
+              "chinese": "十月份在這個地區看到下雪是相當罕見不尋常的。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s79",
+      "order": 79,
+      "englishOriginal": "There was an asparagus and salad dressing sandwich, a pistachio and tangerine sandwich, and even a pizza sandwich.",
+      "chineseTranslation": "其中有蘆筍配沙拉醬三明治、開心果加橘子三明治，甚至還有人帶了披薩三明治。",
+      "vocabularyNotes": [
+        {
+          "id": "s79_v1",
+          "title": "asparagus",
+          "explanation": "名詞「蘆筍」。",
+          "examples": [
+            {
+              "english": "Grilled asparagus is one of my favorite side dishes.",
+              "chinese": "烤蘆筍是我最喜歡的配菜之一。"
+            }
+          ]
+        },
+        {
+          "id": "s79_v2",
+          "title": "pistachio",
+          "explanation": "名詞「開心果」。",
+          "examples": [
+            {
+              "english": "She bought a scoop of pistachio ice cream.",
+              "chinese": "她買了一球開心果口味的冰淇餅。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s80",
+      "order": 80,
+      "englishOriginal": "\"What did you bring today, Carla?\" asked Buster. \"I'm not telling,\" said Carla. \"You'll have to wait until lunch time.\"",
+      "chineseTranslation": "「卡拉，妳今天帶了什麼口味啊？」巴斯特好奇地探頭問。「我才不告訴你呢，」卡拉神秘地說：「你非得等到午餐時間不可。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s80_p1",
+          "title": "have to",
+          "explanation": "「必須、不得不」，此處結合了未來式 will have to，表示「你將非得……不可」。",
+          "examples": [
+            {
+              "english": "You will have to clear the validation check before submitting the file.",
+              "chinese": "在提交檔案之前，你將必須先通過校驗。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s81",
+      "order": 81,
+      "englishOriginal": "The morning seemed to last forever, but finally the lunch bell rang.",
+      "chineseTranslation": "這天早上似乎過得無比漫長，好不容易，午餐的鐘聲終於敲響了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s81_p1",
+          "title": "last forever",
+          "explanation": "「持續到永遠、彷彿沒有盡頭地漫長」，常在文學或日常中用來誇張地形容時間過得很慢。",
+          "examples": [
+            {
+              "english": "The long, boring meeting felt like it would last forever.",
+              "chinese": "那場又長又無聊的會議讓人覺得彷彿永遠開不完似的。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s82",
+      "order": 82,
+      "englishOriginal": "While Buster was munching away on his spaghetti and soy sauce sandwich, he glanced over at Carla.",
+      "chineseTranslation": "當巴斯特正大口大口開心地嚼著他的義大利麵醬油三明治時，他忍不住把目光朝卡拉那邊嫖了過去。",
+      "vocabularyNotes": [
+        {
+          "id": "s82_v1",
+          "title": "glance",
+          "explanation": "動詞「匆匆一瞥、掃視」，常與 over at 或 at 連用。",
+          "examples": [
+            {
+              "english": "He glanced at his watch and realized he was late.",
+              "chinese": "他匆匆看了一眼手錶，發現自己遲到了。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s82_p1",
+          "title": "munch away on",
+          "explanation": "「津津有味地大嚼、一直咯吱咯吱地吃著某物」，away 在此帶有持續、痛快進行動作的意味。",
+          "examples": [
+            {
+              "english": "The rabbit was munching away on a big green leaf.",
+              "chinese": "兔子正津津有味地大口啃著一片綠色的大葉子。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s83",
+      "order": 83,
+      "englishOriginal": "This time her sandwich was not green. It was not slimy or lumpy and nothing was oozing out the sides.",
+      "chineseTranslation": "這一次，她帶的三明治不是綠色的。既不顯得黏糊糊，也沒有結成硬塊，更沒有任何奇怪的東西從邊緣滲漏出來。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s84",
+      "order": 84,
+      "englishOriginal": "\"So, what kind of sandwich is that?\" Buster asked. \"Yeah, Carla,\" said Leslie. \"What's inside?\" Natie looked at Carla, waiting for an answer.",
+      "chineseTranslation": "「所以說，那到底是哪一種三明治啊？」巴斯特忍不住發問。「對啊，卡拉，」蕾絲莉幫腔：「裡面到底包了什麼？」內提也目不轉睛地盯著卡拉，等待著答案。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s84_p1",
+          "title": "what kind of...?",
+          "explanation": "詢問「哪一種類型的……？」的基礎日常句型。",
+          "examples": [
+            {
+              "english": "What kind of books do you usually like to read?",
+              "chinese": "你平時通常喜歡讀哪一類型的書？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s85",
+      "order": 85,
+      "englishOriginal": "\"Well,\" said Carla. \"Today I have... peanut butter and jelly.\"",
+      "chineseTranslation": "「這個嘛，」卡拉不緊不慢地說：「我今天帶的是……花生醬加果醬三明治。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s86",
+      "order": 86,
+      "englishOriginal": "\"Peanut butter and jelly?\" asked Buster in disbelief. \"Peanut butter and jelly?\" Leslie and Natie asked together.",
+      "chineseTranslation": "「花生醬加果醬？！」巴斯特滿臉不可置信地大喊。「花生醬加果醬？」蕾絲莉和內提也異口同聲、驚掉了下巴似地追問。",
+      "vocabularyNotes": [
+        {
+          "id": "s86_v1",
+          "title": "disbelief",
+          "explanation": "名詞「不相信、懷疑、懷疑不信的狀態」。in disbelief 意思是不可置信地。",
+          "examples": [
+            {
+              "english": "He shook his head in disbelief when his name was called.",
+              "chinese": "當他的名字被叫到時，他不可置信地搖了搖頭。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s87",
+      "order": 87,
+      "englishOriginal": "\"Peanut butter and jelly,\" said Carla, biting into her sandwich. \"I like to be different.\"",
+      "chineseTranslation": "「就是花生醬加果醬，」卡拉舒舒服服地一口咬下她的三明治說：「我就是喜歡與眾不同。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s88",
+      "order": 88,
+      "englishOriginal": "The end.",
+      "chineseTranslation": "故事結束。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s89",
+      "order": 89,
+      "englishOriginal": "I picked \"Carla's Sandwich\" because I like the idea of kids learning to celebrate their uniqueness.",
+      "chineseTranslation": "我之所以挑選《卡拉的三明治》這本書，是因為我很喜歡「讓孩子們學會去讚美、擁抱自己的獨特性」這個很棒的想法。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "s89_g1",
+          "title": "Adverbial Clause of Cause (原因狀語從句)",
+          "explanation": "由 because 引導的從句，用來解釋朗讀者挑選這本童書的背後核心原因。",
+          "examples": [
+            {
+              "english": "I ordered a pizza because I didn't want to cook tonight.",
+              "chinese": "我叫了披薩，因為我今晚不想做飯。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s90",
+      "order": 90,
+      "englishOriginal": "The things that make you you are you. There's no other person like you in the world and that should be celebrated.",
+      "chineseTranslation": "正是那些特殊的特質，才塑造了無可取代的你。世界上再也沒有第二個跟你一模一樣的人了，這絕對是一件非常值得去慶賀和驕傲的事。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "s90_g1",
+          "title": "Attributive Clause with \"that\" (that 引導的定語從句)",
+          "explanation": "「that make you you」是一個限定性關係子句，用來修飾前方的主詞名詞 components (things)，關係代名詞 that 在此充當子句的主詞。",
+          "examples": [
+            {
+              "english": "The books that are on the desk belong to the school library.",
+              "chinese": "書桌上的那些書是屬於學校圖書館的。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s91",
+      "order": 91,
+      "englishOriginal": "I think, at the end of the story, the kids learn to appreciate Carla's uniqueness and I love that part of the story.",
+      "chineseTranslation": "我覺得在故事的最後，孩子們終於學會了去欣賞、尊重卡拉身上那份最寶貴的與眾不同，而這正是我最著迷、最喜歡這部作品的地方。",
+      "vocabularyNotes": [
+        {
+          "id": "s91_v1",
+          "title": "appreciate",
+          "explanation": "動詞「欣賞、感激、體會」。在此指同理並珍視他人的優點與特質。",
+          "examples": [
+            {
+              "english": "It takes time to appreciate the beauty of classical poetry.",
+              "chinese": "欣賞古典詩詞的美是需要時間沉澱的。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s92",
+      "order": 92,
+      "englishOriginal": "Thank you for watching Storyline Online. Make sure to check out all of our stories. Keep watching and keep reading.",
+      "chineseTranslation": "感謝您收看「線上故事剧场」。請一定要記得去看看我們其他的精彩故事喔。保持觀看，熱愛閱讀，我們下次見！",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s92_p1",
+          "title": "make sure to",
+          "explanation": "「務必、一定要記得去做某事」，帶有叮嚀或溫馨提示的語感。",
+          "examples": [
+            {
+              "english": "Please make sure to turn off the lights before you leave the room.",
+              "chinese": "離開房間前請務必記得關燈。"
+            }
+          ]
+        },
+        {
+          "id": "s92_p2",
+          "title": "check out",
+          "explanation": "口語中極高頻的常用短語，意思是「去看看、瞧瞧、去探索/點閱（有趣的內容）」。",
+          "examples": [
+            {
+              "english": "You should check out the new bakery that opened down the street.",
+              "chinese": "你應該去瞧瞧街角新開的那家麵包店。"
+            }
+          ]
+        },
+        {
+          "id": "s92_p3",
+          "title": "keep doing something",
+          "explanation": "「持續、保持做某個動作」，keep 後方必須直接連接現在分詞（V-ing）。",
+          "examples": [
+            {
+              "english": "Keep trying, and you will eventually reach your coding goals.",
+              "chinese": "堅持不斷嘗試，你最終一定能實現你的程式設計目標。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    }
+  ]
+}
