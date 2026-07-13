@@ -1,6 +1,7 @@
 import { createId } from "../id";
 import { isEnglishText } from "../textLanguage";
 import type { LearningExample, LearningNote } from "../types";
+import { PronunciationRecorder } from "./PronunciationRecorder";
 import { SpeakButton } from "./SpeakButton";
 
 interface LearningNoteListProps {
@@ -124,6 +125,9 @@ export function LearningNoteList({
                     ×
                   </button>
                 </div>
+                <PronunciationRecorder
+                  sentenceId={`${note.id}-example-${index}`}
+                />
                 <input
                   type="text"
                   className="example-chinese"
