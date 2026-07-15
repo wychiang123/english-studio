@@ -1,0 +1,358 @@
+{
+  "schemaVersion": "1.0",
+  "lessonType": "english-story",
+  "title": "Chester's Way",
+  "source": "Storyline Online",
+  "sourceUrl": "https://storylineonline.net/",
+  "language": "en",
+  "createdAt": "2026-07-15T12:30:00Z",
+  "description": "A story about Chester and Wilson, two best friends who share the exact same habits, and how their world expands when they meet a unique girl named Lilly.",
+  "sentences": [
+    {
+      "id": "s1",
+      "order": 1,
+      "englishOriginal": "Chester had his own way of doing things.",
+      "chineseTranslation": "切斯特有他自己做事的一套方式。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s1_p1",
+          "title": "have one's own way of doing things",
+          "explanation": "指某人有自己獨特或固定的行事風格及習慣。",
+          "examples": [
+            {
+              "english": "My grandfather has his own way of doing things in the garden.",
+              "chinese": "我爺爺在整理花園時有他自己的一套方式。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s2",
+      "order": 2,
+      "englishOriginal": "He always cut his sandwiches diagonally.",
+      "chineseTranslation": "他總是把三明治對角切開。",
+      "vocabularyNotes": [
+        {
+          "id": "s2_v1",
+          "title": "diagonally",
+          "explanation": "副詞，意為「對角地」或「斜對角地」。",
+          "examples": [
+            {
+              "english": "Fold the square piece of paper diagonally.",
+              "chinese": "將這張正方形的紙沿對角線折起來。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s3",
+      "order": 3,
+      "englishOriginal": "And he never left the house without double-knotting his shoes.",
+      "chineseTranslation": "而且他出門前一定會把鞋帶綁兩道結。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "s3_g1",
+          "title": "never... without...",
+          "explanation": "雙重否定句型，用來強調「每逢……必定……」或「做某事時一定要……」。",
+          "examples": [
+            {
+              "english": "She never leaves the house without her umbrella.",
+              "chinese": "她出門必定會帶傘。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": [
+        {
+          "id": "s3_n1",
+          "title": "double-knotting his shoes",
+          "explanation": "綁雙重結以防止鞋帶鬆開，是英文描述綁鞋帶時非常道地寫實的說法。",
+          "examples": [
+            {
+              "english": "Make sure you double-knot your shoes before the race.",
+              "chinese": "跑步比賽前記得要把鞋帶綁緊、打個雙重結。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "order": 4,
+      "englishOriginal": "And he always carried a miniature first-aid kit in his back pocket. Just in case.",
+      "chineseTranslation": "而且他總是在後口袋裡放一個微型急救包。以防萬一。",
+      "vocabularyNotes": [
+        {
+          "id": "s4_v1",
+          "title": "miniature",
+          "explanation": "形容詞，意為「微型的」、「袖珍的」或「小型的」。",
+          "examples": [
+            {
+              "english": "He collects miniature cars as a hobby.",
+              "chinese": "他的愛好是收集模型微型汽車。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s4_p1",
+          "title": "just in case",
+          "explanation": "常見的固定片語，意為「以防萬一」或「以備不時之需」。",
+          "examples": [
+            {
+              "english": "Take an extra key, just in case.",
+              "chinese": "多帶一把鑰匙吧，以防萬一。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s5",
+      "order": 5,
+      "englishOriginal": "Chester's best friend Wilson was exactly the same way.",
+      "chineseTranslation": "切斯特最好的朋友威爾遜也完全是一模一樣。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "s5_n1",
+          "title": "exactly the same way",
+          "explanation": "用來形容某人的習慣、作風或反應與另一個人「完全一樣」，語氣十分道地自然。",
+          "examples": [
+            {
+              "english": "My brother behaves exactly the same way when he is nervous.",
+              "chinese": "我弟弟緊張時的反應完全是一模一樣。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "order": 6,
+      "englishOriginal": "Chester wouldn't play baseball unless Wilson played, and they never swung at the first pitch or slid headfirst.",
+      "chineseTranslation": "除非威爾遜也上場，否則切斯特就不打棒球，而且他們絕不在第一球就揮棒，也從不頭朝前滑壘。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s6_p1",
+          "title": "swing at the first pitch",
+          "explanation": "棒球術語，指「對第一球揮棒」，在這裡也暗示做決定時非常謹慎、不輕舉妄動。",
+          "examples": [
+            {
+              "english": "The coach told the batter not to swing at the first pitch.",
+              "chinese": "教練告訴打者不要對第一球挥棒。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "s6_g1",
+          "title": "wouldn't... unless...",
+          "explanation": "表示「除非……否則不……」，用來表達某種強烈的條件或堅持。",
+          "examples": [
+            {
+              "english": "He wouldn't go to the party unless his friend came along.",
+              "chinese": "除非他朋友一起去，否則他是不會去參加派對的。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s7",
+      "order": 7,
+      "englishOriginal": "Some days I can't tell those two apart, said Wilson's mother.",
+      "chineseTranslation": "威爾遜的媽媽說：「有時候我真分不清他們兩個。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "s7_p1",
+          "title": "tell apart",
+          "explanation": "動詞片語，意為「區分」、「辨別」或「分辨兩者之間的差異」。",
+          "examples": [
+            {
+              "english": "The twins look so much alike that I can't tell them apart.",
+              "chinese": "這對雙胞胎長得太像了，我實在分不出來。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s8",
+      "order": 8,
+      "englishOriginal": "They really are two peas in a pod, said Chester's mother.",
+      "chineseTranslation": "切斯特的媽媽說：「他們兩個人真是如出一轍。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "s8_n1",
+          "title": "two peas in a pod",
+          "explanation": "英文經典成語，字面意思是「同一個豆莢裡的兩顆豆子」，用來形容兩個人性格、長相或行為極為相似，相當於中文的「如出一轍」或「形影不離」。",
+          "examples": [
+            {
+              "english": "They dress alike and share the same hobbies; they are like two peas in a pod.",
+              "chinese": "他們穿著相似且愛好相同，簡直是如出一轍。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "order": 9,
+      "englishOriginal": "And then Lilly moved into the neighborhood.",
+      "chineseTranslation": "然後，莉莉搬進了這個社區。",
+      "vocabularyNotes": [
+        {
+          "id": "s9_v1",
+          "title": "neighborhood",
+          "explanation": "名詞，指「鄰近地區」或「社區」。",
+          "examples": [
+            {
+              "english": "There is a beautiful park in our neighborhood.",
+              "chinese": "我們社區裡有一個漂亮的公園。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s10",
+      "order": 10,
+      "englishOriginal": "And she never left the house without one of her nifty disguises.",
+      "chineseTranslation": "而且她每次出門一定會換上她那些俏皮的偽裝道具。",
+      "vocabularyNotes": [
+        {
+          "id": "s10_v1",
+          "title": "nifty",
+          "explanation": "形容詞，非正式用語，形容事物「極好的」、「漂亮的」或「精巧俏皮的」。",
+          "examples": [
+            {
+              "english": "That is a nifty little gadget you have there.",
+              "chinese": "你那個小玩意兒還真精巧。"
+            }
+          ]
+        },
+        {
+          "id": "s10_v2",
+          "title": "disguise",
+          "explanation": "名詞，指「偽裝」或「喬裝打扮的服飾」。",
+          "examples": [
+            {
+              "english": "He wore a fake beard as a disguise.",
+              "chinese": "他戴著假鬍鬚作為偽裝。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s11",
+      "order": 11,
+      "englishOriginal": "Just when they were about to give up hope, a fierce-looking cat with horrible fangs jumped out of the bushes and frightened the older boys away.",
+      "chineseTranslation": "正當他們快要絕望的時候，一隻長著可怕尖牙、面目兇惡的貓從灌木叢裡跳了出來，把那些大男孩嚇跑了。",
+      "vocabularyNotes": [
+        {
+          "id": "s11_v1",
+          "title": "fangs",
+          "explanation": "名詞（複數），指動物（如貓、狗、蛇等）的「尖牙」或「毒牙」。",
+          "examples": [
+            {
+              "english": "The dog bared its sharp fangs at the stranger.",
+              "chinese": "那隻狗對著陌生人露出了銳利的尖牙。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "s11_p1",
+          "title": "give up hope",
+          "explanation": "意為「放棄希望」或「絕望」。",
+          "examples": [
+            {
+              "english": "We never gave up hope even during the hardest times.",
+              "chinese": "即使在最艱難的時刻，我們也從未放棄希望。"
+            }
+          ]
+        },
+        {
+          "id": "s11_p2",
+          "title": "frighten... away",
+          "explanation": "意為「把……嚇跑」。",
+          "examples": [
+            {
+              "english": "The loud noise frightened the birds away.",
+              "chinese": "巨大的聲響把鳥兒們都嚇跑了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "s11_g1",
+          "title": "fierce-looking (compound adjective)",
+          "explanation": "複合形容詞，由「形容詞/副詞 + 現在分詞」組成，用來描述外觀「看起來很兇狠的」。",
+          "examples": [
+            {
+              "english": "A strange, sweet-smelling flower grew in the yard.",
+              "chinese": "院子裡長出一朵奇特、聞起來很香的花。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s12",
+      "order": 12,
+      "englishOriginal": "Chester and Wilson and Lilly, Lilly and Wilson and Chester. That's the way it was.",
+      "chineseTranslation": "切斯特、威爾遜和莉莉，莉莉、威爾遜和切斯特。事情就是這樣。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "s12_n1",
+          "title": "That's the way it was.",
+          "explanation": "在故事中用來作結的道地句子，表示「這就是當時的狀況」或「一向來都是如此」，有一種溫馨而肯定的故事節奏感。",
+          "examples": [
+            {
+              "english": "We worked hard every winter, and that's the way it was.",
+              "chinese": "我們每個冬天都努力工作，情況向來就是如此。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
