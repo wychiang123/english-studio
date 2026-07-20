@@ -1,0 +1,1589 @@
+{
+  "schemaVersion": "1.0",
+  "lessonType": "english-story",
+  "title": "Ricky, the Rock That Couldn't Roll",
+  "source": "Storyline Online",
+  "sourceUrl": "https://storylineonline.net/books/ricky-the-rock-that-couldnt-roll/",
+  "author": "Mr. Jay",
+  "illustrator": "Erin Wozniak",
+  "narrator": "Marissa Bode",
+  "language": "en",
+  "createdAt": "2026-07-20T18:52:00Z",
+  "tags": [
+    "kids",
+    "friendship",
+    "perseverance",
+    "inclusion",
+    "problem solving"
+  ],
+  "description": "Ricky the rock cannot roll like his friends because he has one flat side. Determined to include him, his friends try various creative solutions until they find a way to help him roll.",
+  "sentences": [
+    {
+      "id": "s1",
+      "order": 1,
+      "englishOriginal": "Welcome to Storyline Online, Brought to you by the SAG-AFTRA Foundation",
+      "chineseTranslation": "歡迎來到由美國影視演員協會基金會 (SAG-AFTRA Foundation) 為您呈現的 Storyline Online。",
+      "vocabularyNotes": [
+        {
+          "id": "v1",
+          "title": "foundation",
+          "explanation": "名詞，指「基金會」或非營利機構。",
+          "examples": [
+            {
+              "english": "The foundation supports artistic and educational projects.",
+              "chinese": "該基金會支持藝術與教育計畫。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p1",
+          "title": "brought to you by",
+          "explanation": "常用於節目開場，表示「由……贊助/提供/呈現」。",
+          "examples": [
+            {
+              "english": "This program is brought to you by our generous sponsors.",
+              "chinese": "本節目是由我們慷慨的贊助商呈現的。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s2",
+      "order": 2,
+      "englishOriginal": "I’m Marissa Bode",
+      "chineseTranslation": "我是瑪麗莎·鮑德 (Marissa Bode)。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s3",
+      "order": 3,
+      "englishOriginal": "And today I’m going to read Ricky, the Rock That Couldn’t Roll Written by Mr. Jay and illustrated by Erin Wozniak",
+      "chineseTranslation": "今天我要讀的故事是由傑先生 (Mr. Jay) 著、艾琳·沃茲尼亞克 (Erin Wozniak) 繪的《滾不動的小石子瑞奇》 (Ricky, the Rock That Couldn’t Roll)。",
+      "vocabularyNotes": [
+        {
+          "id": "v2",
+          "title": "illustrate",
+          "explanation": "動詞，指「為（書本、文章等）繪製插圖」。",
+          "examples": [
+            {
+              "english": "The book was illustrated by a local artist.",
+              "chinese": "這本書是由一位在地藝術家畫插圖的。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s4",
+      "order": 4,
+      "englishOriginal": "Over the lake and out past the bay was a green, grassy hill where the rocks came to play.",
+      "chineseTranslation": "越過湖泊、穿過海灣，有一座長滿青草的小山丘，石頭們都會到那裡玩耍。",
+      "vocabularyNotes": [
+        {
+          "id": "v3",
+          "title": "bay",
+          "explanation": "名詞，指「海灣」。",
+          "examples": [
+            {
+              "english": "Ships anchored safely in the bay.",
+              "chinese": "船隻安全地停泊在海灣內。"
+            }
+          ]
+        },
+        {
+          "id": "v4",
+          "title": "grassy",
+          "explanation": "形容詞，指「長滿草的、草綠色的」。",
+          "examples": [
+            {
+              "english": "They sat on the grassy bank for a lunch break.",
+              "chinese": "他們坐在長滿草岸邊午休。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p2",
+          "title": "out past",
+          "explanation": "介系詞片語，表示「越過……之外、穿過……」。",
+          "examples": [
+            {
+              "english": "The boat sailed out past the lighthouse.",
+              "chinese": "船隻航行駛過了燈塔。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "g1",
+          "title": "Inverted Sentence (Inversion)",
+          "explanation": "地方副詞片語（Over the lake...）置於句首，句子採用倒裝語序（was a green, grassy hill...）。",
+          "examples": [
+            {
+              "english": "On the hill stood an old castle.",
+              "chinese": "山丘上屹立著一座古堡。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s5",
+      "order": 5,
+      "englishOriginal": "They would race to the top to take in the view, then roll their way down, the way rocks love to do.",
+      "chineseTranslation": "他們會比賽賽跑衝上山頂欣賞風景，然後一路滾下來——就像石頭最愛做的那樣。",
+      "vocabularyNotes": [
+        {
+          "id": "v5",
+          "title": "view",
+          "explanation": "名詞，指「景色、風景」。",
+          "examples": [
+            {
+              "english": "The view from the mountain peak is breathtaking.",
+              "chinese": "從山頂俯瞰的景色令人屏息。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p3",
+          "title": "take in",
+          "explanation": "片語，在此指「欣賞、盡收眼底（風景或景致）」。",
+          "examples": [
+            {
+              "english": "We paused to take in the breathtaking scenery.",
+              "chinese": "我們停下腳步來欣賞這令人屏息的景色。"
+            }
+          ]
+        },
+        {
+          "id": "p4",
+          "title": "roll one's way down",
+          "explanation": "片語，表示「一路滾下去」。",
+          "examples": [
+            {
+              "english": "The ball rolled its way down the driveway.",
+              "chinese": "球一路滾下了車道。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s6",
+      "order": 6,
+      "englishOriginal": "There were Kip, Pip, and Chester, and Marvin the Boulder.",
+      "chineseTranslation": "有奇普 (Kip)、皮普 (Pip)、切斯特 (Chester)，還有大巨石馬文 (Marvin)。",
+      "vocabularyNotes": [
+        {
+          "id": "v6",
+          "title": "boulder",
+          "explanation": "名詞，指「大巨石、圓石」。",
+          "examples": [
+            {
+              "english": "A giant boulder blocked the mountain pathway.",
+              "chinese": "一顆巨大的巨石擋住了山路。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s7",
+      "order": 7,
+      "englishOriginal": "Ignatious played too, though he was much older.",
+      "chineseTranslation": "伊格納休斯 (Ignatious) 也一起玩，雖然他年紀大得多了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g2",
+          "title": "much + Comparative",
+          "explanation": "使用「much」來修飾比較級「older」，強調「年長得多」。",
+          "examples": [
+            {
+              "english": "This house is much bigger than our old one.",
+              "chinese": "這間房子比我們舊的房子大得多。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s8",
+      "order": 8,
+      "englishOriginal": "And a group called “The Pebbles” never, ever sat still, zig-zagging their way up and over the hill.",
+      "chineseTranslation": "還有一群叫做「小卵石隊」的成員，從來沒有刻安分坐著，總是在山丘上 Zig-Zag 蛇行爬上爬下。",
+      "vocabularyNotes": [
+        {
+          "id": "v7",
+          "title": "pebble",
+          "explanation": "名詞，指「鵝卵石、小卵石」。",
+          "examples": [
+            {
+              "english": "The beach was covered with smooth white pebbles.",
+              "chinese": "海灘上鋪滿了光滑的白色鵝卵石。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p5",
+          "title": "sit still",
+          "explanation": "片語，指「坐著不動、安分坐著」。",
+          "examples": [
+            {
+              "english": "The young children couldn't sit still during the lesson.",
+              "chinese": "小孩子在上課時根本坐不住。"
+            }
+          ]
+        },
+        {
+          "id": "p6",
+          "title": "zig-zag one's way",
+          "explanation": "片語，指「呈之字形前進、蛇行移動」。",
+          "examples": [
+            {
+              "english": "The hiker zig-zagged his way up the steep mountain.",
+              "chinese": "登山者呈之字形登上陡峭的山峰。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s9",
+      "order": 9,
+      "englishOriginal": "Kai was a meteorite and not from this planet, and Maya was lava but taken for granite.",
+      "chineseTranslation": "凱 (Kai) 是一顆隕石，不是來自這個星球；瑪雅 (Maya) 是一塊熔岩，但常被誤認為花崗岩。",
+      "vocabularyNotes": [
+        {
+          "id": "v8",
+          "title": "meteorite",
+          "explanation": "名詞，指「隕石」。",
+          "examples": [
+            {
+              "english": "Scientists found a rare meteorite in the desert.",
+              "chinese": "科學家在沙漠中發現了一顆罕見的隕石。"
+            }
+          ]
+        },
+        {
+          "id": "v9",
+          "title": "lava",
+          "explanation": "名詞，指「火山熔岩」。",
+          "examples": [
+            {
+              "english": "Hot lava flowed down the sides of the volcano.",
+              "chinese": "熾熱的熔岩順著火山側壁流下。"
+            }
+          ]
+        },
+        {
+          "id": "v10",
+          "title": "granite",
+          "explanation": "名詞，指「花崗岩」。",
+          "examples": [
+            {
+              "english": "The kitchen counter is made of solid granite.",
+              "chinese": "廚房檯面是由堅硬的花崗岩製成的。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n1",
+          "title": "taken for granite (Pun on 'taken for granted')",
+          "explanation": "英語中的雙關諧音梗！原成語是 'taken for granted'（被視為理所當然），這裡借用音近的 'granite'（花崗岩）來描繪石子的身分。",
+          "examples": [
+            {
+              "english": "Don't take her support for granted.",
+              "chinese": "不要把她的支持視為理所當然。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "order": 10,
+      "englishOriginal": "Stu was the smart one; Parker, the clown; and grumpy old Ebert rolled ’round with a frown.",
+      "chineseTranslation": "斯圖 (Stu) 是聰明擔當；派克 (Parker) 是開心果；而脾氣暴躁的老埃伯特 (Ebert) 總是皺著眉頭滾來滾去。",
+      "vocabularyNotes": [
+        {
+          "id": "v11",
+          "title": "grumpy",
+          "explanation": "形容詞，指「脾氣暴躁的、性格彆扭的」。",
+          "examples": [
+            {
+              "english": "He is always grumpy when he doesn't get enough sleep.",
+              "chinese": "他睡眠不足時總是脾氣暴躁。"
+            }
+          ]
+        },
+        {
+          "id": "v12",
+          "title": "frown",
+          "explanation": "名詞/動詞，指「皺眉、愁眉苦臉」。",
+          "examples": [
+            {
+              "english": "She had a deep frown on her face.",
+              "chinese": "她臉上深鎖著眉頭。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s11",
+      "order": 11,
+      "englishOriginal": "Gabby was sassy; Leesie had flair; Emma was giggly and Hud had black hair.",
+      "chineseTranslation": "加比 (Gabby) 潑辣有個性；莉西 (Leesie) 很有時尚派頭；艾瑪 (Emma) 總愛咯咯笑，而哈德 (Hud) 則有一頭黑髮。",
+      "vocabularyNotes": [
+        {
+          "id": "v13",
+          "title": "sassy",
+          "explanation": "形容詞，指「時髦潑辣的、有自信又俏皮的」。",
+          "examples": [
+            {
+              "english": "She gave a sassy reply to her brother's joke.",
+              "chinese": "她對哥哥的玩笑做出了俏皮潑辣的回應。"
+            }
+          ]
+        },
+        {
+          "id": "v14",
+          "title": "flair",
+          "explanation": "名詞，指「天賦、獨特的風格或派頭」。",
+          "examples": [
+            {
+              "english": "She dresses with natural flair and style.",
+              "chinese": "她的穿著打扮帶有天生的獨特風情。"
+            }
+          ]
+        },
+        {
+          "id": "v15",
+          "title": "giggly",
+          "explanation": "形容詞，指「愛咯咯笑的、傻笑的」。",
+          "examples": [
+            {
+              "english": "The giggly children could not stop laughing.",
+              "chinese": "愛咯咯笑的孩子們笑個不停。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s12",
+      "order": 12,
+      "englishOriginal": "“How do you make a tissue dance?” “Seriously??” “You put a little boogie in it!”",
+      "chineseTranslation": "「你要怎麼讓面紙跳舞？」『認真的嗎？？』「只要在裡面放一點黏鼻涕/爵士舞動感（Boogie）！」",
+      "vocabularyNotes": [
+        {
+          "id": "v16",
+          "title": "boogie",
+          "explanation": "名詞/動詞，雙關語，既指「搖滾爵士舞步/動感」，在兒童用語中又指「鼻涕 (booger)」。",
+          "examples": [
+            {
+              "english": "Let's boogie to the dance music!",
+              "chinese": "我們隨著舞曲一起搖擺跳舞吧！"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n2",
+          "title": "Put a little boogie in it (Classic Joke)",
+          "explanation": "英文經典兒童笑話：tissue (面紙) 和鼻涕 (booger/boogie) 的諧音，同時 boogie 也是舞步的意思。",
+          "examples": [
+            {
+              "english": "How do you make a tissue dance? Put a little boogie in it!",
+              "chinese": "怎樣讓面紙跳舞？放點鼻涕/舞步進去！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "order": 13,
+      "englishOriginal": "But the one trait that seemed to be shared by them all was that every rock there was shaped like a ball.",
+      "chineseTranslation": "但他們所有人似乎共同擁有的唯一特徵，就是那裡的每一顆石頭形狀都像個球。",
+      "vocabularyNotes": [
+        {
+          "id": "v17",
+          "title": "trait",
+          "explanation": "名詞，指「特徵、特質」。",
+          "examples": [
+            {
+              "english": "Patience is an important personality trait.",
+              "chinese": "耐心是一項重要的性格特質。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p7",
+          "title": "shaped like",
+          "explanation": "片語，指「形狀像……」。",
+          "examples": [
+            {
+              "english": "The cloud was shaped like a huge dragon.",
+              "chinese": "那朵雲的形狀像一條巨龍。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "g3",
+          "title": "Passive Voice (be shared by)",
+          "explanation": "「be shared by...」使用被動語態，表示「被……所共有/共享」。",
+          "examples": [
+            {
+              "english": "The house is shared by three college students.",
+              "chinese": "這棟房子由三名大學生合租共享。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s14",
+      "order": 14,
+      "englishOriginal": "And because they were round, they could easily roll, through the grass, past the lake, up and over the knoll.",
+      "chineseTranslation": "因為他們都是圓的，所以能輕鬆地滾動，穿過草地、掠過湖泊，滾上並翻越矮丘。",
+      "vocabularyNotes": [
+        {
+          "id": "v18",
+          "title": "knoll",
+          "explanation": "名詞，指「小圓丘、矮丘」。",
+          "examples": [
+            {
+              "english": "They set up a tent on top of the grassy knoll.",
+              "chinese": "他們在草丘頂上搭起了帳篷。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p8",
+          "title": "up and over",
+          "explanation": "片語，指「翻越、越過（高處）」。",
+          "examples": [
+            {
+              "english": "The horse jumped up and over the tall wooden fence.",
+              "chinese": "那匹馬躍過了高高的木柵欄。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s15",
+      "order": 15,
+      "englishOriginal": "Except for poor Ricky, who quietly sat. You see, Rick couldn't roll because one side was flat.",
+      "chineseTranslation": "除了可憐的瑞奇 (Ricky)，他只能安靜地坐在那裡。你看，瑞奇滾不起來，因為他有一面是平的。",
+      "vocabularyNotes": [
+        {
+          "id": "v19",
+          "title": "flat",
+          "explanation": "形容詞，指「平坦的、扁平的」。",
+          "examples": [
+            {
+              "english": "The land was flat and stretched for miles.",
+              "chinese": "那片土地平坦無垠，延伸數英里。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p9",
+          "title": "except for",
+          "explanation": "片語，表示「除了……之外」。",
+          "examples": [
+            {
+              "english": "The park was empty except for a few joggers.",
+              "chinese": "除了幾個慢跑的人之外，公園裡空無一人。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s16",
+      "order": 16,
+      "englishOriginal": "“What part of this is supposed to be fun?”",
+      "chineseTranslation": "「這到底哪裡好玩了啦？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p10",
+          "title": "be supposed to",
+          "explanation": "片語，指「應該要……、理應是……」。",
+          "examples": [
+            {
+              "english": "What are we supposed to do now?",
+              "chinese": "我們現在應該要做什麼？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s17",
+      "order": 17,
+      "englishOriginal": "His friends didn’t get it. “Come roll!” they would chant. So Ricky tried, but replied, “I’m sorry, I can’t.”",
+      "chineseTranslation": "他的朋友無法理解。「快來滾啊！」他們齊聲喊著。所以瑞奇試了試，但回答說：「對不起，我滾不動。」",
+      "vocabularyNotes": [
+        {
+          "id": "v20",
+          "title": "chant",
+          "explanation": "動詞，指「反覆呼喊、齊聲喊叫」。",
+          "examples": [
+            {
+              "english": "The crowd began to chant the team's name.",
+              "chinese": "人群開始齊聲高喊隊伍的名字。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p11",
+          "title": "get it",
+          "explanation": "口語片語，指「理解、明白」。",
+          "examples": [
+            {
+              "english": "Sorry, I don't get the joke.",
+              "chinese": "抱歉，我聽不懂這個笑話。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s18",
+      "order": 18,
+      "englishOriginal": "But the rocks were determined, they were sure they could solve Ricky's flat-sided problem, and help him revolve.",
+      "chineseTranslation": "但石頭們下定了決心，他們確信自己能解決瑞奇單面平坦的問題，幫助他旋轉滾動。",
+      "vocabularyNotes": [
+        {
+          "id": "v21",
+          "title": "determined",
+          "explanation": "形容詞，指「意志堅定的、下定決心的」。",
+          "examples": [
+            {
+              "english": "She was determined to succeed in her career.",
+              "chinese": "她下定決心要在事業上取得成功。"
+            }
+          ]
+        },
+        {
+          "id": "v22",
+          "title": "revolve",
+          "explanation": "動詞，指「旋轉、轉動」。",
+          "examples": [
+            {
+              "english": "The Earth revolves around the Sun.",
+              "chinese": "地球繞著太陽公轉旋轉。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s19",
+      "order": 19,
+      "englishOriginal": "So Marvin the boulder, with his impressive physique, carried Rick all the way to the hill's grassy peak.",
+      "chineseTranslation": "於是大巨石馬文憑著他令人印象深刻的壯碩體魄，一路把瑞奇搬到了草丘的最高峰。",
+      "vocabularyNotes": [
+        {
+          "id": "v23",
+          "title": "impressive",
+          "explanation": "形容詞，指「令人印象深刻的、感人的」。",
+          "examples": [
+            {
+              "english": "He showed impressive skills during the game.",
+              "chinese": "他在比賽中展現了令人印象深刻的技巧。"
+            }
+          ]
+        },
+        {
+          "id": "v24",
+          "title": "physique",
+          "explanation": "名詞，指「體格、體魄」。",
+          "examples": [
+            {
+              "english": "The athlete has a strong and muscular physique.",
+              "chinese": "這位運動員擁有強健發達的體魄。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p12",
+          "title": "all the way to",
+          "explanation": "片語，指「一路到……、一直走到……」。",
+          "examples": [
+            {
+              "english": "We walked all the way to the top of the mountain.",
+              "chinese": "我們一路步行到了山頂。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s20",
+      "order": 20,
+      "englishOriginal": "Then he pushed him downhill, yelling, “Keep rolling, kid!” but Rick didn't roll - he just kind of slid.",
+      "chineseTranslation": "然後他把瑞奇往山下推，大喊：「繼續滾啊，小子！」但瑞奇根本沒滾——他只是有點用滑的滑了下去。",
+      "vocabularyNotes": [
+        {
+          "id": "v25",
+          "title": "slide",
+          "explanation": "動詞，指「滑行、滑動」（過去式為 slid）。",
+          "examples": [
+            {
+              "english": "The kids slid down the icy hill on sleds.",
+              "chinese": "孩子們坐著雪橇滑下結冰的山坡。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p13",
+          "title": "kind of",
+          "explanation": "口語片語，指「有點、有那麼一點」。",
+          "examples": [
+            {
+              "english": "I'm kind of tired after the long journey.",
+              "chinese": "長途旅程後我有點累了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s21",
+      "order": 21,
+      "englishOriginal": "“This feels like a bad idea…”",
+      "chineseTranslation": "「這感覺真是個爛主意……」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s22",
+      "order": 22,
+      "englishOriginal": "Well, the rocks weren't done - not by a mile. Surely, this next try would get Rick to smile!",
+      "chineseTranslation": "嗯，石頭們還沒放棄呢——差得遠囉。這下一次的嘗試一定能讓瑞奇露出現笑容！",
+      "vocabularyNotes": [
+        {
+          "id": "v26",
+          "title": "surely",
+          "explanation": "副詞，指「無疑地、肯定地」。",
+          "examples": [
+            {
+              "english": "Surely there must be a simple solution.",
+              "chinese": "肯定有一個簡單的解決方案。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p14",
+          "title": "not by a mile",
+          "explanation": "俚語片語，指「差得遠呢、絕非如此」。",
+          "examples": [
+            {
+              "english": "We are not finished yet, not by a mile!",
+              "chinese": "我們還沒完呢，差得遠囉！"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s23",
+      "order": 23,
+      "englishOriginal": "They stuck rubber balls all over Rick, using big gobs of glue to get them to stick.",
+      "chineseTranslation": "他們在瑞奇全身黏滿了橡膠球，用了一大坨一大坨的膠水來讓球固定住。",
+      "vocabularyNotes": [
+        {
+          "id": "v27",
+          "title": "gob",
+          "explanation": "名詞，指「一塊、一坨（黏稠物）」。",
+          "examples": [
+            {
+              "english": "He put a big gob of mustard on his hot dog.",
+              "chinese": "他在熱狗上擠了一大坨芥末醬。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p15",
+          "title": "stick... all over...",
+          "explanation": "片語，指「在……各處黏貼……」。",
+          "examples": [
+            {
+              "english": "They stuck stickers all over the suitcase.",
+              "chinese": "他們在行李箱上貼滿了貼紙。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s24",
+      "order": 24,
+      "englishOriginal": "They were proud of themselves, “This will work!” they announced.",
+      "chineseTranslation": "他們感到很自豪，「這絕對行得通！」他們宣佈道。",
+      "vocabularyNotes": [
+        {
+          "id": "v28",
+          "title": "announce",
+          "explanation": "動詞，指「宣佈、宣告」。",
+          "examples": [
+            {
+              "english": "The winner was announced at the end of the ceremony.",
+              "chinese": "獲勝者在典禮結束時被宣佈。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p16",
+          "title": "be proud of",
+          "explanation": "片語，指「為……感到自豪/驕傲」。",
+          "examples": [
+            {
+              "english": "Parents are proud of their children's achievements.",
+              "chinese": "父母為孩子的成就感到自豪。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s25",
+      "order": 25,
+      "englishOriginal": "Boing! Boing! But Ricky still couldn't roll - now he just sort of bounced.",
+      "chineseTranslation": "砰！砰！但瑞奇還是滾不動——現在他只不過是彈來彈去而已。",
+      "vocabularyNotes": [
+        {
+          "id": "v29",
+          "title": "bounce",
+          "explanation": "動詞，指「反彈、彈起」。",
+          "examples": [
+            {
+              "english": "The basketball bounced on the court.",
+              "chinese": "籃球在球場上彈跳。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p17",
+          "title": "sort of",
+          "explanation": "口語片語，指「某某程度上、某種意義上、稍微」。",
+          "examples": [
+            {
+              "english": "I sort of like the new design.",
+              "chinese": "我某種程度上挺喜歡這個新設計的。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s26",
+      "order": 26,
+      "englishOriginal": "“No good. No good. No good.”",
+      "chineseTranslation": "「不行、不行、完全不行。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n3",
+          "title": "No good",
+          "explanation": "口語習慣用語，表示「沒用、不行、無濟於事」。",
+          "examples": [
+            {
+              "english": "Trying to fix it with tape is no good.",
+              "chinese": "想用膠帶固定是沒用的。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s27",
+      "order": 27,
+      "englishOriginal": "Well, they pushed and they pulled, trying every which way, to get Rick to roll, but by the end of the day, nothing had worked, just like Rick expected, and he ended up feeling depressed and dejected.",
+      "chineseTranslation": "嗯，他們推了又拉，想盡了千方百計要讓瑞奇滾動起來，但到了傍晚，沒有一個方法管用，就像瑞奇預料的那樣，最後他感到灰心喪志、沮喪萬分。",
+      "vocabularyNotes": [
+        {
+          "id": "v30",
+          "title": "depressed",
+          "explanation": "形容詞，指「沮喪的、抑鬱的」。",
+          "examples": [
+            {
+              "english": "He felt depressed after losing the game.",
+              "chinese": "輸掉比賽後他感到很沮喪。"
+            }
+          ]
+        },
+        {
+          "id": "v31",
+          "title": "dejected",
+          "explanation": "形容詞，指「灰心喪志的、失意的」。",
+          "examples": [
+            {
+              "english": "She sat dejected in the empty room.",
+              "chinese": "她灰心喪志地坐在空無一人的房間裡。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p18",
+          "title": "every which way",
+          "explanation": "成語片語，指「四面八方、千方百計、各種方式」。",
+          "examples": [
+            {
+              "english": "They looked every which way for the lost dog.",
+              "chinese": "他們四處千方百計地尋找走失的狗。"
+            }
+          ]
+        },
+        {
+          "id": "p19",
+          "title": "end up",
+          "explanation": "片語，指「最終變得……、結果是……」。",
+          "examples": [
+            {
+              "english": "If you don't study, you might end up regretting it.",
+              "chinese": "如果你不學習，最終可能會後悔。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s28",
+      "order": 28,
+      "englishOriginal": "“It’s no use,” Ricky sighed, “There just isn’t a way. So I’ll sit off to the side, and watch you all play.”",
+      "chineseTranslation": "「沒用的，」瑞奇歎氣說，「根本就沒有辦法。所以我還是坐在旁邊，看你們大家玩就好了。」",
+      "vocabularyNotes": [
+        {
+          "id": "v32",
+          "title": "sigh",
+          "explanation": "動詞，指「歎氣、歎息」。",
+          "examples": [
+            {
+              "english": "She sighed with relief when the test was over.",
+              "chinese": "考試結束時，她鬆了一口氣嘆了聲氣。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p20",
+          "title": "It's no use",
+          "explanation": "片語，表示「做某事是沒用的、徒勞無功的」。",
+          "examples": [
+            {
+              "english": "It's no use crying over spilled milk.",
+              "chinese": "覆水難收，哭也沒用。"
+            }
+          ]
+        },
+        {
+          "id": "p21",
+          "title": "off to the side",
+          "explanation": "片語，指「在一旁、靠邊坐」。",
+          "examples": [
+            {
+              "english": "He stood off to the side while others danced.",
+              "chinese": "當其他人跳舞時，他站在一旁。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s29",
+      "order": 29,
+      "englishOriginal": "But his friends wouldn’t quit. “We're here for you, brother, and we’ll get you to roll, one way or another.”",
+      "chineseTranslation": "但他的朋友絕不放棄。「兄弟，我們支持你，無論如何，我們一定會讓你滾動起來的。」",
+      "vocabularyNotes": [
+        {
+          "id": "v33",
+          "title": "quit",
+          "explanation": "動詞，指「放棄、停止」。",
+          "examples": [
+            {
+              "english": "Never quit when facing challenges.",
+              "chinese": "面對挑戰時絕不放棄。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p22",
+          "title": "be here for someone",
+          "explanation": "片語，表示「在某人身邊支持他/挺他」。",
+          "examples": [
+            {
+              "english": "Don't worry, I'm always here for you.",
+              "chinese": "別擔心，我永遠在這裡支持你。"
+            }
+          ]
+        },
+        {
+          "id": "p23",
+          "title": "one way or another",
+          "explanation": "成語片語，表示「無論如何、不管用什麼方法」。",
+          "examples": [
+            {
+              "english": "We will solve this problem one way or another.",
+              "chinese": "我們無論如何都會解決這個問題。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s30",
+      "order": 30,
+      "englishOriginal": "So they pondered and thought, each straining his brain, 'til they looked up and saw it was starting to rain.",
+      "chineseTranslation": "於是他們沉思苦想，每個人都絞盡腦汁，直到他們抬頭一看，發現開始下雨了。",
+      "vocabularyNotes": [
+        {
+          "id": "v34",
+          "title": "ponder",
+          "explanation": "動詞，指「沉思、仔細考慮」。",
+          "examples": [
+            {
+              "english": "He sat alone, pondering his options.",
+              "chinese": "他獨自坐著，沉思著自己的選擇。"
+            }
+          ]
+        },
+        {
+          "id": "v35",
+          "title": "strain",
+          "explanation": "動詞，在此指「竭力使用、使……緊張拉緊」。",
+          "examples": [
+            {
+              "english": "I had to strain my eyes to read the fine print.",
+              "chinese": "我必須費力睜大眼睛才能看清印刷的小字。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p24",
+          "title": "strain one's brain",
+          "explanation": "片語，指「絞盡腦汁、費盡心思」。",
+          "examples": [
+            {
+              "english": "He strained his brain trying to recall the name.",
+              "chinese": "他絞盡腦汁試圖想起那個名字。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s31",
+      "order": 31,
+      "englishOriginal": "And that's when it hit that smart stone named Stu. “Eureka!” he shouted, “I know just what to do!”",
+      "chineseTranslation": "就在那一刻，聰明的石子斯圖靈光一閃！「找到了！（尤里卡！）」他大喊道，「我知道該怎麼做了！」",
+      "vocabularyNotes": [
+        {
+          "id": "v36",
+          "title": "Eureka",
+          "explanation": "感嘆詞，源自希臘語，用來表達「我找到了！我發現了！（重大突破或靈感）」。",
+          "examples": [
+            {
+              "english": "'Eureka!' shouted the scientist when he found the cure.",
+              "chinese": "當科學家找到解藥時，他高呼『我找到了！』"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p25",
+          "title": "it hits someone",
+          "explanation": "片語，指「某人突然頓悟、突然想到/意識到」。",
+          "examples": [
+            {
+              "english": "Suddenly, it hit me why she was so upset.",
+              "chinese": "突然間，我猛然明白她為什麼這麼生氣了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s32",
+      "order": 32,
+      "englishOriginal": "He explained to them how they would get Rick to tumble. “My plan is pure genius!” (Stu wasn’t too humble.)",
+      "chineseTranslation": "他向大家解釋他們要如何讓瑞奇翻滾起來。「我的計劃簡直是天才之作！」（斯圖可不是很謙虛呢。）",
+      "vocabularyNotes": [
+        {
+          "id": "v37",
+          "title": "tumble",
+          "explanation": "動詞，指「翻滾、倒下」。",
+          "examples": [
+            {
+              "english": "The rocks tumbled down the slope.",
+              "chinese": "石塊順著山坡翻滾而下。"
+            }
+          ]
+        },
+        {
+          "id": "v38",
+          "title": "humble",
+          "explanation": "形容詞，指「謙虛的、謙遜的」。",
+          "examples": [
+            {
+              "english": "Despite his success, he remained humble.",
+              "chinese": "儘管獲得了成功，他依然保持謙遜。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s33",
+      "order": 33,
+      "englishOriginal": "So they carried our hero down the road 'bout a mile, to the lake where they gathered up mud they could pile, on the flat side of Rick, creating a mound, that they shaped, smoothed, and sculpted, until it was round.",
+      "chineseTranslation": "於是他們抬著我們的英雄，沿著路走了約一英里來到湖邊，在那裡採集泥巴堆疊在瑞奇平坦的那一面上，造出一個小土堆，接著加以整形、抹平、雕塑，直到它變得圓滾滾為止。",
+      "vocabularyNotes": [
+        {
+          "id": "v39",
+          "title": "mound",
+          "explanation": "名詞，指「土堆、小丘」。",
+          "examples": [
+            {
+              "english": "There was a mound of dirt in the backyard.",
+              "chinese": "後院裡有一堆土堆。"
+            }
+          ]
+        },
+        {
+          "id": "v40",
+          "title": "sculpt",
+          "explanation": "動詞，指「雕刻、造型、雕塑」。",
+          "examples": [
+            {
+              "english": "She sculpted a statue out of clay.",
+              "chinese": "她用黏土雕塑了一尊雕像。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p26",
+          "title": "gather up",
+          "explanation": "片語，指「收集、聚集起來」。",
+          "examples": [
+            {
+              "english": "They gathered up their tools and left.",
+              "chinese": "他們收拾收拾工具就離開了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s34",
+      "order": 34,
+      "englishOriginal": "Then after the rain, with the sun in the sky, they left him to bake 'til the mud was all dry.",
+      "chineseTranslation": "雨過天晴之後，太陽懸掛在天空，他們把瑞奇留在陽光下烘烤，直到泥巴完全乾燥。",
+      "vocabularyNotes": [
+        {
+          "id": "v41",
+          "title": "bake",
+          "explanation": "動詞，在此指「陽光烘烤、曬乾」。",
+          "examples": [
+            {
+              "english": "The bricks were left to bake under the sun.",
+              "chinese": "磚頭被留在大太陽下晒乾烘烤。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s35",
+      "order": 35,
+      "englishOriginal": "They gathered up vines and one colorful feather that they wrapped all 'round Rick, to keep it together.",
+      "chineseTranslation": "他們採集了籐蔓和一顆色彩鮮豔的羽毛，纏繞在瑞奇全身，好把泥巴緊緊固定在一起。",
+      "vocabularyNotes": [
+        {
+          "id": "v42",
+          "title": "vine",
+          "explanation": "名詞，指「藤蔓、葡萄藤」。",
+          "examples": [
+            {
+              "english": "Green vines grew all over the stone wall.",
+              "chinese": "綠色的藤蔓爬滿了石牆。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p27",
+          "title": "keep it together",
+          "explanation": "片語，在此字面意思是「把結構維持住、固定在一起」（口語中亦有「保持鎮定」之意）。",
+          "examples": [
+            {
+              "english": "Use rope to keep the bundle together.",
+              "chinese": "用繩子把包裹紮緊固定在一起。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s36",
+      "order": 36,
+      "englishOriginal": "“Does anyone have a towel?”",
+      "chineseTranslation": "「有人有毛巾嗎？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s37",
+      "order": 37,
+      "englishOriginal": "When the last knot was tied, and the work was all done, the only step left was for Rick to have fun.",
+      "chineseTranslation": "當打好最後一個結、所有工作大功告成時，剩下的唯一步驟，就是讓瑞奇盡情玩樂了。",
+      "vocabularyNotes": [
+        {
+          "id": "v43",
+          "title": "knot",
+          "explanation": "名詞，指「繩結」。",
+          "examples": [
+            {
+              "english": "Tie a firm knot at the end of the rope.",
+              "chinese": "在繩子末端打一個牢固的結。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g4",
+          "title": "Infinitive as Complement (was for someone to do)",
+          "explanation": "「the only step left was for Rick to have fun」結構中，for... to do 不定詞結構作表語，說明最後步驟的內容。",
+          "examples": [
+            {
+              "english": "The next step is for us to sign the contract.",
+              "chinese": "下一步就是我們簽署合約。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s38",
+      "order": 38,
+      "englishOriginal": "They stood back and watched, feeling nervous and tense, as Rick breathed in deep, with increasing suspense.",
+      "chineseTranslation": "他們退後一步看著，感到緊張又不安，而瑞奇則深吸一口氣，懸念緊張感油然而生。",
+      "vocabularyNotes": [
+        {
+          "id": "v44",
+          "title": "tense",
+          "explanation": "形容詞，指「緊張的、緊繃的」。",
+          "examples": [
+            {
+              "english": "The atmosphere in the room became tense.",
+              "chinese": "房間裡的氣氛變得緊張起來。"
+            }
+          ]
+        },
+        {
+          "id": "v45",
+          "title": "suspense",
+          "explanation": "名詞，指「懸念、懸心、緊張感」。",
+          "examples": [
+            {
+              "english": "The movie kept us in suspense until the very end.",
+              "chinese": "這部電影讓我們一路懸著心直到最後。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p28",
+          "title": "stand back",
+          "explanation": "片語，指「退後、往後站」。",
+          "examples": [
+            {
+              "english": "Please stand back from the edge of the platform.",
+              "chinese": "請離月台邊緣往後站一點。"
+            }
+          ]
+        },
+        {
+          "id": "p29",
+          "title": "breathe in deep",
+          "explanation": "片語，指「深呼吸」。",
+          "examples": [
+            {
+              "english": "Breathe in deep and relax your shoulders.",
+              "chinese": "深呼吸，放鬆你的雙肩。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s39",
+      "order": 39,
+      "englishOriginal": "He moved slowly at first, testing out his new mold, and then, for the first time… Ricky the rock… ROLLED!",
+      "chineseTranslation": "剛開始他移動得很慢，測試著他的新外模，接著，史上頭一次……石頭瑞奇……滾動起來了！",
+      "vocabularyNotes": [
+        {
+          "id": "v46",
+          "title": "mold",
+          "explanation": "名詞，指「模型、外殼外模」。",
+          "examples": [
+            {
+              "english": "Pour the molten chocolate into the plastic mold.",
+              "chinese": "將融化的巧克力倒入塑膠模具中。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p30",
+          "title": "test out",
+          "explanation": "片語，指「測試、試驗（新事物）」。",
+          "examples": [
+            {
+              "english": "Engineers are testing out the new software.",
+              "chinese": "工程師們正在測試這款新軟體。"
+            }
+          ]
+        },
+        {
+          "id": "p31",
+          "title": "for the first time",
+          "explanation": "片語，指「首次、第一次」。",
+          "examples": [
+            {
+              "english": "He saw the ocean for the first time.",
+              "chinese": "他第一次看到了大海。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s40",
+      "order": 40,
+      "englishOriginal": "So Bria, the ladybug, who’d been there from the start, felt a surge of pure joy swell up in her heart.",
+      "chineseTranslation": "於是從一開始就在現場的小瓢蟲布里亞 (Bria)，感受到一股純粹的喜悅湧上心頭。",
+      "vocabularyNotes": [
+        {
+          "id": "v47",
+          "title": "ladybug",
+          "explanation": "名詞，指「瓢蟲」。",
+          "examples": [
+            {
+              "english": "A tiny ladybug landed on her leaf.",
+              "chinese": "一隻小巧的瓢蟲落在她的樹葉上。"
+            }
+          ]
+        },
+        {
+          "id": "v48",
+          "title": "surge",
+          "explanation": "名詞，指「湧現、奔湧（情感或水流）」。",
+          "examples": [
+            {
+              "english": "She felt a surge of anger when she heard the news.",
+              "chinese": "聽到這個消息時，她心中湧起一股怒火。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p32",
+          "title": "swell up",
+          "explanation": "片語，指「膨脹、湧上（情緒）」。",
+          "examples": [
+            {
+              "english": "Pride swelled up in his chest during the award ceremony.",
+              "chinese": "頒獎典禮上，自豪感在他心中油然而生。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s41",
+      "order": 41,
+      "englishOriginal": "She thought, as she watched her friends play on the hill, that there's always a way if there's also a will.",
+      "chineseTranslation": "當她看著朋友們在山丘上玩耍時，她心想，有志者事竟成（只要有意志，就一定有辦法）。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n4",
+          "title": "Where there's a will, there's a way",
+          "explanation": "著名英文成語諺語「有志者事竟成」。文中將其融入韻文結構變成「there's always a way if there's also a will」。",
+          "examples": [
+            {
+              "english": "Don't give up; where there's a will, there's a way.",
+              "chinese": "別放棄，有志者事竟成。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s42",
+      "order": 42,
+      "englishOriginal": "And she said to herself, as Ricky rolled down the slope, “When you’re surrounded by love, you always have hope!”",
+      "chineseTranslation": "當瑞奇滾下山坡時，她自言自語道：「當你被愛包圍時，你就永遠擁有希望！」",
+      "vocabularyNotes": [
+        {
+          "id": "v49",
+          "title": "slope",
+          "explanation": "名詞，指「斜坡、山坡」。",
+          "examples": [
+            {
+              "english": "Skiers raced down the snowy slope.",
+              "chinese": "滑雪者衝下了雪山斜坡。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p33",
+          "title": "say to oneself",
+          "explanation": "片語，指「自言自語、心想」。",
+          "examples": [
+            {
+              "english": "“I can do this,” she said to herself.",
+              "chinese": "「我做得到，」她自言自語道。"
+            }
+          ]
+        },
+        {
+          "id": "p34",
+          "title": "be surrounded by",
+          "explanation": "片語，指「被……圍繞/包圍」。",
+          "examples": [
+            {
+              "english": "The cottage is surrounded by beautiful flowers.",
+              "chinese": "小屋被美麗的花朵包圍著。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s43",
+      "order": 43,
+      "englishOriginal": "What I loved most about this book is how Ricky's friends were so determined to make sure that he was included in any way.",
+      "chineseTranslation": "這本書我最喜歡的部分，就是瑞奇的朋友們是多麼堅定地要確保無論如何都要把他包含在內。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p35",
+          "title": "make sure",
+          "explanation": "片語，指「確保、務必」。",
+          "examples": [
+            {
+              "english": "Please make sure all windows are closed.",
+              "chinese": "請確保所有窗戶都已關上。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s44",
+      "order": 44,
+      "englishOriginal": "I think it's important to include your friends wherever you can so that nobody feels left behind or left out.",
+      "chineseTranslation": "我覺得只要可以的話，盡可能地讓你的朋友加入是很重要的，這樣就沒有人會感到被忽視或排擠了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p36",
+          "title": "leave behind",
+          "explanation": "片語，指「落下、遺留、拋在後面」。",
+          "examples": [
+            {
+              "english": "No child should be left behind in education.",
+              "chinese": "在教育中不該讓任何孩子被落後淘汰。"
+            }
+          ]
+        },
+        {
+          "id": "p37",
+          "title": "leave out",
+          "explanation": "片語，指「冷落、排擠、漏掉」。",
+          "examples": [
+            {
+              "english": "He felt left out when his classmates didn't invite him.",
+              "chinese": "當同學沒有邀請他時，他感到被排擠了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s45",
+      "order": 45,
+      "englishOriginal": "Thank you for watching Storyline Online. Make sure to check out all of our stories. Keep watching and keep reading.",
+      "chineseTranslation": "感謝您收看 Storyline Online。請務必探索我們所有的故事。保持觀看，持續閱讀！",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p38",
+          "title": "check out",
+          "explanation": "片語，指「去看看、欣賞、探索」。",
+          "examples": [
+            {
+              "english": "Check out the new exhibit at the museum.",
+              "chinese": "去看看博物館的新展覽吧。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    }
+  ]
+}

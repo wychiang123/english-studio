@@ -3,171 +3,132 @@
   "lessonType": "english-story",
   "title": "Clark the Shark",
   "source": "Storyline Online",
-  "sourceUrl": "https://storylineonline.net/",
+  "sourceUrl": "https://storylineonline.net/books/clark-the-shark/",
+  "author": "Bruce Hale",
+  "narrator": "Chris Pine",
   "language": "en",
-  "createdAt": "2026-07-15T13:00:00Z",
-  "description": "A story about an enthusiastic shark named Clark who loves life and school a bit too much, and how he learns to find the right time and place to stay cool.",
+  "createdAt": "2026-07-20T18:44:33Z",
+  "tags": [
+    "kids",
+    "animals",
+    "school",
+    "behavior"
+  ],
+  "description": "Clark is a enthusiastic shark who loves school, but he learns that there's a time and a place for everything—and sometimes you have to stay cool.",
   "sentences": [
     {
       "id": "s1",
       "order": 1,
-      "englishOriginal": "And of all the fish at Theodore Roosterfish, the biggest and the strongest was Clark the Shark.",
-      "chineseTranslation": "而在狄奧多·公雞魚小學的所有魚當中，體型最大、力氣最強壯的就是鯊魚克拉克。",
+      "englishOriginal": "Hey everybody.",
+      "chineseTranslation": "大家好。",
       "vocabularyNotes": [],
-      "phraseNotes": [
-        {
-          "id": "s1_p1",
-          "title": "of all the...",
-          "explanation": "用於句首表示「在所有……之中」，常用來引出最高級的比較。",
-          "examples": [
-            {
-              "english": "Of all the books I have read, this one is my favorite.",
-              "chinese": "在所有我讀過的書當中，這本是我的最愛。"
-            }
-          ]
-        }
-      ],
+      "phraseNotes": [],
       "grammarNotes": [],
       "nativeExpressionNotes": []
     },
     {
       "id": "s2",
       "order": 2,
-      "englishOriginal": "Clark loved school, and he loved his teacher, Mrs. Inkydink.",
-      "chineseTranslation": "克拉克熱愛上學，他也非常喜歡他的老師英基丁克夫人。",
+      "englishOriginal": "Welcome to Storyline Online brought to you by the SAG-AFTRA Foundation.",
+      "chineseTranslation": "歡迎來到由 SAG-AFTRA 基金會為您呈現的 Storyline Online。",
+      "vocabularyNotes": [
+        {
+          "id": "v1",
+          "title": "foundation",
+          "explanation": "「foundation」指「基金會」或「機構」，通常是非營利性質的組織。",
+          "examples": [
+            {
+              "english": "The foundation donates money to public schools every year.",
+              "chinese": "該基金會每年都會捐款給公立學校。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p1",
+          "title": "brought to you by",
+          "explanation": "常用於節目或活動開場，表示「由……贊助/提供/呈現」。",
+          "examples": [
+            {
+              "english": "Tonight's show is brought to you by our local listeners.",
+              "chinese": "今晚的節目是由我們當地的聽眾贊助呈現的。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "g1",
+          "title": "Past participle phrase modifying a noun",
+          "explanation": "「brought to you by...」是過去分詞片語，修飾前面的專有名詞「Storyline Online」，相當於省略了「which is」。",
+          "examples": [
+            {
+              "english": "This is a movie directed by a famous director.",
+              "chinese": "這是一部由知名導演執導的電影。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s3",
+      "order": 3,
+      "englishOriginal": "My name is Chris Pine and today we are reading the wonderful book Clark the Shark written by Bruce Hale and illustrated by Guy Francis.",
+      "chineseTranslation": "我是克里斯·潘恩 (Chris Pine)，今天我們要閱讀這本由布魯斯·黑爾 (Bruce Hale) 寫作、蓋伊·弗朗西斯 (Guy Francis) 繪製的精彩圖畫書《克拉克鯊魚》 (Clark the Shark)。",
+      "vocabularyNotes": [
+        {
+          "id": "v2",
+          "title": "illustrate",
+          "explanation": "動詞，指「為（書本、文章等）畫插圖」。其過去分詞「illustrated」經常用於介紹繪本插畫家。",
+          "examples": [
+            {
+              "english": "She has illustrated dozens of popular children's books.",
+              "chinese": "她已經為數十本受歡迎的童書畫過插圖。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s4",
+      "order": 4,
+      "englishOriginal": "Let us begin.",
+      "chineseTranslation": "讓我們開始吧。",
       "vocabularyNotes": [],
       "phraseNotes": [],
       "grammarNotes": [],
       "nativeExpressionNotes": []
     },
     {
-      "id": "s3",
-      "order": 3,
-      "englishOriginal": "He was just too much shark for the other fish to handle.",
-      "chineseTranslation": "對其他魚來說，他實在是熱情過頭，讓人難以招架。",
-      "vocabularyNotes": [],
-      "phraseNotes": [],
-      "grammarNotes": [
-        {
-          "id": "s3_g1",
-          "title": "too... for someone to handle",
-          "explanation": "表示「太……以至於某人無法應付或處理」，這裡把名詞 shark 當作一種特質形容詞化，表示『具備太多鯊魚的粗魯與巨大特質』。",
-          "examples": [
-            {
-              "english": "The spice in this dish is too much for me to handle.",
-              "chinese": "這道菜的辣度對我來說實在是無法招架。"
-            }
-          ]
-        }
-      ],
-      "nativeExpressionNotes": [
-        {
-          "id": "s3_n1",
-          "title": "too much shark",
-          "explanation": "一種幽默且道地的擬人化修辭手法，把動物名稱當作形容詞，形容某人的某種本性或特質過於強烈。",
-          "examples": [
-            {
-              "english": "He was too much man for that tiny car.",
-              "chinese": "以他的高大身材來說，坐那輛小車實在是太勉強了。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "s4",
-      "order": 4,
-      "englishOriginal": "Even his best friend, Joey Mackerel, said, “Cool your jets, Clark! You’re making me crazy!”",
-      "chineseTranslation": "連他最好的朋友鯖魚喬伊都說：「冷靜點，克拉克！你快把我逼瘋了！」",
-      "vocabularyNotes": [],
-      "phraseNotes": [
-        {
-          "id": "s4_p1",
-          "title": "make someone crazy",
-          "explanation": "意為「把某人逼瘋」或「讓某人抓狂」。",
-          "examples": [
-            {
-              "english": "The constant noise is making me crazy.",
-              "chinese": "這持續不斷的噪音快把我逼瘋了。"
-            }
-          ]
-        }
-      ],
-      "grammarNotes": [],
-      "nativeExpressionNotes": [
-        {
-          "id": "s4_n1",
-          "title": "Cool your jets",
-          "explanation": "美國道地的口語斯拉（俚語），字面意思是「讓你的噴射引擎冷卻」，用來叫人「冷靜點」、「別太激動」或「放慢腳步」。",
-          "examples": [
-            {
-              "english": "Cool your jets, we still have plenty of time.",
-              "chinese": "冷靜點，我們還有充裕的時間。"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "s5",
       "order": 5,
-      "englishOriginal": "“There’s a time and a place for everything,” said Mrs. Inkydink.",
-      "chineseTranslation": "英基丁克夫人說：「凡事都有適當的時機和場合。」",
+      "englishOriginal": "In all the wide blue seas, in all the wide blue world, the top school for fish was the Theodore Roosterfish Elementary.",
+      "chineseTranslation": "在廣闊蔚藍的大海中，在整個廣大遼闊的世界裡，魚類最棒的學校就是西奧多·公雞魚小學 (Theodore Roosterfish Elementary)。",
       "vocabularyNotes": [],
       "phraseNotes": [],
       "grammarNotes": [],
-      "nativeExpressionNotes": [
-        {
-          "id": "s5_n1",
-          "title": "There’s a time and a place for everything",
-          "explanation": "西方非常經典的處世格言，用來提醒人言行舉止要看場合、知分寸，相當於中文的「凡事皆有定時」或「看場合做事」。",
-          "examples": [
-            {
-              "english": "I know you want to play music, but there's a time and a place for everything.",
-              "chinese": "我知道你想放音樂，但凡事都要看時機和場合。"
-            }
-          ]
-        }
-      ]
+      "nativeExpressionNotes": []
     },
     {
       "id": "s6",
       "order": 6,
-      "englishOriginal": "At recess, Clark tried to stay cool, but he pushed the swing with too much zing!",
-      "chineseTranslation": "下課放風時，克拉克試著保持冷靜，但他推鞦韆的力道實在太猛了！",
-      "vocabularyNotes": [
-        {
-          "id": "s6_v1",
-          "title": "recess",
-          "explanation": "名詞，在美式英語中特指學校的「課間休息時間」或「下課時間」。",
-          "examples": [
-            {
-              "english": "The children love to play soccer during recess.",
-              "chinese": "孩子們喜歡在下課時間踢足球。"
-            }
-          ]
-        },
-        {
-          "id": "s6_v2",
-          "title": "zing",
-          "explanation": "名詞，非正式口語，指「活力」、「勁道」或「衝勁」。",
-          "examples": [
-            {
-              "english": "Add some lemon juice to give the sauce a little extra zing.",
-              "chinese": "加點檸檬汁能讓這醬汁更有風味、更帶勁。"
-            }
-          ]
-        }
-      ],
+      "englishOriginal": "And of all the fish at Theodore Roosterfish, the biggest and the strongest was Clark the Shark.",
+      "chineseTranslation": "在西奧多·公雞魚小學的所有魚類中，最大隻、最強壯的就是鯊魚克拉克。",
+      "vocabularyNotes": [],
       "phraseNotes": [
         {
-          "id": "s6_p1",
-          "title": "stay cool",
-          "explanation": "意為「保持冷靜」、「沉住氣」或「裝酷」。",
+          "id": "p2",
+          "title": "of all the...",
+          "explanation": "常用於最高級句型中，表示「在所有的……之中」。",
           "examples": [
             {
-              "english": "You need to stay cool during the interview.",
-              "chinese": "你在面試時需要保持冷靜。"
+              "english": "Of all the options available, this one is the most affordable.",
+              "chinese": "在所有可用的選項中，這個是最划算的。"
             }
           ]
         }
@@ -178,154 +139,72 @@
     {
       "id": "s7",
       "order": 7,
-      "englishOriginal": "In class, Clark tried to stay cool, but a good book got him all shook up.",
-      "chineseTranslation": "上課時，克拉克試著保持沉穩，但一本好看的書卻讓他整個人興奮無比。",
+      "englishOriginal": "Clark loved school, and he loved his teacher, Mrs. Inkydink.",
+      "chineseTranslation": "克拉克很喜歡上學，他也非常喜歡他的老師墨水瓶太太 (Mrs. Inkydink)。",
       "vocabularyNotes": [],
       "phraseNotes": [],
       "grammarNotes": [],
-      "nativeExpressionNotes": [
-        {
-          "id": "s7_n1",
-          "title": "get all shook up",
-          "explanation": "美式道地口語表現，意思是「變得非常激動」、「情緒澎湃」或「心神不寧」，可以用於極度興奮或震驚的狀況。",
-          "examples": [
-            {
-              "english": "Don't get all shook up over a small mistake.",
-              "chinese": "別為了一個小錯誤就整個人心神不寧。"
-            }
-          ]
-        }
-      ]
+      "nativeExpressionNotes": []
     },
     {
       "id": "s8",
       "order": 8,
-      "englishOriginal": "Maybe if I make a rhyme, I’ll remember every time! he thought.",
-      "chineseTranslation": "他心想：「也許如果我編個順口溜，我每一次就都會記得了！」",
-      "vocabularyNotes": [
-        {
-          "id": "s8_v1",
-          "title": "rhyme",
-          "explanation": "名詞，指「押韻詩」、「順口溜」或「韻腳」。",
-          "examples": [
-            {
-              "english": "'Cat' and 'hat' are words that rhyme.",
-              "chinese": "「Cat」和「hat」是押韻的單字。"
-            }
-          ]
-        }
-      ],
-      "phraseNotes": [
-        {
-          "id": "s8_p1",
-          "title": "every time",
-          "explanation": "片語，每次、每一次的意思。",
-          "examples": [
-            {
-              "english": "He wins the game every time.",
-              "chinese": "他每一次玩這個遊戲都會贏。"
-            }
-          ]
-        }
-      ],
+      "englishOriginal": "He loved to play upsy-downsy and spinna-ma-jig with his friends.",
+      "chineseTranslation": "他喜歡和朋友們玩「顛顛倒倒」和「轉轉樂」遊戲。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
       "grammarNotes": [],
       "nativeExpressionNotes": []
     },
     {
       "id": "s9",
       "order": 9,
-      "englishOriginal": "The next day, he put his plan to work.",
-      "chineseTranslation": "隔天，他開始實行他的計畫。",
+      "englishOriginal": "Clark loved his life.",
+      "chineseTranslation": "克拉克熱愛他的生活。",
       "vocabularyNotes": [],
-      "phraseNotes": [
-        {
-          "id": "s9_p1",
-          "title": "put... to work",
-          "explanation": "動詞片語，指「付諸實行」、「將……投入使用」或「使某物發揮作用」。",
-          "examples": [
-            {
-              "english": "It is time to put your ideas to work.",
-              "chinese": "是時候把你的想法付諸實行了。"
-            }
-          ]
-        }
-      ],
+      "phraseNotes": [],
       "grammarNotes": [],
       "nativeExpressionNotes": []
     },
     {
       "id": "s10",
       "order": 10,
-      "englishOriginal": "At playtime, Clark told himself: “Easy does it, that’s the way. Then my friends will let me play.”",
-      "chineseTranslation": "遊戲時間，克拉克告訴自己：「凡事慢著點，這樣就對了。這樣朋友們才會讓我一起玩。」",
-      "vocabularyNotes": [],
-      "phraseNotes": [],
-      "grammarNotes": [],
-      "nativeExpressionNotes": [
-        {
-          "id": "s10_n1",
-          "title": "Easy does it",
-          "explanation": "非常道地的口語短語，常用來提醒人「慢慢來」、「小心點」或「動作輕一點、溫和一點」。",
-          "examples": [
-            {
-              "english": "Easy does it! The box is very fragile.",
-              "chinese": "動作輕一點！這箱子非常易碎。"
-            }
-          ]
-        },
-        {
-          "id": "s10_n2",
-          "title": "that’s the way",
-          "explanation": "常用口語，意為「那樣就對了」或「就是這個方法」，起肯定或鼓勵的作用。",
-          "examples": [
-            {
-              "english": "You are doing great, that's the way!",
-              "chinese": "你做得很棒，那樣就對了！"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "s11",
-      "order": 11,
-      "englishOriginal": "But then a shadow fell across the playground— a gi-normous shadow with tentacles galore.",
-      "chineseTranslation": "但就在那時，一道陰影籠罩了遊樂場——那是一道長滿了無數觸角、極其巨大的陰影。",
+      "englishOriginal": "“SCHOOL IS AWESOME!” shouted Clark the Shark.",
+      "chineseTranslation": "「上學太棒了！」鯊魚克拉克大聲喊道。",
       "vocabularyNotes": [
         {
-          "id": "s11_v1",
-          "title": "tentacles",
-          "explanation": "名詞（複數），指海洋生物（如章魚、烏賊）的「觸手」或「觸角」。",
+          "id": "v3",
+          "title": "awesome",
+          "explanation": "形容詞，在口語中表示「極好的」、「太棒了」。",
           "examples": [
             {
-              "english": "The octopus used its tentacles to catch prey.",
-              "chinese": "章魚用牠的觸手來捕捉獵物。"
+              "english": "The movie we watched yesterday was awesome!",
+              "chinese": "我們昨天看的電影太棒了！"
             }
           ]
         }
       ],
       "phraseNotes": [],
       "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s11",
+      "order": 11,
+      "englishOriginal": "“Less shouting, more reading,” said Mrs. Inkydink.",
+      "chineseTranslation": "「少點尖叫，多點閱讀，」墨水瓶太太說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
       "nativeExpressionNotes": [
         {
-          "id": "s11_n1",
-          "title": "gi-normous",
-          "explanation": "由 gigantic（巨大的）和 enormous（龐大的）組合而成的流行口語造字，意為「超級巨大」，非常生動活潑。",
+          "id": "n1",
+          "title": "less X, more Y",
+          "explanation": "一種簡潔的命令或建議句型，意思為「少一點X，多一點Y」，常用於糾正行為。",
           "examples": [
             {
-              "english": "They bought a gi-normous TV for their living room.",
-              "chinese": "他們買了一台超級巨大的電視放在客廳。"
-            }
-          ]
-        },
-        {
-          "id": "s11_n2",
-          "title": "galore",
-          "explanation": "後置形容詞，必須放在名詞後面，表示「大量的」或「豐富的」，非常有道地的文學與口語色彩。",
-          "examples": [
-            {
-              "english": "There were games and prizes galore at the festival.",
-              "chinese": "慶典上有豐富多樣的遊戲和獎品。"
+              "english": "Less talking, more working, please.",
+              "chinese": "請少說話，多做事。"
             }
           ]
         }
@@ -334,6 +213,1255 @@
     {
       "id": "s12",
       "order": 12,
+      "englishOriginal": "“LUNCHTIME IS SWEEEEET!” yelled Clark the Shark.",
+      "chineseTranslation": "「午餐時間太超讚了！」鯊魚克拉克大吼。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n2",
+          "title": "sweet",
+          "explanation": "美式俚語，用來讚嘆事物「棒極了」、「太酷了」。",
+          "examples": [
+            {
+              "english": "You got tickets to the concert? That's sweet!",
+              "chinese": "你拿到演唱會門票了？太酷了吧！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "order": 13,
+      "englishOriginal": "“Munch your own lunch,” said his best friend, Joey Mackerel.",
+      "chineseTranslation": "「吃你自己的午餐就好，」他最好的朋友喬伊·鯖魚 (Joey Mackerel) 說。",
+      "vocabularyNotes": [
+        {
+          "id": "v4",
+          "title": "munch",
+          "explanation": "動詞，指「津津有味地大口咀嚼、大聲吃東西」。",
+          "examples": [
+            {
+              "english": "He sat on the couch munching popcorn.",
+              "chinese": "他坐在沙發上津津有味地吃著爆米花。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s14",
+      "order": 14,
+      "englishOriginal": "“RECESS ROCKS!” bellowed Clark the Shark.",
+      "chineseTranslation": "「下課休息時間太讚了！」鯊魚克拉克吼道。",
+      "vocabularyNotes": [
+        {
+          "id": "v5",
+          "title": "recess",
+          "explanation": "名詞，指學校課間的「下課休息時間」。",
+          "examples": [
+            {
+              "english": "The children ran outside as soon as recess started.",
+              "chinese": "下課時間一到，孩子們就跑到了戶外。"
+            }
+          ]
+        },
+        {
+          "id": "v6",
+          "title": "bellow",
+          "explanation": "動詞，指「吼叫、大聲咆哮」。",
+          "examples": [
+            {
+              "english": "The coach bellowed instructions from the sideline.",
+              "chinese": "教練在場邊大聲喊著指令。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n3",
+          "title": "something rocks",
+          "explanation": "口語表達，表示「某事/某物太棒了、超讚」。",
+          "examples": [
+            {
+              "english": "Your new car really rocks!",
+              "chinese": "你的新車真的太酷了！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s15",
+      "order": 15,
+      "englishOriginal": "“You are playing too rough, Clark!” cried the other kids.",
+      "chineseTranslation": "「克拉克，你玩得太野、太粗魯了！」其他的孩子大喊。",
+      "vocabularyNotes": [
+        {
+          "id": "v7",
+          "title": "rough",
+          "explanation": "形容詞，在這裡指動作「粗魯的、野蠻的」。",
+          "examples": [
+            {
+              "english": "Don't be so rough with the dog.",
+              "chinese": "對那隻狗別那麼粗魯。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s16",
+      "order": 16,
+      "englishOriginal": "Yes, Clark loved his life with all of his sharky heart.",
+      "chineseTranslation": "是的，克拉克全心全意地熱愛著他的生活。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p3",
+          "title": "with all of one's heart",
+          "explanation": "片語，指「全心全意地」、「真心實意地」。",
+          "examples": [
+            {
+              "english": "She loved her baby with all of her heart.",
+              "chinese": "她全心全意地愛著她的寶寶。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s17",
+      "order": 17,
+      "englishOriginal": "But he loved everything way too much.",
+      "chineseTranslation": "但他對每件事物的熱情都實在太過頭了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n4",
+          "title": "way too much",
+          "explanation": "美式口語強調法，「way」在這裡作為副詞，用來加強「too much」，表示「實在太……」、「過度」。",
+          "examples": [
+            {
+              "english": "You spend way too much time playing games.",
+              "chinese": "你花在打遊戲上的時間實在太多了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s18",
+      "order": 18,
+      "englishOriginal": "He was too loud.",
+      "chineseTranslation": "他太吵了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s19",
+      "order": 19,
+      "englishOriginal": "He was too wild.",
+      "chineseTranslation": "他太野了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s20",
+      "order": 20,
+      "englishOriginal": "He was just too much shark for the other fish to handle.",
+      "chineseTranslation": "對其他小魚來說，他的鯊魚能量實在是讓人吃不消。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g2",
+          "title": "too... to...",
+          "explanation": "「too + 形容詞/名詞 + for sb to + 動詞」結構，表示「太……以致於某人無法……」。",
+          "examples": [
+            {
+              "english": "The box is too heavy for me to carry.",
+              "chinese": "這個箱子太重了，我搬不動。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": [
+        {
+          "id": "n5",
+          "title": "too much to handle",
+          "explanation": "常用道地表達，指某人事物「令人難以應付、吃不消」。",
+          "examples": [
+            {
+              "english": "The noise in the crowded room was too much to handle.",
+              "chinese": "擁擠房間裡的噪音實在讓人吃不消。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s21",
+      "order": 21,
+      "englishOriginal": "After a while, no one would play with Clark.",
+      "chineseTranslation": "過了一陣子，沒有人願意跟克拉克玩了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p4",
+          "title": "after a while",
+          "explanation": "片語，指「過了一段時間後」、「不久之後」。",
+          "examples": [
+            {
+              "english": "After a while, the rain stopped and the sun came out.",
+              "chinese": "過了一會兒，雨停了，太陽露臉了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "g3",
+          "title": "would (past refusal)",
+          "explanation": "「would not / no one would」在這裡表示過去的意願，即「過去不肯、不願意做某事」。",
+          "examples": [
+            {
+              "english": "The door was stuck and wouldn't open.",
+              "chinese": "門卡住了，怎麼都不肯打開。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s22",
+      "order": 22,
+      "englishOriginal": "No one ate lunch with Clark.",
+      "chineseTranslation": "沒有人和克拉克一起吃午餐。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s23",
+      "order": 23,
+      "englishOriginal": "No one sat with him at circle time.",
+      "chineseTranslation": "團體討論時間也沒有人和他坐在一起。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p5",
+          "title": "circle time",
+          "explanation": "幼兒園或小學常見的活動，指師生围坐成一圈進行討論、說故事或活動的「團體時間」。",
+          "examples": [
+            {
+              "english": "The teacher gathered all the children for circle time.",
+              "chinese": "老師把所有的孩子聚集起來進行團體時間。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s24",
+      "order": 24,
+      "englishOriginal": "Even his best friend, Joey Mackerel, said, “Cool your jets, Clark! You’re making me crazy!”",
+      "chineseTranslation": "連他最好的朋友喬伊·鯖魚都說：「克拉克，冷靜一點！你快把我逼瘋了！」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n6",
+          "title": "cool your jets",
+          "explanation": "非常道地的美式俚語，叫人「冷靜下來、冷靜一下」，相當於「calm down」。",
+          "examples": [
+            {
+              "english": "Cool your jets! We have plenty of time.",
+              "chinese": "冷靜點！我們時間還充裕得很。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s25",
+      "order": 25,
+      "englishOriginal": "One day, Clark asked Mrs. Inkydink, “What’s wrong with everyone?”",
+      "chineseTranslation": "有一天，克拉克問墨水瓶太太：「大家到底怎麼了？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p6",
+          "title": "what's wrong with...",
+          "explanation": "常用問句，詢問「某人/某事怎麼了、出什麼問題了」。",
+          "examples": [
+            {
+              "english": "What's wrong with your computer? It keeps restarting.",
+              "chinese": "你的電腦怎麼了？它一直重新開機。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s26",
+      "order": 26,
+      "englishOriginal": "Mrs. Inkydink patted his fin.",
+      "chineseTranslation": "墨水瓶太太拍了拍他的魚鰭。",
+      "vocabularyNotes": [
+        {
+          "id": "v8",
+          "title": "pat",
+          "explanation": "動詞，指安撫或親暱地「輕拍」。",
+          "examples": [
+            {
+              "english": "She gently patted the puppy on its head.",
+              "chinese": "她輕輕地拍了拍小狗的頭。"
+            }
+          ]
+        },
+        {
+          "id": "v9",
+          "title": "fin",
+          "explanation": "名詞，指魚類的「鰭」。",
+          "examples": [
+            {
+              "english": "The shark raised its dorsal fin above the water.",
+              "chinese": "鯊魚將它的背鰭升出了水面。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s27",
+      "order": 27,
+      "englishOriginal": "“Clark, sometimes you play too hard, you munch too hard, and—gosh—you even help too hard.”",
+      "chineseTranslation": "「克拉克，有時候你玩得太過頭、吃得太過頭，而且——天哪——你連幫忙都幫得太用力了。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n7",
+          "title": "gosh",
+          "explanation": "溫和的感嘆詞，用來表達驚訝、無奈或感歎，相當於「天哪」。",
+          "examples": [
+            {
+              "english": "Gosh, I didn't realize it was already midnight!",
+              "chinese": "天哪，我沒發現居然已經午夜了！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s28",
+      "order": 28,
+      "englishOriginal": "“But life is SO exciting!” said Clark.",
+      "chineseTranslation": "「但是生活真的太令人興奮了啊！」克拉克說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s29",
+      "order": 29,
+      "englishOriginal": "“There’s a time and a place for everything,” said Mrs. Inkydink.",
+      "chineseTranslation": "「凡事都要看時機和場合，」墨水瓶太太說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n8",
+          "title": "There's a time and a place for everything.",
+          "explanation": "著名的英文成語/諺語，意思即為「凡事皆有合適的時機與場合」，提醒人行為舉止要合時宜。",
+          "examples": [
+            {
+              "english": "Stop joking around; there's a time and a place for everything.",
+              "chinese": "別再開玩笑了，凡事都要分場合和時機。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s30",
+      "order": 30,
+      "englishOriginal": "“And sometimes the rule is stay cool.”",
+      "chineseTranslation": "「而有時候規則就是：保持冷靜。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n9",
+          "title": "stay cool",
+          "explanation": "常用道地表達，指「保持冷靜、冷靜沉著」。",
+          "examples": [
+            {
+              "english": "Just stay cool and focus on your exam.",
+              "chinese": "只要保持冷靜，專心面對考試就好。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s31",
+      "order": 31,
+      "englishOriginal": "At recess, Clark tried to stay cool, but he pushed the swing with too much zing!",
+      "chineseTranslation": "下課時間，克拉克努力想保持冷靜，但他推鞦韆時還是推得太猛了！",
+      "vocabularyNotes": [
+        {
+          "id": "v10",
+          "title": "zing",
+          "explanation": "名詞，口語中指「活力、勁道、衝勁」。",
+          "examples": [
+            {
+              "english": "Add some lemon juice to give the sauce a bit more zing.",
+              "chinese": "加一點檸檬汁可以讓醬汁更有風味和勁道。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s32",
+      "order": 32,
+      "englishOriginal": "“Sorry,” said Clark. “I forgot.”",
+      "chineseTranslation": "「對不起，」克拉克說，「我忘了。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s33",
+      "order": 33,
+      "englishOriginal": "“Yikes!” cried Joey Mackerel.",
+      "chineseTranslation": "「哇啊！」喬伊·鯖魚大叫。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n10",
+          "title": "yikes",
+          "explanation": "感嘆詞，用來表達輕微的驚嚇、驚恐或驚訝。",
+          "examples": [
+            {
+              "english": "Yikes! That was a close call.",
+              "chinese": "哇啊！剛才好險啊。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s34",
+      "order": 34,
+      "englishOriginal": "At lunch, Clark tried to stay cool, but everything smelled so good that he munched a bunch of lunches.",
+      "chineseTranslation": "午餐時間，克拉克試著保持冷靜，但每樣食物聞起來都太香了，結果他大口大口地塞了一堆午餐。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p7",
+          "title": "a bunch of",
+          "explanation": "美式口語片語，指「大量的、一堆的」。",
+          "examples": [
+            {
+              "english": "I bought a bunch of bananas from the store.",
+              "chinese": "我從商店買了一大串香蕉。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "g4",
+          "title": "so... that...",
+          "explanation": "「so + 形容詞 + that 子句」結構，表示「如此……以致於……」。",
+          "examples": [
+            {
+              "english": "The movie was so funny that everyone laughed.",
+              "chinese": "這部電影太有趣了，大家都在笑。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s35",
+      "order": 35,
+      "englishOriginal": "“Sorry,” said Clark. “I forgot.”",
+      "chineseTranslation": "「對不起，」克拉克說，「我忘了。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s36",
+      "order": 36,
+      "englishOriginal": "“We’re STARVING!” said his friends.",
+      "chineseTranslation": "「我們快要餓死了啦！」他的朋友們說。",
+      "vocabularyNotes": [
+        {
+          "id": "v11",
+          "title": "starve",
+          "explanation": "動詞，原意為「挨餓」，口語中常用進行式「starving」極度誇張地表達「非常餓」。",
+          "examples": [
+            {
+              "english": "What's for dinner? I'm starving!",
+              "chinese": "晚餐吃什麼？我快餓死了！"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s37",
+      "order": 37,
+      "englishOriginal": "In class, Clark tried to stay cool, but a good book got him all shook up.",
+      "chineseTranslation": "課堂上，克拉克試著保持冷靜，但一本精彩的好書讓他情緒整個激動起來。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n11",
+          "title": "shook up",
+          "explanation": "俚語表達（來自 get shook up），形容「情緒激動、興奮或受到震撼」。",
+          "examples": [
+            {
+              "english": "The surprising news left everyone completely shook up.",
+              "chinese": "這令人震驚的消息讓大家情緒都相當激動。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s38",
+      "order": 38,
+      "englishOriginal": "“Now, Clark!” said Mrs. Inkydink. “This isn’t the time or the place.",
+      "chineseTranslation": "「克拉克，現在不行喔！」墨水瓶太太說，「現在不是時候，這裡也不是場合。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s39",
+      "order": 39,
+      "englishOriginal": "Tell me, what’s the rule?”",
+      "chineseTranslation": "告訴我，規則是什麼？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s40",
+      "order": 40,
+      "englishOriginal": "“Stay cool,” said Clark. “Hey, that rhymes!” he cried.",
+      "chineseTranslation": "「保持冷靜，」克拉克說。「嘿，這有押韻耶！」他喊道。",
+      "vocabularyNotes": [
+        {
+          "id": "v12",
+          "title": "rhyme",
+          "explanation": "動詞，指「押韻」。",
+          "examples": [
+            {
+              "english": "The words 'cat' and 'hat' rhyme.",
+              "chinese": "cat 和 hat 這兩個字押韻。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s41",
+      "order": 41,
+      "englishOriginal": "Then Clark got a big idea in his sharky head.",
+      "chineseTranslation": "然後，克拉克那顆鯊魚腦袋裡浮現了一個大妙招。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p8",
+          "title": "get an idea",
+          "explanation": "片語，指「想到一個主意/好辦法」。",
+          "examples": [
+            {
+              "english": "She got a brilliant idea for her science project.",
+              "chinese": "她為她的科學展覽想到了一個絕妙的主意。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s42",
+      "order": 42,
+      "englishOriginal": "Maybe if I make a rhyme, I’ll remember every time! he thought.",
+      "chineseTranslation": "如果我編個順口溜押韻，這樣我每次就都會記得了！他心想。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g5",
+          "title": "First Conditional (if + present, will + verb)",
+          "explanation": "第一條件句，表達對未來可能發生情況的假設，結構為「If + 現在式動詞, 將來式 (will) + 原形動詞」。",
+          "examples": [
+            {
+              "english": "If it rains tomorrow, we will stay inside.",
+              "chinese": "如果明天下雨，我們就會待在室內。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s43",
+      "order": 43,
+      "englishOriginal": "The next day, he put his plan to work.",
+      "chineseTranslation": "隔天，他開始執行他的計畫。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p9",
+          "title": "put something to work",
+          "explanation": "常用片語，表示「將（計畫、技巧、想法等）付諸實行、投入使用」。",
+          "examples": [
+            {
+              "english": "He put his computer skills to work in his new job.",
+              "chinese": "他在新工作中發揮了自己的電腦技能。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s44",
+      "order": 44,
+      "englishOriginal": "In class, when lessons got exciting, Clark wanted to bounce up out of his seat.",
+      "chineseTranslation": "上課時，當課程變得很有趣，克拉克又忍不住想要從座位上蹦跳起來。",
+      "vocabularyNotes": [
+        {
+          "id": "v13",
+          "title": "bounce",
+          "explanation": "動詞，指「彈跳、蹦跳」。",
+          "examples": [
+            {
+              "english": "The excited children began to bounce on the bed.",
+              "chinese": "興奮的孩子們開始在床上跳來跳去。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s45",
+      "order": 45,
+      "englishOriginal": "Instead, he told himself: “When teacher’s talking, don’t go walking.”",
+      "chineseTranslation": "但這次他告訴自己：「老師說話時，不要亂走動。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n12",
+          "title": "don't go doing something",
+          "explanation": "口語中加強口氣的禁止句型，比單純說「don't walk」更具提醒和警戒意味。",
+          "examples": [
+            {
+              "english": "Don't go touching things in the museum.",
+              "chinese": "可別去摸博物館裡的展品喔。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s46",
+      "order": 46,
+      "englishOriginal": "And what do you know? It worked!",
+      "chineseTranslation": "你猜怎麼著？這招真的管用！",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n13",
+          "title": "what do you know?",
+          "explanation": "極為道地的英文口語感嘆句，用來表達「神奇吧、你猜怎麼著、沒想到吧」。",
+          "examples": [
+            {
+              "english": "I fixed the issue all by myself. What do you know?",
+              "chinese": "我自己把問題搞定了，神奇吧？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": []
+    },
+    {
+      "id": "s47",
+      "order": 47,
+      "englishOriginal": "“Attaboy, Clark!” said Mrs. Inkydink. Clark smiled. “Lessons are fun!”",
+      "chineseTranslation": "「好樣的，克拉克！」墨水瓶太太讚許道。克拉克笑了：「上課真有趣！」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n14",
+          "title": "attaboy",
+          "explanation": "美式俚語感嘆詞，用來表揚或鼓勵男孩子或男士，表示「幹得好！好樣的！」。",
+          "examples": [
+            {
+              "english": "Attaboy! That was a great catch!",
+              "chinese": "好樣的！接得太漂亮了！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s48",
+      "order": 48,
+      "englishOriginal": "At lunch, everything smelled sooo yummy.",
+      "chineseTranslation": "午餐時間，每樣東西聞起來都好——美味。",
+      "vocabularyNotes": [
+        {
+          "id": "v14",
+          "title": "yummy",
+          "explanation": "形容詞，兒童口語或日常俚語，表示「美味的、好吃的」。",
+          "examples": [
+            {
+              "english": "This chocolate cake is so yummy!",
+              "chinese": "這個巧克力蛋糕真好吃！"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s49",
+      "order": 49,
+      "englishOriginal": "When Clark wanted to eat and eat and never stop, he told himself: “Only munch your own lunch.”",
+      "chineseTranslation": "當克拉克又想大吃特吃、停不下來時，他提醒自己：「只吃你自己的午餐。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s50",
+      "order": 50,
+      "englishOriginal": "And it worked again! “Way to go, Clark!” said his friends.",
+      "chineseTranslation": "這招又成功了！「幹得好，克拉克！」他的朋友們說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n15",
+          "title": "way to go",
+          "explanation": "道地的讚賞口語，用來恭喜或稱讚對方「做得好、幹得漂亮」。",
+          "examples": [
+            {
+              "english": "You passed the exam? Way to go!",
+              "chinese": "你通過考試了？幹得漂亮！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s51",
+      "order": 51,
+      "englishOriginal": "Clark grinned. “Lunch is fun.”",
+      "chineseTranslation": "克拉克咧嘴笑著說：「午餐真有趣。」",
+      "vocabularyNotes": [
+        {
+          "id": "v15",
+          "title": "grin",
+          "explanation": "動詞，指「露齒咧嘴笑」。",
+          "examples": [
+            {
+              "english": "He grinned broadly when he won the award.",
+              "chinese": "獲獎時，他高興得咧嘴大笑。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s52",
+      "order": 52,
+      "englishOriginal": "At playtime, Clark told himself: “Easy does it, that’s the way. Then my friends will let me play.”",
+      "chineseTranslation": "遊戲時間，克拉克告訴自己：「慢慢來，放輕點，這樣才對。這樣朋友們才會跟我玩。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n16",
+          "title": "easy does it",
+          "explanation": "常用道地成語/俚語，用來提醒對方「小心點、動作放輕點、慢慢來」。",
+          "examples": [
+            {
+              "english": "Easy does it! Don't drop the glass vase.",
+              "chinese": "小心點！別把玻璃花瓶摔破了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s53",
+      "order": 53,
+      "englishOriginal": "And playtime was fun. Once more, Clark loved his life.",
+      "chineseTranslation": "遊戲時間變得非常愉快。克拉克再次熱愛起了他的生活。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p10",
+          "title": "once more",
+          "explanation": "片語，意為「再次、再一次」。",
+          "examples": [
+            {
+              "english": "Please explain it once more.",
+              "chinese": "請再解釋一次。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s54",
+      "order": 54,
+      "englishOriginal": "But then a shadow fell across the playground—a gi-normous shadow with tentacles galore.",
+      "chineseTranslation": "但就在這時，一道陰影籠罩了操場——那是一道帶著無數觸手的巨無霸陰影。",
+      "vocabularyNotes": [
+        {
+          "id": "v16",
+          "title": "ginormous",
+          "explanation": "形容詞，由 gigantic 與 enormous 組合而成的口語字，表示「巨大的、龐大的」。",
+          "examples": [
+            {
+              "english": "Look at that ginormous dog over there!",
+              "chinese": "看那邊那隻龐大的狗！"
+            }
+          ]
+        },
+        {
+          "id": "v17",
+          "title": "tentacle",
+          "explanation": "名詞，指章魚、烏賊等海洋生物的「觸手、觸角」。",
+          "examples": [
+            {
+              "english": "The octopus wrapped its tentacles around the rock.",
+              "chinese": "章魚用它的觸手纏住了岩石。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n17",
+          "title": "galore",
+          "explanation": "形容詞（總是放在名詞後面），表示「大量的、豐富的、無數的」。",
+          "examples": [
+            {
+              "english": "There were games and prizes galore at the fair.",
+              "chinese": "園遊會上有許許多多的遊戲和豐富的獎品。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s55",
+      "order": 55,
+      "englishOriginal": "“It’s a new kid, and he looks scary!” cried Joey Mackerel. “Swim for your lives!”",
+      "chineseTranslation": "「是個新來的轉學生，他看起來好可怕！」喬伊·鯖魚大叫。「大家快逃命啊！」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n18",
+          "title": "run / swim for your life",
+          "explanation": "常用道地表達，指「拼命逃命、逃奔保命」。",
+          "examples": [
+            {
+              "english": "When the siren sounded, everyone ran for their lives.",
+              "chinese": "警報響起時，大家紛紛拼命逃命。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s56",
+      "order": 56,
+      "englishOriginal": "The squid squashed the slide, and it snapped off the swings.",
+      "chineseTranslation": "那隻烏賊壓扁了滑梯，還壓斷了鞦韆。",
+      "vocabularyNotes": [
+        {
+          "id": "v18",
+          "title": "squash",
+          "explanation": "動詞，指「壓扁、擠壓」。",
+          "examples": [
+            {
+              "english": "Accidentally, he squashed the tomato in his bag.",
+              "chinese": "他不小心把包包裡的番茄壓扁了。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p11",
+          "title": "snap off",
+          "explanation": "動詞片語，指「硬生生折斷、斷裂」。",
+          "examples": [
+            {
+              "english": "The strong wind caused the tree branch to snap off.",
+              "chinese": "強風導致樹枝折斷了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s57",
+      "order": 57,
+      "englishOriginal": "“Oops. My bad,” said the new kid.",
+      "chineseTranslation": "「噢，抱歉，是我的錯，」新來的轉學生說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n19",
+          "title": "my bad",
+          "explanation": "非常常用的口語俚語，簡短表示「是我的錯、抱歉」。",
+          "examples": [
+            {
+              "english": "Sorry I spilled the water, my bad!",
+              "chinese": "抱歉我把水打翻了，是我的錯！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s58",
+      "order": 58,
+      "englishOriginal": "“Wait,” said Clark. “He just wants to play. Let’s find a way!”",
+      "chineseTranslation": "「等等，」克拉克說，「他只是想玩而已。我們來想個辦法吧！」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s59",
+      "order": 59,
+      "englishOriginal": "And he swam at the new kid with all his might.",
+      "chineseTranslation": "於是，他使出全身的勁道朝新來的轉學生游去。",
+      "vocabularyNotes": [
+        {
+          "id": "v19",
+          "title": "might",
+          "explanation": "名詞，指「力量、威力、勁道」。",
+          "examples": [
+            {
+              "english": "He pushed the heavy door with all his might.",
+              "chinese": "他使出全身的力氣推開那扇重門。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p12",
+          "title": "with all one's might",
+          "explanation": "片語，指「使盡全力地、拼命地」。",
+          "examples": [
+            {
+              "english": "She pulled the rope with all her might.",
+              "chinese": "她使盡全力拉著繩子。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s60",
+      "order": 60,
+      "englishOriginal": "Clark played harder than he ever had before—upsy-downsy and spinna-ma-jig.",
+      "chineseTranslation": "克拉克比以往任何時候都更加賣力地玩著——玩了「顛顛倒倒」和「轉轉樂」。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g6",
+          "title": "Comparative with Past Perfect",
+          "explanation": "「harder than he ever had before」是比較級配合過去完成式，強調「比過去任何時候都更……」。",
+          "examples": [
+            {
+              "english": "He worked harder than he ever had before to pass the test.",
+              "chinese": "為了通過測試，他比以往任何時候都更加努力工作。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s61",
+      "order": 61,
+      "englishOriginal": "Why, he even made up a new game: tail-whump-a-lumpus!",
+      "chineseTranslation": "哇，他甚至還發明了一個新遊戲：甩尾大碰撞！",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p13",
+          "title": "make up",
+          "explanation": "片語，在這裡指「捏造、編造或發明（遊戲、故事等）」。",
+          "examples": [
+            {
+              "english": "The kids loved to make up their own games in the yard.",
+              "chinese": "孩子們喜歡在院子裡發明自己的遊戲。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n20",
+          "title": "Why, ...",
+          "explanation": "當「Why」放在句首作為感嘆詞時，並不表示「為什麼」，而是用來表達驚訝、恍然大悟或強調口氣。",
+          "examples": [
+            {
+              "english": "Why, I never expected to see you here!",
+              "chinese": "哎呀，我真沒想到會在這裡遇見你！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s62",
+      "order": 62,
+      "englishOriginal": "“Wow, that was fun,” said the new kid breathlessly, and he settled down.",
+      "chineseTranslation": "「哇，太好玩了，」新來的轉學生上氣不接下氣地說，然後平靜了下來。",
+      "vocabularyNotes": [
+        {
+          "id": "v20",
+          "title": "breathlessly",
+          "explanation": "副詞，指「上氣不接下氣地、喘氣地」。",
+          "examples": [
+            {
+              "english": "He arrived breathlessly after running up the stairs.",
+              "chinese": "他跑上樓梯後，上氣不接下氣地到了。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p14",
+          "title": "settle down",
+          "explanation": "片語，指「安頓下來、冷靜/平靜下來」。",
+          "examples": [
+            {
+              "english": "The students quickly settled down when the teacher entered.",
+              "chinese": "老師進來時，學生們很快就安靜了下來。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s63",
+      "order": 63,
+      "englishOriginal": "“If you want to come to school, you’ve got to stay cool,” said Clark.",
+      "chineseTranslation": "「如果你想要來上學，你就得保持冷靜，」克拉克說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n21",
+          "title": "have got to",
+          "explanation": "極為常見的日常口語表達，表示「必須、不得不」，相當於「must」或「have to」。",
+          "examples": [
+            {
+              "english": "You've got to try this delicious dessert!",
+              "chinese": "你一定要嚐嚐這個美味的甜點！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s64",
+      "order": 64,
+      "englishOriginal": "“That’s right, Clark,” said Mrs. Inkydink.",
+      "chineseTranslation": "「說得對，克拉克，」墨水瓶太太說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s65",
+      "order": 65,
+      "englishOriginal": "“And thanks for taking care of our new classmate, Sid the Squid.”",
+      "chineseTranslation": "「還有，謝謝你照顧我們新來的同學，烏賊西德 (Sid the Squid)。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p15",
+          "title": "take care of",
+          "explanation": "片語，指「照顧、關照」。",
+          "examples": [
+            {
+              "english": "Thanks for taking care of my cat while I was away.",
+              "chinese": "謝謝你在我不在的時候照顧我的貓。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s66",
+      "order": 66,
+      "englishOriginal": "“Hooray for Clark the Shark!” everyone cheered.",
+      "chineseTranslation": "「為鯊魚克拉克歡呼！」大家高聲喊道。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p16",
+          "title": "hooray for...",
+          "explanation": "用來為某人或某事喝彩歡呼的表達語，意為「為……萬歲/歡呼」。",
+          "examples": [
+            {
+              "english": "Hooray for the winning team!",
+              "chinese": "為獲勝的隊伍歡呼！"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s67",
+      "order": 67,
+      "englishOriginal": "That night Clark’s mother asked, “What did you learn at school, dear?”",
+      "chineseTranslation": "那天晚上，克拉克的媽媽問道：「親愛的，你今天在學校學到了什麼？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s68",
+      "order": 68,
+      "englishOriginal": "“There’s a time and a place for everything,” Clark said.",
+      "chineseTranslation": "「凡事都要看時機和場合，」克拉克說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s69",
+      "order": 69,
+      "englishOriginal": "“Sometimes you stay cool.”",
+      "chineseTranslation": "「有時候你要保持冷靜。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s70",
+      "order": 70,
       "englishOriginal": "“But sometimes a shark’s gotta do what a shark’s gotta do.”",
       "chineseTranslation": "「但有時候，一隻鯊魚該出手時還是得出手。」",
       "vocabularyNotes": [],
@@ -341,17 +1469,220 @@
       "grammarNotes": [],
       "nativeExpressionNotes": [
         {
-          "id": "s12_n1",
-          "title": "A man's gotta do what a man's gotta do",
-          "explanation": "這句話改編自美國經典名言 \"A man's gotta do what a man's gotta do\"（男子漢該做什麼就得做什麼 / 責無旁貸），在這裡置換成 shark，用來形容克拉克意識到在危急關頭，自己必須發揮身為鯊魚強壯本色的一種擔當，非常道地且有梗。",
+          "id": "n22",
+          "title": "A man's gotta do what a man's gotta do.",
+          "explanation": "改編自著名的經典美式俚語/俗語，意思是「該做的事還是要做」、「責任所在，不得不為」。",
           "examples": [
             {
-              "english": "I don't want to leave my family, but a man's gotta do what a man's gotta do.",
-              "chinese": "我不想離開家人，但男人有些責任在身，也是責無旁貸。"
+              "english": "I don't like getting up early, but a worker's gotta do what a worker's gotta do.",
+              "chinese": "我不喜歡早起，但打工人該做的事還是得做。"
             }
           ]
         }
       ]
+    },
+    {
+      "id": "s71",
+      "order": 71,
+      "englishOriginal": "The end.",
+      "chineseTranslation": "（故事）結束。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s72",
+      "order": 72,
+      "englishOriginal": "That was Clark the Shark everybody.",
+      "chineseTranslation": "各位，以上就是《克拉克鯊魚》的故事。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s73",
+      "order": 73,
+      "englishOriginal": "I think it speaks to all of us.",
+      "chineseTranslation": "我覺得這故事引起了我們所有人的共鳴。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p17",
+          "title": "speak to someone",
+          "explanation": "片語，在這裡指「引起某人的共鳴、觸動某人」。",
+          "examples": [
+            {
+              "english": "The poem really speaks to people who are feeling lonely.",
+              "chinese": "這首詩真的觸動了那些感到孤獨的人。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s74",
+      "order": 74,
+      "englishOriginal": "It talks about how we all want to do what we want to do, right?",
+      "chineseTranslation": "它講述了我們其實都想做自己想做的事，對吧？",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s75",
+      "order": 75,
+      "englishOriginal": "We want to be ourselves.",
+      "chineseTranslation": "我們想要做自己。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s76",
+      "order": 76,
+      "englishOriginal": "And we want to yell when we want to yell and play and laugh and have a good time.",
+      "chineseTranslation": "當我們想大喊時就想大喊，想玩耍、想笑、想過得開心。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p18",
+          "title": "have a good time",
+          "explanation": "常用片語，表示「玩得開心、過得愉快」。",
+          "examples": [
+            {
+              "english": "We had a great time at the party last night.",
+              "chinese": "我們昨晚在派對上玩得很開心。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s77",
+      "order": 77,
+      "englishOriginal": "But as Mrs. Inkydink said, there's a time and a place for everything.",
+      "chineseTranslation": "但正如墨水瓶太太所說的，凡事都要看時機和場合。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s78",
+      "order": 78,
+      "englishOriginal": "And there is a time and a place to be considerate of other people's feelings.",
+      "chineseTranslation": "而且，我們也需要有體諒他人感受的時機與場合。",
+      "vocabularyNotes": [
+        {
+          "id": "v21",
+          "title": "considerate",
+          "explanation": "形容詞，指「體貼的、體諒的、體恤的」。",
+          "examples": [
+            {
+              "english": "It was very considerate of you to offer your seat.",
+              "chinese": "你主動讓座真是太體貼了。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p19",
+          "title": "be considerate of",
+          "explanation": "片語，指「體諒……、考慮到……」。",
+          "examples": [
+            {
+              "english": "Please be considerate of your neighbors at night.",
+              "chinese": "夜間請體諒你的鄰居。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s79",
+      "order": 79,
+      "englishOriginal": "I think the lesson is: Be considerate.",
+      "chineseTranslation": "我覺得這個故事給我們的啟示是：要懂得體諒他人。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s80",
+      "order": 80,
+      "englishOriginal": "Thank you so much for watching Storyline Online.",
+      "chineseTranslation": "非常感謝大家收看 Storyline Online。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s81",
+      "order": 81,
+      "englishOriginal": "Make sure to check out all of the other stories.",
+      "chineseTranslation": "一定要去看看其他的精彩故事喔。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p20",
+          "title": "make sure to",
+          "explanation": "片語，意為「務必、一定要做某事」。",
+          "examples": [
+            {
+              "english": "Make sure to lock the door before you leave.",
+              "chinese": "離開前務必鎖門。"
+            }
+          ]
+        },
+        {
+          "id": "p21",
+          "title": "check out",
+          "explanation": "動詞片語，口語中指「去看看、欣賞、查看」。",
+          "examples": [
+            {
+              "english": "You should check out that new restaurant downtown.",
+              "chinese": "你應該去看看市中心那家新開的餐廳。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s82",
+      "order": 82,
+      "englishOriginal": "Keep watching and keep reading.",
+      "chineseTranslation": "保持收看，保持閱讀。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p22",
+          "title": "keep doing something",
+          "explanation": "片語，表示「持續做某事、保持某種狀態」。",
+          "examples": [
+            {
+              "english": "Keep practicing and you will get better.",
+              "chinese": "保持練習，你就會越來越進步。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
     }
   ]
 }

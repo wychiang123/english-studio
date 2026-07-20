@@ -3,26 +3,47 @@
   "lessonType": "english-story",
   "title": "Chester's Way",
   "source": "Storyline Online",
-  "sourceUrl": "https://storylineonline.net/",
+  "sourceUrl": "https://storylineonline.net/books/chesters-way/",
+  "author": "Kevin Henkes",
+  "narrator": "Katie Leclerc and Vanessa Marano",
   "language": "en",
-  "createdAt": "2026-07-15T12:30:00Z",
-  "description": "A story about Chester and Wilson, two best friends who share the exact same habits, and how their world expands when they meet a unique girl named Lilly.",
+  "createdAt": "2026-07-20T18:50:00Z",
+  "tags": [
+    "kids",
+    "friendship",
+    "school",
+    "individuality",
+    "animals"
+  ],
+  "description": "Chester and Wilson have a set way of doing everything until Lilly moves into the neighborhood. Though different at first, they learn that new friendships can bring fun and flexibility.",
   "sentences": [
     {
       "id": "s1",
       "order": 1,
-      "englishOriginal": "Chester had his own way of doing things.",
-      "chineseTranslation": "切斯特有他自己做事的一套方式。",
-      "vocabularyNotes": [],
-      "phraseNotes": [
+      "englishOriginal": "Welcome to Storyline Online, brought to you by the Screen Actors Guild Foundation.",
+      "chineseTranslation": "歡迎來到由美國影視演員協會基金會為您呈現的 Storyline Online。",
+      "vocabularyNotes": [
         {
-          "id": "s1_p1",
-          "title": "have one's own way of doing things",
-          "explanation": "指某人有自己獨特或固定的行事風格及習慣。",
+          "id": "v1",
+          "title": "foundation",
+          "explanation": "名詞，指「基金會」或非營利機構。",
           "examples": [
             {
-              "english": "My grandfather has his own way of doing things in the garden.",
-              "chinese": "我爺爺在整理花園時有他自己的一套方式。"
+              "english": "The foundation supports educational programs.",
+              "chinese": "該基金會支持教育計畫。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p1",
+          "title": "brought to you by",
+          "explanation": "常用於節目開場，表示「由……贊助/提供/呈現」。",
+          "examples": [
+            {
+              "english": "This event is brought to you by our local community.",
+              "chinese": "本次活動是由我們在地社區呈現的。"
             }
           ]
         }
@@ -33,21 +54,9 @@
     {
       "id": "s2",
       "order": 2,
-      "englishOriginal": "He always cut his sandwiches diagonally.",
-      "chineseTranslation": "他總是把三明治對角切開。",
-      "vocabularyNotes": [
-        {
-          "id": "s2_v1",
-          "title": "diagonally",
-          "explanation": "副詞，意為「對角地」或「斜對角地」。",
-          "examples": [
-            {
-              "english": "Fold the square piece of paper diagonally.",
-              "chinese": "將這張正方形的紙沿對角線折起來。"
-            }
-          ]
-        }
-      ],
+      "englishOriginal": "I'm Katie Leclerc.",
+      "chineseTranslation": "我是凱蒂·勒克萊爾 (Katie Leclerc)。",
+      "vocabularyNotes": [],
       "phraseNotes": [],
       "grammarNotes": [],
       "nativeExpressionNotes": []
@@ -55,185 +64,137 @@
     {
       "id": "s3",
       "order": 3,
-      "englishOriginal": "And he never left the house without double-knotting his shoes.",
-      "chineseTranslation": "而且他出門前一定會把鞋帶綁兩道結。",
+      "englishOriginal": "And I'm Vanessa Marano.",
+      "chineseTranslation": "我是凡妮莎·馬拉諾 (Vanessa Marano)。",
       "vocabularyNotes": [],
       "phraseNotes": [],
-      "grammarNotes": [
-        {
-          "id": "s3_g1",
-          "title": "never... without...",
-          "explanation": "雙重否定句型，用來強調「每逢……必定……」或「做某事時一定要……」。",
-          "examples": [
-            {
-              "english": "She never leaves the house without her umbrella.",
-              "chinese": "她出門必定會帶傘。"
-            }
-          ]
-        }
-      ],
-      "nativeExpressionNotes": [
-        {
-          "id": "s3_n1",
-          "title": "double-knotting his shoes",
-          "explanation": "綁雙重結以防止鞋帶鬆開，是英文描述綁鞋帶時非常道地寫實的說法。",
-          "examples": [
-            {
-              "english": "Make sure you double-knot your shoes before the race.",
-              "chinese": "跑步比賽前記得要把鞋帶綁緊、打個雙重結。"
-            }
-          ]
-        }
-      ]
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
     },
     {
       "id": "s4",
       "order": 4,
-      "englishOriginal": "And he always carried a miniature first-aid kit in his back pocket. Just in case.",
-      "chineseTranslation": "而且他總是在後口袋裡放一個微型急救包。以防萬一。",
+      "englishOriginal": "Today I am using American Sign Language for the deaf and hard-of-hearing viewers,",
+      "chineseTranslation": "今天我將為聽障與聽力受損的觀眾使用美國手語，",
       "vocabularyNotes": [
         {
-          "id": "s4_v1",
-          "title": "miniature",
-          "explanation": "形容詞，意為「微型的」、「袖珍的」或「小型的」。",
+          "id": "v2",
+          "title": "hard-of-hearing",
+          "explanation": "形容詞，指「聽力受損的、重聽的」。",
           "examples": [
             {
-              "english": "He collects miniature cars as a hobby.",
-              "chinese": "他的愛好是收集模型微型汽車。"
+              "english": "Subtitles help hard-of-hearing people enjoy movies.",
+              "chinese": "字幕能幫助聽力受損的人欣賞電影。"
             }
           ]
         }
       ],
-      "phraseNotes": [
-        {
-          "id": "s4_p1",
-          "title": "just in case",
-          "explanation": "常見的固定片語，意為「以防萬一」或「以備不時之需」。",
-          "examples": [
-            {
-              "english": "Take an extra key, just in case.",
-              "chinese": "多帶一把鑰匙吧，以防萬一。"
-            }
-          ]
-        }
-      ],
+      "phraseNotes": [],
       "grammarNotes": [],
       "nativeExpressionNotes": []
     },
     {
       "id": "s5",
       "order": 5,
-      "englishOriginal": "Chester's best friend Wilson was exactly the same way.",
-      "chineseTranslation": "切斯特最好的朋友威爾遜也完全是一模一樣。",
-      "vocabularyNotes": [],
-      "phraseNotes": [],
-      "grammarNotes": [],
-      "nativeExpressionNotes": [
+      "englishOriginal": "and we will be reading Chester's Way written and illustrated by Kevin Henkes.",
+      "chineseTranslation": "而我們今天將閱讀由凱文·漢克斯 (Kevin Henkes) 著繪的《切斯特的風格》 (Chester's Way)。",
+      "vocabularyNotes": [
         {
-          "id": "s5_n1",
-          "title": "exactly the same way",
-          "explanation": "用來形容某人的習慣、作風或反應與另一個人「完全一樣」，語氣十分道地自然。",
+          "id": "v3",
+          "title": "illustrate",
+          "explanation": "動詞，指「為（書本、文章等）繪製插圖」。",
           "examples": [
             {
-              "english": "My brother behaves exactly the same way when he is nervous.",
-              "chinese": "我弟弟緊張時的反應完全是一模一樣。"
+              "english": "He has written and illustrated many picture books.",
+              "chinese": "他寫作並繪製了許多繪本。"
             }
           ]
         }
-      ]
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
     },
     {
       "id": "s6",
       "order": 6,
-      "englishOriginal": "Chester wouldn't play baseball unless Wilson played, and they never swung at the first pitch or slid headfirst.",
-      "chineseTranslation": "除非威爾遜也上場，否則切斯特就不打棒球，而且他們絕不在第一球就揮棒，也從不頭朝前滑壘。",
+      "englishOriginal": "Chester had his own way of doing things.",
+      "chineseTranslation": "切斯特有他自己的一套做事方式。",
       "vocabularyNotes": [],
       "phraseNotes": [
         {
-          "id": "s6_p1",
-          "title": "swing at the first pitch",
-          "explanation": "棒球術語，指「對第一球揮棒」，在這裡也暗示做決定時非常謹慎、不輕舉妄動。",
+          "id": "p2",
+          "title": "have one's own way of doing things",
+          "explanation": "片語，表示「有自己固定的行事風格或做法」。",
           "examples": [
             {
-              "english": "The coach told the batter not to swing at the first pitch.",
-              "chinese": "教練告訴打者不要對第一球挥棒。"
+              "english": "She has her own way of solving difficult problems.",
+              "chinese": "她有她自己解決難題的一套方法。"
             }
           ]
         }
       ],
-      "grammarNotes": [
-        {
-          "id": "s6_g1",
-          "title": "wouldn't... unless...",
-          "explanation": "表示「除非……否則不……」，用來表達某種強烈的條件或堅持。",
-          "examples": [
-            {
-              "english": "He wouldn't go to the party unless his friend came along.",
-              "chinese": "除非他朋友一起去，否則他是不會去參加派對的。"
-            }
-          ]
-        }
-      ],
+      "grammarNotes": [],
       "nativeExpressionNotes": []
     },
     {
       "id": "s7",
       "order": 7,
-      "englishOriginal": "Some days I can't tell those two apart, said Wilson's mother.",
-      "chineseTranslation": "威爾遜的媽媽說：「有時候我真分不清他們兩個。」",
+      "englishOriginal": "“Hello, my name is Chester.",
+      "chineseTranslation": "「你好，我的名字叫切斯特。",
       "vocabularyNotes": [],
-      "phraseNotes": [
-        {
-          "id": "s7_p1",
-          "title": "tell apart",
-          "explanation": "動詞片語，意為「區分」、「辨別」或「分辨兩者之間的差異」。",
-          "examples": [
-            {
-              "english": "The twins look so much alike that I can't tell them apart.",
-              "chinese": "這對雙胞胎長得太像了，我實在分不出來。"
-            }
-          ]
-        }
-      ],
+      "phraseNotes": [],
       "grammarNotes": [],
       "nativeExpressionNotes": []
     },
     {
       "id": "s8",
       "order": 8,
-      "englishOriginal": "They really are two peas in a pod, said Chester's mother.",
-      "chineseTranslation": "切斯特的媽媽說：「他們兩個人真是如出一轍。」",
-      "vocabularyNotes": [],
-      "phraseNotes": [],
-      "grammarNotes": [],
-      "nativeExpressionNotes": [
+      "englishOriginal": "I like croquet and peanut butter and making my bed.”",
+      "chineseTranslation": "我喜歡槌球、花生醬，還有疊床單。」",
+      "vocabularyNotes": [
         {
-          "id": "s8_n1",
-          "title": "two peas in a pod",
-          "explanation": "英文經典成語，字面意思是「同一個豆莢裡的兩顆豆子」，用來形容兩個人性格、長相或行為極為相似，相當於中文的「如出一轍」或「形影不離」。",
+          "id": "v4",
+          "title": "croquet",
+          "explanation": "名詞，指「槌球運動」。",
           "examples": [
             {
-              "english": "They dress alike and share the same hobbies; they are like two peas in a pod.",
-              "chinese": "他們穿著相似且愛好相同，簡直是如出一轍。"
+              "english": "They played croquet on the lawn on Sunday afternoon.",
+              "chinese": "他們星期天下午在草坪上打槌球。"
             }
           ]
         }
-      ]
+      ],
+      "phraseNotes": [
+        {
+          "id": "p3",
+          "title": "make one's bed",
+          "explanation": "片語，指「整理床鋪、疊被子」。",
+          "examples": [
+            {
+              "english": "He always makes his bed right after waking up.",
+              "chinese": "他總是起床後立刻整理床鋪。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
     },
     {
       "id": "s9",
       "order": 9,
-      "englishOriginal": "And then Lilly moved into the neighborhood.",
-      "chineseTranslation": "然後，莉莉搬進了這個社區。",
+      "englishOriginal": "He always cut his sandwiches diagonally.",
+      "chineseTranslation": "他總是把三明治對角切開。",
       "vocabularyNotes": [
         {
-          "id": "s9_v1",
-          "title": "neighborhood",
-          "explanation": "名詞，指「鄰近地區」或「社區」。",
+          "id": "v5",
+          "title": "diagonally",
+          "explanation": "副詞，指「對角地、斜對角地」。",
           "examples": [
             {
-              "english": "There is a beautiful park in our neighborhood.",
-              "chinese": "我們社區裡有一個漂亮的公園。"
+              "english": "Fold the paper diagonally to make a triangle.",
+              "chinese": "將紙對角對折成三角形。"
             }
           ]
         }
@@ -245,87 +206,53 @@
     {
       "id": "s10",
       "order": 10,
-      "englishOriginal": "And she never left the house without one of her nifty disguises.",
-      "chineseTranslation": "而且她每次出門一定會換上她那些俏皮的偽裝道具。",
-      "vocabularyNotes": [
+      "englishOriginal": "He always got out of bed on the same side.",
+      "chineseTranslation": "他總是从床的同一側下床。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
         {
-          "id": "s10_v1",
-          "title": "nifty",
-          "explanation": "形容詞，非正式用語，形容事物「極好的」、「漂亮的」或「精巧俏皮的」。",
+          "id": "p4",
+          "title": "get out of bed",
+          "explanation": "片語，指「起床、下床」。",
           "examples": [
             {
-              "english": "That is a nifty little gadget you have there.",
-              "chinese": "你那個小玩意兒還真精巧。"
-            }
-          ]
-        },
-        {
-          "id": "s10_v2",
-          "title": "disguise",
-          "explanation": "名詞，指「偽裝」或「喬裝打扮的服飾」。",
-          "examples": [
-            {
-              "english": "He wore a fake beard as a disguise.",
-              "chinese": "他戴著假鬍鬚作為偽裝。"
+              "english": "It is hard to get out of bed on cold winter mornings.",
+              "chinese": "在寒冷的冬天早晨，要下床真不容易。"
             }
           ]
         }
       ],
-      "phraseNotes": [],
       "grammarNotes": [],
       "nativeExpressionNotes": []
     },
     {
       "id": "s11",
       "order": 11,
-      "englishOriginal": "Just when they were about to give up hope, a fierce-looking cat with horrible fangs jumped out of the bushes and frightened the older boys away.",
-      "chineseTranslation": "正當他們快要絕望的時候，一隻長著可怕尖牙、面目兇惡的貓從灌木叢裡跳了出來，把那些大男孩嚇跑了。",
+      "englishOriginal": "And he never left the house without double-knotting his shoes.",
+      "chineseTranslation": "而且每次出門前，他一定會把鞋帶打雙結。",
       "vocabularyNotes": [
         {
-          "id": "s11_v1",
-          "title": "fangs",
-          "explanation": "名詞（複數），指動物（如貓、狗、蛇等）的「尖牙」或「毒牙」。",
+          "id": "v6",
+          "title": "double-knot",
+          "explanation": "動詞，指「打雙結（防止鞋帶鬆脫）」。",
           "examples": [
             {
-              "english": "The dog bared its sharp fangs at the stranger.",
-              "chinese": "那隻狗對著陌生人露出了銳利的尖牙。"
+              "english": "Make sure you double-knot your shoes before running.",
+              "chinese": "跑步前務必把鞋带打雙結。"
             }
           ]
         }
       ],
-      "phraseNotes": [
-        {
-          "id": "s11_p1",
-          "title": "give up hope",
-          "explanation": "意為「放棄希望」或「絕望」。",
-          "examples": [
-            {
-              "english": "We never gave up hope even during the hardest times.",
-              "chinese": "即使在最艱難的時刻，我們也從未放棄希望。"
-            }
-          ]
-        },
-        {
-          "id": "s11_p2",
-          "title": "frighten... away",
-          "explanation": "意為「把……嚇跑」。",
-          "examples": [
-            {
-              "english": "The loud noise frightened the birds away.",
-              "chinese": "巨大的聲響把鳥兒們都嚇跑了。"
-            }
-          ]
-        }
-      ],
+      "phraseNotes": [],
       "grammarNotes": [
         {
-          "id": "s11_g1",
-          "title": "fierce-looking (compound adjective)",
-          "explanation": "複合形容詞，由「形容詞/副詞 + 現在分詞」組成，用來描述外觀「看起來很兇狠的」。",
+          "id": "g1",
+          "title": "Double Negative (never... without...)",
+          "explanation": "「never... without + V-ing」為雙重否定句型，強調「每次做某事時，必定會……」。",
           "examples": [
             {
-              "english": "A strange, sweet-smelling flower grew in the yard.",
-              "chinese": "院子裡長出一朵奇特、聞起來很香的花。"
+              "english": "He never leaves home without taking his umbrella.",
+              "chinese": "他每次出門一定會帶傘。"
             }
           ]
         }
@@ -335,24 +262,1765 @@
     {
       "id": "s12",
       "order": 12,
-      "englishOriginal": "Chester and Wilson and Lilly, Lilly and Wilson and Chester. That's the way it was.",
-      "chineseTranslation": "切斯特、威爾遜和莉莉，莉莉、威爾遜和切斯特。事情就是這樣。",
+      "englishOriginal": "Chester always had the same thing for breakfast toast with jam and peanut butter.",
+      "chineseTranslation": "切斯特的早餐永遠吃一樣的東西：抹了果醬和花生醬的吐司。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p5",
+          "title": "have... for breakfast",
+          "explanation": "片語，表示「早餐吃……」。",
+          "examples": [
+            {
+              "english": "I usually have cereal and milk for breakfast.",
+              "chinese": "我早餐通常吃麥片加牛奶。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s13",
+      "order": 13,
+      "englishOriginal": "And he always carried a miniature first-aid kit in his back pocket.",
+      "chineseTranslation": "而且他的後口袋裡總是放著一個迷你急救包。",
+      "vocabularyNotes": [
+        {
+          "id": "v7",
+          "title": "miniature",
+          "explanation": "形容詞，指「微型的、縮小版的」。",
+          "examples": [
+            {
+              "english": "She collects miniature teapots.",
+              "chinese": "她收集微型茶壺。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p6",
+          "title": "first-aid kit",
+          "explanation": "名詞片語，指「急救箱、急救包」。",
+          "examples": [
+            {
+              "english": "Every car should have a first-aid kit.",
+              "chinese": "每輛車都應該配備急救包。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s14",
+      "order": 14,
+      "englishOriginal": "Just in case.",
+      "chineseTranslation": "以防萬一。",
       "vocabularyNotes": [],
       "phraseNotes": [],
       "grammarNotes": [],
       "nativeExpressionNotes": [
         {
-          "id": "s12_n1",
-          "title": "That's the way it was.",
-          "explanation": "在故事中用來作結的道地句子，表示「這就是當時的狀況」或「一向來都是如此」，有一種溫馨而肯定的故事節奏感。",
+          "id": "n1",
+          "title": "just in case",
+          "explanation": "極為常用的口語表達，表示「以防萬一、以備不時之需」。",
           "examples": [
             {
-              "english": "We worked hard every winter, and that's the way it was.",
-              "chinese": "我們每個冬天都努力工作，情況向來就是如此。"
+              "english": "Take an umbrella, just in case.",
+              "chinese": "帶把傘吧，以防萬一。"
             }
           ]
         }
       ]
+    },
+    {
+      "id": "s15",
+      "order": 15,
+      "englishOriginal": "“You definitely have a mind of your own,” said Chester's mother.",
+      "chineseTranslation": "「你還真的很有自己的主見呢，」切斯特的媽媽說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p7",
+          "title": "have a mind of one's own",
+          "explanation": "片語，指「有自己的主見、非常有主見（有時亦指物品不聽使喚）」。",
+          "examples": [
+            {
+              "english": "Even as a toddler, she had a mind of her own.",
+              "chinese": "即使還是個幼童，她就非常有自己的主見了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s16",
+      "order": 16,
+      "englishOriginal": "“That's one way to put it,” said Chester's father.",
+      "chineseTranslation": "「也可以這麼說啦，」切斯特的爸爸說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n2",
+          "title": "That's one way to put it",
+          "explanation": "口語俚語，用來表示「這倒也是一種說法/看法（帶點微妙或委婉的保留態度）」。",
+          "examples": [
+            {
+              "english": "He's very unique. — Well, that's one way to put it.",
+              "chinese": "他真的很獨特。— 嗯，也可以這麼說啦。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "order": 17,
+      "englishOriginal": "Chester's best friend Wilson was exactly the same way.",
+      "chineseTranslation": "切斯特最好的朋友威爾森也完全是這個樣子。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p8",
+          "title": "the same way",
+          "explanation": "片語，表示「同樣地、也是這樣」。",
+          "examples": [
+            {
+              "english": "I feel the same way about this movie.",
+              "chinese": "我對這部電影也有同感。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s18",
+      "order": 18,
+      "englishOriginal": "That's why they were best friends.",
+      "chineseTranslation": "這就是為什麼他們會成為最好的朋友。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g2",
+          "title": "That's why + Clause",
+          "explanation": "「That's why...」表示「這就是為什麼……」，後面接結果句。",
+          "examples": [
+            {
+              "english": "He practiced every day. That's why he won.",
+              "chinese": "他每天練習，這就是為什麼他贏了。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s19",
+      "order": 19,
+      "englishOriginal": "Chester wouldn't play baseball unless Wilson played, and they never swung at the first pitch or slid headfirst.",
+      "chineseTranslation": "除非威爾森一起打，否則切斯特絕不打棒球；而且他們從不揮擊第一球，也從不頭朝前滑壘。",
+      "vocabularyNotes": [
+        {
+          "id": "v8",
+          "title": "swing",
+          "explanation": "動詞，在這裡指棒球中的「揮棒」。",
+          "examples": [
+            {
+              "english": "The batter swung at the fastball.",
+              "chinese": "打擊手對著快速球揮棒。"
+            }
+          ]
+        },
+        {
+          "id": "v9",
+          "title": "pitch",
+          "explanation": "名詞，棒球用語指「投球、投出的球」。",
+          "examples": [
+            {
+              "english": "It was a perfect pitch for a home run.",
+              "chinese": "那是個適合打全壘打的完美投球。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p9",
+          "title": "slide headfirst",
+          "explanation": "棒球術語，指「頭部朝前的頭部滑壘」。",
+          "examples": [
+            {
+              "english": "He slid headfirst into third base.",
+              "chinese": "他頭朝前撲滑上了三壘。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "g3",
+          "title": "unless + Clause",
+          "explanation": "「unless」意為「除非……否則不……」，引導條件子句。",
+          "examples": [
+            {
+              "english": "We won't go unless you come with us.",
+              "chinese": "除非你跟我一起去，否則我們不去。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s20",
+      "order": 20,
+      "englishOriginal": "Wilson wouldn't ride his bike unless Chester wanted to and they always used hand signals.",
+      "chineseTranslation": "除非切斯特也想騎，否則威爾森絕不騎自行車，而且他們騎車時總會比手勢。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p10",
+          "title": "hand signals",
+          "explanation": "名詞片語，指騎車或行車時用的「手勢信號」。",
+          "examples": [
+            {
+              "english": "Always use hand signals when turning on a bicycle.",
+              "chinese": "騎單車轉彎時一定要打手勢。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s21",
+      "order": 21,
+      "englishOriginal": "If Chester was hungry, Wilson was too, but they rarely ate between meals.",
+      "chineseTranslation": "如果切斯特餓了，威爾森也會餓，但他們很少在正餐之間吃零食。",
+      "vocabularyNotes": [
+        {
+          "id": "v10",
+          "title": "rarely",
+          "explanation": "副詞，指「很少、難得」。",
+          "examples": [
+            {
+              "english": "He rarely goes out at night.",
+              "chinese": "他晚上很少出門。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p11",
+          "title": "between meals",
+          "explanation": "片語，指「兩餐之間（吃點心或零食）」。",
+          "examples": [
+            {
+              "english": "Try not to snack between meals.",
+              "chinese": "盡量不要在兩餐之間吃零食。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s22",
+      "order": 22,
+      "englishOriginal": "“Some days I can't tell those two apart,” said Wilson's mother.",
+      "chineseTranslation": "「有時候我真的分不清他們兩個誰是誰，」威爾森的媽媽說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p12",
+          "title": "tell someone/something apart",
+          "explanation": "片語，表示「分辨、區分（兩人或兩物）」。",
+          "examples": [
+            {
+              "english": "The twins look so similar that I can't tell them apart.",
+              "chinese": "這對雙胞胎長得太像了，我根本分不出來。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s23",
+      "order": 23,
+      "englishOriginal": "“Me either,” said Wilson's father.",
+      "chineseTranslation": "「我也是，」威爾森的爸爸說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n3",
+          "title": "Me either",
+          "explanation": "日常口語中對否定句表達「我也不……」的道地說法（標準文法多用 Me neither 或 Neither do I）。",
+          "examples": [
+            {
+              "english": "I don't like horror movies. — Me either.",
+              "chinese": "我不喜歡恐怖片。— 我也是。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s24",
+      "order": 24,
+      "englishOriginal": "Chester and Wilson, Wilson and Chester.",
+      "chineseTranslation": "切斯特和威爾森，威爾森和切斯特。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s25",
+      "order": 25,
+      "englishOriginal": "That's the way it was.",
+      "chineseTranslation": "事情向來就是這樣。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n4",
+          "title": "That's the way it was",
+          "explanation": "習慣用語，用來描述某種常態或以往既定的習慣情況，「以往一直都是如此」。",
+          "examples": [
+            {
+              "english": "They worked together for years. That's just the way it was.",
+              "chinese": "他們合作許多年了，以往一直都是這樣。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s26",
+      "order": 26,
+      "englishOriginal": "They loved to go on picnics.",
+      "chineseTranslation": "他們非常喜歡去野餐。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p13",
+          "title": "go on a picnic",
+          "explanation": "片語，指「去野餐」。",
+          "examples": [
+            {
+              "english": "Let's go on a picnic this Saturday.",
+              "chinese": "我們這週六去野餐吧。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s27",
+      "order": 27,
+      "englishOriginal": "Once, when Wilson accidently swallowed a watermelon seed and cried because he was afraid that a watermelon plant would grow inside him, Chester swallowed one, too.",
+      "chineseTranslation": "有一次，當威爾森不小心吞下西瓜籽、因為害怕肚子裡會長出西瓜幼苗而哭泣時，切斯特也吞了一顆。",
+      "vocabularyNotes": [
+        {
+          "id": "v11",
+          "title": "swallow",
+          "explanation": "動詞，指「吞下、吞嚥」。",
+          "examples": [
+            {
+              "english": "Swallow the pill with a glass of water.",
+              "chinese": "配一杯水把藥丸吞下去。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s28",
+      "order": 28,
+      "englishOriginal": "“Don't worry,” said Chester.",
+      "chineseTranslation": "「別擔心，」切斯特說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s29",
+      "order": 29,
+      "englishOriginal": "“Now, if you grow a watermelon plant, I'll grow one, too.”",
+      "chineseTranslation": "「現在，如果你肚子裡長出西瓜，我也會長出一顆。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g4",
+          "title": "First Conditional (If + Present, Will + Verb)",
+          "explanation": "條件句，表達將來可能發生的情況與結果。",
+          "examples": [
+            {
+              "english": "If you study hard, you will pass the test.",
+              "chinese": "如果你努力學習，你就會通過考試。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s30",
+      "order": 30,
+      "englishOriginal": "Chester duplicated his Christmas list every year and gave a copy to Wilson because they always wanted the same things anyway.",
+      "chineseTranslation": "切斯特每年都會把自己的聖誕願望清單複製一份給威爾森，因為反正他們想要的東西總是完全一樣。",
+      "vocabularyNotes": [
+        {
+          "id": "v12",
+          "title": "duplicate",
+          "explanation": "動詞，指「複製、複印、製作副本」。",
+          "examples": [
+            {
+              "english": "Please duplicate this file for everyone.",
+              "chinese": "請把這個檔案複製一份給每個人。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s31",
+      "order": 31,
+      "englishOriginal": "For Halloween, they always dressed as things that went together salt and pepper shakers, two mittens on a string, ham and eggs.",
+      "chineseTranslation": "萬聖節時，他們總是扮成配套的東西：鹽罐與胡椒罐、一根繩子串著的兩隻手套，或是火腿配蛋。",
+      "vocabularyNotes": [
+        {
+          "id": "v13",
+          "title": "mitten",
+          "explanation": "名詞，指「連指手套」。",
+          "examples": [
+            {
+              "english": "She wore wool mittens to keep her hands warm.",
+              "chinese": "她戴著羊毛連指手套來保暖。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p14",
+          "title": "dress as",
+          "explanation": "片語，指「打扮成……、裝扮成……」。",
+          "examples": [
+            {
+              "english": "The kids dressed as superheroes for the party.",
+              "chinese": "孩子們裝扮成超級英雄參加派對。"
+            }
+          ]
+        },
+        {
+          "id": "p15",
+          "title": "go together",
+          "explanation": "片語，指「相配、搭配得宜」。",
+          "examples": [
+            {
+              "english": "Peanut butter and jelly go together really well.",
+              "chinese": "花生醬和果醬非常搭配。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s32",
+      "order": 32,
+      "englishOriginal": "“They really are two peas in a pod,” said Chester's mother.",
+      "chineseTranslation": "「他們兩個還真的是形影不離、一模一樣呢，」切斯特的媽媽說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n5",
+          "title": "two peas in a pod",
+          "explanation": "極為著名的英文成語，比喻兩人「極其相似、形影不離」（宛如同一個豆莢裡的兩顆豆子）。",
+          "examples": [
+            {
+              "english": "The two brothers are like two peas in a pod.",
+              "chinese": "這兄弟倆簡直是一模一樣、形影不離。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s33",
+      "order": 33,
+      "englishOriginal": "“Looks like it,” said Chester's father.",
+      "chineseTranslation": "「看起來確實是這樣，」切斯特的爸爸說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n6",
+          "title": "Looks like it",
+          "explanation": "常用道地表達，表示「看樣子是的、似乎確實如此」。",
+          "examples": [
+            {
+              "english": "Is it going to rain? — Looks like it.",
+              "chinese": "要下雨了嗎？— 看樣子是的。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s34",
+      "order": 34,
+      "englishOriginal": "In spring, Chester and Wilson shared the same umbrella.",
+      "chineseTranslation": "春天時，切斯特和威爾森共用同一把傘。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s35",
+      "order": 35,
+      "englishOriginal": "In winter, they never threw snowballs at each other.",
+      "chineseTranslation": "冬天時，他們從不互相砸雪球。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p16",
+          "title": "throw... at...",
+          "explanation": "片語，指「向……投擲……」。",
+          "examples": [
+            {
+              "english": "Don't throw rocks at the window.",
+              "chinese": "不要拿石頭扔窗戶。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s36",
+      "order": 36,
+      "englishOriginal": "In fall, they raked leaves together.",
+      "chineseTranslation": "秋天時，他們一起耙落葉。",
+      "vocabularyNotes": [
+        {
+          "id": "v14",
+          "title": "rake",
+          "explanation": "動詞，指用耙子「耙平、耙集（落葉或草）」。",
+          "examples": [
+            {
+              "english": "We raked the leaves into a big pile.",
+              "chinese": "我們把落葉耙成了一大堆。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s37",
+      "order": 37,
+      "englishOriginal": "And in summer, they reminded each other to wear sunscreen, so they wouldn't burn.",
+      "chineseTranslation": "而在夏天，他們會互相提醒要擦防曬乳，這樣才不會曬傷。",
+      "vocabularyNotes": [
+        {
+          "id": "v15",
+          "title": "sunscreen",
+          "explanation": "名詞，指「防曬乳、防曬霜」。",
+          "examples": [
+            {
+              "english": "Don't forget to put on sunscreen before going to the beach.",
+              "chinese": "去海灘前別忘了擦防曬乳。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p17",
+          "title": "remind someone to do something",
+          "explanation": "片語，指「提醒某人做某事」。",
+          "examples": [
+            {
+              "english": "Please remind me to call John tomorrow.",
+              "chinese": "請提醒我明天打電話給約翰。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s38",
+      "order": 38,
+      "englishOriginal": "Chester and Wilson, Wilson and Chester.",
+      "chineseTranslation": "切斯特和威爾森，威爾森和切斯特。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s39",
+      "order": 39,
+      "englishOriginal": "That's the way it was.",
+      "chineseTranslation": "事情向來就是這樣。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s40",
+      "order": 40,
+      "englishOriginal": "And then Lilly moved into the neighborhood.",
+      "chineseTranslation": "然後，莉莉 (Lilly) 搬到了這個社區。",
+      "vocabularyNotes": [
+        {
+          "id": "v16",
+          "title": "neighborhood",
+          "explanation": "名詞，指「鄰近地區、社區」。",
+          "examples": [
+            {
+              "english": "A new family moved into our neighborhood.",
+              "chinese": "一個新家庭搬到了我們的社區。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s41",
+      "order": 41,
+      "englishOriginal": "I'm Lilly! I am the Queen!",
+      "chineseTranslation": "我是莉莉！我是女王！",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s42",
+      "order": 42,
+      "englishOriginal": "I like EVERYTHING!",
+      "chineseTranslation": "我喜歡每一樣東西！",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s43",
+      "order": 43,
+      "englishOriginal": "Lilly had her own way of doing things...",
+      "chineseTranslation": "莉莉也有她自己一套獨特的做事方式……",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s44",
+      "order": 44,
+      "englishOriginal": "She wore band-aids all over her arms and legs, to look brave.",
+      "chineseTranslation": "她的手手臂和雙腿上貼滿了 OK 繃，好讓自己看起來很勇敢。",
+      "vocabularyNotes": [
+        {
+          "id": "v17",
+          "title": "band-aid",
+          "explanation": "名詞，指「OK繃、創可貼」。",
+          "examples": [
+            {
+              "english": "He put a band-aid on his scraped knee.",
+              "chinese": "他在擦傷的膝蓋上貼了一塊 OK 繃。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p18",
+          "title": "all over",
+          "explanation": "片語，指「到處、遍及」。",
+          "examples": [
+            {
+              "english": "There were toys all over the floor.",
+              "chinese": "地板上到處都是玩具。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s45",
+      "order": 45,
+      "englishOriginal": "She talked backwards to herself sometimes, so no one would know what she was saying.",
+      "chineseTranslation": "她有時會對自己倒著說話，這樣就沒有人知道她在說什麼。",
+      "vocabularyNotes": [
+        {
+          "id": "v18",
+          "title": "backwards",
+          "explanation": "副詞，指「倒著地、向後地」。",
+          "examples": [
+            {
+              "english": "Can you count backwards from ten to one?",
+              "chinese": "你能從十倒數到一嗎？"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g5",
+          "title": "so + Clause (purpose)",
+          "explanation": "「so」引導目的子句，表示「以便……、這樣就可以……」。",
+          "examples": [
+            {
+              "english": "Speak louder so everyone can hear you.",
+              "chinese": "大聲點說，這樣大家才能聽到你。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s46",
+      "order": 46,
+      "englishOriginal": "I ma Yllil",
+      "chineseTranslation": "莉莉是我是（I am Lilly 的倒讀）",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s47",
+      "order": 47,
+      "englishOriginal": "And she never left the house without one of her nifty disguises.",
+      "chineseTranslation": "而且每次出門，她一定會戴上她酷炫的變裝道具之一。",
+      "vocabularyNotes": [
+        {
+          "id": "v19",
+          "title": "nifty",
+          "explanation": "形容詞，口語中指「極好的、巧妙的、酷炫的」。",
+          "examples": [
+            {
+              "english": "That's a nifty little tool you have there.",
+              "chinese": "你那裡有個挺酷的小工具。"
+            }
+          ]
+        },
+        {
+          "id": "v20",
+          "title": "disguise",
+          "explanation": "名詞，指「偽裝、變裝用具」。",
+          "examples": [
+            {
+              "english": "He wore a wig as a disguise.",
+              "chinese": "他戴著假髮作為偽裝。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s48",
+      "order": 48,
+      "englishOriginal": "Lilly waved at all the cars that passed by, even if she didn't know who was in them.",
+      "chineseTranslation": "莉莉會對所有路過的車輛揮手，即使她根本不知道車裡坐的是誰。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p19",
+          "title": "pass by",
+          "explanation": "片語，指「路過、經過」。",
+          "examples": [
+            {
+              "english": "A red sports car just passed by.",
+              "chinese": "一輛紅色的跑車剛好經過。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "g6",
+          "title": "even if (conjunction)",
+          "explanation": "引導讓步條件子句，表示「即使、縱使」。",
+          "examples": [
+            {
+              "english": "I will go even if it rains.",
+              "chinese": "即使下雨我也要去。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s49",
+      "order": 49,
+      "englishOriginal": "And she always carried a loaded squirt gun in her back pocket.",
+      "chineseTranslation": "而且她的後口袋裡總是裝著一把裝滿水的滋水槍。",
+      "vocabularyNotes": [
+        {
+          "id": "v21",
+          "title": "squirt gun",
+          "explanation": "名詞，指玩具「水槍」。",
+          "examples": [
+            {
+              "english": "The kids had fun playing with squirt guns in the yard.",
+              "chinese": "孩子們在院子裡玩水槍玩得不亦樂乎。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s50",
+      "order": 50,
+      "englishOriginal": "Just in case.",
+      "chineseTranslation": "以防萬一。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s51",
+      "order": 51,
+      "englishOriginal": "“She definitely has a mind of her own,” said Chester.",
+      "chineseTranslation": "「她還真的非常有自己的主見呢，」切斯特說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s52",
+      "order": 52,
+      "englishOriginal": "“That's one way to put it,” said Wilson.",
+      "chineseTranslation": "「也可以這麼說啦，」威爾森說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s53",
+      "order": 53,
+      "englishOriginal": "When Lilly asked Chester and Wilson to play, they said they were busy.",
+      "chineseTranslation": "當莉莉找切斯特和威爾森玩時，他們都說自己很忙。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s54",
+      "order": 54,
+      "englishOriginal": "When she called them up on the phone, they disguised their voices and said they weren't home.",
+      "chineseTranslation": "當她打電話給他們時，他們會壓低變聲，說自己不在家。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p20",
+          "title": "call someone up",
+          "explanation": "片語，指「給某人打電話」。",
+          "examples": [
+            {
+              "english": "Call me up when you arrive at the station.",
+              "chinese": "你到達車站時給我打個電話。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s55",
+      "order": 55,
+      "englishOriginal": "If Lilly was walking on one side of the street, Chester and Wilson crossed to the other and hid.",
+      "chineseTranslation": "如果莉莉走在街道的這一邊，切斯特和威爾森就會走到另一邊躲起來。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s56",
+      "order": 56,
+      "englishOriginal": "“She's something else,” said Chester.",
+      "chineseTranslation": "「她真有夠特別的，」切斯特說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n7",
+          "title": "someone/something is something else",
+          "explanation": "道地口語，表示「某人/某事真是不簡單、太非同尋常了、真有夠獨特的」。",
+          "examples": [
+            {
+              "english": "Her new performance was really something else!",
+              "chinese": "她這次的新表演真的很非同凡響！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s57",
+      "order": 57,
+      "englishOriginal": "“Looks like it,” said Wilson.",
+      "chineseTranslation": "「看起來確實是，」威爾森說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s58",
+      "order": 58,
+      "englishOriginal": "One day, while Chester and Wilson were practicing their hand signals, some older boys rode by, popping wheelies.",
+      "chineseTranslation": "有一天，當切斯特和威爾森正在練習他們的手勢信號時，幾個年紀比較大的男生騎車經過，還特技翹前輪。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p21",
+          "title": "pop a wheelie",
+          "explanation": "俚語片語，指騎單車或機車時「特技拉起前輪、翹前輪」。",
+          "examples": [
+            {
+              "english": "He showed off by popping a wheelie in front of his friends.",
+              "chinese": "他在朋友面前表演特技翹前輪炫耀。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s59",
+      "order": 59,
+      "englishOriginal": "They circled Chester and Wilson and yelled personal remarks.",
+      "chineseTranslation": "他們圍著切斯特和威爾森繞圈圈，大聲喊著人身攻擊的話。",
+      "vocabularyNotes": [
+        {
+          "id": "v22",
+          "title": "circle",
+          "explanation": "動詞，指「圍繞……盤旋/繞圈」。",
+          "examples": [
+            {
+              "english": "The birds circled in the sky above us.",
+              "chinese": "鳥兒在我們上方的天空繞圈盤旋。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p22",
+          "title": "personal remarks",
+          "explanation": "名詞片語，指針對個人的「人身攻擊言論、不好聽的話」。",
+          "examples": [
+            {
+              "english": "It is rude to make personal remarks about others.",
+              "chinese": "對他人發表人身攻擊的言論是很不禮貌的。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s60",
+      "order": 60,
+      "englishOriginal": "Chester and Wilson didn't know what to do.",
+      "chineseTranslation": "切斯特和威爾森不知所措。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s61",
+      "order": 61,
+      "englishOriginal": "Just when they were about to give up hope, a fierce-looking cat with horrible fangs jumped out of the bushes and frightened the older boys away.",
+      "chineseTranslation": "就在他們準備放棄希望時，一隻看起來極其兇猛、長著可怕獠牙的大貓突然從灌木叢中跳出來，把那些大男生嚇跑了。",
+      "vocabularyNotes": [
+        {
+          "id": "v23",
+          "title": "fang",
+          "explanation": "名詞，指動物的「尖牙、獠牙」。",
+          "examples": [
+            {
+              "english": "The snake showed its sharp fangs.",
+              "chinese": "那條蛇露出了它鋒利的獠牙。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p23",
+          "title": "be about to",
+          "explanation": "片語，指「正要、即將（做某事）」。",
+          "examples": [
+            {
+              "english": "I was about to leave when the phone rang.",
+              "chinese": "電話響起時我正準備離開。"
+            }
+          ]
+        },
+        {
+          "id": "p24",
+          "title": "frighten away",
+          "explanation": "動詞片語，指「把……嚇跑」。",
+          "examples": [
+            {
+              "english": "The loud noise frightened the birds away.",
+              "chinese": "巨大的噪音把鳥兒都嚇跑了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s62",
+      "order": 62,
+      "englishOriginal": "“Are you who I think you are?” Chester asked the cat.",
+      "chineseTranslation": "「你該不會就是我想的那個人吧？」切斯特問那隻貓。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s63",
+      "order": 63,
+      "englishOriginal": "“Of course,” the cat replied.",
+      "chineseTranslation": "「當然啦，」那隻貓回答。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s64",
+      "order": 64,
+      "englishOriginal": "“Thank you, Lilly,” said Chester.",
+      "chineseTranslation": "「謝謝你，莉莉，」切斯特說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s65",
+      "order": 65,
+      "englishOriginal": "“You're welcome, Chester,” said Lilly.",
+      "chineseTranslation": "「不客氣，切斯特，」莉莉說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s66",
+      "order": 66,
+      "englishOriginal": "“Thank you, Lilly,” said Wilson.",
+      "chineseTranslation": "「謝謝你，莉莉，」威爾森說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s67",
+      "order": 67,
+      "englishOriginal": "“You're welcome, Wilson,” said Lilly.",
+      "chineseTranslation": "「不客氣，威爾森，」莉莉說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s68",
+      "order": 68,
+      "englishOriginal": "“I'm glad you were wearing a disguise,” said Chester.",
+      "chineseTranslation": "「真高興你有戴著變裝道具，」切斯特說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s69",
+      "order": 69,
+      "englishOriginal": "“And I'm glad you had your squirt gun,” said Wilson.",
+      "chineseTranslation": "「而且真高興你有帶水槍，」威爾森說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s70",
+      "order": 70,
+      "englishOriginal": "“I always do,” said Lilly. “Just in case.”",
+      "chineseTranslation": "「我一直都有帶啊，」莉莉說。「以防萬一嘛。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s71",
+      "order": 71,
+      "englishOriginal": "Afterward, Chester invited Lilly over for lunch.",
+      "chineseTranslation": "那之後，切斯特邀請莉莉到家裡吃午餐。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p25",
+          "title": "invite someone over",
+          "explanation": "片語，指「邀請某人到家裡做客」。",
+          "examples": [
+            {
+              "english": "We invited our new neighbors over for dinner.",
+              "chinese": "我們邀請新鄰居到家裡吃晚飯。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s72",
+      "order": 72,
+      "englishOriginal": "“You have a Muscle Mouse cup?!” said Lilly.",
+      "chineseTranslation": "「你有『肌肉老鼠』的杯子？！」莉莉驚呼。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s73",
+      "order": 73,
+      "englishOriginal": "“Of course,” said Chester.",
+      "chineseTranslation": "「當然囉，」切斯特說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s74",
+      "order": 74,
+      "englishOriginal": "“I do, too!” said Lilly.",
+      "chineseTranslation": "「我也有一個！」莉莉說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s75",
+      "order": 75,
+      "englishOriginal": "“Same here,” said Wilson.",
+      "chineseTranslation": "「我也一樣有，」威爾森說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "n8",
+          "title": "Same here",
+          "explanation": "口語極常見表達，意為「我也是、我這邊也一樣」。",
+          "examples": [
+            {
+              "english": "I love iced coffee. — Same here!",
+              "chinese": "我喜歡冰咖啡。— 我也是！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s76",
+      "order": 76,
+      "englishOriginal": "Chester and Wilson cut their sandwiches diagonally.",
+      "chineseTranslation": "切斯特和威爾森把三明治對角線切開。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s77",
+      "order": 77,
+      "englishOriginal": "Lilly asked Chester's mother if she had cookie cutters and she made stars and flowers and bells.",
+      "chineseTranslation": "莉莉問切斯特的媽媽有沒有餅乾壓模，然後她把三明治切成了星星、花朵和鈴鐺的形狀。",
+      "vocabularyNotes": [
+        {
+          "id": "v24",
+          "title": "cookie cutter",
+          "explanation": "名詞，指「餅乾模型、壓模」。",
+          "examples": [
+            {
+              "english": "We used star-shaped cookie cutters to make the biscuits.",
+              "chinese": "我們用星形的餅乾模型來做餅乾。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s78",
+      "order": 78,
+      "englishOriginal": "“That's neat!” said Chester.",
+      "chineseTranslation": "「那太酷了！」切斯特說。",
+      "vocabularyNotes": [
+        {
+          "id": "v25",
+          "title": "neat",
+          "explanation": "形容詞，除了「整潔」之外，在口語中常代表「棒極了、酷的」。",
+          "examples": [
+            {
+              "english": "That's a neat idea!",
+              "chinese": "那真是個棒透了的主意！"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s79",
+      "order": 79,
+      "englishOriginal": "“Wow!” said Wilson.",
+      "chineseTranslation": "「哇！」威爾森說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s80",
+      "order": 80,
+      "englishOriginal": "That night, Lilly invited Chester and Wilson to sleep over.",
+      "chineseTranslation": "那天晚上，莉莉邀請切斯特和威爾森到她家過夜。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p26",
+          "title": "sleep over",
+          "explanation": "動詞片語，指在朋友家「過夜、參加睡衣派對」。",
+          "examples": [
+            {
+              "english": "Can my friend sleep over this weekend?",
+              "chinese": "這個週末我朋友可以來我們家過夜嗎？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s81",
+      "order": 81,
+      "englishOriginal": "“You have a night light?!” said Chester.",
+      "chineseTranslation": "「你有小夜燈？！」切斯特驚呼。",
+      "vocabularyNotes": [
+        {
+          "id": "v26",
+          "title": "night light",
+          "explanation": "名詞，指「小夜燈」。",
+          "examples": [
+            {
+              "english": "The child sleeps with a night light on.",
+              "chinese": "那孩子開著小夜燈睡覺。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s82",
+      "order": 82,
+      "englishOriginal": "“Of course,” said Lilly.",
+      "chineseTranslation": "「當然囉，」莉莉說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s83",
+      "order": 83,
+      "englishOriginal": "“I do, too!” said Chester.",
+      "chineseTranslation": "「我也有一個！」切斯特說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s84",
+      "order": 84,
+      "englishOriginal": "“Same here,” said Wilson.",
+      "chineseTranslation": "「我也一樣有，」威爾森說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s85",
+      "order": 85,
+      "englishOriginal": "Chester and Wilson wanted toast with jam and peanut butter for breakfast the next morning.",
+      "chineseTranslation": "隔天早晨，切斯特和威爾森早餐想吃抹了果醬和花生醬的吐司。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s86",
+      "order": 86,
+      "englishOriginal": "“Boring,” said Lilly. “Try this instead.”",
+      "chineseTranslation": "「無聊，」莉莉說。「改吃吃看這個吧。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s87",
+      "order": 87,
+      "englishOriginal": "“This is good!” said Chester.",
+      "chineseTranslation": "「這真好吃！」切斯特說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s88",
+      "order": 88,
+      "englishOriginal": "“Wow!” said Wilson.",
+      "chineseTranslation": "「哇！」威爾森說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s89",
+      "order": 89,
+      "englishOriginal": "After that, when Lilly asked Chester and Wilson to play, they said yes.",
+      "chineseTranslation": "那之後，當莉莉找切斯特和威爾森玩時，他們都一口答應。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s90",
+      "order": 90,
+      "englishOriginal": "When she called them up on the phone, they had pleasant conversations.",
+      "chineseTranslation": "當她打電話給他們時，他們聊得很愉快。",
+      "vocabularyNotes": [
+        {
+          "id": "v27",
+          "title": "pleasant",
+          "explanation": "形容詞，指「令人愉快的、宜人的」。",
+          "examples": [
+            {
+              "english": "We had a very pleasant walk in the park.",
+              "chinese": "我們在公園裡散步散得很愉快。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s91",
+      "order": 91,
+      "englishOriginal": "And if Lilly was walking on one side of the street, Chester and Wilson waved and ran to catch up with her.",
+      "chineseTranslation": "如果莉莉走在街道的一邊，切斯特和威爾森會揮揮手，然後小跑過去趕上她。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p27",
+          "title": "catch up with",
+          "explanation": "片語，指「追上、趕上（某人）」。",
+          "examples": [
+            {
+              "english": "Go ahead, I will catch up with you later.",
+              "chinese": "你先走，我等一下會趕上你。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s92",
+      "order": 92,
+      "englishOriginal": "Chester and Wilson taught Lilly hand signals.",
+      "chineseTranslation": "切斯特和威爾森教莉莉打手勢信號。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s93",
+      "order": 93,
+      "englishOriginal": "And she taught them how to pop wheelies.",
+      "chineseTranslation": "而她則教他們怎麼特技翹前輪。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s94",
+      "order": 94,
+      "englishOriginal": "Lilly taught Chester and Wilson how to talk backwards",
+      "chineseTranslation": "莉莉教切斯特和威爾森怎麼倒著說話",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s95",
+      "order": 95,
+      "englishOriginal": "“I Ma Nosliw”",
+      "chineseTranslation": "「森爾威是我是」（I am Wilson 的倒讀）",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s96",
+      "order": 96,
+      "englishOriginal": "Olleh",
+      "chineseTranslation": "好你（Hello 的倒讀）",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s97",
+      "order": 97,
+      "englishOriginal": "And they taught her how to double-knot her shoes.",
+      "chineseTranslation": "而他們教她怎麼把鞋帶打雙結。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s98",
+      "order": 98,
+      "englishOriginal": "“Some days I can't tell those three apart,” said Lilly's mother.",
+      "chineseTranslation": "「有時候我真的分不清他們三個誰是誰，」莉莉的媽媽說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s99",
+      "order": 99,
+      "englishOriginal": "“Me either,” said Lilly's father.",
+      "chineseTranslation": "「我也是，」莉莉的爸爸說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s100",
+      "order": 100,
+      "englishOriginal": "Chester and Wilson and Lilly, Lilly and Wilson and Chester.",
+      "chineseTranslation": "切斯特、威爾森和莉莉，莉莉、威爾森和切斯特。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s101",
+      "order": 101,
+      "englishOriginal": "That's the way it was.",
+      "chineseTranslation": "事情向來就是這樣。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s102",
+      "order": 102,
+      "englishOriginal": "For Halloween, they dressed as The Three Blind Mice.",
+      "chineseTranslation": "萬聖節時，他們扮成「三隻瞎眼的老鼠」。",
+      "vocabularyNotes": [
+        {
+          "id": "v28",
+          "title": "Three Blind Mice",
+          "explanation": "著名英文童謠與故事角色「三隻瞎眼的老鼠」。",
+          "examples": [
+            {
+              "english": "'Three Blind Mice' is a classic nursery rhyme.",
+              "chinese": "《三隻瞎眼的老鼠》是一首經典童韻。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s103",
+      "order": 103,
+      "englishOriginal": "For Christmas, Lilly gave Chester and Wilson nifty disguises.",
+      "chineseTranslation": "聖誕節時，莉莉送給切斯特和威爾森酷炫的變裝道具。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s104",
+      "order": 104,
+      "englishOriginal": "And they gave her a box full of multi-colored shoelaces-- extra long for double-knotting.",
+      "chineseTranslation": "而他們送給她一整盒五顏六色的鞋帶——特別加長型，專門用來打雙結的。",
+      "vocabularyNotes": [
+        {
+          "id": "v29",
+          "title": "shoelace",
+          "explanation": "名詞，指「鞋帶」。",
+          "examples": [
+            {
+              "english": "Your shoelace is untied.",
+              "chinese": "你的鞋帶鬆開了。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s105",
+      "order": 105,
+      "englishOriginal": "They loved to go on picnics.",
+      "chineseTranslation": "他們非常喜歡去野餐。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s106",
+      "order": 106,
+      "englishOriginal": "When Chester and Wilson told Lilly about how they had each swallowed a watermelon seed once, Lilly swallowed three of them.",
+      "chineseTranslation": "當切斯特和威爾森告訴莉莉他們以前各自不小心吞過一顆西瓜籽時，莉莉一口氣吞了三顆。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s107",
+      "order": 107,
+      "englishOriginal": "“I'll grow a watermelon plant for each of us,” she said.",
+      "chineseTranslation": "「我會為我們每個人都長出一株西瓜苗，」她說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s108",
+      "order": 108,
+      "englishOriginal": "In spring, Chester and Wilson and Lilly shared the same umbrella.",
+      "chineseTranslation": "春天時，切斯特、威爾森和莉莉共用同一把傘。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s109",
+      "order": 109,
+      "englishOriginal": "In winter, they never threw snowballs at each other.",
+      "chineseTranslation": "冬天時，他們從不互相砸雪球。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s110",
+      "order": 110,
+      "englishOriginal": "In fall, they raked leaves together.",
+      "chineseTranslation": "秋天時，他們一起耙落葉。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s111",
+      "order": 111,
+      "englishOriginal": "And in summer, they reminded each other to wear sunscreen so they wouldn't burn.",
+      "chineseTranslation": "而在夏天，他們會互相提醒要擦防曬乳，這樣才不會曬傷。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s112",
+      "order": 112,
+      "englishOriginal": "Chester and Wilson and Lilly, Lilly and Wilson and Chester.",
+      "chineseTranslation": "切斯特、威爾森和莉莉，莉莉、威爾森和切斯特。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s113",
+      "order": 113,
+      "englishOriginal": "That's the way it was.",
+      "chineseTranslation": "事情向來就是這樣。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s114",
+      "order": 114,
+      "englishOriginal": "And then Victor moved into the neighborhood...",
+      "chineseTranslation": "然後，維克多 (Victor) 搬到了這個社區……",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s115",
+      "order": 115,
+      "englishOriginal": "So Vanessa, what did you think?",
+      "chineseTranslation": "那麼凡妮莎，你覺得怎麼樣？",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s116",
+      "order": 116,
+      "englishOriginal": "I think that Victor, Lilly, Chester and Wilson are going to have a great time growing watermelons inside of themselves.",
+      "chineseTranslation": "我覺得維克多、莉莉、切斯特和威爾森一定會很享受在自己肚子裡種西瓜的時光。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s117",
+      "order": 117,
+      "englishOriginal": "I agree. I think the four of them will be good friends.",
+      "chineseTranslation": "我同意。我覺得他們四個會成為好朋友的。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
     }
   ]
 }
