@@ -1,0 +1,2241 @@
+{
+  "schemaVersion": "1.0",
+  "lessonType": "english-story",
+  "title": "Enemy Pie",
+  "source": "Storyline Online",
+  "sourceUrl": "https://www.youtube.com/watch?v=b_I9NgXKtC8",
+  "author": "Derek Munson",
+  "narrator": "Camryn Manheim",
+  "language": "en",
+  "createdAt": "2026-07-23T22:00:00Z",
+  "tags": ["kids", "friendship", "storyline-online"],
+  "description": "A clever story about a boy who learns the fastest way to get rid of an enemy is to make him a friend.",
+  "sentences": [
+    {
+      "id": "s1",
+      "order": 1,
+      "englishOriginal": "Welcome to BookPAL Storyline Online, brought to you by The Screen Actors Guild Foundation.",
+      "chineseTranslation": "歡迎來到由美國影視演員協會基金會為您呈現的 BookPAL Storyline Online。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p1",
+          "title": "brought to you by",
+          "explanation": "表示「由……贊助/提供/呈現」，常用於節目或活動的開場介紹。",
+          "examples": [
+            {
+              "english": "Today's show is brought to you by our local sponsors.",
+              "chinese": "今天的節目是由我們當地的贊助商為您呈現。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s2",
+      "order": 2,
+      "englishOriginal": "My name is Camryn Manheim.",
+      "chineseTranslation": "我是卡姆琳·曼海姆。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s3",
+      "order": 3,
+      "englishOriginal": "You may know me from The Practice, but I hope not, because it was on way past your bedtime.",
+      "chineseTranslation": "你可能從《律政風雲》這部影集認識我，但我希望沒有，因為那播放的時間早就超過你們的睡覺時間了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p2",
+          "title": "past one's bedtime",
+          "explanation": "超過某人的上床睡覺時間。",
+          "examples": [
+            {
+              "english": "It is way past your bedtime, young man.",
+              "chinese": "年輕人，早就超過你的睡覺時間了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n1",
+          "title": "way past",
+          "explanation": "「way」在這裡充當副詞，用來加強語氣，表示「遠遠超越」或「早就過了」。",
+          "examples": [
+            {
+              "english": "It's way past midnight, we should go home.",
+              "chinese": "早就過午夜了，我們該回家了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "order": 4,
+      "englishOriginal": "Today, I'm going to read Enemy Pie, written by Derek Munson and illustrated by Tara Callahan King.",
+      "chineseTranslation": "今天，我要朗讀由德里克·芒森撰寫、塔拉·卡拉漢·金繪圖的《敵人派》。",
+      "vocabularyNotes": [
+        {
+          "id": "v1",
+          "title": "illustrate",
+          "explanation": "動詞，意為「為（書籍等）畫插圖」。繪本常見其過去分詞「illustrated by」。",
+          "examples": [
+            {
+              "english": "This children's book was beautifully illustrated by a local artist.",
+              "chinese": "這本兒童繪本由一位在地藝術家精心繪製插圖。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s5",
+      "order": 5,
+      "englishOriginal": "It should have been a perfect summer.",
+      "chineseTranslation": "這本該是一個完美的夏天。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g1",
+          "title": "should have + past participle",
+          "explanation": "「should have + 過去分詞」表示「過去本來應該做或發生某事，但實際上卻沒有發生」，帶有遺憾或與事實相反的語氣。",
+          "examples": [
+            {
+              "english": "I should have studied harder for the exam.",
+              "chinese": "我當初考試本該更努力準備的。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s6",
+      "order": 6,
+      "englishOriginal": "My dad helped me build a treehouse in the backyard.",
+      "chineseTranslation": "我爸爸幫我在後院蓋了一座樹屋。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s7",
+      "order": 7,
+      "englishOriginal": "My sister was at camp for three whole weeks and I was on the best baseball team in town.",
+      "chineseTranslation": "我姊姊去參加夏令營整整三個星期，而且我還加入了鎮上最好的棒球隊。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s8",
+      "order": 8,
+      "englishOriginal": "It should have been the perfect summer, but it wasn't.",
+      "chineseTranslation": "這本該是個完美的夏天，但事實並非如此。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s9",
+      "order": 9,
+      "englishOriginal": "It was all good until Jeremy Ross moved into the neighborhood, right next door to my best friend Stanley.",
+      "chineseTranslation": "一切都很美好，直到傑瑞米·羅斯搬進這個社區，就住在了我好朋友史丹利的隔壁。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p3",
+          "title": "right next door",
+          "explanation": "表示「就在隔壁」，「right」有強調精確位置的語感。",
+          "examples": [
+            {
+              "english": "She lives right next door to the bakery.",
+              "chinese": "她就住在麵包店的正隔壁。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s10",
+      "order": 10,
+      "englishOriginal": "I did not like Jeremy Ross.",
+      "chineseTranslation": "我一點也不喜歡傑瑞米·羅斯。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s11",
+      "order": 11,
+      "englishOriginal": "He laughed at me when he struck me out at the baseball game.",
+      "chineseTranslation": "當他在棒球比賽中把我三振出局時，他竟然嘲笑我。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p4",
+          "title": "strike someone out",
+          "explanation": "棒球術語，意為「將某人三振出局」。",
+          "examples": [
+            {
+              "english": "The pitcher struck out three batters in a row.",
+              "chinese": "投手連續三振了三名打者。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s12",
+      "order": 12,
+      "englishOriginal": "He had a party on his trampoline, I wasn't even invited, but my best friend Stanley was.",
+      "chineseTranslation": "他在彈簧床上舉辦派對，我連邀請都沒收到，但我最好的朋友史丹利卻受邀了。",
+      "vocabularyNotes": [
+        {
+          "id": "v2",
+          "title": "trampoline",
+          "explanation": "名詞，指「彈簧床、跳床」。",
+          "examples": [
+            {
+              "english": "The kids are jumping on the trampoline in the garden.",
+              "chinese": "孩子們正在花園的彈簧床上跳躍。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s13",
+      "order": 13,
+      "englishOriginal": "Jeremy Ross was the one and only person on my enemy list.",
+      "chineseTranslation": "傑瑞米·羅斯是我敵人名單上唯二不選的唯一一人。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p5",
+          "title": "one and only",
+          "explanation": "固定片語，意為「獨一無二的、唯一的」。",
+          "examples": [
+            {
+              "english": "Please welcome the one and only Stevie Wonder!",
+              "chinese": "請歡迎獨一無二的史提夫·汪達！"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s14",
+      "order": 14,
+      "englishOriginal": "I never even had an enemy list until he moved into the neighborhood, but as soon as he came along, I needed one.",
+      "chineseTranslation": "在他搬到這個社區之前，我甚至從來沒有過敵人名單，但他一出現，我就需要一張了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p6",
+          "title": "as soon as",
+          "explanation": "連詞片語，意為「一……就……」。",
+          "examples": [
+            {
+              "english": "I will call you as soon as I arrive.",
+              "chinese": "我一到達就會給你打電話。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s15",
+      "order": 15,
+      "englishOriginal": "I hung it up in my treehouse, where Jeremy Ross was not allowed to go.",
+      "chineseTranslation": "我把它掛在我的樹屋裡，那是一個不允許傑瑞米·羅斯進入的地方。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g2",
+          "title": "non-defining relative clause with where",
+          "explanation": "「, where...」為非限定關聯副詞子句，用來補充說明前面提及的地點（樹屋）。",
+          "examples": [
+            {
+              "english": "We visited the park, where we had a picnic.",
+              "chinese": "我們去逛了公園，並在那裡野餐。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s16",
+      "order": 16,
+      "englishOriginal": "Dad understood stuff like enemies.",
+      "chineseTranslation": "爸爸很懂敵人這類的事情。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s17",
+      "order": 17,
+      "englishOriginal": "He told me that when he was my age, he had enemies too, but he knew a good way to get rid of them.",
+      "chineseTranslation": "他告訴我，當他像我這麼大時，也有過敵人，但他知道一個擺脫他們的好方法。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p7",
+          "title": "get rid of",
+          "explanation": "片語，意為「擺脫、除去、擺平」。",
+          "examples": [
+            {
+              "english": "We need to get rid of these old boxes.",
+              "chinese": "我們需要清理掉這些舊箱子。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s18",
+      "order": 18,
+      "englishOriginal": "And I asked him to tell me how.",
+      "chineseTranslation": "我便請他告訴我該怎麼做。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s19",
+      "order": 19,
+      "englishOriginal": "\"Tell you how? I'll show you how,\" he said, and he pulled a really old recipe book off the kitchen shelf.",
+      "chineseTranslation": "「告訴你怎麼做？我做給你看，」他說著，從廚房架子上抽出一本非常古老的食譜。",
+      "vocabularyNotes": [
+        {
+          "id": "v3",
+          "title": "recipe",
+          "explanation": "名詞，指「食譜、烹飪配方」。",
+          "examples": [
+            {
+              "english": "She gave me a great recipe for chocolate cake.",
+              "chinese": "她給了我一個很讚的巧克力蛋糕食譜。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s20",
+      "order": 20,
+      "englishOriginal": "And inside, there was a worn-out scrap of paper with faded writing.",
+      "chineseTranslation": "裡面夾著一張字跡模糊、破破爛爛的小紙條。",
+      "vocabularyNotes": [
+        {
+          "id": "v4",
+          "title": "worn-out",
+          "explanation": "形容詞，指「破舊的、磨損的」。",
+          "examples": [
+            {
+              "english": "He threw away his worn-out shoes.",
+              "chinese": "他扔掉了他那雙穿破的鞋子。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s21",
+      "order": 21,
+      "englishOriginal": "And Dad held it up when he squinted at it.",
+      "chineseTranslation": "爸爸把它舉起來，瞇起眼睛仔細端詳。",
+      "vocabularyNotes": [
+        {
+          "id": "v5",
+          "title": "squint",
+          "explanation": "動詞，指「瞇著眼睛看」。",
+          "examples": [
+            {
+              "english": "He squinted at the screen to read the fine print.",
+              "chinese": "他瞇著眼睛看螢幕以閱讀細小的字體。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s22",
+      "order": 22,
+      "englishOriginal": "\"Enemy Pie,\" he said, satisfied.",
+      "chineseTranslation": "「敵人派，」他滿意地說道。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s23",
+      "order": 23,
+      "englishOriginal": "You may be wondering what exactly is in Enemy Pie.",
+      "chineseTranslation": "你可能會好奇，敵人派裡面究竟加了些什麼。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s24",
+      "order": 24,
+      "englishOriginal": "I was wondering too, but Dad said the recipe was so secret he couldn't even tell me.",
+      "chineseTranslation": "我也很好奇，但爸爸說這個食譜是絕密，連我都不能告訴。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s25",
+      "order": 25,
+      "englishOriginal": "I decided it must be magic, and I begged him to tell me something, anything.",
+      "chineseTranslation": "我認定這一定是某種魔法，便哀求他透漏一點點資訊，什麼都好。",
+      "vocabularyNotes": [
+        {
+          "id": "v6",
+          "title": "beg",
+          "explanation": "動詞，指「乞求、懇求」。常見句型為 beg someone to do something。",
+          "examples": [
+            {
+              "english": "The child begged his parents for a new toy.",
+              "chinese": "那孩子懇求父母買一個新玩具。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s26",
+      "order": 26,
+      "englishOriginal": "\"I'll tell you this,\" he said, \"Enemy Pie is the fastest known way to get rid of enemies.\"",
+      "chineseTranslation": "「我可以告訴你這點，」他說，「敵人派是已知能最快擺脫敵人的方法。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n2",
+          "title": "I'll tell you this",
+          "explanation": "口語中用來引起對方注意，準備發表重要論點或強調某事的開場白。",
+          "examples": [
+            {
+              "english": "I'll tell you this: hard work always pays off.",
+              "chinese": "我跟你說：努力終究會有回報的。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s27",
+      "order": 27,
+      "englishOriginal": "Of course, that got my mind working.",
+      "chineseTranslation": "當然，這讓我的腦袋開始飛速運轉。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n3",
+          "title": "got my mind working",
+          "explanation": "表示「觸發了某人的思考、讓人腦筋轉了起來」。",
+          "examples": [
+            {
+              "english": "His question really got my mind working.",
+              "chinese": "他的問題真的讓我的腦袋開始思考了起來。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s28",
+      "order": 28,
+      "englishOriginal": "What kind of things, disgusting things, would I put into a pie for an enemy?",
+      "chineseTranslation": "我會想在做給敌人的派裡面放些什麼樣的東西、多噁心的東西呢？",
+      "vocabularyNotes": [
+        {
+          "id": "v7",
+          "title": "disgusting",
+          "explanation": "形容詞，指「令人作嘔的、極其噁心的」。",
+          "examples": [
+            {
+              "english": "There was a disgusting smell coming from the trash can.",
+              "chinese": "垃圾桶裡散發出一股令人作嘔的氣味。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s29",
+      "order": 29,
+      "englishOriginal": "I brought Dad some weeds from the garden; he just shook his head.",
+      "chineseTranslation": "我從花園拔了一些雜草給爸爸；他只是搖了搖頭。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s30",
+      "order": 30,
+      "englishOriginal": "I brought him earthworms and rocks, but he didn't think he needed those.",
+      "chineseTranslation": "我拿了蚯蚓和石頭給他，但他覺得用不上這些。",
+      "vocabularyNotes": [
+        {
+          "id": "v8",
+          "title": "earthworm",
+          "explanation": "名詞，指「蚯蚓」。",
+          "examples": [
+            {
+              "english": "Birds often look for earthworms after it rains.",
+              "chinese": "鳥類常在下雨後尋找蚯蚓。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s31",
+      "order": 31,
+      "englishOriginal": "I gave him the gum that I'd been chewing on all morning; he gave it right back to me.",
+      "chineseTranslation": "我把我咬了一整早的口香糖拿給他；他立刻原封不動地退還給我。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g3",
+          "title": "past perfect continuous",
+          "explanation": "「had been chewing」為過去完成進行式，強調在過去某個時間點之前，一直在持續進行的動作。",
+          "examples": [
+            {
+              "english": "It had been raining for hours before the sun finally came out.",
+              "chinese": "在太陽終於出來之前，雨已經持續下了好幾個小時。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s32",
+      "order": 32,
+      "englishOriginal": "I went out to play alone.",
+      "chineseTranslation": "我獨自出去玩。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s33",
+      "order": 33,
+      "englishOriginal": "I shot baskets until the ball got stuck up on the roof.",
+      "chineseTranslation": "我投籃投到球卡在屋頂上為止。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p8",
+          "title": "get stuck",
+          "explanation": "指「被卡住、陷住，無法移動」。",
+          "examples": [
+            {
+              "english": "The car got stuck in the mud.",
+              "chinese": "汽車卡在泥濘中了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s34",
+      "order": 34,
+      "englishOriginal": "I threw a boomerang and it never came back to me.",
+      "chineseTranslation": "我扔了迴旋鏢，結果它再也沒有飛回來。",
+      "vocabularyNotes": [
+        {
+          "id": "v9",
+          "title": "boomerang",
+          "explanation": "名詞，指「迴旋鏢、飛去來器」。",
+          "examples": [
+            {
+              "english": "Learning how to throw a boomerang takes a lot of practice.",
+              "chinese": "學會如何擲迴旋鏢需要大量的練習。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s35",
+      "order": 35,
+      "englishOriginal": "And all the while, I listened to my dad chopping and stirring and blending the ingredients of Enemy Pie.",
+      "chineseTranslation": "在此期間，我一直聽著爸爸在那裡切碎、攪拌、混合敵人派的食材。",
+      "vocabularyNotes": [
+        {
+          "id": "v10",
+          "title": "ingredient",
+          "explanation": "名詞，指「（烹飪的）食材、成分」。",
+          "examples": [
+            {
+              "english": "Mix all the dry ingredients together in a bowl.",
+              "chinese": "將所有乾性食材在碗中混合均勻。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p9",
+          "title": "all the while",
+          "explanation": "片語，意為「在此期間、一直」。",
+          "examples": [
+            {
+              "english": "She was talking on the phone, and all the while I was waiting for her.",
+              "chinese": "她在打電話，而我自始至終都在等她。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s36",
+      "order": 36,
+      "englishOriginal": "This could be a great summer after all.",
+      "chineseTranslation": "看來這個夏天終究還是會很棒的。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p10",
+          "title": "after all",
+          "explanation": "副詞片語，意為「終究、畢竟」，常用於事情發展與最初想像不同時的轉折語句。",
+          "examples": [
+            {
+              "english": "The weather was bad in the morning, but we had a nice picnic after all.",
+              "chinese": "早晨天氣不好，但我們最終還是進行了一場很棒的野餐。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s37",
+      "order": 37,
+      "englishOriginal": "Enemy Pie was going to be awful.",
+      "chineseTranslation": "敵人派肯定會非常糟糕。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s38",
+      "order": 38,
+      "englishOriginal": "I tried to imagine how horrible it must smell, or worse yet, what it was going to look like.",
+      "chineseTranslation": "我試著想像它聞起來會有多可怕，或者更糟的是，它看起來會長什麼樣子。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p11",
+          "title": "worse yet",
+          "explanation": "常用於補充說明「更糟糕的是……」。",
+          "examples": [
+            {
+              "english": "It started to rain, and worse yet, I forgot my umbrella.",
+              "chinese": "下起雨了，更糟糕的是，我還忘了帶傘。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s39",
+      "order": 39,
+      "englishOriginal": "But when I was in the backyard looking for ladybugs, I smelled something really, really, really good.",
+      "chineseTranslation": "但是當我在後院找瓢蟲時，我聞到了一股非常、非常、非常香的味道。",
+      "vocabularyNotes": [
+        {
+          "id": "v11",
+          "title": "ladybug",
+          "explanation": "名詞，指「瓢蟲」。",
+          "examples": [
+            {
+              "english": "The little girl found a ladybug on a leaf.",
+              "chinese": "小女孩在葉子上發現了一隻瓢蟲。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s40",
+      "order": 40,
+      "englishOriginal": "And as far as I could tell, it was coming from our kitchen.",
+      "chineseTranslation": "據我判斷，那香味是從我們家廚房飄出來的。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p12",
+          "title": "as far as I could tell",
+          "explanation": "表達「據我所知、就我所能看出來/判斷的而言」。",
+          "examples": [
+            {
+              "english": "As far as I could tell, everyone had a great time at the party.",
+              "chinese": "就我所見，大家在派對上都玩得很開心。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s41",
+      "order": 41,
+      "englishOriginal": "I was a bit confused.",
+      "chineseTranslation": "我感到有些困惑。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s42",
+      "order": 42,
+      "englishOriginal": "I went in to ask my dad what was wrong.",
+      "chineseTranslation": "我走進屋裡問爸爸哪裡出了問題。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s43",
+      "order": 43,
+      "englishOriginal": "\"Enemy Pie shouldn't smell this good.\"",
+      "chineseTranslation": "「敵人派不應該闻起來這麼香啊。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s44",
+      "order": 44,
+      "englishOriginal": "But Dad was smart.",
+      "chineseTranslation": "但爸爸很聰明。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s45",
+      "order": 45,
+      "englishOriginal": "\"If Enemy Pie smelled bad, your enemy would never eat it,\" he said.",
+      "chineseTranslation": "「如果敵人派聞起來很難聞，你的敵人就絕對不會吃了，」他說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g4",
+          "title": "second conditional (hypothetical)",
+          "explanation": "「If + 過去式動詞, ... would + 原形動詞」與現在事實相反的假設語氣。",
+          "examples": [
+            {
+              "english": "If I had more time, I would learn how to play the piano.",
+              "chinese": "如果我有更多時間，我就會去學彈鋼琴。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s46",
+      "order": 46,
+      "englishOriginal": "I could tell he had made Enemy Pie before.",
+      "chineseTranslation": "我看得出來他以前一定做過敵人派。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p13",
+          "title": "could tell",
+          "explanation": "意為「看得出來、能判斷出」。",
+          "examples": [
+            {
+              "english": "I could tell she was nervous by the way she spoke.",
+              "chinese": "從她說話的方式我看得出來她很緊張。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s47",
+      "order": 47,
+      "englishOriginal": "The buzzer rang, and Dad put on the oven mitts and pulled the pie out of the oven.",
+      "chineseTranslation": "計時器響了，爸爸戴上隔熱手套，把派從烤箱裡拉了出來。",
+      "vocabularyNotes": [
+        {
+          "id": "v12",
+          "title": "oven mitts",
+          "explanation": "名詞（複數），指「烤箱隔熱手套」。",
+          "examples": [
+            {
+              "english": "Always use oven mitts when taking hot dishes out of the oven.",
+              "chinese": "從烤箱拿出熱端盤時，一定要戴上烤箱手套。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s48",
+      "order": 48,
+      "englishOriginal": "It looked like plain old pie.",
+      "chineseTranslation": "它看起來就像個普普通通的普通派。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p14",
+          "title": "plain old",
+          "explanation": "用於口語，強調「普普通通的、沒什麼特別的」。",
+          "examples": [
+            {
+              "english": "It wasn't a fancy car, just a plain old sedan.",
+              "chinese": "那不是什麼豪華車，就只是一輛普普通通的房車。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s49",
+      "order": 49,
+      "englishOriginal": "It looked good enough to eat.",
+      "chineseTranslation": "它看起來相當美味可口。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s50",
+      "order": 50,
+      "englishOriginal": "I was catching on, but still, I wasn't really sure how this Enemy Pie worked.",
+      "chineseTranslation": "我開始漸漸有點明白了，但我還是不太確定這個敵人派究竟是怎麼發揮作用的。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p15",
+          "title": "catch on",
+          "explanation": "口語片語，意為「理解、領會、開始明白」。",
+          "examples": [
+            {
+              "english": "He was slow at first, but he is starting to catch on.",
+              "chinese": "他一開始有點慢，但現在開始漸漸懂了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s51",
+      "order": 51,
+      "englishOriginal": "What exactly did it do to enemies?",
+      "chineseTranslation": "它到底會對敵人造成什麼影響？",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s52",
+      "order": 52,
+      "englishOriginal": "Maybe it made their hair fall out, or their breath stinky.",
+      "chineseTranslation": "也許它會讓他們的頭髮掉光，或者讓他們的口氣變臭。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p16",
+          "title": "fall out",
+          "explanation": "指（頭髮、牙齒等）「脫落、掉落」。",
+          "examples": [
+            {
+              "english": "His hair started to fall out as he got older.",
+              "chinese": "隨著年齡增長，他的頭髮開始脫落。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s53",
+      "order": 53,
+      "englishOriginal": "Maybe it made bullies cry.",
+      "chineseTranslation": "也許它能把霸凌者給哭。",
+      "vocabularyNotes": [
+        {
+          "id": "v13",
+          "title": "bully",
+          "explanation": "名詞，指「霸凌者、欺負弱小的人」。",
+          "examples": [
+            {
+              "english": "The school has a strict policy against bullies.",
+              "chinese": "這所學校對霸凌者實行嚴格的反對政策。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s54",
+      "order": 54,
+      "englishOriginal": "I asked my dad, but he was no help.",
+      "chineseTranslation": "我問了爸爸，但他完全不幫忙解惑。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p17",
+          "title": "be no help",
+          "explanation": "指「毫無幫助、派不上用場」。",
+          "examples": [
+            {
+              "english": "I tried asking him for directions, but he was no help.",
+              "chinese": "我試著向他問路，但他完全幫不上忙。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s55",
+      "order": 55,
+      "englishOriginal": "He wouldn't tell me a thing.",
+      "chineseTranslation": "他一個字也不肯透漏。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s56",
+      "order": 56,
+      "englishOriginal": "But while the pie cooled, he filled me in on my job.",
+      "chineseTranslation": "不過在派冷卻的時候，他向我詳細說明了我該負責的工作。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p18",
+          "title": "fill someone in",
+          "explanation": "意為「向某人提供資訊、向某人交代詳情」。",
+          "examples": [
+            {
+              "english": "Can you fill me in on what happened at the meeting?",
+              "chinese": "你能向我透漏一下會議上發生了什麼事嗎？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s57",
+      "order": 57,
+      "englishOriginal": "He talked quietly.",
+      "chineseTranslation": "他壓低聲音說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s58",
+      "order": 58,
+      "englishOriginal": "\"There's one part of Enemy Pie that I can't do.",
+      "chineseTranslation": "「敵人派有一個環節是我無法替你做的。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s59",
+      "order": 59,
+      "englishOriginal": "And in order for it to work, you need to spend a day with your enemy.",
+      "chineseTranslation": "為了讓它奏效，你必須花一整天的時間陪你的敵人。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p19",
+          "title": "in order for ... to",
+          "explanation": "表示目的，意為「為了讓（某人/某事）能夠……」。",
+          "examples": [
+            {
+              "english": "In order for the machine to work, you must press this green button.",
+              "chinese": "為了讓機器運作，你必須按下這個綠色按鈕。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s60",
+      "order": 60,
+      "englishOriginal": "Even worse, you have to be nice to him.",
+      "chineseTranslation": "更慘的是，你還必須對他非常好。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s61",
+      "order": 61,
+      "englishOriginal": "It's not easy, but that's the only way Enemy Pie can work.",
+      "chineseTranslation": "這並不容易，但這是敵人派能發揮作用的唯一方法。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s62",
+      "order": 62,
+      "englishOriginal": "Are you sure you want to go through with this?\"",
+      "chineseTranslation": "你確定你要貫徹到底執行這件事嗎？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p20",
+          "title": "go through with",
+          "explanation": "表示「把（艱難或不愉快的計畫）堅持做到底、貫徹執行」。",
+          "examples": [
+            {
+              "english": "He decided to go through with the surgery despite his fears.",
+              "chinese": "儘管害怕，他還是決定照原計畫進行手術。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s63",
+      "order": 63,
+      "englishOriginal": "Of course I was.",
+      "chineseTranslation": "我當然確定。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s64",
+      "order": 64,
+      "englishOriginal": "It sounded horrible, it was scary, but it was worth a try.",
+      "chineseTranslation": "這聽起來很可怕，也很嚇人，但值得一試。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p21",
+          "title": "worth a try",
+          "explanation": "指「值得一試」。",
+          "examples": [
+            {
+              "english": "I don't know if this method will work, but it's worth a try.",
+              "chinese": "我不知道這個方法行不行得通，但值得一試。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s65",
+      "order": 65,
+      "englishOriginal": "All I had to do was spend one day with Jeremy Ross, and then he'd be out of my hair for the rest of my life.",
+      "chineseTranslation": "我唯一需要做的就是陪傑瑞米·羅斯待上一天，然後在我的餘生中他就再也不會來煩我了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n4",
+          "title": "out of my hair",
+          "explanation": "非常道地的口語成語，表示「不再打擾我、不再給我添麻煩/惹事」。",
+          "examples": [
+            {
+              "english": "I gave the kids some coloring books to keep them out of my hair.",
+              "chinese": "我給了孩子們一些塗色本，好讓他們別來打擾我。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s66",
+      "order": 66,
+      "englishOriginal": "I rode my bike to his house and I knocked on the door.",
+      "chineseTranslation": "我騎著自行車去他家，敲了敲門。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s67",
+      "order": 67,
+      "englishOriginal": "When Jeremy opened the door, he seemed surprised.",
+      "chineseTranslation": "當傑瑞米開門時，他看起來很驚訝。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s68",
+      "order": 68,
+      "englishOriginal": "He stood at the other side of the screen door and he looked at me, waiting for me to say something.",
+      "chineseTranslation": "他站在紗門的另一邊看著我，等著我開口。",
+      "vocabularyNotes": [
+        {
+          "id": "v14",
+          "title": "screen door",
+          "explanation": "名詞，指美式住宅常見的「紗門」。",
+          "examples": [
+            {
+              "english": "Please close the screen door so mosquitoes won't get in.",
+              "chinese": "請把紗門關上，這樣蚊子才不會進來。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s69",
+      "order": 69,
+      "englishOriginal": "I was nervous.",
+      "chineseTranslation": "我當時很緊張。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s70",
+      "order": 70,
+      "englishOriginal": "\"Uh, can you play?\" I asked.",
+      "chineseTranslation": "「額，你能出來玩嗎？」我問道。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s71",
+      "order": 71,
+      "englishOriginal": "And he looked confused.",
+      "chineseTranslation": "他看起來一臉困惑。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s72",
+      "order": 72,
+      "englishOriginal": "\"I'll go ask my mom,\" he said.",
+      "chineseTranslation": "「我去問問我媽媽，」他說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s73",
+      "order": 73,
+      "englishOriginal": "And he came back with his shoes in his hand.",
+      "chineseTranslation": "接著他手上提著鞋子走了出來。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s74",
+      "order": 74,
+      "englishOriginal": "His mom walked around the corner to say hello.",
+      "chineseTranslation": "他媽媽從轉角走出來向我打招呼。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s75",
+      "order": 75,
+      "englishOriginal": "\"You boys stay out of trouble,\" she said, smiling.",
+      "chineseTranslation": "「你們這兩個小男孩可別惹麻煩喔，」她微笑著說。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p22",
+          "title": "stay out of trouble",
+          "explanation": "長輩對晚輩常說的告誡語，意為「乖乖的、別惹事、別闖禍」。",
+          "examples": [
+            {
+              "english": "Have fun at the park and stay out of trouble!",
+              "chinese": "在公園玩得開心點，別闖禍喔！"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s76",
+      "order": 76,
+      "englishOriginal": "We rode bikes for a while and played on the trampoline.",
+      "chineseTranslation": "我們騎了一會兒自行車，又在彈簧床上玩耍。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s77",
+      "order": 77,
+      "englishOriginal": "Then we made some water balloons and threw them at the neighborhood girls, but we missed.",
+      "chineseTranslation": "然後我們做了一些水氣球擲向社區裡的女孩子們，但我們都沒砸中。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s78",
+      "order": 78,
+      "englishOriginal": "Jeremy's mom made us lunch, and after lunch, we went over to my house.",
+      "chineseTranslation": "傑瑞米的媽媽幫我們做好了午餐，吃完午餐後，我們就去了我家。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s79",
+      "order": 79,
+      "englishOriginal": "It was strange.",
+      "chineseTranslation": "這感覺很奇妙。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s80",
+      "order": 80,
+      "englishOriginal": "I was kind of having fun with my enemy.",
+      "chineseTranslation": "我和我的敵人玩得居然還挺開心的。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s81",
+      "order": 81,
+      "englishOriginal": "He almost seemed nice.",
+      "chineseTranslation": "他看起來甚至有點友善。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s82",
+      "order": 82,
+      "englishOriginal": "But of course, I couldn't tell my dad that, since he'd been working so hard to make the Enemy Pie.",
+      "chineseTranslation": "但當然，我不能把這件事告訴我爸爸，畢竟他花了大把心力在製作敵人派。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s83",
+      "order": 83,
+      "englishOriginal": "Jeremy Ross liked my basketball hoop.",
+      "chineseTranslation": "傑瑞米·羅斯很喜歡我的籃框。",
+      "vocabularyNotes": [
+        {
+          "id": "v15",
+          "title": "basketball hoop",
+          "explanation": "名詞，指「籃框、籃框組」。",
+          "examples": [
+            {
+              "english": "They installed a basketball hoop in their driveway.",
+              "chinese": "他們在自家車道上記裝了一個籃框。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s84",
+      "order": 84,
+      "englishOriginal": "He said he wished that he had a basketball hoop, but they didn't have room for one.",
+      "chineseTranslation": "他說他希望自己家也有個籃框，但他們家沒有空間擺設。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p23",
+          "title": "have room for",
+          "explanation": "指「有（空間/地方）放得下某物」。",
+          "examples": [
+            {
+              "english": "Do you have room for another passenger in your car?",
+              "chinese": "你的車裡還有空間再坐一名乘客嗎？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s85",
+      "order": 85,
+      "englishOriginal": "I let him win a game just to be nice.",
+      "chineseTranslation": "為了展現善意，我特地讓了他一局。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s86",
+      "order": 86,
+      "englishOriginal": "Jeremy Ross knew how to throw a boomerang.",
+      "chineseTranslation": "傑瑞米·羅斯非常懂得怎麼甩迴旋鏢。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s87",
+      "order": 87,
+      "englishOriginal": "He threw it and it came right back to him.",
+      "chineseTranslation": "他丟出去後，迴旋鏢就精準地飛回了他身邊。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s88",
+      "order": 88,
+      "englishOriginal": "I threw it and it went over my house into the backyard.",
+      "chineseTranslation": "我扔出去，結果它飛過了我的房子，掉到了後院去。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s89",
+      "order": 89,
+      "englishOriginal": "And when we climbed over the fence to find it, the first thing Jeremy noticed was my treehouse.",
+      "chineseTranslation": "而當我們翻過籬笆去找鏢時，傑瑞米第一眼注意到的就是我的樹屋。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s90",
+      "order": 90,
+      "englishOriginal": "My treehouse was my treehouse.",
+      "chineseTranslation": "我的樹屋就是我獨立的私人領地。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": [
+        {
+          "id": "n5",
+          "title": "A is A",
+          "explanation": "這種重複主詞的句型（如 My treehouse was my treehouse），是用來強調「這個東西完全屬於我，主權不容侵犯/規則由我定」。",
+          "examples": [
+            {
+              "english": "My room is my room, so please knock before entering.",
+              "chinese": "我的房間就是我的私人空間，所以進來前請敲門。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s91",
+      "order": 91,
+      "englishOriginal": "I was the boss.",
+      "chineseTranslation": "在那裡我是老大。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s92",
+      "order": 92,
+      "englishOriginal": "If my sister wanted in, I didn't have to let her.",
+      "chineseTranslation": "如果我姊姊想進來，我不需要讓她進來。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p24",
+          "title": "want in",
+          "explanation": "口語簡略表達，意為「想要進來」或「想要加入」。",
+          "examples": [
+            {
+              "english": "The dog is standing by the door because he wants in.",
+              "chinese": "狗狗站在門邊，因為牠想進來。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s93",
+      "order": 93,
+      "englishOriginal": "If my dad wanted in, I didn't have to let him.",
+      "chineseTranslation": "如果我爸爸想進來，我也可以不讓他進來。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s94",
+      "order": 94,
+      "englishOriginal": "And Jeremy Ross wanted in.",
+      "chineseTranslation": "而現在傑瑞米·羅斯想進去。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s95",
+      "order": 95,
+      "englishOriginal": "\"Can we go in it?\" he asked.",
+      "chineseTranslation": "「我們能進去裡面嗎？」他問。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s96",
+      "order": 96,
+      "englishOriginal": "I knew he was going to ask me that.",
+      "chineseTranslation": "我早就知道他會問我這個問題。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s97",
+      "order": 97,
+      "englishOriginal": "But he was the top person, the only person on my enemy list, and enemies aren't allowed in my treehouse.",
+      "chineseTranslation": "但他是我敵人名單上的第一名，也是唯一的一個人，而敵人是不被允許進入我的樹屋的。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s98",
+      "order": 98,
+      "englishOriginal": "But he did teach me how to throw a boomerang, and he did have me over for lunch, and he did let me play on his trampoline.",
+      "chineseTranslation": "但他確實教了我怎麼扔迴旋鏢，也確實請我吃了午餐，還讓我玩了他的彈簧床。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p25",
+          "title": "have someone over",
+          "explanation": "指「邀請某人到家中做客/作客」。",
+          "examples": [
+            {
+              "english": "We should have the neighbors over for dinner sometime.",
+              "chinese": "我們找個時間應該請鄰居來家裡吃晚餐。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [
+        {
+          "id": "g5",
+          "title": "emphatic 'did'",
+          "explanation": "在肯定句中使用助動詞 did + 原形動詞，用來加強語氣，強調「確實、真的有做某事」。",
+          "examples": [
+            {
+              "english": "I did finish my homework before going out.",
+              "chinese": "我在出去前真的有把作業做完。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s99",
+      "order": 99,
+      "englishOriginal": "He wasn't being a very good enemy.",
+      "chineseTranslation": "他表現得實在不太像個合格的敵人。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s100",
+      "order": 100,
+      "englishOriginal": "\"Okay,\" I said, \"but hold on.\"",
+      "chineseTranslation": "「好吧，」我說，「但先等等。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p26",
+          "title": "hold on",
+          "explanation": "口語常用片語，表示「等一下、稍等」。",
+          "examples": [
+            {
+              "english": "Hold on a second, I forgot my keys.",
+              "chinese": "稍等一下，我忘了帶鑰匙。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s101",
+      "order": 101,
+      "englishOriginal": "I climbed up ahead of him and I tore the enemy list off the wall.",
+      "chineseTranslation": "我比他先爬了上去，把牆上的敵人名單給撕了下來。",
+      "vocabularyNotes": [
+        {
+          "id": "v16",
+          "title": "tear",
+          "explanation": "動詞（過去式為 tore），指「撕下、撕裂」。",
+          "examples": [
+            {
+              "english": "He tore the page out of the notebook.",
+              "chinese": "他把那頁紙從筆記本上撕了下來。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s102",
+      "order": 102,
+      "englishOriginal": "I had a checkerboard and some cards in the treehouse, and we played games until my dad called us down for dinner.",
+      "chineseTranslation": "我的樹屋裡有一副西洋跳棋和一些撲克牌，我們一直玩遊戲，直到我爸爸叫我們下樓吃晚餐。",
+      "vocabularyNotes": [
+        {
+          "id": "v17",
+          "title": "checkerboard",
+          "explanation": "名詞，指「西洋跳棋棋盤」。",
+          "examples": [
+            {
+              "english": "We set up the checkerboard on the coffee table.",
+              "chinese": "我們在茶幾上擺好了西洋跳棋盤。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s103",
+      "order": 103,
+      "englishOriginal": "We pretended we didn't hear him, but when he came out to get us, we tried to hide from him, but somehow he found us.",
+      "chineseTranslation": "我們假裝沒聽到，但當他出來叫我們時，我們試圖躲起來，不知怎的還是被他找到了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s104",
+      "order": 104,
+      "englishOriginal": "Dad made us macaroni and cheese for dinner, my favorite.",
+      "chineseTranslation": "爸爸晚餐做了起司通心麵給我們吃，那可是我的最愛。",
+      "vocabularyNotes": [
+        {
+          "id": "v18",
+          "title": "macaroni",
+          "explanation": "名詞，指「通心粉、通心麵」。",
+          "examples": [
+            {
+              "english": "Macaroni and cheese is a classic comfort food.",
+              "chinese": "起司通心麵是一道經典的美式療癒美食。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s105",
+      "order": 105,
+      "englishOriginal": "It was Jeremy's favorite too.",
+      "chineseTranslation": "巧的是，那也是傑瑞米的最愛。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s106",
+      "order": 106,
+      "englishOriginal": "Maybe Jeremy Ross wasn't so bad after all.",
+      "chineseTranslation": "也許傑瑞米·羅斯終究也沒那麼壞嘛。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s107",
+      "order": 107,
+      "englishOriginal": "I was beginning to think that maybe we should just forget about the Enemy Pie.",
+      "chineseTranslation": "我開始覺得，也許我們乾脆直接忘掉敵人派這回事算了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s108",
+      "order": 108,
+      "englishOriginal": "But sure enough, after dinner, Dad brought out the pie.",
+      "chineseTranslation": "但果然，晚餐過後，爸爸端出了那個派。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p27",
+          "title": "sure enough",
+          "explanation": "副詞片語，意為「不出所料、果然」。",
+          "examples": [
+            {
+              "english": "I thought it would rain, and sure enough, it started pouring.",
+              "chinese": "我以為會下雨，果不其然，開始下起了傾盆大雨。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s109",
+      "order": 109,
+      "englishOriginal": "And I watched as he cut it into eight thick slices.",
+      "chineseTranslation": "我眼睜睜地看著他把派切成了八大塊切片。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s110",
+      "order": 110,
+      "englishOriginal": "\"Dad,\" I said, \"it sure is nice to have a new friend in the neighborhood.\"",
+      "chineseTranslation": "「爸爸，」我說，「社區裡能有一個新朋友真的挺不錯的。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s111",
+      "order": 111,
+      "englishOriginal": "I was trying to get his attention and trying to tell him that Jeremy Ross was no longer my enemy.",
+      "chineseTranslation": "我試圖引起他的注意，並試著告訴他傑瑞米·羅斯已經不再是我的敵人了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p28",
+          "title": "no longer",
+          "explanation": "意為「不再……」。",
+          "examples": [
+            {
+              "english": "He no longer lives in this town.",
+              "chinese": "他不再住在這個鎮上了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s112",
+      "order": 112,
+      "englishOriginal": "But Dad only smiled and nodded.",
+      "chineseTranslation": "但爸爸只是笑了笑，點了點頭。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s113",
+      "order": 113,
+      "englishOriginal": "I think he thought I was just pretending.",
+      "chineseTranslation": "我想他以為我只是在配合裝裝樣子而已。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s114",
+      "order": 114,
+      "englishOriginal": "Dad dished up three plates side by side with big pieces of pie and giant scoops of ice cream.",
+      "chineseTranslation": "爸爸盛好了三盤派排在一起，上面放著大塊的派和巨型球冰淇淋。",
+      "vocabularyNotes": [
+        {
+          "id": "v19",
+          "title": "scoop",
+          "explanation": "名詞，指「（冰淇淋等的）一勺/一球」。",
+          "examples": [
+            {
+              "english": "I'd like two scoops of chocolate ice cream, please.",
+              "chinese": "請給我兩球巧克力冰淇淋。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p29",
+          "title": "dish up",
+          "explanation": "指「盛盤、分發（食物）」。",
+          "examples": [
+            {
+              "english": "Mom is dishing up the soup for dinner.",
+              "chinese": "媽媽正在盛湯準備吃晚餐。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s115",
+      "order": 115,
+      "englishOriginal": "And he passed one to me and one to Jeremy.",
+      "chineseTranslation": "接著他遞了一盤給我，一盤給傑瑞米。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s116",
+      "order": 116,
+      "englishOriginal": "\"Wow,\" Jeremy said, looking at the pie.",
+      "chineseTranslation": "「哇，」傑瑞米看著派驚嘆道。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s117",
+      "order": 117,
+      "englishOriginal": "\"My dad never makes pie like this.\"",
+      "chineseTranslation": "「我爸爸從來沒做過這種派。」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s118",
+      "order": 118,
+      "englishOriginal": "It was at this point that I panicked.",
+      "chineseTranslation": "就在這個當口，我陷入了恐慌。",
+      "vocabularyNotes": [
+        {
+          "id": "v20",
+          "title": "panic",
+          "explanation": "動詞，指「恐慌、驚慌失措」。",
+          "examples": [
+            {
+              "english": "Don't panic! Everything will be fine.",
+              "chinese": "別驚慌！一切都會沒事的。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s119",
+      "order": 119,
+      "englishOriginal": "I didn't want Jeremy to eat Enemy Pie.",
+      "chineseTranslation": "我不希望傑瑞米吃下敵人派。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s120",
+      "order": 120,
+      "englishOriginal": "He was my friend.",
+      "chineseTranslation": "他是我的朋友啊。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s121",
+      "order": 121,
+      "englishOriginal": "I couldn't let him eat it.",
+      "chineseTranslation": "我絕不能讓他吃下去。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s122",
+      "order": 122,
+      "englishOriginal": "\"Jeremy, don't eat it! It's bad pie! I think it's poisonous or something!\"",
+      "chineseTranslation": "「傑瑞米，別吃！那是個壞派！我覺得裡面有毒還是什麼的！」",
+      "vocabularyNotes": [
+        {
+          "id": "v21",
+          "title": "poisonous",
+          "explanation": "形容詞，指「有毒的」。",
+          "examples": [
+            {
+              "english": "Some wild mushrooms are extremely poisonous.",
+              "chinese": "某些野生蘑菇含有劇毒。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s123",
+      "order": 123,
+      "englishOriginal": "And Jeremy's fork stopped before reaching his mouth.",
+      "chineseTranslation": "傑瑞米的叉子在碰到嘴巴前硬生生地停住了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s124",
+      "order": 124,
+      "englishOriginal": "And he crumpled his eyebrows, and he looked at me funny.",
+      "chineseTranslation": "他皺起眉頭，用怪異的眼神看著我。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p30",
+          "title": "look at someone funny",
+          "explanation": "口語表達，指「用怪異/疑惑的目光看著某人」。",
+          "examples": [
+            {
+              "english": "Why is everyone looking at me funny?",
+              "chinese": "為什麼大家都要用怪異的眼神看著我？"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s125",
+      "order": 125,
+      "englishOriginal": "I felt so relieved.",
+      "chineseTranslation": "我感到無比的鬆了一口氣。",
+      "vocabularyNotes": [
+        {
+          "id": "v22",
+          "title": "relieved",
+          "explanation": "形容詞，指「感到寬慰的、放心的」。",
+          "examples": [
+            {
+              "english": "She was relieved to hear that her family was safe.",
+              "chinese": "得知家人平安無事後，她鬆了一口氣。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s126",
+      "order": 126,
+      "englishOriginal": "I had saved his life.",
+      "chineseTranslation": "我救了他的命。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s127",
+      "order": 127,
+      "englishOriginal": "I was a hero.",
+      "chineseTranslation": "我是個英雄。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s128",
+      "order": 128,
+      "englishOriginal": "\"Well, if it's so bad,\" Jeremy asked, \"then why is your dad already eating half of it?\"",
+      "chineseTranslation": "「嗯，如果真有那麼糟糕的話，」傑瑞米問道，「那為什麼你爸爸已經吃掉半個了？」",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s129",
+      "order": 129,
+      "englishOriginal": "Well, I turned to look at my dad.",
+      "chineseTranslation": "嗯，我轉頭看向我爸爸。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s130",
+      "order": 130,
+      "englishOriginal": "Sure enough, he was eating Enemy Pie.",
+      "chineseTranslation": "果不其然，他正在大口大口地吃著敵人派。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s131",
+      "order": 131,
+      "englishOriginal": "\"Good stuff,\" he mumbled through a mouthful.",
+      "chineseTranslation": "「真是好東西，」他嘴裡塞滿派，含糊不清地嘟囔著。",
+      "vocabularyNotes": [
+        {
+          "id": "v23",
+          "title": "mumble",
+          "explanation": "動詞，指「咕噥、含糊不清地說話」。",
+          "examples": [
+            {
+              "english": "He mumbled an apology and walked away.",
+              "chinese": "他含糊地道了個歉便走開了。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [
+        {
+          "id": "p31",
+          "title": "through a mouthful",
+          "explanation": "形容嘴裡塞滿食物時邊吃邊說話的樣子。",
+          "examples": [
+            {
+              "english": "Don't try to talk through a mouthful of food.",
+              "chinese": "嘴裡塞滿食物時不要試圖說話。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s132",
+      "order": 132,
+      "englishOriginal": "And that was all he said.",
+      "chineseTranslation": "這就是他所說的全部分了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s133",
+      "order": 133,
+      "englishOriginal": "And I sat there watching him eating Enemy Pie for a few seconds.",
+      "chineseTranslation": "我就坐在那裡看著他吃了幾秒鐘的敵人派。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s134",
+      "order": 134,
+      "englishOriginal": "Dad was laughing, Jeremy was happily eating, and neither of them was losing any hair.",
+      "chineseTranslation": "爸爸笑得開心，傑瑞米也吃得很歡，而且他們兩個誰都沒有掉頭髮。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [
+        {
+          "id": "g6",
+          "title": "neither of + plural noun",
+          "explanation": "「neither of + 複數名詞」表示「兩者皆不」，文法上通常搭配單數動詞（如 was）。",
+          "examples": [
+            {
+              "english": "Neither of my brothers was at the party.",
+              "chinese": "我的兩個兄弟當時都沒在派對上。"
+            }
+          ]
+        }
+      ],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s135",
+      "order": 135,
+      "englishOriginal": "It seemed safe enough, so I took a tiny taste.",
+      "chineseTranslation": "看起來似乎夠安全，所以我輕輕嘗了一小口。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s136",
+      "order": 136,
+      "englishOriginal": "Enemy Pie was delicious.",
+      "chineseTranslation": "敵人派簡直美味極了。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s137",
+      "order": 137,
+      "englishOriginal": "After dessert, Jeremy rode his bike home, but not before inviting me over to play on his trampoline in the morning.",
+      "chineseTranslation": "甜點過後，傑瑞米騎著自行車回家了，但在走之前他不忘邀請我明早去他家玩彈簧床。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p32",
+          "title": "but not before",
+          "explanation": "用於描述兩件事時，表示「但在做完某事之後才……/在做某事之前先完成了另一件事」。",
+          "examples": [
+            {
+              "english": "He left the office, but not before finishing all his report work.",
+              "chinese": "他離開了辦公室，但在離開前先把所有的報告工作都處理完了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s138",
+      "order": 138,
+      "englishOriginal": "He said he was going to teach me how to flip.",
+      "chineseTranslation": "他說他打算教我怎麼做空翻。",
+      "vocabularyNotes": [
+        {
+          "id": "v24",
+          "title": "flip",
+          "explanation": "名詞/動詞，在彈簧床的情境中指「空翻（動作）」。",
+          "examples": [
+            {
+              "english": "He did a back flip into the swimming pool.",
+              "chinese": "他向後空翻跳進了游泳池。"
+            }
+          ]
+        }
+      ],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s139",
+      "order": 139,
+      "englishOriginal": "As for Enemy Pie, I still don't know how to make it.",
+      "chineseTranslation": "至於敵人派嘛，我到現在依然不知道該怎麼做。",
+      "vocabularyNotes": [],
+      "phraseNotes": [
+        {
+          "id": "p33",
+          "title": "as for",
+          "explanation": "介詞片語，意為「至於、關於」。",
+          "examples": [
+            {
+              "english": "As for the money, don't worry about it.",
+              "chinese": "至於錢的事情，你就別擔心了。"
+            }
+          ]
+        }
+      ],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s140",
+      "order": 140,
+      "englishOriginal": "I still wonder if enemies really do hate it, or if their hair falls out or their breath turns bad.",
+      "chineseTranslation": "我依然很好奇敵人是否真的會討厭它，或者他們的頭髮是否真的會掉光、口氣是否會變臭。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    },
+    {
+      "id": "s141",
+      "order": 141,
+      "englishOriginal": "I don't know if I'll ever get an answer, because I just lost my best enemy.",
+      "chineseTranslation": "我不知道我是否能找到答案，因為我剛剛才失去了我最好的敵人。",
+      "vocabularyNotes": [],
+      "phraseNotes": [],
+      "grammarNotes": [],
+      "nativeExpressionNotes": []
+    }
+  ]
+}
